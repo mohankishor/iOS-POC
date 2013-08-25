@@ -1,0 +1,256 @@
+TToolBarSample
+v7
+r0
+t307976848.613634
+cCheck dependencies
+cProcessInfoPlistFile /Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app/Info.plist ToolBarSample-Info.plist
+cCompileXIB /Users/reshma/Desktop/ToolBarSample/MainWindow.xib
+cCompileXIB /Users/reshma/Desktop/ToolBarSample/ToolBarSampleViewController.xib
+cProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToolBarSample_Prefix-dtsnhpsmqzbsbteyelffcspauqgj/ToolBarSample_Prefix.pch.gch ToolBarSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/Objects-normal/i386/main.o /Users/reshma/Desktop/ToolBarSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/Objects-normal/i386/ToolBarSampleAppDelegate.o /Users/reshma/Desktop/ToolBarSample/Classes/ToolBarSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/Objects-normal/i386/ToolBarSampleViewController.o /Users/reshma/Desktop/ToolBarSample/Classes/ToolBarSampleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app/ToolBarSample normal i386
+cGenerateDSYMFile /Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app.dSYM /Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app/ToolBarSample
+cTouch /Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/reshma/Desktop/ToolBarSample/Classes/ToolBarSampleAppDelegate.h
+c000000004C774D08000000000000020A
+t1282886920
+s522
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/ToolBarSample/Classes/ToolBarSampleAppDelegate.m
+c000000004C774D0800000000000002C8
+t1282886920
+s712
+i"ToolBarSampleAppDelegate.h"
+i"ToolBarSampleViewController.h"
+
+N/Users/reshma/Desktop/ToolBarSample/Classes/ToolBarSampleViewController.h
+c000000004C7756DB0000000000000136
+t1282889435
+s310
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/ToolBarSample/Classes/ToolBarSampleViewController.m
+c000000004C775BA900000000000009E1
+t1282890665
+s2529
+i"ToolBarSampleViewController.h"
+
+N/Users/reshma/Desktop/ToolBarSample/MainWindow.xib
+c000000004C774D08000000000000268E
+t1282886920
+s9870
+
+N/Users/reshma/Desktop/ToolBarSample/ToolBarSampleViewController.xib
+c000000004C774D080000000000001A5D
+t1282886920
+s6749
+
+N/Users/reshma/Desktop/ToolBarSample/ToolBarSample_Prefix.pch
+c000000004C774D0800000000000000C3
+t1282886920
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app
+t1286284040
+s238
+
+N/Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app.dSYM
+t1286284039
+s102
+
+N/Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app/Info.plist
+t1282887151
+s617
+
+N/Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app/MainWindow.nib
+t1282887152
+s1522
+
+N/Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app/PkgInfo
+t1282887151
+s8
+
+N/Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app/ToolBarSample
+t1286284039
+s20724
+
+N/Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app/ToolBarSampleViewController.nib
+t1282887152
+s1151
+
+N/Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/Objects-normal/i386/ToolBarSample.LinkFileList
+c000000004C774DEF00000000000001B4
+t1282887151
+s436
+
+N/Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/Objects-normal/i386/ToolBarSampleAppDelegate.o
+t1286284039
+s38896
+
+N/Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/Objects-normal/i386/ToolBarSampleViewController.o
+t1286284039
+s36060
+
+N/Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/Objects-normal/i386/main.o
+t1286284039
+s5944
+
+N/Users/reshma/Desktop/ToolBarSample/main.m
+c000000004C774D080000000000000176
+t1282886920
+s374
+i<UIKit/UIKit.h>
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToolBarSample_Prefix-dtsnhpsmqzbsbteyelffcspauqgj/ToolBarSample_Prefix.pch.gch
+t1286284039
+s13026768
+
+NToolBarSample-Info.plist
+c000000004C774D08000000000000038D
+t1282886920
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies307976848#307976848#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/Objects-normal/i386/ToolBarSampleAppDelegate.o /Users/reshma/Desktop/ToolBarSample/Classes/ToolBarSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307976839.798468
+e307976839.908261
+r1
+xCompileC
+xbuild/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/Objects-normal/i386/ToolBarSampleAppDelegate.o
+x/Users/reshma/Desktop/ToolBarSample/Classes/ToolBarSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/reshma/Desktop/ToolBarSample/Classes/ToolBarSampleAppDelegate.m307976839#307976839#0(0"0(0#0#70"/Users/reshma/Desktop/ToolBarSample/Classes/ToolBarSampleAppDelegate.m4300911832#1994"    cd /Users/reshma/Desktop/ToolBarSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/ToolBarSample-generated-files.hmap -I/Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/ToolBarSample-own-target-headers.hmap -I/Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/ToolBarSample-all-target-headers.hmap -iquote /Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/ToolBarSample-project-headers.hmap -F/Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator -I/Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/DerivedSources/i386 -I/Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToolBarSample_Prefix-dtsnhpsmqzbsbteyelffcspauqgj/ToolBarSample_Prefix.pch -c /Users/reshma/Desktop/ToolBarSample/Classes/ToolBarSampleAppDelegate.m -o /Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/Objects-normal/i386/ToolBarSampleAppDelegate.o0#
+
+CCompileC build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/Objects-normal/i386/ToolBarSampleViewController.o /Users/reshma/Desktop/ToolBarSample/Classes/ToolBarSampleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307976839.855920
+e307976839.932116
+r1
+xCompileC
+xbuild/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/Objects-normal/i386/ToolBarSampleViewController.o
+x/Users/reshma/Desktop/ToolBarSample/Classes/ToolBarSampleViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/reshma/Desktop/ToolBarSample/Classes/ToolBarSampleViewController.m307976839#307976839#0(0"0(0#0#73"/Users/reshma/Desktop/ToolBarSample/Classes/ToolBarSampleViewController.m4300911832#2000"    cd /Users/reshma/Desktop/ToolBarSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/ToolBarSample-generated-files.hmap -I/Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/ToolBarSample-own-target-headers.hmap -I/Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/ToolBarSample-all-target-headers.hmap -iquote /Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/ToolBarSample-project-headers.hmap -F/Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator -I/Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/DerivedSources/i386 -I/Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToolBarSample_Prefix-dtsnhpsmqzbsbteyelffcspauqgj/ToolBarSample_Prefix.pch -c /Users/reshma/Desktop/ToolBarSample/Classes/ToolBarSampleViewController.m -o /Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/Objects-normal/i386/ToolBarSampleViewController.o0#
+
+CCompileC build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/Objects-normal/i386/main.o /Users/reshma/Desktop/ToolBarSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307976839.772850
+e307976839.855813
+r1
+xCompileC
+xbuild/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/Objects-normal/i386/main.o
+x/Users/reshma/Desktop/ToolBarSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/reshma/Desktop/ToolBarSample/main.m307976839#307976839#0(0"0(0#0#42"/Users/reshma/Desktop/ToolBarSample/main.m4300911832#1946"    cd /Users/reshma/Desktop/ToolBarSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/ToolBarSample-generated-files.hmap -I/Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/ToolBarSample-own-target-headers.hmap -I/Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/ToolBarSample-all-target-headers.hmap -iquote /Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/ToolBarSample-project-headers.hmap -F/Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator -I/Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/DerivedSources/i386 -I/Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToolBarSample_Prefix-dtsnhpsmqzbsbteyelffcspauqgj/ToolBarSample_Prefix.pch -c /Users/reshma/Desktop/ToolBarSample/main.m -o /Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/reshma/Desktop/ToolBarSample/MainWindow.xib
+s304579951.813831
+e304579952.210548
+r1
+xCompileXIB
+x/Users/reshma/Desktop/ToolBarSample/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib304579951#304579952#0(0"0(0#0#50"/Users/reshma/Desktop/ToolBarSample/MainWindow.xib4300911832#479"    cd /Users/reshma/Desktop/ToolBarSample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app/MainWindow.nib /Users/reshma/Desktop/ToolBarSample/MainWindow.xib0#
+
+CCompileXIB /Users/reshma/Desktop/ToolBarSample/ToolBarSampleViewController.xib
+s304579951.815346
+e304579952.172766
+r1
+xCompileXIB
+x/Users/reshma/Desktop/ToolBarSample/ToolBarSampleViewController.xib
+lSLF07#2@42"CompileXIB ToolBarSampleViewController.xib304579951#304579952#0(0"0(0#0#67"/Users/reshma/Desktop/ToolBarSample/ToolBarSampleViewController.xib4300911832#513"    cd /Users/reshma/Desktop/ToolBarSample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app/ToolBarSampleViewController.nib /Users/reshma/Desktop/ToolBarSample/ToolBarSampleViewController.xib0#
+
+CGenerateDSYMFile /Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app.dSYM /Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app/ToolBarSample
+s307976839.950760
+e307976840.045038
+r1
+xGenerateDSYMFile
+x/Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app.dSYM
+x/Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app/ToolBarSample
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/ToolBarSample.app.dSYM build/Debug-iphonesimulator/ToolBarSample.app/ToolBarSample307976839#307976840#0(0"0(0#0#95"/Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app/ToolBarSample4300911832#392"    cd /Users/reshma/Desktop/ToolBarSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app/ToolBarSample -o /Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app.dSYM0#
+
+CLd /Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app/ToolBarSample normal i386
+s307976839.932216
+e307976839.950639
+r1
+xLd
+x/Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app/ToolBarSample
+xnormal
+xi386
+lSLF07#2@100"Link /Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app/ToolBarSample307976839#307976839#0(0"0(0#0#0"4300911832#879"    cd /Users/reshma/Desktop/ToolBarSample    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator -F/Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator -filelist /Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/Objects-normal/i386/ToolBarSample.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app/ToolBarSample0#
+
+CProcessInfoPlistFile /Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app/Info.plist ToolBarSample-Info.plist
+s304579951.786730
+e304579951.813745
+r1
+xProcessInfoPlistFile
+x/Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app/Info.plist
+xToolBarSample-Info.plist
+lSLF07#2@32"Process ToolBarSample-Info.plist304579951#304579951#0(0"0(0#0#60"/Users/reshma/Desktop/ToolBarSample/ToolBarSample-Info.plist4300911832#488"    cd /Users/reshma/Desktop/ToolBarSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ToolBarSample-Info.plist -genpkginfo /Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app/Info.plist0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToolBarSample_Prefix-dtsnhpsmqzbsbteyelffcspauqgj/ToolBarSample_Prefix.pch.gch ToolBarSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s307976839.023985
+e307976839.772691
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToolBarSample_Prefix-dtsnhpsmqzbsbteyelffcspauqgj/ToolBarSample_Prefix.pch.gch
+xToolBarSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile ToolBarSample_Prefix.pch307976839#307976839#0(0"0(0#0#60"/Users/reshma/Desktop/ToolBarSample/ToolBarSample_Prefix.pch4300911832#1835"    cd /Users/reshma/Desktop/ToolBarSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/ToolBarSample-generated-files.hmap -I/Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/ToolBarSample-own-target-headers.hmap -I/Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/ToolBarSample-all-target-headers.hmap -iquote /Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/ToolBarSample-project-headers.hmap -F/Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator -I/Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/DerivedSources/i386 -I/Users/reshma/Desktop/ToolBarSample/build/ToolBarSample.build/Debug-iphonesimulator/ToolBarSample.build/DerivedSources -c /Users/reshma/Desktop/ToolBarSample/ToolBarSample_Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToolBarSample_Prefix-dtsnhpsmqzbsbteyelffcspauqgj/ToolBarSample_Prefix.pch.gch0#
+
+CTouch /Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app
+s307976840.045116
+e307976840.047602
+r1
+xTouch
+x/Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app
+lSLF07#2@87"Touch /Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app307976840#307976840#0(0"0(0#0#0"4300911832#278"    cd /Users/reshma/Desktop/ToolBarSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/reshma/Desktop/ToolBarSample/build/Debug-iphonesimulator/ToolBarSample.app0#
+

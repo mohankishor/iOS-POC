@@ -1,0 +1,246 @@
+// !$*UTF8*$!
+{
+	199DDCD51247891B00818ECD /* ImageOverlay.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1593, 921}}";
+			sepNavSelRange = "{377, 0}";
+			sepNavVisRange = "{0, 524}";
+		};
+	};
+	199DDCD61247891B00818ECD /* ImageOverlay.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1593, 1360}}";
+			sepNavSelRange = "{889, 0}";
+			sepNavVisRange = "{0, 2188}";
+		};
+	};
+	19A99C881250C24C0007E250 /* CustomAlertView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1593, 921}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 516}";
+		};
+	};
+	19A99C891250C24C0007E250 /* CustomAlertView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1593, 2528}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{3026, 1784}";
+		};
+	};
+	1D3623240D0F684500981E51 /* TryOnWatchAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1593, 921}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 506}";
+		};
+	};
+	1D3623250D0F684500981E51 /* TryOnWatchAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1424}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2162}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* TryOnWatch */ = {
+		activeExec = 0;
+		executables = (
+			CCEB47941251F0D500AE0516 /* TryOnWatch */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* TryOnWatchViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1593, 921}}";
+			sepNavSelRange = "{474, 217}";
+			sepNavVisRange = "{0, 701}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* TryOnWatchViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1593, 2256}}";
+			sepNavSelRange = "{1536, 0}";
+			sepNavVisRange = "{3370, 1201}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = CCEB47941251F0D500AE0516 /* TryOnWatch */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TryOnWatch */;
+		codeSenseManager = CCEB479D1251F0F600AE0516 /* Code sense */;
+		executables = (
+			CCEB47941251F0D500AE0516 /* TryOnWatch */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 307427470;
+			PBXWorkspaceStateSaveDate = 307427470;
+		};
+		perUserProjectItems = {
+			CCEB47B41252337100AE0516 = CCEB47B41252337100AE0516 /* PBXTextBookmark */;
+			CCEB47B51252337100AE0516 = CCEB47B51252337100AE0516 /* PBXTextBookmark */;
+			CCEB47B61252337100AE0516 = CCEB47B61252337100AE0516 /* PBXTextBookmark */;
+			CCEB47B71252337100AE0516 = CCEB47B71252337100AE0516 /* PBXTextBookmark */;
+			CCEB47B81252337100AE0516 = CCEB47B81252337100AE0516 /* PBXTextBookmark */;
+			CCEB47B91252337100AE0516 = CCEB47B91252337100AE0516 /* PBXTextBookmark */;
+			CCEB47BA1252337100AE0516 = CCEB47BA1252337100AE0516 /* PBXTextBookmark */;
+			CCEB47BB1252337100AE0516 = CCEB47BB1252337100AE0516 /* PBXTextBookmark */;
+			CCEB47BC1252337100AE0516 = CCEB47BC1252337100AE0516 /* PBXTextBookmark */;
+		};
+		sourceControlManager = CCEB479C1251F0F600AE0516 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	CCEB47941251F0D500AE0516 /* TryOnWatch */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TryOnWatch;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	CCEB479C1251F0F600AE0516 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	CCEB479D1251F0F600AE0516 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	CCEB47B41252337100AE0516 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 199DDCD51247891B00818ECD /* ImageOverlay.h */;
+		name = "ImageOverlay.h: 21";
+		rLen = 0;
+		rLoc = 377;
+		rType = 0;
+		vrLen = 524;
+		vrLoc = 0;
+	};
+	CCEB47B51252337100AE0516 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 19A99C881250C24C0007E250 /* CustomAlertView.h */;
+		name = "CustomAlertView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 516;
+		vrLoc = 0;
+	};
+	CCEB47B61252337100AE0516 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 19A99C891250C24C0007E250 /* CustomAlertView.m */;
+		name = "CustomAlertView.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1784;
+		vrLoc = 3026;
+	};
+	CCEB47B71252337100AE0516 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 199DDCD61247891B00818ECD /* ImageOverlay.m */;
+		name = "ImageOverlay.m: 24";
+		rLen = 0;
+		rLoc = 889;
+		rType = 0;
+		vrLen = 2188;
+		vrLoc = 0;
+	};
+	CCEB47B81252337100AE0516 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* TryOnWatchAppDelegate.h */;
+		name = "TryOnWatchAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 506;
+		vrLoc = 0;
+	};
+	CCEB47B91252337100AE0516 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TryOnWatchAppDelegate.m */;
+		name = "TryOnWatchAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2162;
+		vrLoc = 0;
+	};
+	CCEB47BA1252337100AE0516 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TryOnWatchViewController.h */;
+		name = "TryOnWatchViewController.h: 20";
+		rLen = 217;
+		rLoc = 474;
+		rType = 0;
+		vrLen = 701;
+		vrLoc = 0;
+	};
+	CCEB47BB1252337100AE0516 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TryOnWatchViewController.m */;
+		name = "TryOnWatchViewController.m: 141";
+		rLen = 0;
+		rLoc = 4571;
+		rType = 0;
+		vrLen = 1202;
+		vrLoc = 3369;
+	};
+	CCEB47BC1252337100AE0516 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TryOnWatchViewController.m */;
+		name = "TryOnWatchViewController.m: 44";
+		rLen = 0;
+		rLoc = 1536;
+		rType = 0;
+		vrLen = 2325;
+		vrLoc = 0;
+	};
+}

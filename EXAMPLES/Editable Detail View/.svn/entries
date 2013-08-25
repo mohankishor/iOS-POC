@@ -1,0 +1,73 @@
+8
+
+dir
+59
+svn+ssh://jlehr@aboutobjects01.managed.contegix.com/home/svnroot/repos/AOI-Examples/trunk/AOI-Examples/Editable%20Detail%20View
+svn+ssh://jlehr@aboutobjects01.managed.contegix.com/home/svnroot/repos
+
+
+
+2009-07-02T14:12:56.592671Z
+58
+jlehr
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+bdc52444-c730-0410-be90-896b2cc35508
+
+main.m
+file
+
+
+
+
+2009-07-02T14:15:44.000000Z
+94757eb59384c84a1b0ee2c139ba639e
+2009-07-02T14:12:56.592671Z
+58
+jlehr
+has-props
+
+Editable Detail View.xcodeproj
+dir
+
+Info.plist
+file
+75
+
+
+
+2009-07-08T00:23:35.000000Z
+a963e649980762b897aae7864f8a56b5
+2009-07-08T00:27:21.682515Z
+75
+jlehr
+has-props
+
+Editable_Detail_View_Prefix.pch
+file
+
+
+
+
+2009-07-02T14:15:44.000000Z
+5f08b4ab582bc98d967f1f44042b0392
+2009-07-02T14:12:56.592671Z
+58
+jlehr
+has-props
+
+Classes
+dir
+

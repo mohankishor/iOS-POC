@@ -1,0 +1,1416 @@
+TNavBar
+v7
+r0
+t334646088.567922
+cCheck dependencies
+cProcessInfoPlistFile /Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/Info.plist Info.plist
+cCpResource build/Debug-iphonesimulator/NavBar.app/down.png images/down.png
+cCpResource build/Debug-iphonesimulator/NavBar.app/up.png images/up.png
+cCpResource build/Debug-iphonesimulator/NavBar.app/Page2.png images/Page2.png
+cCpResource build/Debug-iphonesimulator/NavBar.app/Page4.png images/Page4.png
+cCpResource build/Debug-iphonesimulator/NavBar.app/Page3.png images/Page3.png
+cCpResource build/Debug-iphonesimulator/NavBar.app/Page1.png images/Page1.png
+cCompileXIB /Developer/Examples/iPhone/NavBar/en.lproj/PageThreeViewController.xib
+cCompileXIB /Developer/Examples/iPhone/NavBar/en.lproj/PageFiveViewController.xib
+cCompileXIB /Developer/Examples/iPhone/NavBar/en.lproj/PageFourViewController.xib
+cCompileXIB /Developer/Examples/iPhone/NavBar/en.lproj/MainWindow.xib
+cCompileXIB /Developer/Examples/iPhone/NavBar/en.lproj/PageOneViewController.xib
+cCompileXIB /Developer/Examples/iPhone/NavBar/en.lproj/PageTwoViewController.xib
+cCopyStringsFile /Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+cCopyStringsFile /Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
+cCompileXIB /Developer/Examples/iPhone/NavBar/en.lproj/ModalViewController.xib
+cCpResource build/Debug-iphonesimulator/NavBar.app/email.png images/email.png
+cCpResource build/Debug-iphonesimulator/NavBar.app/Default.png images/Default.png
+cCpResource build/Debug-iphonesimulator/NavBar.app/Icon-72.png images/Icon-72.png
+cCpResource build/Debug-iphonesimulator/NavBar.app/Icon-Small-50.png images/Icon-Small-50.png
+cCpResource build/Debug-iphonesimulator/NavBar.app/Icon-Small.png images/Icon-Small.png
+cCpResource build/Debug-iphonesimulator/NavBar.app/Icon-Small@2x.png images/Icon-Small@2x.png
+cCpResource build/Debug-iphonesimulator/NavBar.app/Icon.png images/Icon.png
+cCpResource build/Debug-iphonesimulator/NavBar.app/Icon@2x.png images/Icon@2x.png
+cCpResource build/Debug-iphonesimulator/NavBar.app/iTunesArtwork images/iTunesArtwork
+cProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-eikqdfgkdyegmrdqrbgwdreychmc/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/main.o /Developer/Examples/iPhone/NavBar/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageTwoViewController.o /Developer/Examples/iPhone/NavBar/PageTwoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageOneViewController.o /Developer/Examples/iPhone/NavBar/PageOneViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/AppDelegate.o /Developer/Examples/iPhone/NavBar/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageThreeViewController.o /Developer/Examples/iPhone/NavBar/PageThreeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/MainViewController.o /Developer/Examples/iPhone/NavBar/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageFourViewController.o /Developer/Examples/iPhone/NavBar/PageFourViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageFiveViewController.o /Developer/Examples/iPhone/NavBar/PageFiveViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/ModalViewController.o /Developer/Examples/iPhone/NavBar/ModalViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar normal i386
+cGenerateDSYMFile /Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app.dSYM /Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar
+cTouch /Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app
+
+N/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BFE6F280000000000000110
+t1274965800
+s272
+
+N/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004B9F1CD300000000001EF9B0
+t1268718803
+s2030000
+
+N/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AB3000000000026F020
+t1268791987
+s2551840
+
+N/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F1DE40000000000289C20
+t1268719076
+s2661408
+
+N/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BA6CB31000000000214E400
+t1269222193
+s34923520
+
+N/Developer/Examples/iPhone/NavBar/AppDelegate.m
+c000000004C227A0A0000000000000B5F
+t1277327882
+s2911
+
+N/Developer/Examples/iPhone/NavBar/MainViewController.m
+c000000004C227A0A000000000000244B
+t1277327882
+s9291
+
+N/Developer/Examples/iPhone/NavBar/ModalViewController.m
+c000000004C227A0A0000000000000E5E
+t1277327882
+s3678
+
+N/Developer/Examples/iPhone/NavBar/PageFiveViewController.m
+c000000004C227A0A0000000000001234
+t1277327882
+s4660
+
+N/Developer/Examples/iPhone/NavBar/PageFourViewController.m
+c000000004C227A0A00000000000011E0
+t1277327882
+s4576
+
+N/Developer/Examples/iPhone/NavBar/PageOneViewController.m
+c000000004C227A0A0000000000000CFE
+t1277327882
+s3326
+
+N/Developer/Examples/iPhone/NavBar/PageThreeViewController.m
+c000000004C227A0A00000000000011E7
+t1277327882
+s4583
+
+N/Developer/Examples/iPhone/NavBar/PageTwoViewController.m
+c000000004C227A0A0000000000000CDE
+t1277327882
+s3294
+
+N/Developer/Examples/iPhone/NavBar/Prefix.pch
+c0000000049FB54F40000000000000058
+t1241208052
+s88
+
+N/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app
+t1312953288
+s714
+
+N/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app.dSYM
+t1312953288
+s102
+
+N/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/Default.png
+t1292330426
+s7494
+
+N/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/Icon-72.png
+t1292330426
+s1063
+
+N/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/Icon-Small-50.png
+t1292330426
+s992
+
+N/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/Icon-Small.png
+t1292330426
+s918
+
+N/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/Icon-Small@2x.png
+t1292330426
+s1010
+
+N/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/Icon.png
+t1292330426
+s1007
+
+N/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/Icon@2x.png
+t1292330426
+s1252
+
+N/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/Info.plist
+t1292330425
+s766
+
+N/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar
+t1312953288
+s45444
+
+N/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/Page1.png
+t1292330425
+s3242
+
+N/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/Page2.png
+t1292330425
+s3857
+
+N/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/Page3.png
+t1292330425
+s5331
+
+N/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/Page4.png
+t1292330425
+s2813
+
+N/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/PkgInfo
+t1292330425
+s8
+
+N/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/down.png
+t1292330425
+s329
+
+N/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/email.png
+t1292330426
+s404
+
+N/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/InfoPlist.strings
+t1292330426
+s209
+
+N/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/Localizable.strings
+t1292330426
+s597
+
+N/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/MainWindow.nib
+t1292330426
+s2041
+
+N/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/ModalViewController.nib
+t1292330427
+s2138
+
+N/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/PageFiveViewController.nib
+t1292330425
+s1046
+
+N/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/PageFourViewController.nib
+t1292330426
+s1046
+
+N/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/PageOneViewController.nib
+t1292330426
+s1046
+
+N/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/PageThreeViewController.nib
+t1292330425
+s1046
+
+N/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/PageTwoViewController.nib
+t1292330426
+s1046
+
+N/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/iTunesArtwork
+t1292330426
+s5188
+
+N/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/up.png
+t1292330425
+s441
+
+N/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/AppDelegate.o
+t1312953287
+s43944
+
+N/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/MainViewController.o
+t1312953288
+s65364
+
+N/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/ModalViewController.o
+t1312953288
+s39328
+
+N/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/NavBar.LinkFileList
+c000000004E4213C50000000000000488
+t1312953285
+s1160
+
+N/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageFiveViewController.o
+t1312953288
+s41724
+
+N/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageFourViewController.o
+t1312953288
+s41344
+
+N/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageOneViewController.o
+t1312953287
+s35644
+
+N/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageThreeViewController.o
+t1312953287
+s40768
+
+N/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageTwoViewController.o
+t1312953287
+s35624
+
+N/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/main.o
+t1312953287
+s5976
+
+N/Developer/Examples/iPhone/NavBar/en.lproj/InfoPlist.strings
+c000000004C2254F5000000000000015A
+t1277318389
+s346
+
+N/Developer/Examples/iPhone/NavBar/en.lproj/Localizable.strings
+c0000000049FB54F4000000000000022A
+t1241208052
+s554
+
+N/Developer/Examples/iPhone/NavBar/en.lproj/MainWindow.xib
+c0000000049FB54F40000000000003814
+t1241208052
+s14356
+
+N/Developer/Examples/iPhone/NavBar/en.lproj/ModalViewController.xib
+c000000004C2254F50000000000005F66
+t1277318389
+s24422
+
+N/Developer/Examples/iPhone/NavBar/en.lproj/PageFiveViewController.xib
+c0000000049FB54F40000000000001C2A
+t1241208052
+s7210
+
+N/Developer/Examples/iPhone/NavBar/en.lproj/PageFourViewController.xib
+c0000000049FB54F40000000000001C2A
+t1241208052
+s7210
+
+N/Developer/Examples/iPhone/NavBar/en.lproj/PageOneViewController.xib
+c0000000049FB54F40000000000001C27
+t1241208052
+s7207
+
+N/Developer/Examples/iPhone/NavBar/en.lproj/PageThreeViewController.xib
+c0000000049FB54F40000000000001C2D
+t1241208052
+s7213
+
+N/Developer/Examples/iPhone/NavBar/en.lproj/PageTwoViewController.xib
+c0000000049FB54F40000000000001C27
+t1241208052
+s7207
+
+N/Developer/Examples/iPhone/NavBar/images/Default.png
+c000000004C213D400000000000001D46
+t1277246784
+s7494
+
+N/Developer/Examples/iPhone/NavBar/images/Icon-72.png
+c000000004C2236B10000000000000427
+t1277310641
+s1063
+
+N/Developer/Examples/iPhone/NavBar/images/Icon-Small-50.png
+c000000004C2236B100000000000003E0
+t1277310641
+s992
+
+N/Developer/Examples/iPhone/NavBar/images/Icon-Small.png
+c000000004C2236B10000000000000396
+t1277310641
+s918
+
+N/Developer/Examples/iPhone/NavBar/images/Icon-Small@2x.png
+c000000004C2236B100000000000003F2
+t1277310641
+s1010
+
+N/Developer/Examples/iPhone/NavBar/images/Icon.png
+c000000004C2237D000000000000003EF
+t1277310928
+s1007
+
+N/Developer/Examples/iPhone/NavBar/images/Icon@2x.png
+c000000004C2236B100000000000004E4
+t1277310641
+s1252
+
+N/Developer/Examples/iPhone/NavBar/images/Page1.png
+c0000000049FB54F40000000000000CAA
+t1241208052
+s3242
+
+N/Developer/Examples/iPhone/NavBar/images/Page2.png
+c0000000049FB54F40000000000000F11
+t1241208052
+s3857
+
+N/Developer/Examples/iPhone/NavBar/images/Page3.png
+c0000000049FB54F400000000000014D3
+t1241208052
+s5331
+
+N/Developer/Examples/iPhone/NavBar/images/Page4.png
+c0000000049FB54F40000000000000AFD
+t1241208052
+s2813
+
+N/Developer/Examples/iPhone/NavBar/images/down.png
+c0000000049FB54F40000000000000149
+t1241208052
+s329
+
+N/Developer/Examples/iPhone/NavBar/images/email.png
+c0000000049FB54F40000000000000194
+t1241208052
+s404
+
+N/Developer/Examples/iPhone/NavBar/images/iTunesArtwork
+c000000004C2236B10000000000001444
+t1277310641
+s5188
+
+N/Developer/Examples/iPhone/NavBar/images/up.png
+c0000000049FB54F400000000000001B9
+t1241208052
+s441
+
+N/Developer/Examples/iPhone/NavBar/main.m
+c000000004C227A0A0000000000000A79
+t1277327882
+s2681
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004CC121B1000000000023EAC0
+t1287725489
+s2353856
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/reshma/Downloads/NavBar/AppDelegate.h
+c000000004C227A0A0000000000000AFE
+t1277327882
+s2814
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/NavBar/AppDelegate.m
+c000000004C227A0A0000000000000B5F
+t1277327882
+s2911
+i"AppDelegate.h"
+
+N/Users/reshma/Downloads/NavBar/Constants.h
+c000000004C227A0A0000000000000A74
+t1277327882
+s2676
+
+N/Users/reshma/Downloads/NavBar/MainViewController.h
+c000000004C227A0A0000000000000BE8
+t1277327882
+s3048
+i<UIKit/UIKit.h>
+i"ModalViewController.h"
+
+N/Users/reshma/Downloads/NavBar/MainViewController.m
+c000000004C227A0A000000000000244B
+t1277327882
+s9291
+i"MainViewController.h"
+i"PageOneViewController.h"
+i"PageTwoViewController.h"
+i"PageThreeViewController.h"
+i"PageFourViewController.h"
+i"PageFiveViewController.h"
+i"ModalViewController.h"
+i"Constants.h"
+
+N/Users/reshma/Downloads/NavBar/ModalViewController.h
+c000000004C227A0A0000000000000A8F
+t1277327882
+s2703
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/NavBar/ModalViewController.m
+c000000004C227A0A0000000000000E5E
+t1277327882
+s3678
+i"ModalViewController.h"
+i"Constants.h"
+
+N/Users/reshma/Downloads/NavBar/PageFiveViewController.h
+c000000004C227A0A0000000000000A30
+t1277327882
+s2608
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/NavBar/PageFiveViewController.m
+c000000004C227A0A0000000000001234
+t1277327882
+s4660
+i"PageFiveViewController.h"
+i"Constants.h"
+
+N/Users/reshma/Downloads/NavBar/PageFourViewController.h
+c000000004C227A0A0000000000000A30
+t1277327882
+s2608
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/NavBar/PageFourViewController.m
+c000000004C227A0A00000000000011E0
+t1277327882
+s4576
+i"PageFourViewController.h"
+i"Constants.h"
+
+N/Users/reshma/Downloads/NavBar/PageOneViewController.h
+c000000004C227A0A0000000000000A11
+t1277327882
+s2577
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/NavBar/PageOneViewController.m
+c000000004C227A0A0000000000000CFE
+t1277327882
+s3326
+i"PageOneViewController.h"
+i"Constants.h"
+
+N/Users/reshma/Downloads/NavBar/PageThreeViewController.h
+c000000004C227A0A0000000000000A33
+t1277327882
+s2611
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/NavBar/PageThreeViewController.m
+c000000004C227A0A00000000000011E7
+t1277327882
+s4583
+i"PageThreeViewController.h"
+i"Constants.h"
+
+N/Users/reshma/Downloads/NavBar/PageTwoViewController.h
+c000000004C227A0A0000000000000A11
+t1277327882
+s2577
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/NavBar/PageTwoViewController.m
+c000000004C227A0A0000000000000CDE
+t1277327882
+s3294
+i"PageTwoViewController.h"
+i"Constants.h"
+
+N/Users/reshma/Downloads/NavBar/Prefix.pch
+c0000000049FB54F40000000000000058
+t1241208052
+s88
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app
+t1301287750
+s714
+
+N/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app.dSYM
+t1301287750
+s102
+
+N/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/Default.png
+t1292330426
+s7494
+
+N/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/Icon-72.png
+t1292330426
+s1063
+
+N/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/Icon-Small-50.png
+t1292330426
+s992
+
+N/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/Icon-Small.png
+t1292330426
+s918
+
+N/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/Icon-Small@2x.png
+t1292330426
+s1010
+
+N/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/Icon.png
+t1292330426
+s1007
+
+N/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/Icon@2x.png
+t1292330426
+s1252
+
+N/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/Info.plist
+t1292330425
+s766
+
+N/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar
+t1301287750
+s47864
+
+N/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/Page1.png
+t1292330425
+s3242
+
+N/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/Page2.png
+t1292330425
+s3857
+
+N/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/Page3.png
+t1292330425
+s5331
+
+N/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/Page4.png
+t1292330425
+s2813
+
+N/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/PkgInfo
+t1292330425
+s8
+
+N/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/down.png
+t1292330425
+s329
+
+N/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/email.png
+t1292330426
+s404
+
+N/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/InfoPlist.strings
+t1292330426
+s209
+
+N/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/Localizable.strings
+t1292330426
+s597
+
+N/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/MainWindow.nib
+t1292330426
+s2041
+
+N/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/ModalViewController.nib
+t1292330427
+s2138
+
+N/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/PageFiveViewController.nib
+t1292330425
+s1046
+
+N/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/PageFourViewController.nib
+t1292330426
+s1046
+
+N/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/PageOneViewController.nib
+t1292330426
+s1046
+
+N/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/PageThreeViewController.nib
+t1292330425
+s1046
+
+N/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/PageTwoViewController.nib
+t1292330426
+s1046
+
+N/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/iTunesArtwork
+t1292330426
+s5188
+
+N/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/up.png
+t1292330425
+s441
+
+N/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/AppDelegate.o
+t1301287749
+s49828
+
+N/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/MainViewController.o
+t1301287749
+s74652
+
+N/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/ModalViewController.o
+t1301287750
+s44412
+
+N/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/NavBar.LinkFileList
+c000000004D0765B9000000000000046D
+t1292330425
+s1133
+
+N/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageFiveViewController.o
+t1301287750
+s46232
+
+N/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageFourViewController.o
+t1301287749
+s45852
+
+N/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageOneViewController.o
+t1301287749
+s39524
+
+N/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageThreeViewController.o
+t1301287749
+s45256
+
+N/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageTwoViewController.o
+t1301287749
+s39528
+
+N/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/main.o
+t1301287749
+s6288
+
+N/Users/reshma/Downloads/NavBar/en.lproj/InfoPlist.strings
+c000000004C2254F5000000000000015A
+t1277318389
+s346
+
+N/Users/reshma/Downloads/NavBar/en.lproj/Localizable.strings
+c0000000049FB54F4000000000000022A
+t1241208052
+s554
+
+N/Users/reshma/Downloads/NavBar/en.lproj/MainWindow.xib
+c0000000049FB54F40000000000003814
+t1241208052
+s14356
+
+N/Users/reshma/Downloads/NavBar/en.lproj/ModalViewController.xib
+c000000004C2254F50000000000005F66
+t1277318389
+s24422
+
+N/Users/reshma/Downloads/NavBar/en.lproj/PageFiveViewController.xib
+c0000000049FB54F40000000000001C2A
+t1241208052
+s7210
+
+N/Users/reshma/Downloads/NavBar/en.lproj/PageFourViewController.xib
+c0000000049FB54F40000000000001C2A
+t1241208052
+s7210
+
+N/Users/reshma/Downloads/NavBar/en.lproj/PageOneViewController.xib
+c0000000049FB54F40000000000001C27
+t1241208052
+s7207
+
+N/Users/reshma/Downloads/NavBar/en.lproj/PageThreeViewController.xib
+c0000000049FB54F40000000000001C2D
+t1241208052
+s7213
+
+N/Users/reshma/Downloads/NavBar/en.lproj/PageTwoViewController.xib
+c0000000049FB54F40000000000001C27
+t1241208052
+s7207
+
+N/Users/reshma/Downloads/NavBar/images/Default.png
+c000000004C213D400000000000001D46
+t1277246784
+s7494
+
+N/Users/reshma/Downloads/NavBar/images/Icon-72.png
+c000000004C2236B10000000000000427
+t1277310641
+s1063
+
+N/Users/reshma/Downloads/NavBar/images/Icon-Small-50.png
+c000000004C2236B100000000000003E0
+t1277310641
+s992
+
+N/Users/reshma/Downloads/NavBar/images/Icon-Small.png
+c000000004C2236B10000000000000396
+t1277310641
+s918
+
+N/Users/reshma/Downloads/NavBar/images/Icon-Small@2x.png
+c000000004C2236B100000000000003F2
+t1277310641
+s1010
+
+N/Users/reshma/Downloads/NavBar/images/Icon.png
+c000000004C2237D000000000000003EF
+t1277310928
+s1007
+
+N/Users/reshma/Downloads/NavBar/images/Icon@2x.png
+c000000004C2236B100000000000004E4
+t1277310641
+s1252
+
+N/Users/reshma/Downloads/NavBar/images/Page1.png
+c0000000049FB54F40000000000000CAA
+t1241208052
+s3242
+
+N/Users/reshma/Downloads/NavBar/images/Page2.png
+c0000000049FB54F40000000000000F11
+t1241208052
+s3857
+
+N/Users/reshma/Downloads/NavBar/images/Page3.png
+c0000000049FB54F400000000000014D3
+t1241208052
+s5331
+
+N/Users/reshma/Downloads/NavBar/images/Page4.png
+c0000000049FB54F40000000000000AFD
+t1241208052
+s2813
+
+N/Users/reshma/Downloads/NavBar/images/down.png
+c0000000049FB54F40000000000000149
+t1241208052
+s329
+
+N/Users/reshma/Downloads/NavBar/images/email.png
+c0000000049FB54F40000000000000194
+t1241208052
+s404
+
+N/Users/reshma/Downloads/NavBar/images/iTunesArtwork
+c000000004C2236B10000000000001444
+t1277310641
+s5188
+
+N/Users/reshma/Downloads/NavBar/images/up.png
+c0000000049FB54F400000000000001B9
+t1241208052
+s441
+
+N/Users/reshma/Downloads/NavBar/main.m
+c000000004C227A0A0000000000000A79
+t1277327882
+s2681
+i<UIKit/UIKit.h>
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bqruhvummfinonasyxbdysultcei/Prefix.pch.gch
+t1301287749
+s15477936
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-eikqdfgkdyegmrdqrbgwdreychmc/Prefix.pch.gch
+t1312953287
+s13805424
+
+NInfo.plist
+c000000004C2236B100000000000004A5
+t1277310641
+s1189
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies334646085#334646085#0(0"0(0#1#0"8603402928457671680#0"0#
+
+CCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/AppDelegate.o /Developer/Examples/iPhone/NavBar/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s334646087.832990
+e334646087.912608
+r1
+xCompileC
+xbuild/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/AppDelegate.o
+x/Developer/Examples/iPhone/NavBar/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Developer/Examples/iPhone/NavBar/AppDelegate.m334646087#334646087#0(0"0(0#0#47"/Developer/Examples/iPhone/NavBar/AppDelegate.m4300911832#1845"    cd /Developer/Examples/iPhone/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer (from old Mac)/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk" -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator -I/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/include -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-eikqdfgkdyegmrdqrbgwdreychmc/Prefix.pch -c /Developer/Examples/iPhone/NavBar/AppDelegate.m -o /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/AppDelegate.o /Users/reshma/Downloads/NavBar/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322980549.736000
+e322980549.814933
+r1
+xCompileC
+xbuild/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/AppDelegate.o
+x/Users/reshma/Downloads/NavBar/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/reshma/Downloads/NavBar/AppDelegate.m322980549#322980549#0(0"0(0#0#44"/Users/reshma/Downloads/NavBar/AppDelegate.m8617837664#1805"    cd /Users/reshma/Downloads/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator -I/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/include -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bqruhvummfinonasyxbdysultcei/Prefix.pch -c /Users/reshma/Downloads/NavBar/AppDelegate.m -o /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/MainViewController.o /Developer/Examples/iPhone/NavBar/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s334646087.912702
+e334646088.048195
+r1
+xCompileC
+xbuild/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/MainViewController.o
+x/Developer/Examples/iPhone/NavBar/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Developer/Examples/iPhone/NavBar/MainViewController.m334646087#334646088#0(0"0(0#0#54"/Developer/Examples/iPhone/NavBar/MainViewController.m4300911832#1859"    cd /Developer/Examples/iPhone/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer (from old Mac)/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk" -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator -I/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/include -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-eikqdfgkdyegmrdqrbgwdreychmc/Prefix.pch -c /Developer/Examples/iPhone/NavBar/MainViewController.m -o /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/MainViewController.o0#
+
+CCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/MainViewController.o /Users/reshma/Downloads/NavBar/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322980549.815006
+e322980549.979795
+r1
+xCompileC
+xbuild/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/MainViewController.o
+x/Users/reshma/Downloads/NavBar/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/reshma/Downloads/NavBar/MainViewController.m322980549#322980549#0(0"0(0#0#51"/Users/reshma/Downloads/NavBar/MainViewController.m8590278944#1819"    cd /Users/reshma/Downloads/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator -I/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/include -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bqruhvummfinonasyxbdysultcei/Prefix.pch -c /Users/reshma/Downloads/NavBar/MainViewController.m -o /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/MainViewController.o0#
+
+CCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/ModalViewController.o /Developer/Examples/iPhone/NavBar/ModalViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s334646088.048284
+e334646088.115572
+r1
+xCompileC
+xbuild/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/ModalViewController.o
+x/Developer/Examples/iPhone/NavBar/ModalViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Developer/Examples/iPhone/NavBar/ModalViewController.m334646088#334646088#0(0"0(0#0#55"/Developer/Examples/iPhone/NavBar/ModalViewController.m4300911832#1861"    cd /Developer/Examples/iPhone/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer (from old Mac)/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk" -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator -I/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/include -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-eikqdfgkdyegmrdqrbgwdreychmc/Prefix.pch -c /Developer/Examples/iPhone/NavBar/ModalViewController.m -o /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/ModalViewController.o0#
+
+CCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/ModalViewController.o /Users/reshma/Downloads/NavBar/ModalViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322980549.979891
+e322980550.057671
+r1
+xCompileC
+xbuild/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/ModalViewController.o
+x/Users/reshma/Downloads/NavBar/ModalViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/reshma/Downloads/NavBar/ModalViewController.m322980549#322980550#0(0"0(0#0#52"/Users/reshma/Downloads/NavBar/ModalViewController.m8615783616#1821"    cd /Users/reshma/Downloads/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator -I/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/include -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bqruhvummfinonasyxbdysultcei/Prefix.pch -c /Users/reshma/Downloads/NavBar/ModalViewController.m -o /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/ModalViewController.o0#
+
+CCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageFiveViewController.o /Developer/Examples/iPhone/NavBar/PageFiveViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s334646088.012229
+e334646088.108664
+r1
+xCompileC
+xbuild/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageFiveViewController.o
+x/Developer/Examples/iPhone/NavBar/PageFiveViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Developer/Examples/iPhone/NavBar/PageFiveViewController.m334646088#334646088#0(0"0(0#0#58"/Developer/Examples/iPhone/NavBar/PageFiveViewController.m4300911832#1867"    cd /Developer/Examples/iPhone/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer (from old Mac)/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk" -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator -I/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/include -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-eikqdfgkdyegmrdqrbgwdreychmc/Prefix.pch -c /Developer/Examples/iPhone/NavBar/PageFiveViewController.m -o /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageFiveViewController.o0#
+
+CCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageFiveViewController.o /Users/reshma/Downloads/NavBar/PageFiveViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322980549.969498
+e322980550.058437
+r1
+xCompileC
+xbuild/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageFiveViewController.o
+x/Users/reshma/Downloads/NavBar/PageFiveViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/reshma/Downloads/NavBar/PageFiveViewController.m322980549#322980550#0(0"0(0#0#55"/Users/reshma/Downloads/NavBar/PageFiveViewController.m8617451936#1827"    cd /Users/reshma/Downloads/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator -I/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/include -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bqruhvummfinonasyxbdysultcei/Prefix.pch -c /Users/reshma/Downloads/NavBar/PageFiveViewController.m -o /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageFiveViewController.o0#
+
+CCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageFourViewController.o /Developer/Examples/iPhone/NavBar/PageFourViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s334646087.944180
+e334646088.012121
+r1
+xCompileC
+xbuild/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageFourViewController.o
+x/Developer/Examples/iPhone/NavBar/PageFourViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Developer/Examples/iPhone/NavBar/PageFourViewController.m334646087#334646088#0(0"0(0#0#58"/Developer/Examples/iPhone/NavBar/PageFourViewController.m4300911832#1867"    cd /Developer/Examples/iPhone/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer (from old Mac)/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk" -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator -I/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/include -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-eikqdfgkdyegmrdqrbgwdreychmc/Prefix.pch -c /Developer/Examples/iPhone/NavBar/PageFourViewController.m -o /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageFourViewController.o0#
+
+CCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageFourViewController.o /Users/reshma/Downloads/NavBar/PageFourViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322980549.891815
+e322980549.969401
+r1
+xCompileC
+xbuild/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageFourViewController.o
+x/Users/reshma/Downloads/NavBar/PageFourViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/reshma/Downloads/NavBar/PageFourViewController.m322980549#322980549#0(0"0(0#0#55"/Users/reshma/Downloads/NavBar/PageFourViewController.m8619435520#1827"    cd /Users/reshma/Downloads/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator -I/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/include -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bqruhvummfinonasyxbdysultcei/Prefix.pch -c /Users/reshma/Downloads/NavBar/PageFourViewController.m -o /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageFourViewController.o0#
+
+CCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageOneViewController.o /Developer/Examples/iPhone/NavBar/PageOneViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s334646087.810683
+e334646087.872591
+r1
+xCompileC
+xbuild/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageOneViewController.o
+x/Developer/Examples/iPhone/NavBar/PageOneViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Developer/Examples/iPhone/NavBar/PageOneViewController.m334646087#334646087#0(0"0(0#0#57"/Developer/Examples/iPhone/NavBar/PageOneViewController.m4300911832#1865"    cd /Developer/Examples/iPhone/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer (from old Mac)/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk" -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator -I/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/include -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-eikqdfgkdyegmrdqrbgwdreychmc/Prefix.pch -c /Developer/Examples/iPhone/NavBar/PageOneViewController.m -o /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageOneViewController.o0#
+
+CCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageOneViewController.o /Users/reshma/Downloads/NavBar/PageOneViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322980549.735137
+e322980549.812997
+r1
+xCompileC
+xbuild/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageOneViewController.o
+x/Users/reshma/Downloads/NavBar/PageOneViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/reshma/Downloads/NavBar/PageOneViewController.m322980549#322980549#0(0"0(0#0#54"/Users/reshma/Downloads/NavBar/PageOneViewController.m8618736832#1825"    cd /Users/reshma/Downloads/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator -I/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/include -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bqruhvummfinonasyxbdysultcei/Prefix.pch -c /Users/reshma/Downloads/NavBar/PageOneViewController.m -o /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageOneViewController.o0#
+
+CCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageThreeViewController.o /Developer/Examples/iPhone/NavBar/PageThreeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s334646087.872696
+e334646087.944082
+r1
+xCompileC
+xbuild/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageThreeViewController.o
+x/Developer/Examples/iPhone/NavBar/PageThreeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Developer/Examples/iPhone/NavBar/PageThreeViewController.m334646087#334646087#0(0"0(0#0#59"/Developer/Examples/iPhone/NavBar/PageThreeViewController.m4300911832#1869"    cd /Developer/Examples/iPhone/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer (from old Mac)/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk" -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator -I/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/include -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-eikqdfgkdyegmrdqrbgwdreychmc/Prefix.pch -c /Developer/Examples/iPhone/NavBar/PageThreeViewController.m -o /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageThreeViewController.o0#
+
+CCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageThreeViewController.o /Users/reshma/Downloads/NavBar/PageThreeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322980549.813100
+e322980549.891712
+r1
+xCompileC
+xbuild/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageThreeViewController.o
+x/Users/reshma/Downloads/NavBar/PageThreeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/reshma/Downloads/NavBar/PageThreeViewController.m322980549#322980549#0(0"0(0#0#56"/Users/reshma/Downloads/NavBar/PageThreeViewController.m8613300512#1829"    cd /Users/reshma/Downloads/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator -I/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/include -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bqruhvummfinonasyxbdysultcei/Prefix.pch -c /Users/reshma/Downloads/NavBar/PageThreeViewController.m -o /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageThreeViewController.o0#
+
+CCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageTwoViewController.o /Developer/Examples/iPhone/NavBar/PageTwoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s334646087.764421
+e334646087.832890
+r1
+xCompileC
+xbuild/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageTwoViewController.o
+x/Developer/Examples/iPhone/NavBar/PageTwoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Developer/Examples/iPhone/NavBar/PageTwoViewController.m334646087#334646087#0(0"0(0#0#57"/Developer/Examples/iPhone/NavBar/PageTwoViewController.m4300911832#1865"    cd /Developer/Examples/iPhone/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer (from old Mac)/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk" -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator -I/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/include -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-eikqdfgkdyegmrdqrbgwdreychmc/Prefix.pch -c /Developer/Examples/iPhone/NavBar/PageTwoViewController.m -o /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageTwoViewController.o0#
+
+CCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageTwoViewController.o /Users/reshma/Downloads/NavBar/PageTwoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322980549.664015
+e322980549.735055
+r1
+xCompileC
+xbuild/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageTwoViewController.o
+x/Users/reshma/Downloads/NavBar/PageTwoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/reshma/Downloads/NavBar/PageTwoViewController.m322980549#322980549#0(0"0(0#0#54"/Users/reshma/Downloads/NavBar/PageTwoViewController.m8620479840#1825"    cd /Users/reshma/Downloads/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator -I/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/include -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bqruhvummfinonasyxbdysultcei/Prefix.pch -c /Users/reshma/Downloads/NavBar/PageTwoViewController.m -o /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageTwoViewController.o0#
+
+CCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/main.o /Developer/Examples/iPhone/NavBar/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s334646087.763408
+e334646087.810583
+r1
+xCompileC
+xbuild/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/main.o
+x/Developer/Examples/iPhone/NavBar/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Developer/Examples/iPhone/NavBar/main.m334646087#334646087#0(0"0(0#0#40"/Developer/Examples/iPhone/NavBar/main.m4300911832#1831"    cd /Developer/Examples/iPhone/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer (from old Mac)/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk" -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator -I/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/include -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-eikqdfgkdyegmrdqrbgwdreychmc/Prefix.pch -c /Developer/Examples/iPhone/NavBar/main.m -o /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/main.o0#
+
+CCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/main.o /Users/reshma/Downloads/NavBar/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322980549.662748
+e322980549.734887
+r1
+xCompileC
+xbuild/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/main.o
+x/Users/reshma/Downloads/NavBar/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/reshma/Downloads/NavBar/main.m322980549#322980549#0(0"0(0#0#37"/Users/reshma/Downloads/NavBar/main.m8625429472#1791"    cd /Users/reshma/Downloads/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator -I/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/include -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bqruhvummfinonasyxbdysultcei/Prefix.pch -c /Users/reshma/Downloads/NavBar/main.m -o /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Developer/Examples/iPhone/NavBar/en.lproj/MainWindow.xib
+r0
+
+CCompileXIB /Developer/Examples/iPhone/NavBar/en.lproj/ModalViewController.xib
+r0
+
+CCompileXIB /Developer/Examples/iPhone/NavBar/en.lproj/PageFiveViewController.xib
+r0
+
+CCompileXIB /Developer/Examples/iPhone/NavBar/en.lproj/PageFourViewController.xib
+r0
+
+CCompileXIB /Developer/Examples/iPhone/NavBar/en.lproj/PageOneViewController.xib
+r0
+
+CCompileXIB /Developer/Examples/iPhone/NavBar/en.lproj/PageThreeViewController.xib
+r0
+
+CCompileXIB /Developer/Examples/iPhone/NavBar/en.lproj/PageTwoViewController.xib
+r0
+
+CCompileXIB /Users/reshma/Downloads/NavBar/en.lproj/MainWindow.xib
+s314023225.988821
+e314023226.431213
+r1
+xCompileXIB
+x/Users/reshma/Downloads/NavBar/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib314023225#314023226#0(0"0(0#0#54"/Users/reshma/Downloads/NavBar/en.lproj/MainWindow.xib8617359744#563"    cd /Users/reshma/Downloads/NavBar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/MainWindow.nib /Users/reshma/Downloads/NavBar/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/reshma/Downloads/NavBar/en.lproj/ModalViewController.xib
+s314023226.728784
+e314023227.169530
+r1
+xCompileXIB
+x/Users/reshma/Downloads/NavBar/en.lproj/ModalViewController.xib
+lSLF07#2@43"CompileXIB en.lproj/ModalViewController.xib314023226#314023227#0(0"0(0#0#63"/Users/reshma/Downloads/NavBar/en.lproj/ModalViewController.xib8615999232#581"    cd /Users/reshma/Downloads/NavBar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/ModalViewController.nib /Users/reshma/Downloads/NavBar/en.lproj/ModalViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/reshma/Downloads/NavBar/en.lproj/PageFiveViewController.xib
+s314023225.565215
+e314023225.905025
+r1
+xCompileXIB
+x/Users/reshma/Downloads/NavBar/en.lproj/PageFiveViewController.xib
+lSLF07#2@46"CompileXIB en.lproj/PageFiveViewController.xib314023225#314023225#0(0"0(0#0#66"/Users/reshma/Downloads/NavBar/en.lproj/PageFiveViewController.xib8616980704#587"    cd /Users/reshma/Downloads/NavBar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/PageFiveViewController.nib /Users/reshma/Downloads/NavBar/en.lproj/PageFiveViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/reshma/Downloads/NavBar/en.lproj/PageFourViewController.xib
+s314023225.905106
+e314023226.288753
+r1
+xCompileXIB
+x/Users/reshma/Downloads/NavBar/en.lproj/PageFourViewController.xib
+lSLF07#2@46"CompileXIB en.lproj/PageFourViewController.xib314023225#314023226#0(0"0(0#0#66"/Users/reshma/Downloads/NavBar/en.lproj/PageFourViewController.xib8618142176#587"    cd /Users/reshma/Downloads/NavBar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/PageFourViewController.nib /Users/reshma/Downloads/NavBar/en.lproj/PageFourViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/reshma/Downloads/NavBar/en.lproj/PageOneViewController.xib
+s314023226.288830
+e314023226.672425
+r1
+xCompileXIB
+x/Users/reshma/Downloads/NavBar/en.lproj/PageOneViewController.xib
+lSLF07#2@45"CompileXIB en.lproj/PageOneViewController.xib314023226#314023226#0(0"0(0#0#65"/Users/reshma/Downloads/NavBar/en.lproj/PageOneViewController.xib8616055328#585"    cd /Users/reshma/Downloads/NavBar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/PageOneViewController.nib /Users/reshma/Downloads/NavBar/en.lproj/PageOneViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/reshma/Downloads/NavBar/en.lproj/PageThreeViewController.xib
+s314023225.545102
+e314023225.988746
+r1
+xCompileXIB
+x/Users/reshma/Downloads/NavBar/en.lproj/PageThreeViewController.xib
+lSLF07#2@47"CompileXIB en.lproj/PageThreeViewController.xib314023225#314023225#0(0"0(0#0#67"/Users/reshma/Downloads/NavBar/en.lproj/PageThreeViewController.xib8624620320#589"    cd /Users/reshma/Downloads/NavBar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/PageThreeViewController.nib /Users/reshma/Downloads/NavBar/en.lproj/PageThreeViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/reshma/Downloads/NavBar/en.lproj/PageTwoViewController.xib
+s314023226.431295
+e314023226.832623
+r1
+xCompileXIB
+x/Users/reshma/Downloads/NavBar/en.lproj/PageTwoViewController.xib
+lSLF07#2@45"CompileXIB en.lproj/PageTwoViewController.xib314023226#314023226#0(0"0(0#0#65"/Users/reshma/Downloads/NavBar/en.lproj/PageTwoViewController.xib8598673760#585"    cd /Users/reshma/Downloads/NavBar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/PageTwoViewController.nib /Users/reshma/Downloads/NavBar/en.lproj/PageTwoViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCopyStringsFile /Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
+s314023226.699995
+e314023226.728692
+r1
+xCopyStringsFile
+x/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/InfoPlist.strings
+xen.lproj/InfoPlist.strings
+oen.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@31"Copy en.lproj/InfoPlist.strings314023226#314023226#0(128"en.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#57"/Users/reshma/Downloads/NavBar/en.lproj/InfoPlist.strings8615915744#466"    cd /Users/reshma/Downloads/NavBar    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary en.lproj/InfoPlist.strings --outdir /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj0#
+
+CCopyStringsFile /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+s314023226.672510
+e314023226.699903
+r1
+xCopyStringsFile
+x/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/Localizable.strings
+xen.lproj/Localizable.strings
+lSLF07#2@33"Copy en.lproj/Localizable.strings314023226#314023226#0(0"0(0#0#59"/Users/reshma/Downloads/NavBar/en.lproj/Localizable.strings8617649728#468"    cd /Users/reshma/Downloads/NavBar    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary en.lproj/Localizable.strings --outdir /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/NavBar.app/Default.png images/Default.png
+s314023226.833526
+e314023226.854363
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavBar.app/Default.png
+ximages/Default.png
+lSLF07#2@23"Copy images/Default.png314023226#314023226#0(0"0(0#0#49"/Users/reshma/Downloads/NavBar/images/Default.png8621559552#451"    cd /Users/reshma/Downloads/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/NavBar/images/Default.png /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app0#
+
+CCpResource build/Debug-iphonesimulator/NavBar.app/Icon-72.png images/Icon-72.png
+s314023226.834091
+e314023226.854480
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavBar.app/Icon-72.png
+ximages/Icon-72.png
+lSLF07#2@23"Copy images/Icon-72.png314023226#314023226#0(0"0(0#0#49"/Users/reshma/Downloads/NavBar/images/Icon-72.png8618737120#451"    cd /Users/reshma/Downloads/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/NavBar/images/Icon-72.png /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app0#
+
+CCpResource build/Debug-iphonesimulator/NavBar.app/Icon-Small-50.png images/Icon-Small-50.png
+s314023226.834660
+e314023226.854598
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavBar.app/Icon-Small-50.png
+ximages/Icon-Small-50.png
+lSLF07#2@29"Copy images/Icon-Small-50.png314023226#314023226#0(0"0(0#0#55"/Users/reshma/Downloads/NavBar/images/Icon-Small-50.png8617826912#457"    cd /Users/reshma/Downloads/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/NavBar/images/Icon-Small-50.png /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app0#
+
+CCpResource build/Debug-iphonesimulator/NavBar.app/Icon-Small.png images/Icon-Small.png
+s314023226.836262
+e314023226.854713
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavBar.app/Icon-Small.png
+ximages/Icon-Small.png
+lSLF07#2@26"Copy images/Icon-Small.png314023226#314023226#0(0"0(0#0#52"/Users/reshma/Downloads/NavBar/images/Icon-Small.png8617585088#454"    cd /Users/reshma/Downloads/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/NavBar/images/Icon-Small.png /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app0#
+
+CCpResource build/Debug-iphonesimulator/NavBar.app/Icon-Small@2x.png images/Icon-Small@2x.png
+s314023226.838559
+e314023226.854829
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavBar.app/Icon-Small@2x.png
+ximages/Icon-Small@2x.png
+lSLF07#2@29"Copy images/Icon-Small@2x.png314023226#314023226#0(0"0(0#0#55"/Users/reshma/Downloads/NavBar/images/Icon-Small@2x.png8616921056#457"    cd /Users/reshma/Downloads/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/NavBar/images/Icon-Small@2x.png /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app0#
+
+CCpResource build/Debug-iphonesimulator/NavBar.app/Icon.png images/Icon.png
+s314023226.845006
+e314023226.854989
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavBar.app/Icon.png
+ximages/Icon.png
+lSLF07#2@20"Copy images/Icon.png314023226#314023226#0(0"0(0#0#46"/Users/reshma/Downloads/NavBar/images/Icon.png8615900416#448"    cd /Users/reshma/Downloads/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/NavBar/images/Icon.png /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app0#
+
+CCpResource build/Debug-iphonesimulator/NavBar.app/Icon@2x.png images/Icon@2x.png
+s314023226.846611
+e314023226.855105
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavBar.app/Icon@2x.png
+ximages/Icon@2x.png
+lSLF07#2@23"Copy images/Icon@2x.png314023226#314023226#0(0"0(0#0#49"/Users/reshma/Downloads/NavBar/images/Icon@2x.png8606663488#451"    cd /Users/reshma/Downloads/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/NavBar/images/Icon@2x.png /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app0#
+
+CCpResource build/Debug-iphonesimulator/NavBar.app/Page1.png images/Page1.png
+s314023225.541017
+e314023225.565137
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavBar.app/Page1.png
+ximages/Page1.png
+lSLF07#2@21"Copy images/Page1.png314023225#314023225#0(0"0(0#0#47"/Users/reshma/Downloads/NavBar/images/Page1.png8616706368#449"    cd /Users/reshma/Downloads/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/NavBar/images/Page1.png /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app0#
+
+CCpResource build/Debug-iphonesimulator/NavBar.app/Page2.png images/Page2.png
+s314023225.535688
+e314023225.547102
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavBar.app/Page2.png
+ximages/Page2.png
+lSLF07#2@21"Copy images/Page2.png314023225#314023225#0(0"0(0#0#47"/Users/reshma/Downloads/NavBar/images/Page2.png8624670400#449"    cd /Users/reshma/Downloads/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/NavBar/images/Page2.png /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app0#
+
+CCpResource build/Debug-iphonesimulator/NavBar.app/Page3.png images/Page3.png
+s314023225.536835
+e314023225.547305
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavBar.app/Page3.png
+ximages/Page3.png
+lSLF07#2@21"Copy images/Page3.png314023225#314023225#0(0"0(0#0#47"/Users/reshma/Downloads/NavBar/images/Page3.png8622146080#449"    cd /Users/reshma/Downloads/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/NavBar/images/Page3.png /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app0#
+
+CCpResource build/Debug-iphonesimulator/NavBar.app/Page4.png images/Page4.png
+s314023225.536263
+e314023225.547203
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavBar.app/Page4.png
+ximages/Page4.png
+lSLF07#2@21"Copy images/Page4.png314023225#314023225#0(0"0(0#0#47"/Users/reshma/Downloads/NavBar/images/Page4.png8618316384#449"    cd /Users/reshma/Downloads/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/NavBar/images/Page4.png /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app0#
+
+CCpResource build/Debug-iphonesimulator/NavBar.app/down.png images/down.png
+s314023225.534462
+e314023225.546891
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavBar.app/down.png
+ximages/down.png
+lSLF07#2@20"Copy images/down.png314023225#314023225#0(0"0(0#0#46"/Users/reshma/Downloads/NavBar/images/down.png8617144576#448"    cd /Users/reshma/Downloads/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/NavBar/images/down.png /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app0#
+
+CCpResource build/Debug-iphonesimulator/NavBar.app/email.png images/email.png
+s314023226.832818
+e314023226.854203
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavBar.app/email.png
+ximages/email.png
+lSLF07#2@21"Copy images/email.png314023226#314023226#0(0"0(0#0#47"/Users/reshma/Downloads/NavBar/images/email.png8622875776#449"    cd /Users/reshma/Downloads/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/NavBar/images/email.png /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app0#
+
+CCpResource build/Debug-iphonesimulator/NavBar.app/iTunesArtwork images/iTunesArtwork
+s314023226.848910
+e314023226.855221
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavBar.app/iTunesArtwork
+ximages/iTunesArtwork
+lSLF07#2@25"Copy images/iTunesArtwork314023226#314023226#0(0"0(0#0#51"/Users/reshma/Downloads/NavBar/images/iTunesArtwork8622545664#453"    cd /Users/reshma/Downloads/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/NavBar/images/iTunesArtwork /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app0#
+
+CCpResource build/Debug-iphonesimulator/NavBar.app/up.png images/up.png
+s314023225.535116
+e314023225.547001
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavBar.app/up.png
+ximages/up.png
+lSLF07#2@18"Copy images/up.png314023225#314023225#0(0"0(0#0#44"/Users/reshma/Downloads/NavBar/images/up.png8615835584#446"    cd /Users/reshma/Downloads/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/NavBar/images/up.png /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app0#
+
+CGenerateDSYMFile /Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app.dSYM /Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar
+s334646088.376102
+e334646088.554266
+r1
+xGenerateDSYMFile
+x/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app.dSYM
+x/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/NavBar.app.dSYM build/Debug-iphonesimulator/NavBar.app/NavBar334646088#334646088#0(0"0(0#0#79"/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar4300911832#412"    cd /Developer/Examples/iPhone/NavBar    setenv PATH "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer (from old Mac)/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer (from old Mac)/usr/bin/dsymutil" /Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar -o /Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app.dSYM0#
+
+CGenerateDSYMFile /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app.dSYM /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar
+s322980550.085780
+e322980550.217743
+r1
+xGenerateDSYMFile
+x/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app.dSYM
+x/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/NavBar.app.dSYM build/Debug-iphonesimulator/NavBar.app/NavBar322980550#322980550#0(0"0(0#0#76"/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar8621998784#356"    cd /Users/reshma/Downloads/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar -o /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app.dSYM0#
+
+CLd /Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar normal i386
+s334646088.115663
+e334646088.376002
+r1
+xLd
+x/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar
+xnormal
+xi386
+lSLF07#2@84"Link /Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar334646088#334646088#0(0"0(0#0#0"4300911832#922"    cd /Developer/Examples/iPhone/NavBar    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer (from old Mac)/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -arch i386 -isysroot "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk" -L/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator -F/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator -filelist /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/NavBar.LinkFileList -mmacosx-version-min=10.5 -framework CoreFoundation -framework UIKit -framework CoreGraphics -framework Foundation -o /Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar0#
+
+CLd /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar normal i386
+s322980550.058509
+e322980550.085688
+r1
+xLd
+x/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar
+xnormal
+xi386
+lSLF07#2@81"Link /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar322980550#322980550#0(0"0(0#0#0"8613298208#881"    cd /Users/reshma/Downloads/NavBar    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator -F/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator -filelist /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/NavBar.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework CoreFoundation -framework UIKit -framework CoreGraphics -framework Foundation -o /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar0#
+
+CProcessInfoPlistFile /Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app/Info.plist Info.plist
+r0
+
+CProcessInfoPlistFile /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/Info.plist Info.plist
+s314023225.529184
+e314023225.534393
+r1
+xProcessInfoPlistFile
+x/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist314023225#314023225#0(0"0(0#0#41"/Users/reshma/Downloads/NavBar/Info.plist8606921408#445"    cd /Users/reshma/Downloads/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app/Info.plist0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bqruhvummfinonasyxbdysultcei/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322980548.930312
+e322980549.662611
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bqruhvummfinonasyxbdysultcei/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch322980548#322980549#0(0"0(0#0#41"/Users/reshma/Downloads/NavBar/Prefix.pch8604334080#1685"    cd /Users/reshma/Downloads/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator -I/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/include -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Users/reshma/Downloads/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -c /Users/reshma/Downloads/NavBar/Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bqruhvummfinonasyxbdysultcei/Prefix.pch.gch0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-eikqdfgkdyegmrdqrbgwdreychmc/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s334646085.908344
+e334646087.763207
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-eikqdfgkdyegmrdqrbgwdreychmc/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch334646085#334646087#0(0"0(0#0#44"/Developer/Examples/iPhone/NavBar/Prefix.pch8237135891347629056#1722"    cd /Developer/Examples/iPhone/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer (from old Mac)/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk" -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator -I/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/include -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Developer/Examples/iPhone/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -c /Developer/Examples/iPhone/NavBar/Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-eikqdfgkdyegmrdqrbgwdreychmc/Prefix.pch.gch0#
+
+CTouch /Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app
+s334646088.554348
+e334646088.567871
+r1
+xTouch
+x/Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app
+lSLF07#2@78"Touch /Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app334646088#334646088#0(0"0(0#0#0"4300911832#297"    cd /Developer/Examples/iPhone/NavBar    setenv PATH "/Developer (from old Mac)/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer (from old Mac)/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Developer/Examples/iPhone/NavBar/build/Debug-iphonesimulator/NavBar.app0#
+
+CTouch /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app
+s322980550.217828
+e322980550.220655
+r1
+xTouch
+x/Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app
+lSLF07#2@75"Touch /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app322980550#322980550#0(0"0(0#0#0"8626565120#261"    cd /Users/reshma/Downloads/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/reshma/Downloads/NavBar/build/Debug-iphonesimulator/NavBar.app0#
+

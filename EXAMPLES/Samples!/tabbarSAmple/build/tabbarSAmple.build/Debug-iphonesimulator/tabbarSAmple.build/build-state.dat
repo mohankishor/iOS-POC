@@ -1,0 +1,331 @@
+TtabbarSAmple
+v7
+r0
+t308222514.697608
+cCheck dependencies
+cProcessInfoPlistFile /Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app/Info.plist tabbarSAmple-Info.plist
+cCompileXIB /Users/reshma/Desktop/tabbarSAmple/MainWindow.xib
+cCompileXIB /Users/reshma/Desktop/tabbarSAmple/tabbarSAmpleViewController.xib
+cCompileXIB /Users/reshma/Desktop/tabbarSAmple/NewNib.xib
+cCompileXIB /Users/reshma/Desktop/tabbarSAmple/SecondNib.xib
+cProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tabbarSAmple_Prefix-ddyfnnmameytpodtrtbpsrjxpcti/tabbarSAmple_Prefix.pch.gch tabbarSAmple_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/Objects-normal/i386/main.o /Users/reshma/Desktop/tabbarSAmple/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/Objects-normal/i386/tabbarSAmpleAppDelegate.o /Users/reshma/Desktop/tabbarSAmple/Classes/tabbarSAmpleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/Objects-normal/i386/tabbarSAmpleViewController.o /Users/reshma/Desktop/tabbarSAmple/Classes/tabbarSAmpleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/Objects-normal/i386/SecondClass.o /Users/reshma/Desktop/tabbarSAmple/Classes/../SecondClass.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app/tabbarSAmple normal i386
+cGenerateDSYMFile /Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app.dSYM /Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app/tabbarSAmple
+cTouch /Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/reshma/Desktop/tabbarSAmple/Classes/../SecondClass.m
+c000000004CAEE10400000000000012FC
+t1286529284
+s4860
+i"SecondClass.h"
+
+N/Users/reshma/Desktop/tabbarSAmple/Classes/tabbarSAmpleAppDelegate.h
+c000000004CAEDB850000000000000270
+t1286527877
+s624
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/tabbarSAmple/Classes/tabbarSAmpleAppDelegate.m
+c000000004CAEDBD10000000000000323
+t1286527953
+s803
+i"tabbarSAmpleAppDelegate.h"
+i"tabbarSAmpleViewController.h"
+
+N/Users/reshma/Desktop/tabbarSAmple/Classes/tabbarSAmpleViewController.h
+c000000004CAEDE4A0000000000000151
+t1286528586
+s337
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/tabbarSAmple/Classes/tabbarSAmpleViewController.m
+c000000004CAEE2230000000000000631
+t1286529571
+s1585
+i"tabbarSAmpleViewController.h"
+
+N/Users/reshma/Desktop/tabbarSAmple/MainWindow.xib
+c000000004CAEE0660000000000006C16
+t1286529126
+s27670
+
+N/Users/reshma/Desktop/tabbarSAmple/NewNib.xib
+c000000004CAEE2AE0000000000004110
+t1286529710
+s16656
+
+N/Users/reshma/Desktop/tabbarSAmple/SecondClass.h
+c000000004CAEE13D0000000000000132
+t1286529341
+s306
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/tabbarSAmple/SecondClass.m
+c000000004CAEDC4100000000000012DD
+t1286528065
+s4829
+i"SecondClass.h"
+
+N/Users/reshma/Desktop/tabbarSAmple/SecondNib.xib
+c000000004CAEE1E500000000000040C6
+t1286529509
+s16582
+
+N/Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app
+t1286529714
+s306
+
+N/Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app.dSYM
+t1286529576
+s102
+
+N/Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app/Info.plist
+t1286516077
+s613
+
+N/Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app/MainWindow.nib
+t1286529184
+s2354
+
+N/Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app/NewNib.nib
+t1286529714
+s1318
+
+N/Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app/PkgInfo
+t1286516077
+s8
+
+N/Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app/SecondNib.nib
+t1286529551
+s1311
+
+N/Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app/tabbarSAmple
+t1286529576
+s22316
+
+N/Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app/tabbarSAmpleViewController.nib
+t1286519283
+s1342
+
+N/Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/Objects-normal/i386/SecondClass.o
+t1286529342
+s33904
+
+N/Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/Objects-normal/i386/main.o
+t1286516079
+s5940
+
+N/Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/Objects-normal/i386/tabbarSAmple.LinkFileList
+c000000004CAEDD450000000000000230
+t1286528325
+s560
+
+N/Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/Objects-normal/i386/tabbarSAmpleAppDelegate.o
+t1286528783
+s41740
+
+N/Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/Objects-normal/i386/tabbarSAmpleViewController.o
+t1286529576
+s32228
+
+N/Users/reshma/Desktop/tabbarSAmple/main.m
+c000000004CAEAD690000000000000175
+t1286516073
+s373
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/tabbarSAmple/tabbarSAmpleViewController.xib
+c000000004CAEB9DD0000000000003FB0
+t1286519261
+s16304
+
+N/Users/reshma/Desktop/tabbarSAmple/tabbarSAmple_Prefix.pch
+c000000004CAEAD6900000000000000C1
+t1286516073
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tabbarSAmple_Prefix-ddyfnnmameytpodtrtbpsrjxpcti/tabbarSAmple_Prefix.pch.gch
+t1286516079
+s13026768
+
+NtabbarSAmple-Info.plist
+c000000004CAEAD69000000000000038D
+t1286516073
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308222514#308222514#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/Objects-normal/i386/SecondClass.o /Users/reshma/Desktop/tabbarSAmple/Classes/../SecondClass.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308222142.538708
+e308222142.598826
+r1
+xCompileC
+xbuild/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/Objects-normal/i386/SecondClass.o
+x/Users/reshma/Desktop/tabbarSAmple/Classes/../SecondClass.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/reshma/Desktop/tabbarSAmple/Classes/../SecondClass.m308222142#308222142#0(0"0(0#0#59"/Users/reshma/Desktop/tabbarSAmple/Classes/../SecondClass.m4300911832#1940"    cd /Users/reshma/Desktop/tabbarSAmple    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/tabbarSAmple-generated-files.hmap -I/Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/tabbarSAmple-own-target-headers.hmap -I/Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/tabbarSAmple-all-target-headers.hmap -iquote /Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/tabbarSAmple-project-headers.hmap -F/Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator -I/Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/DerivedSources/i386 -I/Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tabbarSAmple_Prefix-ddyfnnmameytpodtrtbpsrjxpcti/tabbarSAmple_Prefix.pch -c /Users/reshma/Desktop/tabbarSAmple/Classes/../SecondClass.m -o /Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/Objects-normal/i386/SecondClass.o0#
+
+CCompileC build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/Objects-normal/i386/SecondClass.o /Users/reshma/Desktop/tabbarSAmple/SecondClass.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/Objects-normal/i386/main.o /Users/reshma/Desktop/tabbarSAmple/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308208879.262652
+e308208879.309488
+r1
+xCompileC
+xbuild/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/Objects-normal/i386/main.o
+x/Users/reshma/Desktop/tabbarSAmple/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/reshma/Desktop/tabbarSAmple/main.m308208879#308208879#0(0"0(0#0#41"/Users/reshma/Desktop/tabbarSAmple/main.m4300911832#1915"    cd /Users/reshma/Desktop/tabbarSAmple    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/tabbarSAmple-generated-files.hmap -I/Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/tabbarSAmple-own-target-headers.hmap -I/Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/tabbarSAmple-all-target-headers.hmap -iquote /Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/tabbarSAmple-project-headers.hmap -F/Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator -I/Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/DerivedSources/i386 -I/Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tabbarSAmple_Prefix-ddyfnnmameytpodtrtbpsrjxpcti/tabbarSAmple_Prefix.pch -c /Users/reshma/Desktop/tabbarSAmple/main.m -o /Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/Objects-normal/i386/main.o0#
+
+CCompileC build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/Objects-normal/i386/tabbarSAmpleAppDelegate.o /Users/reshma/Desktop/tabbarSAmple/Classes/tabbarSAmpleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308221583.473790
+e308221583.586286
+r1
+xCompileC
+xbuild/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/Objects-normal/i386/tabbarSAmpleAppDelegate.o
+x/Users/reshma/Desktop/tabbarSAmple/Classes/tabbarSAmpleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/reshma/Desktop/tabbarSAmple/Classes/tabbarSAmpleAppDelegate.m308221583#308221583#0(0"0(0#0#68"/Users/reshma/Desktop/tabbarSAmple/Classes/tabbarSAmpleAppDelegate.m4300911832#1961"    cd /Users/reshma/Desktop/tabbarSAmple    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/tabbarSAmple-generated-files.hmap -I/Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/tabbarSAmple-own-target-headers.hmap -I/Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/tabbarSAmple-all-target-headers.hmap -iquote /Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/tabbarSAmple-project-headers.hmap -F/Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator -I/Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/DerivedSources/i386 -I/Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tabbarSAmple_Prefix-ddyfnnmameytpodtrtbpsrjxpcti/tabbarSAmple_Prefix.pch -c /Users/reshma/Desktop/tabbarSAmple/Classes/tabbarSAmpleAppDelegate.m -o /Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/Objects-normal/i386/tabbarSAmpleAppDelegate.o0#
+
+CCompileC build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/Objects-normal/i386/tabbarSAmpleViewController.o /Users/reshma/Desktop/tabbarSAmple/Classes/tabbarSAmpleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308222375.948196
+e308222376.052740
+r1
+xCompileC
+xbuild/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/Objects-normal/i386/tabbarSAmpleViewController.o
+x/Users/reshma/Desktop/tabbarSAmple/Classes/tabbarSAmpleViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/reshma/Desktop/tabbarSAmple/Classes/tabbarSAmpleViewController.m308222375#308222376#0(0"0(0#0#71"/Users/reshma/Desktop/tabbarSAmple/Classes/tabbarSAmpleViewController.m4300911832#1967"    cd /Users/reshma/Desktop/tabbarSAmple    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/tabbarSAmple-generated-files.hmap -I/Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/tabbarSAmple-own-target-headers.hmap -I/Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/tabbarSAmple-all-target-headers.hmap -iquote /Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/tabbarSAmple-project-headers.hmap -F/Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator -I/Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/DerivedSources/i386 -I/Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tabbarSAmple_Prefix-ddyfnnmameytpodtrtbpsrjxpcti/tabbarSAmple_Prefix.pch -c /Users/reshma/Desktop/tabbarSAmple/Classes/tabbarSAmpleViewController.m -o /Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/Objects-normal/i386/tabbarSAmpleViewController.o0#
+
+CCompileXIB /Users/reshma/Desktop/tabbarSAmple/MainWindow.xib
+s308221983.551397
+e308221984.841198
+r1
+xCompileXIB
+x/Users/reshma/Desktop/tabbarSAmple/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib308221983#308221984#0(0"0(0#0#49"/Users/reshma/Desktop/tabbarSAmple/MainWindow.xib4300911832#475"    cd /Users/reshma/Desktop/tabbarSAmple    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app/MainWindow.nib /Users/reshma/Desktop/tabbarSAmple/MainWindow.xib0#
+
+CCompileXIB /Users/reshma/Desktop/tabbarSAmple/NewNib.xib
+s308222514.434232
+e308222514.693859
+r1
+xCompileXIB
+x/Users/reshma/Desktop/tabbarSAmple/NewNib.xib
+lSLF07#2@21"CompileXIB NewNib.xib308222514#308222514#0(0"0(0#0#45"/Users/reshma/Desktop/tabbarSAmple/NewNib.xib4300911832#467"    cd /Users/reshma/Desktop/tabbarSAmple    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app/NewNib.nib /Users/reshma/Desktop/tabbarSAmple/NewNib.xib0#
+
+CCompileXIB /Users/reshma/Desktop/tabbarSAmple/SecondNib.xib
+s308222351.350254
+e308222351.661877
+r1
+xCompileXIB
+x/Users/reshma/Desktop/tabbarSAmple/SecondNib.xib
+lSLF07#2@24"CompileXIB SecondNib.xib308222351#308222351#0(0"0(0#0#48"/Users/reshma/Desktop/tabbarSAmple/SecondNib.xib4300911832#473"    cd /Users/reshma/Desktop/tabbarSAmple    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app/SecondNib.nib /Users/reshma/Desktop/tabbarSAmple/SecondNib.xib0#
+
+CCompileXIB /Users/reshma/Desktop/tabbarSAmple/tabbarSAmpleViewController.xib
+s308212080.876029
+e308212083.931407
+r1
+xCompileXIB
+x/Users/reshma/Desktop/tabbarSAmple/tabbarSAmpleViewController.xib
+lSLF07#2@41"CompileXIB tabbarSAmpleViewController.xib308212080#308212083#0(0"0(0#0#65"/Users/reshma/Desktop/tabbarSAmple/tabbarSAmpleViewController.xib4300911832#507"    cd /Users/reshma/Desktop/tabbarSAmple    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app/tabbarSAmpleViewController.nib /Users/reshma/Desktop/tabbarSAmple/tabbarSAmpleViewController.xib0#
+
+CGenerateDSYMFile /Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app.dSYM /Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app/tabbarSAmple
+s308222376.071301
+e308222376.086093
+r1
+xGenerateDSYMFile
+x/Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app.dSYM
+x/Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app/tabbarSAmple
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/tabbarSAmple.app.dSYM build/Debug-iphonesimulator/tabbarSAmple.app/tabbarSAmple308222376#308222376#0(0"0(0#0#92"/Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app/tabbarSAmple4300911832#386"    cd /Users/reshma/Desktop/tabbarSAmple    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app/tabbarSAmple -o /Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app.dSYM0#
+
+CLd /Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app/tabbarSAmple normal i386
+s308222376.052844
+e308222376.071203
+r1
+xLd
+x/Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app/tabbarSAmple
+xnormal
+xi386
+lSLF07#2@97"Link /Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app/tabbarSAmple308222376#308222376#0(0"0(0#0#0"4300911832#869"    cd /Users/reshma/Desktop/tabbarSAmple    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator -F/Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator -filelist /Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/Objects-normal/i386/tabbarSAmple.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app/tabbarSAmple0#
+
+CProcessInfoPlistFile /Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app/Info.plist tabbarSAmple-Info.plist
+s308208877.800436
+e308208877.803676
+r1
+xProcessInfoPlistFile
+x/Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app/Info.plist
+xtabbarSAmple-Info.plist
+lSLF07#2@31"Process tabbarSAmple-Info.plist308208877#308208877#0(0"0(0#0#58"/Users/reshma/Desktop/tabbarSAmple/tabbarSAmple-Info.plist4300911832#482"    cd /Users/reshma/Desktop/tabbarSAmple    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility tabbarSAmple-Info.plist -genpkginfo /Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app/Info.plist0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tabbarSAmple_Prefix-ddyfnnmameytpodtrtbpsrjxpcti/tabbarSAmple_Prefix.pch.gch tabbarSAmple_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308208878.496616
+e308208879.262517
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tabbarSAmple_Prefix-ddyfnnmameytpodtrtbpsrjxpcti/tabbarSAmple_Prefix.pch.gch
+xtabbarSAmple_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile tabbarSAmple_Prefix.pch308208878#308208879#0(0"0(0#0#58"/Users/reshma/Desktop/tabbarSAmple/tabbarSAmple_Prefix.pch4300911832#1806"    cd /Users/reshma/Desktop/tabbarSAmple    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/tabbarSAmple-generated-files.hmap -I/Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/tabbarSAmple-own-target-headers.hmap -I/Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/tabbarSAmple-all-target-headers.hmap -iquote /Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/tabbarSAmple-project-headers.hmap -F/Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator -I/Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/DerivedSources/i386 -I/Users/reshma/Desktop/tabbarSAmple/build/tabbarSAmple.build/Debug-iphonesimulator/tabbarSAmple.build/DerivedSources -c /Users/reshma/Desktop/tabbarSAmple/tabbarSAmple_Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tabbarSAmple_Prefix-ddyfnnmameytpodtrtbpsrjxpcti/tabbarSAmple_Prefix.pch.gch0#
+
+CTouch /Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app
+s308222514.695053
+e308222514.697580
+r1
+xTouch
+x/Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app
+lSLF07#2@85"Touch /Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app308222514#308222514#0(0"0(0#0#0"4300911832#275"    cd /Users/reshma/Desktop/tabbarSAmple    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/reshma/Desktop/tabbarSAmple/build/Debug-iphonesimulator/tabbarSAmple.app0#
+

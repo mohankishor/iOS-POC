@@ -1,0 +1,1875 @@
+TMedia Browser
+v7
+r0
+t303644944.380906
+cCheck dependencies
+cProcessInfoPlistFile "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Info.plist" Info.plist
+cCpResource "build/Debug/Media Browser.app/Contents/Resources/relaunch" build/Debug/relaunch
+cCopyStringsFile "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/reshma/Desktop/Source Code/English.lproj/MainMenu.xib"
+cCpResource "build/Debug/Media Browser.app/Contents/Resources/links.png" links.png
+cCpResource "build/Debug/Media Browser.app/Contents/Resources/photos.png" photos.png
+cCpResource "build/Debug/Media Browser.app/Contents/Resources/larger.png" larger.png
+cCpResource "build/Debug/Media Browser.app/Contents/Resources/smaller.png" smaller.png
+cCopyPlistFile "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/Photos.plist" Photos.plist
+cCpResource "build/Debug/Media Browser.app/Contents/Resources/link.jpg" link.jpg
+cCpResource "build/Debug/Media Browser.app/Contents/Resources/SafariBookmarksMenu.png" SafariBookmarksMenu.png
+cCpResource "build/Debug/Media Browser.app/Contents/Resources/English.lproj/Media Browser Help" "English.lproj/Media Browser Help"
+cCpResource "build/Debug/Media Browser.app/Contents/Resources/Info.html" Info.html
+cCopyTiffFile "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/i.tiff" i.tiff
+cCopyTiffFile "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/MediaStatus.tiff" MediaStatus.tiff
+cCpResource "build/Debug/Media Browser.app/Contents/Resources/AppIcon.icns" AppIcon.icns
+cCopyTiffFile "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/dragBadge.tiff" dragBadge.tiff
+cCpResource "build/Debug/Media Browser.app/Contents/Resources/PhotoDatabase.db" PhotoDatabase.db
+cCpResource "build/Debug/Media Browser.app/Contents/Resources/SafariBookmarksBar.png" SafariBookmarksBar.png
+cProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Media_Browser_Prefix-glrmholwzpoacldvcvpjjmxuioeq/Media_Browser_Prefix.pch.gch Media_Browser_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/main.o" "/Users/reshma/Desktop/Source Code/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/Media_BrowserAppDelegate.o" "/Users/reshma/Desktop/Source Code/Media_BrowserAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBPhotoData.o" "/Users/reshma/Desktop/Source Code/MBPhotoData.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBAppController.o" "/Users/reshma/Desktop/Source Code/MBAppController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBPhotoView.o" "/Users/reshma/Desktop/Source Code/MBPhotoView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBOutlineView.o" "/Users/reshma/Desktop/Source Code/MBOutlineView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBOutlineViewCell.o" "/Users/reshma/Desktop/Source Code/MBOutlineViewCell.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBLinkData.o" "/Users/reshma/Desktop/Source Code/MBLinkData.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBTableViewCell.o" "/Users/reshma/Desktop/Source Code/MBTableViewCell.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/NSWindow+Flipr.o" "/Users/reshma/Desktop/Source Code/NSWindow+Flipr.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/NSApplication+Relaunch.o" "/Users/reshma/Desktop/Source Code/NSApplication+Relaunch.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/RBSplitSubview.o" "/Users/reshma/Desktop/Source Code/RBSplitSubview.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/RBSplitView.o" "/Users/reshma/Desktop/Source Code/RBSplitView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/FMDatabase.o" "/Users/reshma/Desktop/Source Code/FMDatabase/FMDatabase.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/FMDatabaseAdditions.o" "/Users/reshma/Desktop/Source Code/FMDatabase/FMDatabaseAdditions.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/FMResultSet.o" "/Users/reshma/Desktop/Source Code/FMDatabase/FMResultSet.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBPhotoController.o" "/Users/reshma/Desktop/Source Code/MBPhotoController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBLinkController.o" "/Users/reshma/Desktop/Source Code/MBLinkController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBDatabase.o" "/Users/reshma/Desktop/Source Code/MBDatabase.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBLibraryNode.o" "/Users/reshma/Desktop/Source Code/MBLibraryNode.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBLinkLibraryNode.o" "/Users/reshma/Desktop/Source Code/MBLinkLibraryNode.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBPhotoLibraryNode.o" "/Users/reshma/Desktop/Source Code/MBPhotoLibraryNode.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/MacOS/Media Browser" normal x86_64
+cTouch "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app"
+
+N/Developer/Examples/iPhone/Source Code/AppIcon.icns
+c000000004C69043600000000000553B3
+t1281950774
+s349107
+
+N/Developer/Examples/iPhone/Source Code/English.lproj/InfoPlist.strings
+c000000004C690436000000000000002D
+t1281950774
+s45
+
+N/Developer/Examples/iPhone/Source Code/English.lproj/MainMenu.xib
+c000000004C690437000000000005912A
+t1281950775
+s364842
+
+N/Developer/Examples/iPhone/Source Code/English.lproj/Media Browser Help
+c000000004C6904370000000000000110
+t1281950775
+s272
+
+N/Developer/Examples/iPhone/Source Code/FMDatabase/FMDatabase.h
+c000000004C6904370000000000000874
+t1281950775
+s2164
+i<Foundation/Foundation.h>
+i"sqlite3.h"
+i"FMResultSet.h"
+
+N/Developer/Examples/iPhone/Source Code/FMDatabase/FMDatabase.m
+c000000004C69043700000000000037F2
+t1281950775
+s14322
+i"FMDatabase.h"
+i"unistd.h"
+
+N/Developer/Examples/iPhone/Source Code/FMDatabase/FMDatabaseAdditions.h
+c000000004C6904370000000000000362
+t1281950775
+s866
+i<Foundation/Foundation.h>
+
+N/Developer/Examples/iPhone/Source Code/FMDatabase/FMDatabaseAdditions.m
+c000000004C6904370000000000000ADA
+t1281950775
+s2778
+i"FMDatabase.h"
+i"FMDatabaseAdditions.h"
+
+N/Developer/Examples/iPhone/Source Code/FMDatabase/FMResultSet.h
+c000000004C69043700000000000007D0
+t1281950775
+s2000
+i<Foundation/Foundation.h>
+i"sqlite3.h"
+
+N/Developer/Examples/iPhone/Source Code/FMDatabase/FMResultSet.m
+c000000004C6904370000000000001DF1
+t1281950775
+s7665
+i"FMResultSet.h"
+i"FMDatabase.h"
+i"unistd.h"
+
+N/Developer/Examples/iPhone/Source Code/Info.html
+c000000004C6904370000000000000697
+t1281950775
+s1687
+
+N/Developer/Examples/iPhone/Source Code/MBAppController.h
+c000000004C69043700000000000008A7
+t1281950775
+s2215
+i<Cocoa/Cocoa.h>
+i"RBSplitView.h"
+
+N/Developer/Examples/iPhone/Source Code/MBAppController.m
+c000000004C6904380000000000002FB5
+t1281950776
+s12213
+i"MBAppController.h"
+i"NSWindow+Flipr.h"
+i"NSApplication+Relaunch.h"
+
+N/Developer/Examples/iPhone/Source Code/MBDatabase.h
+c000000004C690438000000000000027D
+t1281950776
+s637
+i<Cocoa/Cocoa.h>
+
+N/Developer/Examples/iPhone/Source Code/MBDatabase.m
+c000000004C6904380000000000000EF3
+t1281950776
+s3827
+i"MBDatabase.h"
+i"FMDatabase.h"
+i"FMResultSet.h"
+
+N/Developer/Examples/iPhone/Source Code/MBLibraryNode.h
+c000000004C69043800000000000001E2
+t1281950776
+s482
+i<Cocoa/Cocoa.h>
+
+N/Developer/Examples/iPhone/Source Code/MBLibraryNode.m
+c000000004C6904380000000000000309
+t1281950776
+s777
+i"MBLibraryNode.h"
+
+N/Developer/Examples/iPhone/Source Code/MBLinkController.h
+c000000004C690438000000000000022F
+t1281950776
+s559
+i<Cocoa/Cocoa.h>
+
+N/Developer/Examples/iPhone/Source Code/MBLinkController.m
+c000000004C69043800000000000019EE
+t1281950776
+s6638
+i"MBLinkController.h"
+i"MBLinkLibraryNode.h"
+i"MBLinkData.h"
+i"MBOutlineViewCell.h"
+i"MBTableViewCell.h"
+
+N/Developer/Examples/iPhone/Source Code/MBLinkData.h
+c000000004C6904380000000000000172
+t1281950776
+s370
+i<Cocoa/Cocoa.h>
+
+N/Developer/Examples/iPhone/Source Code/MBLinkData.m
+c000000004C690438000000000000015A
+t1281950776
+s346
+i"MBLinkData.h"
+
+N/Developer/Examples/iPhone/Source Code/MBLinkLibraryNode.h
+c000000004C69043800000000000001EF
+t1281950776
+s495
+i<Cocoa/Cocoa.h>
+i"MBLibraryNode.h"
+
+N/Developer/Examples/iPhone/Source Code/MBLinkLibraryNode.m
+c000000004C69043800000000000008FF
+t1281950776
+s2303
+i"MBLinkLibraryNode.h"
+
+N/Developer/Examples/iPhone/Source Code/MBOutlineView.h
+c000000004C690438000000000000029B
+t1281950776
+s667
+i<Cocoa/Cocoa.h>
+
+N/Developer/Examples/iPhone/Source Code/MBOutlineView.m
+c000000004C690438000000000000124A
+t1281950776
+s4682
+i"MBOutlineView.h"
+i"MBAppController.h"
+
+N/Developer/Examples/iPhone/Source Code/MBOutlineViewCell.h
+c000000004C69043800000000000001BE
+t1281950776
+s446
+i<Cocoa/Cocoa.h>
+
+N/Developer/Examples/iPhone/Source Code/MBOutlineViewCell.m
+c000000004C690438000000000000095D
+t1281950776
+s2397
+i"MBOutlineViewCell.h"
+
+N/Developer/Examples/iPhone/Source Code/MBPhotoController.h
+c000000004C6904380000000000000BAE
+t1281950776
+s2990
+i<Cocoa/Cocoa.h>
+i"MBPhotoView.h"
+i"MBOutlineView.h"
+i"MBDatabase.h"
+
+N/Developer/Examples/iPhone/Source Code/MBPhotoController.m
+c000000004C690438000000000000BACC
+t1281950776
+s47820
+i"MBPhotoController.h"
+i"MBPhotoLibraryNode.h"
+i"MBPhotoData.h"
+i"MBPhotoView.h"
+i"MBOutlineViewCell.h"
+
+N/Developer/Examples/iPhone/Source Code/MBPhotoData.h
+c000000004C6904380000000000000248
+t1281950776
+s584
+i<Cocoa/Cocoa.h>
+
+N/Developer/Examples/iPhone/Source Code/MBPhotoData.m
+c000000004C69043800000000000002B0
+t1281950776
+s688
+i"MBPhotoData.h"
+
+N/Developer/Examples/iPhone/Source Code/MBPhotoLibraryNode.h
+c000000004C690438000000000000016E
+t1281950776
+s366
+i<Cocoa/Cocoa.h>
+i"MBLibraryNode.h"
+
+N/Developer/Examples/iPhone/Source Code/MBPhotoLibraryNode.m
+c000000004C6904380000000000000ADF
+t1281950776
+s2783
+i"MBPhotoLibraryNode.h"
+
+N/Developer/Examples/iPhone/Source Code/MBPhotoView.h
+c000000004C690438000000000000087C
+t1281950776
+s2172
+i<Cocoa/Cocoa.h>
+
+N/Developer/Examples/iPhone/Source Code/MBPhotoView.m
+c000000004C6904380000000000007F31
+t1281950776
+s32561
+i"MBPhotoView.h"
+i"MBPhotoController.h"
+
+N/Developer/Examples/iPhone/Source Code/MBTableViewCell.h
+c000000004C69043800000000000001A9
+t1281950776
+s425
+i<Cocoa/Cocoa.h>
+
+N/Developer/Examples/iPhone/Source Code/MBTableViewCell.m
+c000000004C69043800000000000008E1
+t1281950776
+s2273
+i"MBTableViewCell.h"
+
+N/Developer/Examples/iPhone/Source Code/MediaStatus.tiff
+c000000004C69043800000000000073E2
+t1281950776
+s29666
+
+N/Developer/Examples/iPhone/Source Code/Media_BrowserAppDelegate.h
+c000000004C6904380000000000000173
+t1281950776
+s371
+i<Cocoa/Cocoa.h>
+
+N/Developer/Examples/iPhone/Source Code/Media_BrowserAppDelegate.m
+c000000004C6904380000000000000242
+t1281950776
+s578
+i"Media_BrowserAppDelegate.h"
+i"MBAppController.h"
+i"NSApplication+Relaunch.h"
+
+N/Developer/Examples/iPhone/Source Code/Media_Browser_Prefix.pch
+c000000004C690438000000000000009D
+t1281950776
+s157
+i<Cocoa/Cocoa.h>
+
+N/Developer/Examples/iPhone/Source Code/NSApplication+Relaunch.h
+c000000004C6904380000000000000136
+t1281950776
+s310
+i<Cocoa/Cocoa.h>
+
+N/Developer/Examples/iPhone/Source Code/NSApplication+Relaunch.m
+c000000004C6904380000000000000322
+t1281950776
+s802
+i"NSApplication+Relaunch.h"
+
+N/Developer/Examples/iPhone/Source Code/NSWindow+Flipr.h
+c000000004C690438000000000000017B
+t1281950776
+s379
+i<Cocoa/Cocoa.h>
+
+N/Developer/Examples/iPhone/Source Code/NSWindow+Flipr.m
+c000000004C690438000000000000289A
+t1281950776
+s10394
+i"NSWindow+Flipr.h"
+i<QuartzCore/QuartzCore.h>
+i<sys/sysctl.h>
+
+N/Developer/Examples/iPhone/Source Code/PhotoDatabase.db
+c000000004C6904380000000000000800
+t1281950776
+s2048
+
+N/Developer/Examples/iPhone/Source Code/Photos.plist
+c000000004C69043800000000000002AD
+t1281950776
+s685
+
+N/Developer/Examples/iPhone/Source Code/RBSplitSubview.h
+c000000004C6904390000000000001985
+t1281950777
+s6533
+i<Cocoa/Cocoa.h>
+
+N/Developer/Examples/iPhone/Source Code/RBSplitSubview.m
+c000000004C6904390000000000007AF0
+t1281950777
+s31472
+i"RBSplitView.h"
+i"RBSplitViewPrivateDefines.h"
+
+N/Developer/Examples/iPhone/Source Code/RBSplitView.h
+c000000004C69043A0000000000003115
+t1281950778
+s12565
+i"RBSplitSubview.h"
+
+N/Developer/Examples/iPhone/Source Code/RBSplitView.m
+c000000004C69043A000000000000FA56
+t1281950778
+s64086
+i"RBSplitView.h"
+i"RBSplitViewPrivateDefines.h"
+
+N/Developer/Examples/iPhone/Source Code/RBSplitViewPrivateDefines.h
+c000000004C69043A000000000000130D
+t1281950778
+s4877
+
+N/Developer/Examples/iPhone/Source Code/SafariBookmarksBar.png
+c000000004C69043A00000000000005D9
+t1281950778
+s1497
+
+N/Developer/Examples/iPhone/Source Code/SafariBookmarksMenu.png
+c000000004C69043A0000000000000148
+t1281950778
+s328
+
+N/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app
+t1281952144
+s102
+
+N/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app/Contents/Info.plist
+t1281951810
+s1203
+
+N/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app/Contents/MacOS/Media Browser
+t1281951808
+s398840
+
+N/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app/Contents/PkgInfo
+t1281951801
+s8
+
+N/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app/Contents/Resources/AppIcon.icns
+t1281951802
+s349107
+
+N/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1281951801
+s92
+
+N/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app/Contents/Resources/English.lproj/MainMenu.nib
+t1281951803
+s60435
+
+N/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app/Contents/Resources/English.lproj/Media Browser Help
+t1281951802
+s272
+
+N/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app/Contents/Resources/Info.html
+t1281951802
+s1687
+
+N/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app/Contents/Resources/MediaStatus.tiff
+t1281951802
+s29666
+
+N/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app/Contents/Resources/PhotoDatabase.db
+t1281951802
+s2048
+
+N/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app/Contents/Resources/Photos.plist
+t1281951802
+s685
+
+N/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app/Contents/Resources/SafariBookmarksBar.png
+t1281951802
+s1497
+
+N/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app/Contents/Resources/SafariBookmarksMenu.png
+t1281951802
+s328
+
+N/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app/Contents/Resources/dragBadge.tiff
+t1281951802
+s1158
+
+N/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app/Contents/Resources/i.tiff
+t1281951802
+s880
+
+N/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app/Contents/Resources/larger.png
+t1281951802
+s217
+
+N/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app/Contents/Resources/link.jpg
+t1281951802
+s3295
+
+N/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app/Contents/Resources/links.png
+t1281951802
+s24191
+
+N/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app/Contents/Resources/photos.png
+t1281951802
+s29040
+
+N/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app/Contents/Resources/relaunch
+t1281951801
+s9432
+
+N/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app/Contents/Resources/smaller.png
+t1281951802
+s145
+
+N/Developer/Examples/iPhone/Source Code/build/Debug/relaunch
+c000000004C69083900000000000024D8
+t1281951801
+s9432
+
+N/Developer/Examples/iPhone/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/FMDatabase.o
+t1281951807
+s60892
+
+N/Developer/Examples/iPhone/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/FMDatabaseAdditions.o
+t1281951807
+s17528
+
+N/Developer/Examples/iPhone/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/FMResultSet.o
+t1281951807
+s40224
+
+N/Developer/Examples/iPhone/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBAppController.o
+t1281951806
+s78876
+
+N/Developer/Examples/iPhone/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBDatabase.o
+t1281951808
+s22868
+
+N/Developer/Examples/iPhone/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBLibraryNode.o
+t1281951808
+s13136
+
+N/Developer/Examples/iPhone/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBLinkController.o
+t1281951807
+s47932
+
+N/Developer/Examples/iPhone/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBLinkData.o
+t1281951806
+s10284
+
+N/Developer/Examples/iPhone/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBLinkLibraryNode.o
+t1281951808
+s20044
+
+N/Developer/Examples/iPhone/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBOutlineView.o
+t1281951806
+s45152
+
+N/Developer/Examples/iPhone/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBOutlineViewCell.o
+t1281951806
+s27920
+
+N/Developer/Examples/iPhone/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBPhotoController.o
+t1281951808
+s172520
+
+N/Developer/Examples/iPhone/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBPhotoData.o
+t1281951806
+s16844
+
+N/Developer/Examples/iPhone/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBPhotoLibraryNode.o
+t1281951808
+s17852
+
+N/Developer/Examples/iPhone/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBPhotoView.o
+t1281951806
+s133476
+
+N/Developer/Examples/iPhone/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBTableViewCell.o
+t1281951806
+s26908
+
+N/Developer/Examples/iPhone/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/Media Browser.LinkFileList
+c000000004C6908390000000000000AC2
+t1281951801
+s2754
+
+N/Developer/Examples/iPhone/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/Media_BrowserAppDelegate.o
+t1281951806
+s22452
+
+N/Developer/Examples/iPhone/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/NSApplication+Relaunch.o
+t1281951806
+s18100
+
+N/Developer/Examples/iPhone/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/NSWindow+Flipr.o
+t1281951806
+s56188
+
+N/Developer/Examples/iPhone/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/RBSplitSubview.o
+t1281951807
+s96008
+
+N/Developer/Examples/iPhone/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/RBSplitView.o
+t1281951807
+s147856
+
+N/Developer/Examples/iPhone/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/main.o
+t1281951805
+s4976
+
+N/Developer/Examples/iPhone/Source Code/dragBadge.tiff
+c000000004C6904360000000000000486
+t1281950774
+s1158
+
+N/Developer/Examples/iPhone/Source Code/i.tiff
+c000000004C6904370000000000000370
+t1281950775
+s880
+
+N/Developer/Examples/iPhone/Source Code/larger.png
+c000000004C69043700000000000000D9
+t1281950775
+s217
+
+N/Developer/Examples/iPhone/Source Code/link.jpg
+c000000004C6904370000000000000CDF
+t1281950775
+s3295
+
+N/Developer/Examples/iPhone/Source Code/links.png
+c000000004C6904370000000000005E7F
+t1281950775
+s24191
+
+N/Developer/Examples/iPhone/Source Code/main.m
+c000000004C690437000000000000010B
+t1281950775
+s267
+i<Cocoa/Cocoa.h>
+
+N/Developer/Examples/iPhone/Source Code/photos.png
+c000000004C6904390000000000007170
+t1281950777
+s29040
+
+N/Developer/Examples/iPhone/Source Code/smaller.png
+c000000004C69043A0000000000000091
+t1281950778
+s145
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+c000000004CAA7404000000000001A854
+t1286239236
+s108628
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/PreferencePanes.framework/PreferencePanes
+c000000004CAA74050000000000018C38
+t1286239237
+s101432
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C23B7E500000000000000BF
+t1277409253
+s191
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CAA740500000000000A3C74
+t1286239237
+s670836
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QuickLook.framework/QuickLook
+c000000004CAA74050000000000033CFC
+t1286239237
+s212220
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sqlite3.h
+c000000004C239FC5000000000003D86F
+t1277403077
+s252015
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/sysctl.h
+c000000004C2399480000000000007974
+t1277401416
+s31092
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004BBD2CE9000000000000563E
+t1270689001
+s22078
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/libsqlite3.0.dylib
+c000000004CAA7409000000000000CB64
+t1286239241
+s52068
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/reshma/Desktop/Source Code/AppIcon.icns
+c000000004C69043600000000000553B3
+t1281950774
+s349107
+
+N/Users/reshma/Desktop/Source Code/English.lproj/InfoPlist.strings
+c000000004C690436000000000000002D
+t1281950774
+s45
+
+N/Users/reshma/Desktop/Source Code/English.lproj/MainMenu.xib
+c000000004C690437000000000005912A
+t1281950775
+s364842
+
+N/Users/reshma/Desktop/Source Code/English.lproj/Media Browser Help
+c000000004C6904370000000000000110
+t1281950775
+s272
+
+N/Users/reshma/Desktop/Source Code/FMDatabase/FMDatabase.h
+c000000004C6904370000000000000874
+t1281950775
+s2164
+i<Foundation/Foundation.h>
+i"sqlite3.h"
+i"FMResultSet.h"
+
+N/Users/reshma/Desktop/Source Code/FMDatabase/FMDatabase.m
+c000000004C69043700000000000037F2
+t1281950775
+s14322
+i"FMDatabase.h"
+i"unistd.h"
+
+N/Users/reshma/Desktop/Source Code/FMDatabase/FMDatabaseAdditions.h
+c000000004C6904370000000000000362
+t1281950775
+s866
+i<Foundation/Foundation.h>
+
+N/Users/reshma/Desktop/Source Code/FMDatabase/FMDatabaseAdditions.m
+c000000004C6904370000000000000ADA
+t1281950775
+s2778
+i"FMDatabase.h"
+i"FMDatabaseAdditions.h"
+
+N/Users/reshma/Desktop/Source Code/FMDatabase/FMResultSet.h
+c000000004C69043700000000000007D0
+t1281950775
+s2000
+i<Foundation/Foundation.h>
+i"sqlite3.h"
+
+N/Users/reshma/Desktop/Source Code/FMDatabase/FMResultSet.m
+c000000004C6904370000000000001DF1
+t1281950775
+s7665
+i"FMResultSet.h"
+i"FMDatabase.h"
+i"unistd.h"
+
+N/Users/reshma/Desktop/Source Code/Info.html
+c000000004C6904370000000000000697
+t1281950775
+s1687
+
+N/Users/reshma/Desktop/Source Code/MBAppController.h
+c000000004C69043700000000000008A7
+t1281950775
+s2215
+i<Cocoa/Cocoa.h>
+i"RBSplitView.h"
+
+N/Users/reshma/Desktop/Source Code/MBAppController.m
+c000000004C6904380000000000002FB5
+t1281950776
+s12213
+i"MBAppController.h"
+i"NSWindow+Flipr.h"
+i"NSApplication+Relaunch.h"
+
+N/Users/reshma/Desktop/Source Code/MBDatabase.h
+c000000004C690438000000000000027D
+t1281950776
+s637
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Desktop/Source Code/MBDatabase.m
+c000000004C6904380000000000000EF3
+t1281950776
+s3827
+i"MBDatabase.h"
+i"FMDatabase.h"
+i"FMResultSet.h"
+
+N/Users/reshma/Desktop/Source Code/MBLibraryNode.h
+c000000004C69043800000000000001E2
+t1281950776
+s482
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Desktop/Source Code/MBLibraryNode.m
+c000000004C6904380000000000000309
+t1281950776
+s777
+i"MBLibraryNode.h"
+
+N/Users/reshma/Desktop/Source Code/MBLinkController.h
+c000000004C690438000000000000022F
+t1281950776
+s559
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Desktop/Source Code/MBLinkController.m
+c000000004C69043800000000000019EE
+t1281950776
+s6638
+i"MBLinkController.h"
+i"MBLinkLibraryNode.h"
+i"MBLinkData.h"
+i"MBOutlineViewCell.h"
+i"MBTableViewCell.h"
+
+N/Users/reshma/Desktop/Source Code/MBLinkData.h
+c000000004C6904380000000000000172
+t1281950776
+s370
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Desktop/Source Code/MBLinkData.m
+c000000004C690438000000000000015A
+t1281950776
+s346
+i"MBLinkData.h"
+
+N/Users/reshma/Desktop/Source Code/MBLinkLibraryNode.h
+c000000004C69043800000000000001EF
+t1281950776
+s495
+i<Cocoa/Cocoa.h>
+i"MBLibraryNode.h"
+
+N/Users/reshma/Desktop/Source Code/MBLinkLibraryNode.m
+c000000004C69043800000000000008FF
+t1281950776
+s2303
+i"MBLinkLibraryNode.h"
+
+N/Users/reshma/Desktop/Source Code/MBOutlineView.h
+c000000004C690438000000000000029B
+t1281950776
+s667
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Desktop/Source Code/MBOutlineView.m
+c000000004C690438000000000000124A
+t1281950776
+s4682
+i"MBOutlineView.h"
+i"MBAppController.h"
+
+N/Users/reshma/Desktop/Source Code/MBOutlineViewCell.h
+c000000004C69043800000000000001BE
+t1281950776
+s446
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Desktop/Source Code/MBOutlineViewCell.m
+c000000004C690438000000000000095D
+t1281950776
+s2397
+i"MBOutlineViewCell.h"
+
+N/Users/reshma/Desktop/Source Code/MBPhotoController.h
+c000000004C6904380000000000000BAE
+t1281950776
+s2990
+i<Cocoa/Cocoa.h>
+i"MBPhotoView.h"
+i"MBOutlineView.h"
+i"MBDatabase.h"
+
+N/Users/reshma/Desktop/Source Code/MBPhotoController.m
+c000000004C690438000000000000BACC
+t1281950776
+s47820
+i"MBPhotoController.h"
+i"MBPhotoLibraryNode.h"
+i"MBPhotoData.h"
+i"MBPhotoView.h"
+i"MBOutlineViewCell.h"
+
+N/Users/reshma/Desktop/Source Code/MBPhotoData.h
+c000000004C6904380000000000000248
+t1281950776
+s584
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Desktop/Source Code/MBPhotoData.m
+c000000004C69043800000000000002B0
+t1281950776
+s688
+i"MBPhotoData.h"
+
+N/Users/reshma/Desktop/Source Code/MBPhotoLibraryNode.h
+c000000004C690438000000000000016E
+t1281950776
+s366
+i<Cocoa/Cocoa.h>
+i"MBLibraryNode.h"
+
+N/Users/reshma/Desktop/Source Code/MBPhotoLibraryNode.m
+c000000004C6904380000000000000ADF
+t1281950776
+s2783
+i"MBPhotoLibraryNode.h"
+
+N/Users/reshma/Desktop/Source Code/MBPhotoView.h
+c000000004C690438000000000000087C
+t1281950776
+s2172
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Desktop/Source Code/MBPhotoView.m
+c000000004C6904380000000000007F31
+t1281950776
+s32561
+i"MBPhotoView.h"
+i"MBPhotoController.h"
+
+N/Users/reshma/Desktop/Source Code/MBTableViewCell.h
+c000000004C69043800000000000001A9
+t1281950776
+s425
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Desktop/Source Code/MBTableViewCell.m
+c000000004C69043800000000000008E1
+t1281950776
+s2273
+i"MBTableViewCell.h"
+
+N/Users/reshma/Desktop/Source Code/MediaStatus.tiff
+c000000004C69043800000000000073E2
+t1281950776
+s29666
+
+N/Users/reshma/Desktop/Source Code/Media_BrowserAppDelegate.h
+c000000004C6904380000000000000173
+t1281950776
+s371
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Desktop/Source Code/Media_BrowserAppDelegate.m
+c000000004C6904380000000000000242
+t1281950776
+s578
+i"Media_BrowserAppDelegate.h"
+i"MBAppController.h"
+i"NSApplication+Relaunch.h"
+
+N/Users/reshma/Desktop/Source Code/Media_Browser_Prefix.pch
+c000000004C690438000000000000009D
+t1281950776
+s157
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Desktop/Source Code/NSApplication+Relaunch.h
+c000000004C6904380000000000000136
+t1281950776
+s310
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Desktop/Source Code/NSApplication+Relaunch.m
+c000000004C6904380000000000000322
+t1281950776
+s802
+i"NSApplication+Relaunch.h"
+
+N/Users/reshma/Desktop/Source Code/NSWindow+Flipr.h
+c000000004C690438000000000000017B
+t1281950776
+s379
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Desktop/Source Code/NSWindow+Flipr.m
+c000000004C690438000000000000289A
+t1281950776
+s10394
+i"NSWindow+Flipr.h"
+i<QuartzCore/QuartzCore.h>
+i<sys/sysctl.h>
+
+N/Users/reshma/Desktop/Source Code/PhotoDatabase.db
+c000000004C6904380000000000000800
+t1281950776
+s2048
+
+N/Users/reshma/Desktop/Source Code/Photos.plist
+c000000004C69043800000000000002AD
+t1281950776
+s685
+
+N/Users/reshma/Desktop/Source Code/RBSplitSubview.h
+c000000004C6904390000000000001985
+t1281950777
+s6533
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Desktop/Source Code/RBSplitSubview.m
+c000000004C6904390000000000007AF0
+t1281950777
+s31472
+i"RBSplitView.h"
+i"RBSplitViewPrivateDefines.h"
+
+N/Users/reshma/Desktop/Source Code/RBSplitView.h
+c000000004C69043A0000000000003115
+t1281950778
+s12565
+i"RBSplitSubview.h"
+
+N/Users/reshma/Desktop/Source Code/RBSplitView.m
+c000000004C69043A000000000000FA56
+t1281950778
+s64086
+i"RBSplitView.h"
+i"RBSplitViewPrivateDefines.h"
+
+N/Users/reshma/Desktop/Source Code/RBSplitViewPrivateDefines.h
+c000000004C69043A000000000000130D
+t1281950778
+s4877
+
+N/Users/reshma/Desktop/Source Code/SafariBookmarksBar.png
+c000000004C69043A00000000000005D9
+t1281950778
+s1497
+
+N/Users/reshma/Desktop/Source Code/SafariBookmarksMenu.png
+c000000004C69043A0000000000000148
+t1281950778
+s328
+
+N/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app
+t1281952144
+s102
+
+N/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Info.plist
+t1281951810
+s1203
+
+N/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/MacOS/Media Browser
+t1281951808
+s398840
+
+N/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/PkgInfo
+t1281951801
+s8
+
+N/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/AppIcon.icns
+t1281951802
+s349107
+
+N/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1281951801
+s92
+
+N/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/English.lproj/MainMenu.nib
+t1281951803
+s60435
+
+N/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/English.lproj/Media Browser Help
+t1281951802
+s272
+
+N/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/Info.html
+t1281951802
+s1687
+
+N/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/MediaStatus.tiff
+t1281951802
+s29666
+
+N/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/PhotoDatabase.db
+t1281951802
+s2048
+
+N/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/Photos.plist
+t1281951802
+s685
+
+N/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/SafariBookmarksBar.png
+t1281951802
+s1497
+
+N/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/SafariBookmarksMenu.png
+t1281951802
+s328
+
+N/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/dragBadge.tiff
+t1281951802
+s1158
+
+N/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/i.tiff
+t1281951802
+s880
+
+N/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/larger.png
+t1281951802
+s217
+
+N/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/link.jpg
+t1281951802
+s3295
+
+N/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/links.png
+t1281951802
+s24191
+
+N/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/photos.png
+t1281951802
+s29040
+
+N/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/relaunch
+t1281951801
+s9432
+
+N/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/smaller.png
+t1281951802
+s145
+
+N/Users/reshma/Desktop/Source Code/build/Debug/relaunch
+c000000004C69083900000000000024D8
+t1281951801
+s9432
+
+N/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/FMDatabase.o
+t1281951807
+s60892
+
+N/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/FMDatabaseAdditions.o
+t1281951807
+s17528
+
+N/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/FMResultSet.o
+t1281951807
+s40224
+
+N/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBAppController.o
+t1281951806
+s78876
+
+N/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBDatabase.o
+t1281951808
+s22868
+
+N/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBLibraryNode.o
+t1281951808
+s13136
+
+N/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBLinkController.o
+t1281951807
+s47932
+
+N/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBLinkData.o
+t1281951806
+s10284
+
+N/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBLinkLibraryNode.o
+t1281951808
+s20044
+
+N/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBOutlineView.o
+t1281951806
+s45152
+
+N/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBOutlineViewCell.o
+t1281951806
+s27920
+
+N/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBPhotoController.o
+t1281951808
+s172520
+
+N/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBPhotoData.o
+t1281951806
+s16844
+
+N/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBPhotoLibraryNode.o
+t1281951808
+s17852
+
+N/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBPhotoView.o
+t1281951806
+s133476
+
+N/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBTableViewCell.o
+t1281951806
+s26908
+
+N/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/Media Browser.LinkFileList
+c000000004C6908390000000000000AC2
+t1281951801
+s2754
+
+N/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/Media_BrowserAppDelegate.o
+t1281951806
+s22452
+
+N/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/NSApplication+Relaunch.o
+t1281951806
+s18100
+
+N/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/NSWindow+Flipr.o
+t1281951806
+s56188
+
+N/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/RBSplitSubview.o
+t1281951807
+s96008
+
+N/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/RBSplitView.o
+t1281951807
+s147856
+
+N/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/main.o
+t1281951805
+s4976
+
+N/Users/reshma/Desktop/Source Code/dragBadge.tiff
+c000000004C6904360000000000000486
+t1281950774
+s1158
+
+N/Users/reshma/Desktop/Source Code/i.tiff
+c000000004C6904370000000000000370
+t1281950775
+s880
+
+N/Users/reshma/Desktop/Source Code/larger.png
+c000000004C69043700000000000000D9
+t1281950775
+s217
+
+N/Users/reshma/Desktop/Source Code/link.jpg
+c000000004C6904370000000000000CDF
+t1281950775
+s3295
+
+N/Users/reshma/Desktop/Source Code/links.png
+c000000004C6904370000000000005E7F
+t1281950775
+s24191
+
+N/Users/reshma/Desktop/Source Code/main.m
+c000000004C690437000000000000010B
+t1281950775
+s267
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Desktop/Source Code/photos.png
+c000000004C6904390000000000007170
+t1281950777
+s29040
+
+N/Users/reshma/Desktop/Source Code/smaller.png
+c000000004C69043A0000000000000091
+t1281950778
+s145
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Media_Browser_Prefix-edumnpsjbkhyngbunvctbsvnhwqy/Media_Browser_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Media_Browser_Prefix-glrmholwzpoacldvcvpjjmxuioeq/Media_Browser_Prefix.pch.gch
+t1281951805
+s54265616
+
+NInfo.plist
+c000000004C69043700000000000004DE
+t1281950775
+s1246
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies303644944#303644944#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/FMDatabase.o" "/Developer/Examples/iPhone/Source Code/FMDatabase/FMDatabase.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/FMDatabase.o" "/Users/reshma/Desktop/Source Code/FMDatabase/FMDatabase.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303644607.193104
+e303644607.479823
+r1
+xCompileC
+xbuild/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/FMDatabase.o
+x/Users/reshma/Desktop/Source Code/FMDatabase/FMDatabase.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/reshma/Desktop/Source Code/FMDatabase/FMDatabase.m303644607#303644607#0(0"0(0#0#57"/Users/reshma/Desktop/Source Code/FMDatabase/FMDatabase.m4300911832#1560"    cd "/Users/reshma/Desktop/Source Code"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-generated-files.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-own-target-headers.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-project-headers.hmap" "-F/Users/reshma/Desktop/Source Code/build/Debug" "-I/Users/reshma/Desktop/Source Code/build/Debug/include" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources/x86_64" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Media_Browser_Prefix-glrmholwzpoacldvcvpjjmxuioeq/Media_Browser_Prefix.pch -c "/Users/reshma/Desktop/Source Code/FMDatabase/FMDatabase.m" -o "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/FMDatabase.o"0#
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/FMDatabaseAdditions.o" "/Developer/Examples/iPhone/Source Code/FMDatabase/FMDatabaseAdditions.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/FMDatabaseAdditions.o" "/Users/reshma/Desktop/Source Code/FMDatabase/FMDatabaseAdditions.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303644607.417446
+e303644607.635748
+r1
+xCompileC
+xbuild/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/FMDatabaseAdditions.o
+x/Users/reshma/Desktop/Source Code/FMDatabase/FMDatabaseAdditions.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/reshma/Desktop/Source Code/FMDatabase/FMDatabaseAdditions.m: In function '-[FMDatabase(FMDatabaseAdditions) executeQuery:withArgumentsInArray:]':
+o/Users/reshma/Desktop/Source Code/FMDatabase/FMDatabaseAdditions.m:71: warning: passing argument 2 of 'executeQuery:arguments:' from incompatible pointer type
+o/Users/reshma/Desktop/Source Code/FMDatabase/FMDatabaseAdditions.m: In function '-[FMDatabase(FMDatabaseAdditions) executeUpdate:withArgumentsInArray:]':
+o/Users/reshma/Desktop/Source Code/FMDatabase/FMDatabaseAdditions.m:88: warning: passing argument 2 of 'executeUpdate:arguments:' from incompatible pointer type
+lSLF07#2@74"Compile /Users/reshma/Desktop/Source Code/FMDatabase/FMDatabaseAdditions.m303644607#303644607#0(626"/Users/reshma/Desktop/Source Code/FMDatabase/FMDatabaseAdditions.m: In function '-[FMDatabase(FMDatabaseAdditions) executeQuery:withArgumentsInArray:]':/Users/reshma/Desktop/Source Code/FMDatabase/FMDatabaseAdditions.m:71: warning: passing argument 2 of 'executeQuery:arguments:' from incompatible pointer type/Users/reshma/Desktop/Source Code/FMDatabase/FMDatabaseAdditions.m: In function '-[FMDatabase(FMDatabaseAdditions) executeUpdate:withArgumentsInArray:]':/Users/reshma/Desktop/Source Code/FMDatabase/FMDatabaseAdditions.m:88: warning: passing argument 2 of 'executeUpdate:arguments:' from incompatible pointer type2(22@78"Passing argument 2 of 'executeQuery:arguments:' from incompatible pointer type303644607#153#159#0(6@66"/Users/reshma/Desktop/Source Code/FMDatabase/FMDatabaseAdditions.m303643575#71#0#71#0#56"passing argument * of '*' from incompatible pointer type0(22@79"Passing argument 2 of 'executeUpdate:arguments:' from incompatible pointer type303644607#466#160#0(6@66"/Users/reshma/Desktop/Source Code/FMDatabase/FMDatabaseAdditions.m303643575#88#0#88#0#56"passing argument * of '*' from incompatible pointer type0(0#0#66"/Users/reshma/Desktop/Source Code/FMDatabase/FMDatabaseAdditions.m4300911832#1578"    cd "/Users/reshma/Desktop/Source Code"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-generated-files.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-own-target-headers.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-project-headers.hmap" "-F/Users/reshma/Desktop/Source Code/build/Debug" "-I/Users/reshma/Desktop/Source Code/build/Debug/include" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources/x86_64" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Media_Browser_Prefix-glrmholwzpoacldvcvpjjmxuioeq/Media_Browser_Prefix.pch -c "/Users/reshma/Desktop/Source Code/FMDatabase/FMDatabaseAdditions.m" -o "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/FMDatabaseAdditions.o"0#
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/FMResultSet.o" "/Developer/Examples/iPhone/Source Code/FMDatabase/FMResultSet.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/FMResultSet.o" "/Users/reshma/Desktop/Source Code/FMDatabase/FMResultSet.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303644607.479925
+e303644607.699931
+r1
+xCompileC
+xbuild/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/FMResultSet.o
+x/Users/reshma/Desktop/Source Code/FMDatabase/FMResultSet.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/reshma/Desktop/Source Code/FMDatabase/FMResultSet.m303644607#303644607#0(0"0(0#0#58"/Users/reshma/Desktop/Source Code/FMDatabase/FMResultSet.m4300911832#1562"    cd "/Users/reshma/Desktop/Source Code"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-generated-files.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-own-target-headers.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-project-headers.hmap" "-F/Users/reshma/Desktop/Source Code/build/Debug" "-I/Users/reshma/Desktop/Source Code/build/Debug/include" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources/x86_64" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Media_Browser_Prefix-glrmholwzpoacldvcvpjjmxuioeq/Media_Browser_Prefix.pch -c "/Users/reshma/Desktop/Source Code/FMDatabase/FMResultSet.m" -o "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/FMResultSet.o"0#
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBAppController.o" "/Developer/Examples/iPhone/Source Code/MBAppController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBAppController.o" "/Users/reshma/Desktop/Source Code/MBAppController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303644606.013690
+e303644606.260945
+r1
+xCompileC
+xbuild/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBAppController.o
+x/Users/reshma/Desktop/Source Code/MBAppController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/reshma/Desktop/Source Code/MBAppController.m303644606#303644606#0(0"0(0#0#51"/Users/reshma/Desktop/Source Code/MBAppController.m4300911832#1559"    cd "/Users/reshma/Desktop/Source Code"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-generated-files.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-own-target-headers.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-project-headers.hmap" "-F/Users/reshma/Desktop/Source Code/build/Debug" "-I/Users/reshma/Desktop/Source Code/build/Debug/include" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources/x86_64" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Media_Browser_Prefix-glrmholwzpoacldvcvpjjmxuioeq/Media_Browser_Prefix.pch -c "/Users/reshma/Desktop/Source Code/MBAppController.m" -o "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBAppController.o"0#
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBDatabase.o" "/Developer/Examples/iPhone/Source Code/MBDatabase.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBDatabase.o" "/Users/reshma/Desktop/Source Code/MBDatabase.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303644607.864088
+e303644608.036754
+r1
+xCompileC
+xbuild/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBDatabase.o
+x/Users/reshma/Desktop/Source Code/MBDatabase.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/reshma/Desktop/Source Code/MBDatabase.m303644607#303644608#0(0"0(0#0#46"/Users/reshma/Desktop/Source Code/MBDatabase.m4300911832#1549"    cd "/Users/reshma/Desktop/Source Code"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-generated-files.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-own-target-headers.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-project-headers.hmap" "-F/Users/reshma/Desktop/Source Code/build/Debug" "-I/Users/reshma/Desktop/Source Code/build/Debug/include" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources/x86_64" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Media_Browser_Prefix-glrmholwzpoacldvcvpjjmxuioeq/Media_Browser_Prefix.pch -c "/Users/reshma/Desktop/Source Code/MBDatabase.m" -o "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBDatabase.o"0#
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBLibraryNode.o" "/Developer/Examples/iPhone/Source Code/MBLibraryNode.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBLibraryNode.o" "/Users/reshma/Desktop/Source Code/MBLibraryNode.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303644608.036863
+e303644608.169235
+r1
+xCompileC
+xbuild/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBLibraryNode.o
+x/Users/reshma/Desktop/Source Code/MBLibraryNode.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/reshma/Desktop/Source Code/MBLibraryNode.m303644608#303644608#0(0"0(0#0#49"/Users/reshma/Desktop/Source Code/MBLibraryNode.m4300911832#1555"    cd "/Users/reshma/Desktop/Source Code"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-generated-files.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-own-target-headers.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-project-headers.hmap" "-F/Users/reshma/Desktop/Source Code/build/Debug" "-I/Users/reshma/Desktop/Source Code/build/Debug/include" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources/x86_64" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Media_Browser_Prefix-glrmholwzpoacldvcvpjjmxuioeq/Media_Browser_Prefix.pch -c "/Users/reshma/Desktop/Source Code/MBLibraryNode.m" -o "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBLibraryNode.o"0#
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBLinkController.o" "/Developer/Examples/iPhone/Source Code/MBLinkController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBLinkController.o" "/Users/reshma/Desktop/Source Code/MBLinkController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303644607.700038
+e303644607.863986
+r1
+xCompileC
+xbuild/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBLinkController.o
+x/Users/reshma/Desktop/Source Code/MBLinkController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/reshma/Desktop/Source Code/MBLinkController.m303644607#303644607#0(0"0(0#0#52"/Users/reshma/Desktop/Source Code/MBLinkController.m4300911832#1561"    cd "/Users/reshma/Desktop/Source Code"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-generated-files.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-own-target-headers.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-project-headers.hmap" "-F/Users/reshma/Desktop/Source Code/build/Debug" "-I/Users/reshma/Desktop/Source Code/build/Debug/include" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources/x86_64" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Media_Browser_Prefix-glrmholwzpoacldvcvpjjmxuioeq/Media_Browser_Prefix.pch -c "/Users/reshma/Desktop/Source Code/MBLinkController.m" -o "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBLinkController.o"0#
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBLinkData.o" "/Developer/Examples/iPhone/Source Code/MBLinkData.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBLinkData.o" "/Users/reshma/Desktop/Source Code/MBLinkData.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303644606.538324
+e303644606.679519
+r1
+xCompileC
+xbuild/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBLinkData.o
+x/Users/reshma/Desktop/Source Code/MBLinkData.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/reshma/Desktop/Source Code/MBLinkData.m303644606#303644606#0(0"0(0#0#46"/Users/reshma/Desktop/Source Code/MBLinkData.m4300911832#1549"    cd "/Users/reshma/Desktop/Source Code"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-generated-files.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-own-target-headers.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-project-headers.hmap" "-F/Users/reshma/Desktop/Source Code/build/Debug" "-I/Users/reshma/Desktop/Source Code/build/Debug/include" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources/x86_64" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Media_Browser_Prefix-glrmholwzpoacldvcvpjjmxuioeq/Media_Browser_Prefix.pch -c "/Users/reshma/Desktop/Source Code/MBLinkData.m" -o "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBLinkData.o"0#
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBLinkLibraryNode.o" "/Developer/Examples/iPhone/Source Code/MBLinkLibraryNode.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBLinkLibraryNode.o" "/Users/reshma/Desktop/Source Code/MBLinkLibraryNode.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303644608.074945
+e303644608.230016
+r1
+xCompileC
+xbuild/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBLinkLibraryNode.o
+x/Users/reshma/Desktop/Source Code/MBLinkLibraryNode.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/reshma/Desktop/Source Code/MBLinkLibraryNode.m303644608#303644608#0(0"0(0#0#53"/Users/reshma/Desktop/Source Code/MBLinkLibraryNode.m4300911832#1563"    cd "/Users/reshma/Desktop/Source Code"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-generated-files.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-own-target-headers.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-project-headers.hmap" "-F/Users/reshma/Desktop/Source Code/build/Debug" "-I/Users/reshma/Desktop/Source Code/build/Debug/include" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources/x86_64" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Media_Browser_Prefix-glrmholwzpoacldvcvpjjmxuioeq/Media_Browser_Prefix.pch -c "/Users/reshma/Desktop/Source Code/MBLinkLibraryNode.m" -o "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBLinkLibraryNode.o"0#
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBOutlineView.o" "/Developer/Examples/iPhone/Source Code/MBOutlineView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBOutlineView.o" "/Users/reshma/Desktop/Source Code/MBOutlineView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303644606.261051
+e303644606.439821
+r1
+xCompileC
+xbuild/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBOutlineView.o
+x/Users/reshma/Desktop/Source Code/MBOutlineView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/reshma/Desktop/Source Code/MBOutlineView.m: In function '-[MBOutlineView menuForEvent:]':
+o/Users/reshma/Desktop/Source Code/MBOutlineView.m:85: warning: unused variable 'row'
+lSLF07#2@57"Compile /Users/reshma/Desktop/Source Code/MBOutlineView.m303644606#303644606#0(182"/Users/reshma/Desktop/Source Code/MBOutlineView.m: In function '-[MBOutlineView menuForEvent:]':/Users/reshma/Desktop/Source Code/MBOutlineView.m:85: warning: unused variable 'row'1(22@21"Unused variable 'row'303644606#97#85#0(6@49"/Users/reshma/Desktop/Source Code/MBOutlineView.m303643576#85#0#85#0#19"unused variable '*'0(0#0#49"/Users/reshma/Desktop/Source Code/MBOutlineView.m4300911832#1555"    cd "/Users/reshma/Desktop/Source Code"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-generated-files.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-own-target-headers.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-project-headers.hmap" "-F/Users/reshma/Desktop/Source Code/build/Debug" "-I/Users/reshma/Desktop/Source Code/build/Debug/include" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources/x86_64" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Media_Browser_Prefix-glrmholwzpoacldvcvpjjmxuioeq/Media_Browser_Prefix.pch -c "/Users/reshma/Desktop/Source Code/MBOutlineView.m" -o "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBOutlineView.o"0#
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBOutlineViewCell.o" "/Developer/Examples/iPhone/Source Code/MBOutlineViewCell.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBOutlineViewCell.o" "/Users/reshma/Desktop/Source Code/MBOutlineViewCell.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303644606.439934
+e303644606.587657
+r1
+xCompileC
+xbuild/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBOutlineViewCell.o
+x/Users/reshma/Desktop/Source Code/MBOutlineViewCell.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/reshma/Desktop/Source Code/MBOutlineViewCell.m303644606#303644606#0(0"0(0#0#53"/Users/reshma/Desktop/Source Code/MBOutlineViewCell.m4300911832#1563"    cd "/Users/reshma/Desktop/Source Code"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-generated-files.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-own-target-headers.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-project-headers.hmap" "-F/Users/reshma/Desktop/Source Code/build/Debug" "-I/Users/reshma/Desktop/Source Code/build/Debug/include" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources/x86_64" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Media_Browser_Prefix-glrmholwzpoacldvcvpjjmxuioeq/Media_Browser_Prefix.pch -c "/Users/reshma/Desktop/Source Code/MBOutlineViewCell.m" -o "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBOutlineViewCell.o"0#
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBPhotoController.o" "/Developer/Examples/iPhone/Source Code/MBPhotoController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBPhotoController.o" "/Users/reshma/Desktop/Source Code/MBPhotoController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303644607.636073
+e303644608.074833
+r1
+xCompileC
+xbuild/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBPhotoController.o
+x/Users/reshma/Desktop/Source Code/MBPhotoController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/reshma/Desktop/Source Code/MBPhotoController.m303644607#303644608#0(0"0(0#0#53"/Users/reshma/Desktop/Source Code/MBPhotoController.m4300911832#1563"    cd "/Users/reshma/Desktop/Source Code"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-generated-files.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-own-target-headers.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-project-headers.hmap" "-F/Users/reshma/Desktop/Source Code/build/Debug" "-I/Users/reshma/Desktop/Source Code/build/Debug/include" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources/x86_64" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Media_Browser_Prefix-glrmholwzpoacldvcvpjjmxuioeq/Media_Browser_Prefix.pch -c "/Users/reshma/Desktop/Source Code/MBPhotoController.m" -o "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBPhotoController.o"0#
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBPhotoData.o" "/Developer/Examples/iPhone/Source Code/MBPhotoData.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBPhotoData.o" "/Users/reshma/Desktop/Source Code/MBPhotoData.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303644605.983550
+e303644606.133043
+r1
+xCompileC
+xbuild/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBPhotoData.o
+x/Users/reshma/Desktop/Source Code/MBPhotoData.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/reshma/Desktop/Source Code/MBPhotoData.m303644605#303644606#0(0"0(0#0#47"/Users/reshma/Desktop/Source Code/MBPhotoData.m4300911832#1551"    cd "/Users/reshma/Desktop/Source Code"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-generated-files.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-own-target-headers.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-project-headers.hmap" "-F/Users/reshma/Desktop/Source Code/build/Debug" "-I/Users/reshma/Desktop/Source Code/build/Debug/include" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources/x86_64" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Media_Browser_Prefix-glrmholwzpoacldvcvpjjmxuioeq/Media_Browser_Prefix.pch -c "/Users/reshma/Desktop/Source Code/MBPhotoData.m" -o "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBPhotoData.o"0#
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBPhotoLibraryNode.o" "/Developer/Examples/iPhone/Source Code/MBPhotoLibraryNode.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBPhotoLibraryNode.o" "/Users/reshma/Desktop/Source Code/MBPhotoLibraryNode.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303644608.169343
+e303644608.308819
+r1
+xCompileC
+xbuild/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBPhotoLibraryNode.o
+x/Users/reshma/Desktop/Source Code/MBPhotoLibraryNode.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/reshma/Desktop/Source Code/MBPhotoLibraryNode.m303644608#303644608#0(0"0(0#0#54"/Users/reshma/Desktop/Source Code/MBPhotoLibraryNode.m4300911832#1565"    cd "/Users/reshma/Desktop/Source Code"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-generated-files.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-own-target-headers.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-project-headers.hmap" "-F/Users/reshma/Desktop/Source Code/build/Debug" "-I/Users/reshma/Desktop/Source Code/build/Debug/include" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources/x86_64" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Media_Browser_Prefix-glrmholwzpoacldvcvpjjmxuioeq/Media_Browser_Prefix.pch -c "/Users/reshma/Desktop/Source Code/MBPhotoLibraryNode.m" -o "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBPhotoLibraryNode.o"0#
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBPhotoView.o" "/Developer/Examples/iPhone/Source Code/MBPhotoView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBPhotoView.o" "/Users/reshma/Desktop/Source Code/MBPhotoView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303644606.133143
+e303644606.538208
+r1
+xCompileC
+xbuild/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBPhotoView.o
+x/Users/reshma/Desktop/Source Code/MBPhotoView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/reshma/Desktop/Source Code/MBPhotoView.m303644606#303644606#0(0"0(0#0#47"/Users/reshma/Desktop/Source Code/MBPhotoView.m4300911832#1551"    cd "/Users/reshma/Desktop/Source Code"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-generated-files.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-own-target-headers.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-project-headers.hmap" "-F/Users/reshma/Desktop/Source Code/build/Debug" "-I/Users/reshma/Desktop/Source Code/build/Debug/include" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources/x86_64" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Media_Browser_Prefix-glrmholwzpoacldvcvpjjmxuioeq/Media_Browser_Prefix.pch -c "/Users/reshma/Desktop/Source Code/MBPhotoView.m" -o "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBPhotoView.o"0#
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBTableViewCell.o" "/Developer/Examples/iPhone/Source Code/MBTableViewCell.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBTableViewCell.o" "/Users/reshma/Desktop/Source Code/MBTableViewCell.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303644606.587768
+e303644606.762671
+r1
+xCompileC
+xbuild/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBTableViewCell.o
+x/Users/reshma/Desktop/Source Code/MBTableViewCell.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/reshma/Desktop/Source Code/MBTableViewCell.m303644606#303644606#0(0"0(0#0#51"/Users/reshma/Desktop/Source Code/MBTableViewCell.m4300911832#1559"    cd "/Users/reshma/Desktop/Source Code"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-generated-files.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-own-target-headers.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-project-headers.hmap" "-F/Users/reshma/Desktop/Source Code/build/Debug" "-I/Users/reshma/Desktop/Source Code/build/Debug/include" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources/x86_64" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Media_Browser_Prefix-glrmholwzpoacldvcvpjjmxuioeq/Media_Browser_Prefix.pch -c "/Users/reshma/Desktop/Source Code/MBTableViewCell.m" -o "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/MBTableViewCell.o"0#
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/Media_BrowserAppDelegate.o" "/Developer/Examples/iPhone/Source Code/Media_BrowserAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/Media_BrowserAppDelegate.o" "/Users/reshma/Desktop/Source Code/Media_BrowserAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303644605.853066
+e303644606.013576
+r1
+xCompileC
+xbuild/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/Media_BrowserAppDelegate.o
+x/Users/reshma/Desktop/Source Code/Media_BrowserAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/reshma/Desktop/Source Code/Media_BrowserAppDelegate.m303644605#303644606#0(0"0(0#0#60"/Users/reshma/Desktop/Source Code/Media_BrowserAppDelegate.m4300911832#1577"    cd "/Users/reshma/Desktop/Source Code"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-generated-files.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-own-target-headers.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-project-headers.hmap" "-F/Users/reshma/Desktop/Source Code/build/Debug" "-I/Users/reshma/Desktop/Source Code/build/Debug/include" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources/x86_64" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Media_Browser_Prefix-glrmholwzpoacldvcvpjjmxuioeq/Media_Browser_Prefix.pch -c "/Users/reshma/Desktop/Source Code/Media_BrowserAppDelegate.m" -o "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/Media_BrowserAppDelegate.o"0#
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/NSApplication+Relaunch.o" "/Developer/Examples/iPhone/Source Code/NSApplication+Relaunch.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/NSApplication+Relaunch.o" "/Users/reshma/Desktop/Source Code/NSApplication+Relaunch.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303644606.762774
+e303644606.906748
+r1
+xCompileC
+xbuild/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/NSApplication+Relaunch.o
+x/Users/reshma/Desktop/Source Code/NSApplication+Relaunch.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/reshma/Desktop/Source Code/NSApplication+Relaunch.m303644606#303644606#0(0"0(0#0#58"/Users/reshma/Desktop/Source Code/NSApplication+Relaunch.m4300911832#1573"    cd "/Users/reshma/Desktop/Source Code"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-generated-files.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-own-target-headers.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-project-headers.hmap" "-F/Users/reshma/Desktop/Source Code/build/Debug" "-I/Users/reshma/Desktop/Source Code/build/Debug/include" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources/x86_64" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Media_Browser_Prefix-glrmholwzpoacldvcvpjjmxuioeq/Media_Browser_Prefix.pch -c "/Users/reshma/Desktop/Source Code/NSApplication+Relaunch.m" -o "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/NSApplication+Relaunch.o"0#
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/NSWindow+Flipr.o" "/Developer/Examples/iPhone/Source Code/NSWindow+Flipr.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/NSWindow+Flipr.o" "/Users/reshma/Desktop/Source Code/NSWindow+Flipr.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303644606.679635
+e303644606.949008
+r1
+xCompileC
+xbuild/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/NSWindow+Flipr.o
+x/Users/reshma/Desktop/Source Code/NSWindow+Flipr.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/reshma/Desktop/Source Code/NSWindow+Flipr.m: In function '-[FliprAnimation setCurrentProgress:]':
+o/Users/reshma/Desktop/Source Code/NSWindow+Flipr.m:43: warning: '-display' not found in protocol(s)
+lSLF07#2@58"Compile /Users/reshma/Desktop/Source Code/NSWindow+Flipr.m303644606#303644606#0(205"/Users/reshma/Desktop/Source Code/NSWindow+Flipr.m: In function '-[FliprAnimation setCurrentProgress:]':/Users/reshma/Desktop/Source Code/NSWindow+Flipr.m:43: warning: '-display' not found in protocol(s)1(22@35"'-display' not found in protocol(s)303644606#105#100#0(6@50"/Users/reshma/Desktop/Source Code/NSWindow+Flipr.m303643576#43#0#43#0#28"'*' not found in protocol(s)0(0#0#50"/Users/reshma/Desktop/Source Code/NSWindow+Flipr.m4300911832#1557"    cd "/Users/reshma/Desktop/Source Code"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-generated-files.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-own-target-headers.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-project-headers.hmap" "-F/Users/reshma/Desktop/Source Code/build/Debug" "-I/Users/reshma/Desktop/Source Code/build/Debug/include" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources/x86_64" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Media_Browser_Prefix-glrmholwzpoacldvcvpjjmxuioeq/Media_Browser_Prefix.pch -c "/Users/reshma/Desktop/Source Code/NSWindow+Flipr.m" -o "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/NSWindow+Flipr.o"0#
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/RBSplitSubview.o" "/Developer/Examples/iPhone/Source Code/RBSplitSubview.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/RBSplitSubview.o" "/Users/reshma/Desktop/Source Code/RBSplitSubview.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303644606.906854
+e303644607.193001
+r1
+xCompileC
+xbuild/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/RBSplitSubview.o
+x/Users/reshma/Desktop/Source Code/RBSplitSubview.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/reshma/Desktop/Source Code/RBSplitSubview.m303644606#303644607#0(0"0(0#0#50"/Users/reshma/Desktop/Source Code/RBSplitSubview.m4300911832#1557"    cd "/Users/reshma/Desktop/Source Code"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-generated-files.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-own-target-headers.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-project-headers.hmap" "-F/Users/reshma/Desktop/Source Code/build/Debug" "-I/Users/reshma/Desktop/Source Code/build/Debug/include" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources/x86_64" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Media_Browser_Prefix-glrmholwzpoacldvcvpjjmxuioeq/Media_Browser_Prefix.pch -c "/Users/reshma/Desktop/Source Code/RBSplitSubview.m" -o "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/RBSplitSubview.o"0#
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/RBSplitView.o" "/Developer/Examples/iPhone/Source Code/RBSplitView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/RBSplitView.o" "/Users/reshma/Desktop/Source Code/RBSplitView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303644606.949105
+e303644607.417292
+r1
+xCompileC
+xbuild/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/RBSplitView.o
+x/Users/reshma/Desktop/Source Code/RBSplitView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/reshma/Desktop/Source Code/RBSplitView.m303644606#303644607#0(0"0(0#0#47"/Users/reshma/Desktop/Source Code/RBSplitView.m4300911832#1551"    cd "/Users/reshma/Desktop/Source Code"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-generated-files.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-own-target-headers.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-project-headers.hmap" "-F/Users/reshma/Desktop/Source Code/build/Debug" "-I/Users/reshma/Desktop/Source Code/build/Debug/include" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources/x86_64" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Media_Browser_Prefix-glrmholwzpoacldvcvpjjmxuioeq/Media_Browser_Prefix.pch -c "/Users/reshma/Desktop/Source Code/RBSplitView.m" -o "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/RBSplitView.o"0#
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/main.o" "/Developer/Examples/iPhone/Source Code/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/main.o" "/Users/reshma/Desktop/Source Code/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303644605.851877
+e303644605.983432
+r1
+xCompileC
+xbuild/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/main.o
+x/Users/reshma/Desktop/Source Code/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/reshma/Desktop/Source Code/main.m303644605#303644605#0(0"0(0#0#40"/Users/reshma/Desktop/Source Code/main.m4300911832#1537"    cd "/Users/reshma/Desktop/Source Code"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-generated-files.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-own-target-headers.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-project-headers.hmap" "-F/Users/reshma/Desktop/Source Code/build/Debug" "-I/Users/reshma/Desktop/Source Code/build/Debug/include" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources/x86_64" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Media_Browser_Prefix-glrmholwzpoacldvcvpjjmxuioeq/Media_Browser_Prefix.pch -c "/Users/reshma/Desktop/Source Code/main.m" -o "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Developer/Examples/iPhone/Source Code/English.lproj/MainMenu.xib"
+r0
+
+CCompileXIB "/Users/reshma/Desktop/Source Code/English.lproj/MainMenu.xib"
+s303644601.799972
+e303644603.175293
+r1
+xCompileXIB
+x/Users/reshma/Desktop/Source Code/English.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.notices */
+o/Users/reshma/Desktop/Source Code/English.lproj/MainMenu.xib:596: note: This view is clipping its content.
+o/Users/reshma/Desktop/Source Code/English.lproj/MainMenu.xib:598: note: This view is clipping its content.
+o/* com.apple.ibtool.document.warnings */
+o/Users/reshma/Desktop/Source Code/English.lproj/MainMenu.xib:591: warning: Custom values for the "identifier" attribute are not available in Interface Builder versions prior to 3.2.
+o/Users/reshma/Desktop/Source Code/English.lproj/MainMenu.xib:590: warning: Custom values for the "identifier" attribute are not available in Interface Builder versions prior to 3.2.
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib303644601#303644603#0(659"/* com.apple.ibtool.document.notices *//Users/reshma/Desktop/Source Code/English.lproj/MainMenu.xib:596: note: This view is clipping its content./Users/reshma/Desktop/Source Code/English.lproj/MainMenu.xib:598: note: This view is clipping its content./* com.apple.ibtool.document.warnings *//Users/reshma/Desktop/Source Code/English.lproj/MainMenu.xib:591: warning: Custom values for the "identifier" attribute are not available in Interface Builder versions prior to 3.2./Users/reshma/Desktop/Source Code/English.lproj/MainMenu.xib:590: warning: Custom values for the "identifier" attribute are not available in Interface Builder versions prior to 3.2.4(13@34"This view is clipping its content.303644603#18446744073709551615#0#0(6@60"/Users/reshma/Desktop/Source Code/English.lproj/MainMenu.xib303643575#596#0#596#0#0"0(13@34"This view is clipping its content.303644603#18446744073709551615#0#0(6@60"/Users/reshma/Desktop/Source Code/English.lproj/MainMenu.xib303643575#598#0#598#0#0"0(22@106"Custom values for the "identifier" attribute are not available in Interface Builder versions prior to 3.2.303644603#18446744073709551615#0#0(6@60"/Users/reshma/Desktop/Source Code/English.lproj/MainMenu.xib303643575#591#0#591#0#0"0(22@106"Custom values for the "identifier" attribute are not available in Interface Builder versions prior to 3.2.303644603#18446744073709551615#0#0(6@60"/Users/reshma/Desktop/Source Code/English.lproj/MainMenu.xib303643575#590#0#590#0#0"0(0#0#60"/Users/reshma/Desktop/Source Code/English.lproj/MainMenu.xib4300911832#324"    cd "/Users/reshma/Desktop/Source Code"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/reshma/Desktop/Source Code/English.lproj/MainMenu.xib"0#
+
+CCopyPlistFile "/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app/Contents/Resources/Photos.plist" Photos.plist
+r0
+
+CCopyPlistFile "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/Photos.plist" Photos.plist
+s303644602.027811
+e303644602.369981
+r1
+xCopyPlistFile
+x/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/Photos.plist
+xPhotos.plist
+lSLF07#2@17"Copy Photos.plist303644602#303644602#0(0"0(0#0#46"/Users/reshma/Desktop/Source Code/Photos.plist4300911832#241"    cd "/Users/reshma/Desktop/Source Code"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist Photos.plist --outdir "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources"0#
+
+CCopyStringsFile "/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s303644601.740980
+e303644602.007740
+r1
+xCopyStringsFile
+x/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings303644601#303644602#0(0"0(0#0#65"/Users/reshma/Desktop/Source Code/English.lproj/InfoPlist.strings4300911832#365"    cd "/Users/reshma/Desktop/Source Code"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/English.lproj"0#
+
+CCopyTiffFile "/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app/Contents/Resources/MediaStatus.tiff" MediaStatus.tiff
+r0
+
+CCopyTiffFile "/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app/Contents/Resources/dragBadge.tiff" dragBadge.tiff
+r0
+
+CCopyTiffFile "/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app/Contents/Resources/i.tiff" i.tiff
+r0
+
+CCopyTiffFile "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/MediaStatus.tiff" MediaStatus.tiff
+s303644602.461118
+e303644602.482566
+r1
+xCopyTiffFile
+x/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/MediaStatus.tiff
+xMediaStatus.tiff
+lSLF07#2@21"Copy MediaStatus.tiff303644602#303644602#0(0"0(0#0#50"/Users/reshma/Desktop/Source Code/MediaStatus.tiff4300911832#244"    cd "/Users/reshma/Desktop/Source Code"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copytiff MediaStatus.tiff --outdir "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources"0#
+
+CCopyTiffFile "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/dragBadge.tiff" dragBadge.tiff
+s303644602.483459
+e303644602.516500
+r1
+xCopyTiffFile
+x/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/dragBadge.tiff
+xdragBadge.tiff
+lSLF07#2@19"Copy dragBadge.tiff303644602#303644602#0(0"0(0#0#48"/Users/reshma/Desktop/Source Code/dragBadge.tiff4300911832#242"    cd "/Users/reshma/Desktop/Source Code"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copytiff dragBadge.tiff --outdir "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources"0#
+
+CCopyTiffFile "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/i.tiff" i.tiff
+s303644602.395698
+e303644602.461039
+r1
+xCopyTiffFile
+x/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/i.tiff
+xi.tiff
+lSLF07#2@11"Copy i.tiff303644602#303644602#0(0"0(0#0#40"/Users/reshma/Desktop/Source Code/i.tiff4300911832#234"    cd "/Users/reshma/Desktop/Source Code"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copytiff i.tiff --outdir "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Media Browser.app/Contents/Resources/AppIcon.icns" AppIcon.icns
+s303644602.482657
+e303644602.534428
+r1
+xCpResource
+xbuild/Debug/Media Browser.app/Contents/Resources/AppIcon.icns
+xAppIcon.icns
+lSLF07#2@17"Copy AppIcon.icns303644602#303644602#0(0"0(0#0#46"/Users/reshma/Desktop/Source Code/AppIcon.icns4300911832#325"    cd "/Users/reshma/Desktop/Source Code"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/reshma/Desktop/Source Code/AppIcon.icns" "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Media Browser.app/Contents/Resources/English.lproj/Media Browser Help" "English.lproj/Media Browser Help"
+s303644602.383720
+e303644602.460866
+r1
+xCpResource
+xbuild/Debug/Media Browser.app/Contents/Resources/English.lproj/Media Browser Help
+xEnglish.lproj/Media Browser Help
+lSLF07#2@37"Copy English.lproj/Media Browser Help303644602#303644602#0(0"0(0#0#66"/Users/reshma/Desktop/Source Code/English.lproj/Media Browser Help4300911832#359"    cd "/Users/reshma/Desktop/Source Code"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/reshma/Desktop/Source Code/English.lproj/Media Browser Help" "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources/English.lproj"0#
+
+CCpResource "build/Debug/Media Browser.app/Contents/Resources/Info.html" Info.html
+s303644602.388236
+e303644602.449784
+r1
+xCpResource
+xbuild/Debug/Media Browser.app/Contents/Resources/Info.html
+xInfo.html
+lSLF07#2@14"Copy Info.html303644602#303644602#0(0"0(0#0#43"/Users/reshma/Desktop/Source Code/Info.html4300911832#322"    cd "/Users/reshma/Desktop/Source Code"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/reshma/Desktop/Source Code/Info.html" "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Media Browser.app/Contents/Resources/PhotoDatabase.db" PhotoDatabase.db
+s303644602.534556
+e303644602.540745
+r1
+xCpResource
+xbuild/Debug/Media Browser.app/Contents/Resources/PhotoDatabase.db
+xPhotoDatabase.db
+lSLF07#2@21"Copy PhotoDatabase.db303644602#303644602#0(0"0(0#0#50"/Users/reshma/Desktop/Source Code/PhotoDatabase.db4300911832#329"    cd "/Users/reshma/Desktop/Source Code"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/reshma/Desktop/Source Code/PhotoDatabase.db" "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Media Browser.app/Contents/Resources/SafariBookmarksBar.png" SafariBookmarksBar.png
+s303644602.535139
+e303644602.541030
+r1
+xCpResource
+xbuild/Debug/Media Browser.app/Contents/Resources/SafariBookmarksBar.png
+xSafariBookmarksBar.png
+lSLF07#2@27"Copy SafariBookmarksBar.png303644602#303644602#0(0"0(0#0#56"/Users/reshma/Desktop/Source Code/SafariBookmarksBar.png4300911832#335"    cd "/Users/reshma/Desktop/Source Code"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/reshma/Desktop/Source Code/SafariBookmarksBar.png" "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Media Browser.app/Contents/Resources/SafariBookmarksMenu.png" SafariBookmarksMenu.png
+s303644602.371150
+e303644602.400255
+r1
+xCpResource
+xbuild/Debug/Media Browser.app/Contents/Resources/SafariBookmarksMenu.png
+xSafariBookmarksMenu.png
+lSLF07#2@28"Copy SafariBookmarksMenu.png303644602#303644602#0(0"0(0#0#57"/Users/reshma/Desktop/Source Code/SafariBookmarksMenu.png4300911832#336"    cd "/Users/reshma/Desktop/Source Code"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/reshma/Desktop/Source Code/SafariBookmarksMenu.png" "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Media Browser.app/Contents/Resources/larger.png" larger.png
+s303644602.012753
+e303644602.033605
+r1
+xCpResource
+xbuild/Debug/Media Browser.app/Contents/Resources/larger.png
+xlarger.png
+lSLF07#2@15"Copy larger.png303644602#303644602#0(0"0(0#0#44"/Users/reshma/Desktop/Source Code/larger.png4300911832#323"    cd "/Users/reshma/Desktop/Source Code"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/reshma/Desktop/Source Code/larger.png" "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Media Browser.app/Contents/Resources/link.jpg" link.jpg
+s303644602.370070
+e303644602.400110
+r1
+xCpResource
+xbuild/Debug/Media Browser.app/Contents/Resources/link.jpg
+xlink.jpg
+lSLF07#2@13"Copy link.jpg303644602#303644602#0(0"0(0#0#42"/Users/reshma/Desktop/Source Code/link.jpg4300911832#321"    cd "/Users/reshma/Desktop/Source Code"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/reshma/Desktop/Source Code/link.jpg" "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Media Browser.app/Contents/Resources/links.png" links.png
+s303644602.007823
+e303644602.033369
+r1
+xCpResource
+xbuild/Debug/Media Browser.app/Contents/Resources/links.png
+xlinks.png
+lSLF07#2@14"Copy links.png303644602#303644602#0(0"0(0#0#43"/Users/reshma/Desktop/Source Code/links.png4300911832#322"    cd "/Users/reshma/Desktop/Source Code"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/reshma/Desktop/Source Code/links.png" "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Media Browser.app/Contents/Resources/photos.png" photos.png
+s303644602.008666
+e303644602.033495
+r1
+xCpResource
+xbuild/Debug/Media Browser.app/Contents/Resources/photos.png
+xphotos.png
+lSLF07#2@15"Copy photos.png303644602#303644602#0(0"0(0#0#44"/Users/reshma/Desktop/Source Code/photos.png4300911832#323"    cd "/Users/reshma/Desktop/Source Code"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/reshma/Desktop/Source Code/photos.png" "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Media Browser.app/Contents/Resources/relaunch" build/Debug/relaunch
+s303644601.740318
+e303644601.799848
+r1
+xCpResource
+xbuild/Debug/Media Browser.app/Contents/Resources/relaunch
+xbuild/Debug/relaunch
+lSLF07#2@25"Copy build/Debug/relaunch303644601#303644601#0(0"0(0#0#54"/Users/reshma/Desktop/Source Code/build/Debug/relaunch4300911832#333"    cd "/Users/reshma/Desktop/Source Code"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/reshma/Desktop/Source Code/build/Debug/relaunch" "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Media Browser.app/Contents/Resources/smaller.png" smaller.png
+s303644602.023732
+e303644602.033722
+r1
+xCpResource
+xbuild/Debug/Media Browser.app/Contents/Resources/smaller.png
+xsmaller.png
+lSLF07#2@16"Copy smaller.png303644602#303644602#0(0"0(0#0#45"/Users/reshma/Desktop/Source Code/smaller.png4300911832#324"    cd "/Users/reshma/Desktop/Source Code"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/reshma/Desktop/Source Code/smaller.png" "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Resources"0#
+
+CLd "/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app/Contents/MacOS/Media Browser" normal x86_64
+r0
+
+CLd "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/MacOS/Media Browser" normal x86_64
+s303644608.308903
+e303644608.502393
+r1
+xLd
+x/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/MacOS/Media Browser
+xnormal
+xx86_64
+lSLF07#2@97"Link /Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/MacOS/Media Browser303644608#303644608#0(0"0(0#0#0"4300911832#701"    cd "/Users/reshma/Desktop/Source Code"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/reshma/Desktop/Source Code/build/Debug" "-L/Users/reshma/Desktop/Source Code" "-F/Users/reshma/Desktop/Source Code/build/Debug" -filelist "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Objects-normal/x86_64/Media Browser.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework QuartzCore -framework PreferencePanes -lsqlite3.0 -framework CoreServices -framework QuickLook -o "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/MacOS/Media Browser"0#
+
+CProcessInfoPlistFile "/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app/Contents/Info.plist" Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Info.plist" Info.plist
+s303644601.736045
+e303644601.740238
+r1
+xProcessInfoPlistFile
+x/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist303644601#303644601#0(0"0(0#0#44"/Users/reshma/Desktop/Source Code/Info.plist4300911832#305"    cd "/Users/reshma/Desktop/Source Code"    builtin-infoPlistUtility Info.plist -genpkginfo "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Media_Browser_Prefix-edumnpsjbkhyngbunvctbsvnhwqy/Media_Browser_Prefix.pch.gch Media_Browser_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Media_Browser_Prefix-glrmholwzpoacldvcvpjjmxuioeq/Media_Browser_Prefix.pch.gch Media_Browser_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303644603.175596
+e303644605.851653
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Media_Browser_Prefix-glrmholwzpoacldvcvpjjmxuioeq/Media_Browser_Prefix.pch.gch
+xMedia_Browser_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile Media_Browser_Prefix.pch303644603#303644605#0(0"0(0#0#58"/Users/reshma/Desktop/Source Code/Media_Browser_Prefix.pch4300911832#1440"    cd "/Users/reshma/Desktop/Source Code"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-generated-files.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-own-target-headers.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/Media Browser-project-headers.hmap" "-F/Users/reshma/Desktop/Source Code/build/Debug" "-I/Users/reshma/Desktop/Source Code/build/Debug/include" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources/x86_64" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/Media Browser.build/DerivedSources" -c "/Users/reshma/Desktop/Source Code/Media_Browser_Prefix.pch" -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Media_Browser_Prefix-glrmholwzpoacldvcvpjjmxuioeq/Media_Browser_Prefix.pch.gch0#
+
+CTouch "/Developer/Examples/iPhone/Source Code/build/Debug/Media Browser.app"
+r0
+
+CTouch "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app"
+s303644944.378052
+e303644944.380872
+r1
+xTouch
+x/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app
+lSLF07#2@69"Touch /Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app303644944#303644944#0(0"0(0#0#0"4300911832#131"    cd "/Users/reshma/Desktop/Source Code"    /usr/bin/touch -c "/Users/reshma/Desktop/Source Code/build/Debug/Media Browser.app"0#
+

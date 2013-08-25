@@ -1,0 +1,470 @@
+TTableViewCellSubviews
+v7
+r0
+t308207721.604774
+cCheck dependencies
+cProcessInfoPlistFile "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/Info.plist" Info.plist
+cCpResource build/Debug-iphonesimulator/TableViewCellSubviews.app/12-6PM.png 12-6PM.png
+cCpResource build/Debug-iphonesimulator/TableViewCellSubviews.app/6-12AM.png 6-12AM.png
+cCpResource build/Debug-iphonesimulator/TableViewCellSubviews.app/6-12PM.png 6-12PM.png
+cCpResource build/Debug-iphonesimulator/TableViewCellSubviews.app/12-6AM.png 12-6AM.png
+cCpResource build/Debug-iphonesimulator/TableViewCellSubviews.app/Default.png Default.png
+cCompileXIB "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/MainWindow.xib"
+cCopyStringsFile "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/en.lproj/Localizable.strings" en.lproj/Localizable.strings
+cCopyStringsFile "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/fr.lproj/Localizable.strings" fr.lproj/Localizable.strings
+cCopyStringsFile "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/de.lproj/Localizable.strings" de.lproj/Localizable.strings
+cCpResource build/Debug-iphonesimulator/TableViewCellSubviews.app/Icon.png Icon.png
+cProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewCellSubviews_Prefix-dcxvdssnijhlcgbpguhwieeyehpf/TableViewCellSubviews_Prefix.pch.gch TableViewCellSubviews_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/Objects-normal/i386/main.o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/Objects-normal/i386/TableViewCellSubviewsAppDelegate.o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/TableViewCellSubviewsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/Objects-normal/i386/RootViewController.o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/Objects-normal/i386/TimeZoneWrapper.o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/TimeZoneWrapper.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/Objects-normal/i386/Region.o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/Region.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/TableViewCellSubviews" normal i386
+cGenerateDSYMFile "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app.dSYM" "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/TableViewCellSubviews"
+cTouch "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/12-6AM.png
+c000000004A21E53E00000000000007E9
+t1243735358
+s2025
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/12-6PM.png
+c000000004A21E53E00000000000009B8
+t1243735358
+s2488
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/6-12AM.png
+c000000004A21E53E0000000000000947
+t1243735358
+s2375
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/6-12PM.png
+c000000004A21E53E00000000000008AB
+t1243735358
+s2219
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/Region.h
+c000000004BA3E7810000000000000BC9
+t1269032833
+s3017
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/Region.m
+c000000004BA3E7810000000000001155
+t1269032833
+s4437
+i"Region.h"
+i"TimeZoneWrapper.h"
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/RootViewController.h
+c000000004BA3E7810000000000000BAB
+t1269032833
+s2987
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/RootViewController.m
+c000000004BA3E7810000000000002828
+t1269032833
+s10280
+i"RootViewController.h"
+i"TimeZoneWrapper.h"
+i"Region.h"
+i"TableViewCellSubviewsAppDelegate.h"
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/TableViewCellSubviewsAppDelegate.h
+c000000004BA3E7810000000000000B14
+t1269032833
+s2836
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/TableViewCellSubviewsAppDelegate.m
+c000000004BA3E7810000000000001566
+t1269032833
+s5478
+i"TableViewCellSubviewsAppDelegate.h"
+i"RootViewController.h"
+i"Region.h"
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/TimeZoneWrapper.h
+c000000004BA3E7810000000000000CB4
+t1269032833
+s3252
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/TimeZoneWrapper.m
+c000000004BA3E7810000000000001BB0
+t1269032833
+s7088
+i"TimeZoneWrapper.h"
+i"TableViewCellSubviewsAppDelegate.h"
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Default.png
+c000000004A21E53E0000000000000965
+t1243735358
+s2405
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Icon.png
+c000000004A21E53E0000000000000A1A
+t1243735358
+s2586
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/MainWindow.xib
+c000000004A21E53E0000000000001CEC
+t1243735358
+s7404
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/TableViewCellSubviews_Prefix.pch
+c000000004A21E53E00000000000000D3
+t1243735358
+s211
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app
+t1286514921
+s510
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app.dSYM
+t1286514921
+s102
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/12-6AM.png
+t1286514916
+s2025
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/12-6PM.png
+t1286514916
+s2488
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/6-12AM.png
+t1286514916
+s2375
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/6-12PM.png
+t1286514916
+s2219
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/Default.png
+t1286514916
+s2405
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/Icon.png
+t1286514917
+s2586
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/Info.plist
+t1286514916
+s648
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/MainWindow.nib
+t1286514919
+s1343
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/PkgInfo
+t1286514916
+s8
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/TableViewCellSubviews
+t1286514921
+s41508
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/de.lproj/Localizable.strings
+t1286514917
+s100
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/en.lproj/Localizable.strings
+t1286514917
+s76
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/fr.lproj/Localizable.strings
+t1286514917
+s103
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/Objects-normal/i386/Region.o
+t1286514921
+s16160
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/Objects-normal/i386/RootViewController.o
+t1286514920
+s49412
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/Objects-normal/i386/TableViewCellSubviews.LinkFileList
+c000000004CAEA8E400000000000003DE
+t1286514916
+s990
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/Objects-normal/i386/TableViewCellSubviewsAppDelegate.o
+t1286514920
+s45952
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/Objects-normal/i386/TimeZoneWrapper.o
+t1286514920
+s23376
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/Objects-normal/i386/main.o
+t1286514920
+s6016
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/de.lproj/Localizable.strings
+c000000004A21E53E0000000000000044
+t1243735358
+s68
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/en.lproj/Localizable.strings
+c000000004A21E53E0000000000000090
+t1243735358
+s144
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/fr.lproj/Localizable.strings
+c000000004A21E53E0000000000000047
+t1243735358
+s71
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/main.m
+c000000004BA3E7810000000000000A64
+t1269032833
+s2660
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewCellSubviews_Prefix-dcxvdssnijhlcgbpguhwieeyehpf/TableViewCellSubviews_Prefix.pch.gch
+t1286514920
+s12952976
+
+NInfo.plist
+c000000004A3C30290000000000000387
+t1245458473
+s903
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308207716#308207716#0(0"0(0#1#0"7307466863995412480#0"0#
+
+CCompileC build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/Objects-normal/i386/Region.o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/Region.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308207720.947522
+e308207721.009079
+r1
+xCompileC
+xbuild/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/Objects-normal/i386/Region.o
+x/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/Region.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/Region.m308207720#308207721#0(0"0(0#0#92"/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/Region.m4300911832#2578"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/TableViewCellSubviews-generated-files.hmap" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/TableViewCellSubviews-own-target-headers.hmap" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/TableViewCellSubviews-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/TableViewCellSubviews-project-headers.hmap" "-F/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/include" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/DerivedSources/i386" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewCellSubviews_Prefix-dcxvdssnijhlcgbpguhwieeyehpf/TableViewCellSubviews_Prefix.pch -c "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/Region.m" -o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/Objects-normal/i386/Region.o"0#
+
+CCompileC build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/Objects-normal/i386/RootViewController.o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308207720.850740
+e308207720.947408
+r1
+xCompileC
+xbuild/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/Objects-normal/i386/RootViewController.o
+x/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/RootViewController.m308207720#308207720#0(0"0(0#0#104"/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/RootViewController.m4300911832#2602"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/TableViewCellSubviews-generated-files.hmap" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/TableViewCellSubviews-own-target-headers.hmap" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/TableViewCellSubviews-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/TableViewCellSubviews-project-headers.hmap" "-F/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/include" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/DerivedSources/i386" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewCellSubviews_Prefix-dcxvdssnijhlcgbpguhwieeyehpf/TableViewCellSubviews_Prefix.pch -c "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/RootViewController.m" -o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/Objects-normal/i386/TableViewCellSubviewsAppDelegate.o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/TableViewCellSubviewsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308207720.749409
+e308207720.862554
+r1
+xCompileC
+xbuild/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/Objects-normal/i386/TableViewCellSubviewsAppDelegate.o
+x/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/TableViewCellSubviewsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@126"Compile /Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/TableViewCellSubviewsAppDelegate.m308207720#308207720#0(0"0(0#0#118"/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/TableViewCellSubviewsAppDelegate.m4300911832#2630"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/TableViewCellSubviews-generated-files.hmap" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/TableViewCellSubviews-own-target-headers.hmap" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/TableViewCellSubviews-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/TableViewCellSubviews-project-headers.hmap" "-F/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/include" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/DerivedSources/i386" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewCellSubviews_Prefix-dcxvdssnijhlcgbpguhwieeyehpf/TableViewCellSubviews_Prefix.pch -c "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/TableViewCellSubviewsAppDelegate.m" -o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/Objects-normal/i386/TableViewCellSubviewsAppDelegate.o"0#
+
+CCompileC build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/Objects-normal/i386/TimeZoneWrapper.o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/TimeZoneWrapper.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308207720.862659
+e308207720.970182
+r1
+xCompileC
+xbuild/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/Objects-normal/i386/TimeZoneWrapper.o
+x/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/TimeZoneWrapper.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/TimeZoneWrapper.m308207720#308207720#0(0"0(0#0#101"/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/TimeZoneWrapper.m4300911832#2596"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/TableViewCellSubviews-generated-files.hmap" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/TableViewCellSubviews-own-target-headers.hmap" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/TableViewCellSubviews-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/TableViewCellSubviews-project-headers.hmap" "-F/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/include" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/DerivedSources/i386" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewCellSubviews_Prefix-dcxvdssnijhlcgbpguhwieeyehpf/TableViewCellSubviews_Prefix.pch -c "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Classes/TimeZoneWrapper.m" -o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/Objects-normal/i386/TimeZoneWrapper.o"0#
+
+CCompileC build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/Objects-normal/i386/main.o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308207720.748293
+e308207720.850636
+r1
+xCompileC
+xbuild/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/Objects-normal/i386/main.o
+x/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/main.m308207720#308207720#0(0"0(0#0#82"/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/main.m4300911832#2566"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/TableViewCellSubviews-generated-files.hmap" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/TableViewCellSubviews-own-target-headers.hmap" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/TableViewCellSubviews-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/TableViewCellSubviews-project-headers.hmap" "-F/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/include" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/DerivedSources/i386" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewCellSubviews_Prefix-dcxvdssnijhlcgbpguhwieeyehpf/TableViewCellSubviews_Prefix.pch -c "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/main.m" -o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/MainWindow.xib"
+s308207716.525745
+e308207719.577860
+r1
+xCompileXIB
+x/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib308207716#308207719#0(0"0(0#0#90"/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/MainWindow.xib4300911832#611"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/MainWindow.nib" "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/MainWindow.xib"0#
+
+CCopyStringsFile "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/de.lproj/Localizable.strings" de.lproj/Localizable.strings
+s308207717.369832
+e308207717.409765
+r1
+xCopyStringsFile
+x/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/de.lproj/Localizable.strings
+xde.lproj/Localizable.strings
+lSLF07#2@33"Copy de.lproj/Localizable.strings308207717#308207717#0(0"0(0#0#104"/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/de.lproj/Localizable.strings4300911832#577"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary de.lproj/Localizable.strings --outdir "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/de.lproj"0#
+
+CCopyStringsFile "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/en.lproj/Localizable.strings" en.lproj/Localizable.strings
+s308207716.576556
+e308207717.300650
+r1
+xCopyStringsFile
+x/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/en.lproj/Localizable.strings
+xen.lproj/Localizable.strings
+lSLF07#2@33"Copy en.lproj/Localizable.strings308207716#308207717#0(0"0(0#0#104"/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/en.lproj/Localizable.strings4300911832#578"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding binary en.lproj/Localizable.strings --outdir "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/en.lproj"0#
+
+CCopyStringsFile "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/fr.lproj/Localizable.strings" fr.lproj/Localizable.strings
+s308207717.300742
+e308207717.369731
+r1
+xCopyStringsFile
+x/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/fr.lproj/Localizable.strings
+xfr.lproj/Localizable.strings
+lSLF07#2@33"Copy fr.lproj/Localizable.strings308207717#308207717#0(0"0(0#0#104"/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/fr.lproj/Localizable.strings4300911832#577"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary fr.lproj/Localizable.strings --outdir "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/fr.lproj"0#
+
+CCpResource build/Debug-iphonesimulator/TableViewCellSubviews.app/12-6AM.png 12-6AM.png
+s308207716.523895
+e308207716.572368
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TableViewCellSubviews.app/12-6AM.png
+x12-6AM.png
+lSLF07#2@15"Copy 12-6AM.png308207716#308207716#0(0"0(0#0#86"/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/12-6AM.png4300911832#585"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/12-6AM.png" "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app"0#
+
+CCpResource build/Debug-iphonesimulator/TableViewCellSubviews.app/12-6PM.png 12-6PM.png
+s308207716.476454
+e308207716.574899
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TableViewCellSubviews.app/12-6PM.png
+x12-6PM.png
+lSLF07#2@15"Copy 12-6PM.png308207716#308207716#0(0"0(0#0#86"/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/12-6PM.png4300911832#585"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/12-6PM.png" "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app"0#
+
+CCpResource build/Debug-iphonesimulator/TableViewCellSubviews.app/6-12AM.png 6-12AM.png
+s308207716.520459
+e308207716.576478
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TableViewCellSubviews.app/6-12AM.png
+x6-12AM.png
+lSLF07#2@15"Copy 6-12AM.png308207716#308207716#0(0"0(0#0#86"/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/6-12AM.png4300911832#585"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/6-12AM.png" "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app"0#
+
+CCpResource build/Debug-iphonesimulator/TableViewCellSubviews.app/6-12PM.png 6-12PM.png
+s308207716.522254
+e308207716.569364
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TableViewCellSubviews.app/6-12PM.png
+x6-12PM.png
+lSLF07#2@15"Copy 6-12PM.png308207716#308207716#0(0"0(0#0#86"/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/6-12PM.png4300911832#585"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/6-12PM.png" "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app"0#
+
+CCpResource build/Debug-iphonesimulator/TableViewCellSubviews.app/Default.png Default.png
+s308207716.525001
+e308207716.575372
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TableViewCellSubviews.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png308207716#308207716#0(0"0(0#0#87"/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Default.png4300911832#586"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Default.png" "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app"0#
+
+CCpResource build/Debug-iphonesimulator/TableViewCellSubviews.app/Icon.png Icon.png
+s308207717.409863
+e308207717.414483
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TableViewCellSubviews.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png308207717#308207717#0(0"0(0#0#84"/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Icon.png4300911832#583"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Icon.png" "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app"0#
+
+CGenerateDSYMFile "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app.dSYM" "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/TableViewCellSubviews"
+s308207721.465561
+e308207721.564047
+r1
+xGenerateDSYMFile
+x/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app.dSYM
+x/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/TableViewCellSubviews
+lSLF07#2@151"GenerateDSYMFile build/Debug-iphonesimulator/TableViewCellSubviews.app.dSYM build/Debug-iphonesimulator/TableViewCellSubviews.app/TableViewCellSubviews308207721#308207721#0(0"0(0#0#151"/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/TableViewCellSubviews4300911832#542"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/TableViewCellSubviews" -o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app.dSYM"0#
+
+CLd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/TableViewCellSubviews" normal i386
+s308207721.009170
+e308207721.465411
+r1
+xLd
+x/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/TableViewCellSubviews
+xnormal
+xi386
+lSLF07#2@156"Link /Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/TableViewCellSubviews308207721#308207721#0(0"0(0#0#0"4300911832#1127"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk "-L/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator" "-F/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator" -filelist "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/Objects-normal/i386/TableViewCellSubviews.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/TableViewCellSubviews"0#
+
+CProcessInfoPlistFile "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/Info.plist" Info.plist
+s308207716.352923
+e308207716.476365
+r1
+xProcessInfoPlistFile
+x/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist308207716#308207716#0(0"0(0#0#86"/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Info.plist6066193046110825472#616"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app/Info.plist"0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewCellSubviews_Prefix-dcxvdssnijhlcgbpguhwieeyehpf/TableViewCellSubviews_Prefix.pch.gch TableViewCellSubviews_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308207719.578043
+e308207720.748158
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewCellSubviews_Prefix-dcxvdssnijhlcgbpguhwieeyehpf/TableViewCellSubviews_Prefix.pch.gch
+xTableViewCellSubviews_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Precompile TableViewCellSubviews_Prefix.pch308207719#308207720#0(0"0(0#0#108"/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/TableViewCellSubviews_Prefix.pch4300911832#2405"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/TableViewCellSubviews-generated-files.hmap" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/TableViewCellSubviews-own-target-headers.hmap" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/TableViewCellSubviews-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/TableViewCellSubviews-project-headers.hmap" "-F/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/include" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/DerivedSources/i386" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/TableViewCellSubviews.build/Debug-iphonesimulator/TableViewCellSubviews.build/DerivedSources" -c "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/TableViewCellSubviews_Prefix.pch" -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewCellSubviews_Prefix-dcxvdssnijhlcgbpguhwieeyehpf/TableViewCellSubviews_Prefix.pch.gch0#
+
+CTouch "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app"
+s308207721.564138
+e308207721.604724
+r1
+xTouch
+x/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app
+lSLF07#2@135"Touch /Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app308207721#308207721#0(0"0(0#0#0"4300911832#370"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug-iphonesimulator/TableViewCellSubviews.app"0#
+

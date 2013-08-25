@@ -1,0 +1,117 @@
+Trelaunch
+v7
+r0
+t303644944.343987
+cCheck dependencies
+cProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-eqpgoowqggftcvawkozedefwfuhp/AppKit.h.gch /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Media Browser.build/Debug/relaunch.build/Objects-normal/x86_64/relaunch.o" "/Users/reshma/Desktop/Source Code/relaunch.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/reshma/Desktop/Source Code/build/Debug/relaunch" normal x86_64
+
+N/Developer/Examples/iPhone/Source Code/build/Debug/relaunch
+t1281951801
+s9432
+
+N/Developer/Examples/iPhone/Source Code/build/Media Browser.build/Debug/relaunch.build/Objects-normal/x86_64/relaunch.LinkFileList
+c000000004C6908360000000000000072
+t1281951798
+s114
+
+N/Developer/Examples/iPhone/Source Code/build/Media Browser.build/Debug/relaunch.build/Objects-normal/x86_64/relaunch.o
+t1281951801
+s9760
+
+N/Developer/Examples/iPhone/Source Code/relaunch.m
+c000000004C69043A0000000000000325
+t1281950778
+s805
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004C23BD2900000000000017ED
+t1277410601
+s6125
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/reshma/Desktop/Source Code/build/Debug/relaunch
+t1281951801
+s9432
+
+N/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/relaunch.build/Objects-normal/x86_64/relaunch.LinkFileList
+c000000004C6908360000000000000072
+t1281951798
+s114
+
+N/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/relaunch.build/Objects-normal/x86_64/relaunch.o
+t1281951801
+s9760
+
+N/Users/reshma/Desktop/Source Code/relaunch.m
+c000000004C69043A0000000000000325
+t1281950778
+s805
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-eqpgoowqggftcvawkozedefwfuhp/AppKit.h.gch
+t1281951801
+s53564432
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-evrperpuiiyyfdbrzsptjzcewhpo/AppKit.h.gch
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies303644944#303644944#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC "build/Media Browser.build/Debug/relaunch.build/Objects-normal/x86_64/relaunch.o" "/Developer/Examples/iPhone/Source Code/relaunch.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Media Browser.build/Debug/relaunch.build/Objects-normal/x86_64/relaunch.o" "/Users/reshma/Desktop/Source Code/relaunch.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303644601.405921
+e303644601.603827
+r1
+xCompileC
+xbuild/Media Browser.build/Debug/relaunch.build/Objects-normal/x86_64/relaunch.o
+x/Users/reshma/Desktop/Source Code/relaunch.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/reshma/Desktop/Source Code/relaunch.m303644601#303644601#0(0"0(0#0#44"/Users/reshma/Desktop/Source Code/relaunch.m4300911832#1460"    cd "/Users/reshma/Desktop/Source Code"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/relaunch.build/relaunch-generated-files.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/relaunch.build/relaunch-own-target-headers.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/relaunch.build/relaunch-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/relaunch.build/relaunch-project-headers.hmap" "-F/Users/reshma/Desktop/Source Code/build/Debug" "-I/Users/reshma/Desktop/Source Code/build/Debug/include" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/relaunch.build/DerivedSources/x86_64" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/relaunch.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-eqpgoowqggftcvawkozedefwfuhp/AppKit.h -c "/Users/reshma/Desktop/Source Code/relaunch.m" -o "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/relaunch.build/Objects-normal/x86_64/relaunch.o"0#
+
+CLd "/Developer/Examples/iPhone/Source Code/build/Debug/relaunch" normal x86_64
+r0
+
+CLd "/Users/reshma/Desktop/Source Code/build/Debug/relaunch" normal x86_64
+s303644601.603947
+e303644601.723340
+r1
+xLd
+x/Users/reshma/Desktop/Source Code/build/Debug/relaunch
+xnormal
+xx86_64
+lSLF07#2@59"Link /Users/reshma/Desktop/Source Code/build/Debug/relaunch303644601#303644601#0(0"0(0#0#0"4300911832#549"    cd "/Users/reshma/Desktop/Source Code"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/reshma/Desktop/Source Code/build/Debug" "-F/Users/reshma/Desktop/Source Code/build/Debug" -filelist "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/relaunch.build/Objects-normal/x86_64/relaunch.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -framework AppKit -framework Cocoa -o "/Users/reshma/Desktop/Source Code/build/Debug/relaunch"0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-eqpgoowqggftcvawkozedefwfuhp/AppKit.h.gch /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303644598.504594
+e303644601.405645
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-eqpgoowqggftcvawkozedefwfuhp/AppKit.h.gch
+x/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Precompile /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h303644598#303644601#0(0"0(0#0#90"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h4300911832#1390"    cd "/Users/reshma/Desktop/Source Code"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/relaunch.build/relaunch-generated-files.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/relaunch.build/relaunch-own-target-headers.hmap" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/relaunch.build/relaunch-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/relaunch.build/relaunch-project-headers.hmap" "-F/Users/reshma/Desktop/Source Code/build/Debug" "-I/Users/reshma/Desktop/Source Code/build/Debug/include" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/relaunch.build/DerivedSources/x86_64" "-I/Users/reshma/Desktop/Source Code/build/Media Browser.build/Debug/relaunch.build/DerivedSources" -c /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-eqpgoowqggftcvawkozedefwfuhp/AppKit.h.gch0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-evrperpuiiyyfdbrzsptjzcewhpo/AppKit.h.gch /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+

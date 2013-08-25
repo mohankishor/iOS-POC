@@ -1,0 +1,378 @@
+TOAuthTouch
+v7
+r0
+t321964401.714221
+cCheck dependencies
+cPBXCp build/Debug-iphoneos/GDataOAuth/GDataOAuthViewControllerTouch.h OAuth/GDataOAuthViewControllerTouch.h
+cPBXCp build/Debug-iphoneos/GDataOAuth/GDataOAuthSignIn.h OAuth/GDataOAuthSignIn.h
+cPBXCp build/Debug-iphoneos/GDataOAuth/GDataOAuthAuthentication.h OAuth/GDataOAuthAuthentication.h
+cPBXCp build/Debug-iphoneos/GDataOAuth/GDataHTTPFetcher.h Networking/GDataHTTPFetcher.h
+cPBXCp build/Debug-iphoneos/GDataOAuth/GDataOAuthViewTouch.xib OAuth/GDataOAuthViewTouch.xib
+cCompileC build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv6/GDataHTTPFetcher.o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/Networking/GDataHTTPFetcher.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv6/GDataOAuthViewControllerTouch.o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthViewControllerTouch.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv6/GDataOAuthSignIn.o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthSignIn.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv6/GDataOAuthAuthentication.o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthAuthentication.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv7/GDataHTTPFetcher.o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/Networking/GDataHTTPFetcher.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLibtool /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv6/libOAuthTouch.a normal armv6
+cCompileC build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv7/GDataOAuthViewControllerTouch.o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthViewControllerTouch.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv7/GDataOAuthSignIn.o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthSignIn.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv7/GDataOAuthAuthentication.o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthAuthentication.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLibtool /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv7/libOAuthTouch.a normal armv7
+cCreateUniversalBinary /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos/libOAuthTouch.a normal "armv6 armv7"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.h
+c000000004CC10E3400000000000004F5
+t1287720500
+s1269
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004CC10E6A0000000000001A58
+t1287720554
+s6744
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/CommonCrypto/CommonHMAC.h
+c000000004CB3E44C0000000000000DE2
+t1286857804
+s3554
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/Networking/GDataHTTPFetcher.h
+c000000004CE205A60000000000006B15
+t1289880998
+s27413
+i<Foundation/Foundation.h>
+i"GDataDefines.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/Networking/GDataHTTPFetcher.m
+c000000004CE205A6000000000001114D
+t1289880998
+s69965
+i"GDataHTTPFetcher.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthAuthentication.h
+c000000004CB2DCD2000000000000227C
+t1286790354
+s8828
+i<Foundation/Foundation.h>
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthAuthentication.m
+c000000004CB2DCD2000000000000971F
+t1286790354
+s38687
+i<CommonCrypto/CommonHMAC.h>
+i<openssl/sha.h>
+i<openssl/pem.h>
+i<openssl/err.h>
+i"GDataOAuthAuthentication.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthSignIn.h
+c000000004CA9CC7C000000000000156A
+t1286196348
+s5482
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+i"GDataOAuthAuthentication.h"
+i"GDataHTTPFetcher.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthSignIn.m
+c000000004CA9CC7C0000000000004F14
+t1286196348
+s20244
+i"GDataOAuthSignIn.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthViewControllerTouch.h
+c000000004CD3993C0000000000002A54
+t1288935740
+s10836
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"GDataOAuthAuthentication.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthViewControllerTouch.m
+c000000004CA9CC7C0000000000006E8E
+t1286196348
+s28302
+i<Foundation/Foundation.h>
+i<Security/Security.h>
+i"GDataOAuthViewControllerTouch.h"
+i"GDataOAuthSignIn.h"
+i"GDataOAuthAuthentication.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthViewTouch.xib
+c000000004C4D41660000000000004B8E
+t1280131430
+s19342
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos/GDataOAuth/GDataHTTPFetcher.h
+t1300271595
+s27413
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos/GDataOAuth/GDataOAuthAuthentication.h
+t1300271595
+s8828
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos/GDataOAuth/GDataOAuthSignIn.h
+t1300271595
+s5482
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos/GDataOAuth/GDataOAuthViewControllerTouch.h
+t1300271595
+s10836
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos/GDataOAuth/GDataOAuthViewTouch.xib
+t1300271595
+s19342
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos/libOAuthTouch.a
+t1300271601
+s829720
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv6/GDataHTTPFetcher.o
+t1300271599
+s154908
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv6/GDataOAuthAuthentication.o
+t1300271600
+s95088
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv6/GDataOAuthSignIn.o
+t1300271599
+s52864
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv6/GDataOAuthViewControllerTouch.o
+t1300271600
+s108548
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv6/OAuthTouch.LinkFileList
+c000000004D8091EB00000000000002D1
+t1300271595
+s721
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv6/libOAuthTouch.a
+t1300271601
+s419840
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv7/GDataHTTPFetcher.o
+t1300271601
+s150096
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv7/GDataOAuthAuthentication.o
+t1300271601
+s92756
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv7/GDataOAuthSignIn.o
+t1300271601
+s51640
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv7/GDataOAuthViewControllerTouch.o
+t1300271601
+s106912
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv7/OAuthTouch.LinkFileList
+c000000004D8091EB00000000000002D1
+t1300271595
+s721
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv7/libOAuthTouch.a
+t1300271601
+s409832
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321964395#321964395#0(0"0(0#1#0"8681770656#0"0#
+
+CCompileC build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv6/GDataHTTPFetcher.o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/Networking/GDataHTTPFetcher.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s321964395.810377
+e321964399.331093
+r1
+xCompileC
+xbuild/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv6/GDataHTTPFetcher.o
+x/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/Networking/GDataHTTPFetcher.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/Networking/GDataHTTPFetcher.m321964395#321964399#0(0"0(0#0#91"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/Networking/GDataHTTPFetcher.m8681358720#2031"    cd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-generated-files.hmap -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-own-target-headers.hmap -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-all-target-headers.hmap -iquote /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-project-headers.hmap -F/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos/include -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/DerivedSources/armv6 -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/DerivedSources -DDEBUG=1 -c /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/Networking/GDataHTTPFetcher.m -o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv6/GDataHTTPFetcher.o0#
+
+CCompileC build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv6/GDataOAuthAuthentication.o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthAuthentication.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s321964399.898906
+e321964400.931665
+r1
+xCompileC
+xbuild/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv6/GDataOAuthAuthentication.o
+x/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthAuthentication.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthAuthentication.m321964399#321964400#0(0"0(0#0#94"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthAuthentication.m8684840512#2042"    cd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-generated-files.hmap -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-own-target-headers.hmap -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-all-target-headers.hmap -iquote /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-project-headers.hmap -F/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos/include -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/DerivedSources/armv6 -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/DerivedSources -DDEBUG=1 -c /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthAuthentication.m -o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv6/GDataOAuthAuthentication.o0#
+
+CCompileC build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv6/GDataOAuthSignIn.o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthSignIn.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s321964399.331335
+e321964399.898812
+r1
+xCompileC
+xbuild/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv6/GDataOAuthSignIn.o
+x/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthSignIn.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthSignIn.m321964399#321964399#0(0"0(0#0#86"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthSignIn.m8639045920#2026"    cd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-generated-files.hmap -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-own-target-headers.hmap -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-all-target-headers.hmap -iquote /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-project-headers.hmap -F/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos/include -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/DerivedSources/armv6 -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/DerivedSources -DDEBUG=1 -c /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthSignIn.m -o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv6/GDataOAuthSignIn.o0#
+
+CCompileC build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv6/GDataOAuthViewControllerTouch.o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthViewControllerTouch.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s321964395.811630
+e321964400.426325
+r1
+xCompileC
+xbuild/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv6/GDataOAuthViewControllerTouch.o
+x/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthViewControllerTouch.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthViewControllerTouch.m321964395#321964400#0(0"0(0#0#99"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthViewControllerTouch.m8680628800#2052"    cd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-generated-files.hmap -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-own-target-headers.hmap -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-all-target-headers.hmap -iquote /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-project-headers.hmap -F/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos/include -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/DerivedSources/armv6 -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/DerivedSources -DDEBUG=1 -c /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthViewControllerTouch.m -o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv6/GDataOAuthViewControllerTouch.o0#
+
+CCompileC build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv7/GDataHTTPFetcher.o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/Networking/GDataHTTPFetcher.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321964400.426446
+e321964401.096449
+r1
+xCompileC
+xbuild/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv7/GDataHTTPFetcher.o
+x/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/Networking/GDataHTTPFetcher.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/Networking/GDataHTTPFetcher.m321964400#321964401#0(0"0(0#0#91"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/Networking/GDataHTTPFetcher.m8681704544#2031"    cd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-generated-files.hmap -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-own-target-headers.hmap -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-all-target-headers.hmap -iquote /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-project-headers.hmap -F/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos/include -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/DerivedSources/armv7 -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/DerivedSources -DDEBUG=1 -c /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/Networking/GDataHTTPFetcher.m -o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv7/GDataHTTPFetcher.o0#
+
+CCompileC build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv7/GDataOAuthAuthentication.o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthAuthentication.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321964401.358054
+e321964401.680563
+r1
+xCompileC
+xbuild/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv7/GDataOAuthAuthentication.o
+x/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthAuthentication.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthAuthentication.m321964401#321964401#0(0"0(0#0#94"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthAuthentication.m8659803296#2042"    cd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-generated-files.hmap -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-own-target-headers.hmap -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-all-target-headers.hmap -iquote /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-project-headers.hmap -F/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos/include -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/DerivedSources/armv7 -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/DerivedSources -DDEBUG=1 -c /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthAuthentication.m -o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv7/GDataOAuthAuthentication.o0#
+
+CCompileC build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv7/GDataOAuthSignIn.o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthSignIn.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321964401.096562
+e321964401.357959
+r1
+xCompileC
+xbuild/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv7/GDataOAuthSignIn.o
+x/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthSignIn.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthSignIn.m321964401#321964401#0(0"0(0#0#86"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthSignIn.m8681817408#2026"    cd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-generated-files.hmap -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-own-target-headers.hmap -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-all-target-headers.hmap -iquote /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-project-headers.hmap -F/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos/include -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/DerivedSources/armv7 -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/DerivedSources -DDEBUG=1 -c /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthSignIn.m -o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv7/GDataOAuthSignIn.o0#
+
+CCompileC build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv7/GDataOAuthViewControllerTouch.o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthViewControllerTouch.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321964401.014810
+e321964401.394507
+r1
+xCompileC
+xbuild/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv7/GDataOAuthViewControllerTouch.o
+x/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthViewControllerTouch.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthViewControllerTouch.m321964401#321964401#0(0"0(0#0#99"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthViewControllerTouch.m8684795488#2052"    cd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-generated-files.hmap -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-own-target-headers.hmap -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-all-target-headers.hmap -iquote /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/OAuthTouch-project-headers.hmap -F/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos/include -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/DerivedSources/armv7 -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/DerivedSources -DDEBUG=1 -c /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthViewControllerTouch.m -o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv7/GDataOAuthViewControllerTouch.o0#
+
+CCreateUniversalBinary /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos/libOAuthTouch.a normal "armv6 armv7"
+s321964401.691091
+e321964401.714176
+r1
+xCreateUniversalBinary
+x/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos/libOAuthTouch.a
+xnormal
+xarmv6 armv7
+lSLF07#2@79"CreateUniversalBinary build/Debug-iphoneos/libOAuthTouch.a normal "armv6 armv7"321964401#321964401#0(0"0(0#0#73"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/armv6 armv78685004288#716"    cd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv6/libOAuthTouch.a /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv7/libOAuthTouch.a -o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos/libOAuthTouch.a0#
+
+CLibtool /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv6/libOAuthTouch.a normal armv6
+s321964400.931840
+e321964401.014712
+r1
+xLibtool
+x/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv6/libOAuthTouch.a
+xnormal
+xarmv6
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF07#2@130"Libtool build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv6/libOAuthTouch.a normal armv6321964400#321964401#0(129"/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"8685089440#867"    cd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv6 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos -filelist /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv6/OAuthTouch.LinkFileList -ObjC -o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv6/libOAuthTouch.a0#
+
+CLibtool /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv7/libOAuthTouch.a normal armv7
+s321964401.680688
+e321964401.691006
+r1
+xLibtool
+x/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv7/libOAuthTouch.a
+xnormal
+xarmv7
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF07#2@130"Libtool build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv7/libOAuthTouch.a normal armv7321964401#321964401#0(129"/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"8685726624#867"    cd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv7 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos -filelist /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv7/OAuthTouch.LinkFileList -ObjC -o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/GDataOAuthTouchStaticLibrary.build/Debug-iphoneos/OAuthTouch.build/Objects-normal/armv7/libOAuthTouch.a0#
+
+CPBXCp build/Debug-iphoneos/GDataOAuth/GDataHTTPFetcher.h Networking/GDataHTTPFetcher.h
+s321964395.744272
+e321964395.781853
+r1
+xPBXCp
+xbuild/Debug-iphoneos/GDataOAuth/GDataHTTPFetcher.h
+xNetworking/GDataHTTPFetcher.h
+lSLF07#2@34"Copy Networking/GDataHTTPFetcher.h321964395#321964395#0(0"0(0#0#91"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/Networking/GDataHTTPFetcher.h8684832416#541"    cd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/Networking/GDataHTTPFetcher.h /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos/GDataOAuth0#
+
+CPBXCp build/Debug-iphoneos/GDataOAuth/GDataOAuthAuthentication.h OAuth/GDataOAuthAuthentication.h
+s321964395.743552
+e321964395.781231
+r1
+xPBXCp
+xbuild/Debug-iphoneos/GDataOAuth/GDataOAuthAuthentication.h
+xOAuth/GDataOAuthAuthentication.h
+lSLF07#2@37"Copy OAuth/GDataOAuthAuthentication.h321964395#321964395#0(0"0(0#0#94"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthAuthentication.h8685537920#544"    cd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthAuthentication.h /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos/GDataOAuth0#
+
+CPBXCp build/Debug-iphoneos/GDataOAuth/GDataOAuthSignIn.h OAuth/GDataOAuthSignIn.h
+s321964395.742835
+e321964395.781998
+r1
+xPBXCp
+xbuild/Debug-iphoneos/GDataOAuth/GDataOAuthSignIn.h
+xOAuth/GDataOAuthSignIn.h
+lSLF07#2@29"Copy OAuth/GDataOAuthSignIn.h321964395#321964395#0(0"0(0#0#86"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthSignIn.h8685635424#536"    cd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthSignIn.h /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos/GDataOAuth0#
+
+CPBXCp build/Debug-iphoneos/GDataOAuth/GDataOAuthViewControllerTouch.h OAuth/GDataOAuthViewControllerTouch.h
+s321964395.707915
+e321964395.810268
+r1
+xPBXCp
+xbuild/Debug-iphoneos/GDataOAuth/GDataOAuthViewControllerTouch.h
+xOAuth/GDataOAuthViewControllerTouch.h
+lSLF07#2@42"Copy OAuth/GDataOAuthViewControllerTouch.h321964395#321964395#0(0"0(0#0#99"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthViewControllerTouch.h8673367200#549"    cd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthViewControllerTouch.h /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos/GDataOAuth0#
+
+CPBXCp build/Debug-iphoneos/GDataOAuth/GDataOAuthViewTouch.xib OAuth/GDataOAuthViewTouch.xib
+s321964395.744974
+e321964395.782404
+r1
+xPBXCp
+xbuild/Debug-iphoneos/GDataOAuth/GDataOAuthViewTouch.xib
+xOAuth/GDataOAuthViewTouch.xib
+lSLF07#2@34"Copy OAuth/GDataOAuthViewTouch.xib321964395#321964395#0(0"0(0#0#91"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthViewTouch.xib8683861312#541"    cd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/OAuth/GDataOAuthViewTouch.xib /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug-iphoneos/GDataOAuth0#
+

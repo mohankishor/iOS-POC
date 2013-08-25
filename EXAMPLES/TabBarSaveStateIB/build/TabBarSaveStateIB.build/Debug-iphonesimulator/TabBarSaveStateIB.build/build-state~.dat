@@ -1,0 +1,415 @@
+TTabBarSaveStateIB
+v7
+r0
+t315317349.052178
+cCheck dependencies
+cProcessInfoPlistFile /Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app/Info.plist Info.plist
+cCompileXIB /Users/reshma/Desktop/TabBarSaveStateIB/MainWindow.xib
+cCompileXIB /Users/reshma/Desktop/TabBarSaveStateIB/SecondView.xib
+cCompileXIB /Users/reshma/Desktop/TabBarSaveStateIB/Classes/BGMoreViewController.xib
+cCompileXIB /Users/reshma/Desktop/TabBarSaveStateIB/Classes/BGEditTabBarControllersVC.xib
+cCpResource build/Debug-iphonesimulator/TabBarSaveStateIB.app/logo.png logo.png
+cProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarSaveStateIB_Prefix-cevfkddtxtzgrtasqpxzzjokqkwk/TabBarSaveStateIB_Prefix.pch.gch TabBarSaveStateIB_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/main.o /Users/reshma/Desktop/TabBarSaveStateIB/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/TabBarSaveStateIBAppDelegate.o /Users/reshma/Desktop/TabBarSaveStateIB/Classes/TabBarSaveStateIBAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/FirstViewController.o /Users/reshma/Desktop/TabBarSaveStateIB/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/AllTabsController.o /Users/reshma/Desktop/TabBarSaveStateIB/Classes/AllTabsController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/BGMoreViewController.o /Users/reshma/Desktop/TabBarSaveStateIB/Classes/BGMoreViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/BGEditTabBarControllersVC.o /Users/reshma/Desktop/TabBarSaveStateIB/Classes/BGEditTabBarControllersVC.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app/TabBarSaveStateIB normal i386
+cGenerateDSYMFile /Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app.dSYM /Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app/TabBarSaveStateIB
+cTouch /Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C9AD4330000000000000132
+t1285215283
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/Classes/AllTabsController.h
+c0000000049A8409F0000000000000136
+t1235763359
+s310
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/Classes/AllTabsController.m
+c0000000049A85D270000000000000581
+t1235770663
+s1409
+i"AllTabsController.h"
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/Classes/BGEditTabBarControllersVC.h
+c000000004D1B15390000000000000202
+t1293620537
+s514
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/Classes/BGEditTabBarControllersVC.m
+c000000004D1B16500000000000001236
+t1293620816
+s4662
+i"BGEditTabBarControllersVC.h"
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/Classes/BGEditTabBarControllersVC.xib
+c000000004D1B073300000000000033BB
+t1293616947
+s13243
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/Classes/BGMoreViewController.h
+c000000004D1AFF6200000000000001D6
+t1293614946
+s470
+i<UIKit/UIKit.h>
+i"BGEditTabBarControllersVC.h"
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/Classes/BGMoreViewController.m
+c000000004D1B238E00000000000008B1
+t1293624206
+s2225
+i"BGMoreViewController.h"
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/Classes/BGMoreViewController.xib
+c000000004D1AFBA40000000000001877
+t1293613988
+s6263
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/Classes/FirstViewController.h
+c0000000049A83FA300000000000000EC
+t1235763107
+s236
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/Classes/FirstViewController.m
+c0000000049A83FA30000000000000545
+t1235763107
+s1349
+i"FirstViewController.h"
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/Classes/TabBarSaveStateIBAppDelegate.h
+c0000000049A85F4D000000000000020B
+t1235771213
+s523
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/Classes/TabBarSaveStateIBAppDelegate.m
+c0000000049A85F6B00000000000007DB
+t1235771243
+s2011
+i"TabBarSaveStateIBAppDelegate.h"
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/MainWindow.xib
+c000000004D1AFE9300000000000080D9
+t1293614739
+s32985
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/SecondView.xib
+c0000000049A8404A0000000000002063
+t1235763274
+s8291
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/TabBarSaveStateIB_Prefix.pch
+c0000000049A83FA300000000000000CB
+t1235763107
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app
+t1293624549
+s340
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app.dSYM
+t1293624549
+s102
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app/BGEditTabBarControllersVC.nib
+t1293624547
+s1631
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app/BGMoreViewController.nib
+t1293624547
+s764
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app/Info.plist
+t1293624546
+s637
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app/MainWindow.nib
+t1293624546
+s3669
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app/PkgInfo
+t1293624546
+s8
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app/SecondView.nib
+t1293624546
+s1268
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app/TabBarSaveStateIB
+t1293624548
+s31848
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app/logo.png
+t1293624547
+s17432
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/AllTabsController.o
+t1293624548
+s36924
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/BGEditTabBarControllersVC.o
+t1293624548
+s53072
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/BGMoreViewController.o
+t1293624548
+s40416
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/FirstViewController.o
+t1293624548
+s34000
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/TabBarSaveStateIB.LinkFileList
+c000000004D1B24E200000000000003B3
+t1293624546
+s947
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/TabBarSaveStateIBAppDelegate.o
+t1293624548
+s53616
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/main.o
+t1293624548
+s6304
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/logo.png
+c000000004D00BE250000000000004418
+t1291894309
+s17432
+
+N/Users/reshma/Desktop/TabBarSaveStateIB/main.m
+c0000000049A83FA30000000000000167
+t1235763107
+s359
+i<UIKit/UIKit.h>
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarSaveStateIB_Prefix-cevfkddtxtzgrtasqpxzzjokqkwk/TabBarSaveStateIB_Prefix.pch.gch
+t1293624548
+s15211536
+
+NInfo.plist
+c0000000049A83FA30000000000000386
+t1235763107
+s902
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315317346#315317346#0(0"0(0#1#0"8628702784#0"0#
+
+CCompileC build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/AllTabsController.o /Users/reshma/Desktop/TabBarSaveStateIB/Classes/AllTabsController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315317348.513427
+e315317348.589936
+r1
+xCompileC
+xbuild/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/AllTabsController.o
+x/Users/reshma/Desktop/TabBarSaveStateIB/Classes/AllTabsController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@75"Compile /Users/reshma/Desktop/TabBarSaveStateIB/Classes/AllTabsController.m315317348#315317348#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#67"/Users/reshma/Desktop/TabBarSaveStateIB/Classes/AllTabsController.m8634855264#2200"    cd /Users/reshma/Desktop/TabBarSaveStateIB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/TabBarSaveStateIB-generated-files.hmap -I/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/TabBarSaveStateIB-own-target-headers.hmap -I/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/TabBarSaveStateIB-all-target-headers.hmap -iquote /Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/TabBarSaveStateIB-project-headers.hmap -F/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator -I/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/DerivedSources/i386 -I/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarSaveStateIB_Prefix-cevfkddtxtzgrtasqpxzzjokqkwk/TabBarSaveStateIB_Prefix.pch -c /Users/reshma/Desktop/TabBarSaveStateIB/Classes/AllTabsController.m -o /Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/AllTabsController.o0#
+
+CCompileC build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/BGEditTabBarControllersVC.o /Users/reshma/Desktop/TabBarSaveStateIB/Classes/BGEditTabBarControllersVC.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315317348.590045
+e315317348.687658
+r1
+xCompileC
+xbuild/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/BGEditTabBarControllersVC.o
+x/Users/reshma/Desktop/TabBarSaveStateIB/Classes/BGEditTabBarControllersVC.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@83"Compile /Users/reshma/Desktop/TabBarSaveStateIB/Classes/BGEditTabBarControllersVC.m315317348#315317348#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#75"/Users/reshma/Desktop/TabBarSaveStateIB/Classes/BGEditTabBarControllersVC.m8623577888#2216"    cd /Users/reshma/Desktop/TabBarSaveStateIB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/TabBarSaveStateIB-generated-files.hmap -I/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/TabBarSaveStateIB-own-target-headers.hmap -I/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/TabBarSaveStateIB-all-target-headers.hmap -iquote /Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/TabBarSaveStateIB-project-headers.hmap -F/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator -I/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/DerivedSources/i386 -I/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarSaveStateIB_Prefix-cevfkddtxtzgrtasqpxzzjokqkwk/TabBarSaveStateIB_Prefix.pch -c /Users/reshma/Desktop/TabBarSaveStateIB/Classes/BGEditTabBarControllersVC.m -o /Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/BGEditTabBarControllersVC.o0#
+
+CCompileC build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/BGMoreViewController.o /Users/reshma/Desktop/TabBarSaveStateIB/Classes/BGMoreViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315317348.537174
+e315317348.616444
+r1
+xCompileC
+xbuild/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/BGMoreViewController.o
+x/Users/reshma/Desktop/TabBarSaveStateIB/Classes/BGMoreViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@78"Compile /Users/reshma/Desktop/TabBarSaveStateIB/Classes/BGMoreViewController.m315317348#315317348#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#70"/Users/reshma/Desktop/TabBarSaveStateIB/Classes/BGMoreViewController.m8627754848#2206"    cd /Users/reshma/Desktop/TabBarSaveStateIB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/TabBarSaveStateIB-generated-files.hmap -I/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/TabBarSaveStateIB-own-target-headers.hmap -I/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/TabBarSaveStateIB-all-target-headers.hmap -iquote /Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/TabBarSaveStateIB-project-headers.hmap -F/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator -I/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/DerivedSources/i386 -I/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarSaveStateIB_Prefix-cevfkddtxtzgrtasqpxzzjokqkwk/TabBarSaveStateIB_Prefix.pch -c /Users/reshma/Desktop/TabBarSaveStateIB/Classes/BGMoreViewController.m -o /Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/BGMoreViewController.o0#
+
+CCompileC build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/FirstViewController.o /Users/reshma/Desktop/TabBarSaveStateIB/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315317348.476311
+e315317348.537083
+r1
+xCompileC
+xbuild/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/FirstViewController.o
+x/Users/reshma/Desktop/TabBarSaveStateIB/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@77"Compile /Users/reshma/Desktop/TabBarSaveStateIB/Classes/FirstViewController.m315317348#315317348#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#69"/Users/reshma/Desktop/TabBarSaveStateIB/Classes/FirstViewController.m8602390272#2204"    cd /Users/reshma/Desktop/TabBarSaveStateIB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/TabBarSaveStateIB-generated-files.hmap -I/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/TabBarSaveStateIB-own-target-headers.hmap -I/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/TabBarSaveStateIB-all-target-headers.hmap -iquote /Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/TabBarSaveStateIB-project-headers.hmap -F/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator -I/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/DerivedSources/i386 -I/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarSaveStateIB_Prefix-cevfkddtxtzgrtasqpxzzjokqkwk/TabBarSaveStateIB_Prefix.pch -c /Users/reshma/Desktop/TabBarSaveStateIB/Classes/FirstViewController.m -o /Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/TabBarSaveStateIBAppDelegate.o /Users/reshma/Desktop/TabBarSaveStateIB/Classes/TabBarSaveStateIBAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315317348.425079
+e315317348.513319
+r1
+xCompileC
+xbuild/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/TabBarSaveStateIBAppDelegate.o
+x/Users/reshma/Desktop/TabBarSaveStateIB/Classes/TabBarSaveStateIBAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@86"Compile /Users/reshma/Desktop/TabBarSaveStateIB/Classes/TabBarSaveStateIBAppDelegate.m315317348#315317348#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#78"/Users/reshma/Desktop/TabBarSaveStateIB/Classes/TabBarSaveStateIBAppDelegate.m8626121056#2222"    cd /Users/reshma/Desktop/TabBarSaveStateIB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/TabBarSaveStateIB-generated-files.hmap -I/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/TabBarSaveStateIB-own-target-headers.hmap -I/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/TabBarSaveStateIB-all-target-headers.hmap -iquote /Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/TabBarSaveStateIB-project-headers.hmap -F/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator -I/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/DerivedSources/i386 -I/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarSaveStateIB_Prefix-cevfkddtxtzgrtasqpxzzjokqkwk/TabBarSaveStateIB_Prefix.pch -c /Users/reshma/Desktop/TabBarSaveStateIB/Classes/TabBarSaveStateIBAppDelegate.m -o /Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/TabBarSaveStateIBAppDelegate.o0#
+
+CCompileC build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/main.o /Users/reshma/Desktop/TabBarSaveStateIB/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315317348.410831
+e315317348.476206
+r1
+xCompileC
+xbuild/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/main.o
+x/Users/reshma/Desktop/TabBarSaveStateIB/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@54"Compile /Users/reshma/Desktop/TabBarSaveStateIB/main.m315317348#315317348#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#46"/Users/reshma/Desktop/TabBarSaveStateIB/main.m8630006144#2166"    cd /Users/reshma/Desktop/TabBarSaveStateIB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/TabBarSaveStateIB-generated-files.hmap -I/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/TabBarSaveStateIB-own-target-headers.hmap -I/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/TabBarSaveStateIB-all-target-headers.hmap -iquote /Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/TabBarSaveStateIB-project-headers.hmap -F/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator -I/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/DerivedSources/i386 -I/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarSaveStateIB_Prefix-cevfkddtxtzgrtasqpxzzjokqkwk/TabBarSaveStateIB_Prefix.pch -c /Users/reshma/Desktop/TabBarSaveStateIB/main.m -o /Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/reshma/Desktop/TabBarSaveStateIB/Classes/BGEditTabBarControllersVC.xib
+s315317346.844054
+e315317347.215816
+r1
+xCompileXIB
+x/Users/reshma/Desktop/TabBarSaveStateIB/Classes/BGEditTabBarControllersVC.xib
+lSLF07#2@48"CompileXIB Classes/BGEditTabBarControllersVC.xib315317346#315317347#0(0"0(0#0#77"/Users/reshma/Desktop/TabBarSaveStateIB/Classes/BGEditTabBarControllersVC.xib8622161088#621"    cd /Users/reshma/Desktop/TabBarSaveStateIB    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app/BGEditTabBarControllersVC.nib /Users/reshma/Desktop/TabBarSaveStateIB/Classes/BGEditTabBarControllersVC.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/reshma/Desktop/TabBarSaveStateIB/Classes/BGMoreViewController.xib
+s315317346.749732
+e315317347.177650
+r1
+xCompileXIB
+x/Users/reshma/Desktop/TabBarSaveStateIB/Classes/BGMoreViewController.xib
+lSLF07#2@43"CompileXIB Classes/BGMoreViewController.xib315317346#315317347#0(0"0(0#0#72"/Users/reshma/Desktop/TabBarSaveStateIB/Classes/BGMoreViewController.xib8623020928#611"    cd /Users/reshma/Desktop/TabBarSaveStateIB    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app/BGMoreViewController.nib /Users/reshma/Desktop/TabBarSaveStateIB/Classes/BGMoreViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/reshma/Desktop/TabBarSaveStateIB/MainWindow.xib
+s315317346.257480
+e315317346.843974
+r1
+xCompileXIB
+x/Users/reshma/Desktop/TabBarSaveStateIB/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib315317346#315317346#0(0"0(0#0#54"/Users/reshma/Desktop/TabBarSaveStateIB/MainWindow.xib8634929248#583"    cd /Users/reshma/Desktop/TabBarSaveStateIB    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app/MainWindow.nib /Users/reshma/Desktop/TabBarSaveStateIB/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/reshma/Desktop/TabBarSaveStateIB/SecondView.xib
+s315317346.276294
+e315317346.749649
+r1
+xCompileXIB
+x/Users/reshma/Desktop/TabBarSaveStateIB/SecondView.xib
+lSLF07#2@25"CompileXIB SecondView.xib315317346#315317346#0(0"0(0#0#54"/Users/reshma/Desktop/TabBarSaveStateIB/SecondView.xib8632279232#583"    cd /Users/reshma/Desktop/TabBarSaveStateIB    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app/SecondView.nib /Users/reshma/Desktop/TabBarSaveStateIB/SecondView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Debug-iphonesimulator/TabBarSaveStateIB.app/logo.png logo.png
+s315317347.177730
+e315317347.198457
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBarSaveStateIB.app/logo.png
+xlogo.png
+lSLF07#2@13"Copy logo.png315317347#315317347#0(0"0(0#0#48"/Users/reshma/Desktop/TabBarSaveStateIB/logo.png8621721216#479"    cd /Users/reshma/Desktop/TabBarSaveStateIB    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Desktop/TabBarSaveStateIB/logo.png /Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app0#
+
+CGenerateDSYMFile /Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app.dSYM /Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app/TabBarSaveStateIB
+s315317349.003503
+e315317349.026005
+r1
+xGenerateDSYMFile
+x/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app.dSYM
+x/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app/TabBarSaveStateIB
+lSLF07#2@139"GenerateDSYMFile build/Debug-iphonesimulator/TabBarSaveStateIB.app.dSYM build/Debug-iphonesimulator/TabBarSaveStateIB.app/TabBarSaveStateIB315317349#315317349#0(0"0(0#0#107"/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app/TabBarSaveStateIB8627665056#416"    cd /Users/reshma/Desktop/TabBarSaveStateIB    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app/TabBarSaveStateIB -o /Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app.dSYM0#
+
+CLd /Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app/TabBarSaveStateIB normal i386
+s315317348.687741
+e315317349.003400
+r1
+xLd
+x/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app/TabBarSaveStateIB
+xnormal
+xi386
+lSLF07#2@112"Link /Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app/TabBarSaveStateIB315317348#315317349#0(0"0(0#0#0"8622486560#955"    cd /Users/reshma/Desktop/TabBarSaveStateIB    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator -F/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator -filelist /Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/Objects-normal/i386/TabBarSaveStateIB.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app/TabBarSaveStateIB0#
+
+CProcessInfoPlistFile /Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app/Info.plist Info.plist
+s315317346.221376
+e315317346.257393
+r1
+xProcessInfoPlistFile
+x/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist315317346#315317346#0(0"0(0#0#50"/Users/reshma/Desktop/TabBarSaveStateIB/Info.plist8618450880#494"    cd /Users/reshma/Desktop/TabBarSaveStateIB    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app/Info.plist0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarSaveStateIB_Prefix-cevfkddtxtzgrtasqpxzzjokqkwk/TabBarSaveStateIB_Prefix.pch.gch TabBarSaveStateIB_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315317347.215926
+e315317348.410623
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarSaveStateIB_Prefix-cevfkddtxtzgrtasqpxzzjokqkwk/TabBarSaveStateIB_Prefix.pch.gch
+xTabBarSaveStateIB_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@39"Precompile TabBarSaveStateIB_Prefix.pch315317347#315317348#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#68"/Users/reshma/Desktop/TabBarSaveStateIB/TabBarSaveStateIB_Prefix.pch8621581344#2047"    cd /Users/reshma/Desktop/TabBarSaveStateIB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/TabBarSaveStateIB-generated-files.hmap -I/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/TabBarSaveStateIB-own-target-headers.hmap -I/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/TabBarSaveStateIB-all-target-headers.hmap -iquote /Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/TabBarSaveStateIB-project-headers.hmap -F/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator -I/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/DerivedSources/i386 -I/Users/reshma/Desktop/TabBarSaveStateIB/build/TabBarSaveStateIB.build/Debug-iphonesimulator/TabBarSaveStateIB.build/DerivedSources -c /Users/reshma/Desktop/TabBarSaveStateIB/TabBarSaveStateIB_Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarSaveStateIB_Prefix-cevfkddtxtzgrtasqpxzzjokqkwk/TabBarSaveStateIB_Prefix.pch.gch0#
+
+CTouch /Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app
+s315317349.026083
+e315317349.052127
+r1
+xTouch
+x/Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app
+lSLF07#2@95"Touch /Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app315317349#315317349#0(0"0(0#0#0"8626416192#290"    cd /Users/reshma/Desktop/TabBarSaveStateIB    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/reshma/Desktop/TabBarSaveStateIB/build/Debug-iphonesimulator/TabBarSaveStateIB.app0#
+

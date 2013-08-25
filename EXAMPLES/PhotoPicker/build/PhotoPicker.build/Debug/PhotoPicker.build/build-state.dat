@@ -1,0 +1,140 @@
+TPhotoPicker
+v7
+r1
+cCheck dependencies
+
+N/Users/reshma/Downloads/PhotoPicker/build/Debug/PhotoPicker.app
+t2
+s0
+
+N/Users/reshma/Downloads/PhotoPicker/build/Debug/PhotoPicker.app/Contents/Info.plist
+t2
+s0
+
+N/Users/reshma/Downloads/PhotoPicker/build/Debug/PhotoPicker.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/reshma/Downloads/PhotoPicker/build/Debug/PhotoPicker.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/reshma/Downloads/PhotoPicker/build/Debug/PhotoPicker.app/Contents/Resources/Icon-Small.png
+t2
+s0
+
+N/Users/reshma/Downloads/PhotoPicker/build/Debug/PhotoPicker.app/Contents/Resources/Icon-Small@2x.png
+t2
+s0
+
+N/Users/reshma/Downloads/PhotoPicker/build/Debug/PhotoPicker.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/reshma/Downloads/PhotoPicker/build/Debug/PhotoPicker.app/Contents/Resources/Icon@2x.png
+t2
+s0
+
+N/Users/reshma/Downloads/PhotoPicker/build/Debug/PhotoPicker.app/Contents/Resources/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/reshma/Downloads/PhotoPicker/build/Debug/PhotoPicker.app/Contents/Resources/en.lproj/OverlayViewController.nib
+t2
+s0
+
+N/Users/reshma/Downloads/PhotoPicker/build/Debug/PhotoPicker.app/Contents/Resources/iTunesArtwork
+t2
+s0
+
+N/Users/reshma/Downloads/PhotoPicker/build/Debug/PhotoPicker.app/Contents/Resources/tick.aiff
+t2
+s0
+
+N/Users/reshma/Downloads/PhotoPicker/en.lproj/MainWindow.xib
+c000000004BC895E30000000000007EB8
+t1271436771
+s32440
+
+N/Users/reshma/Downloads/PhotoPicker/en.lproj/OverlayViewController.xib
+c000000004BCCAF9E000000000000666F
+t1271705502
+s26223
+
+N/Users/reshma/Downloads/PhotoPicker/images/Default.png
+c000000004C18FCB400000000000027D3
+t1276705972
+s10195
+
+N/Users/reshma/Downloads/PhotoPicker/images/Icon-Small.png
+c000000004C18FCB40000000000000396
+t1276705972
+s918
+
+N/Users/reshma/Downloads/PhotoPicker/images/Icon-Small@2x.png
+c000000004C18FCB400000000000003F2
+t1276705972
+s1010
+
+N/Users/reshma/Downloads/PhotoPicker/images/Icon.png
+c000000004C18FCB400000000000003EF
+t1276705972
+s1007
+
+N/Users/reshma/Downloads/PhotoPicker/images/Icon@2x.png
+c000000004C18FCB400000000000004E4
+t1276705972
+s1252
+
+N/Users/reshma/Downloads/PhotoPicker/images/iTunesArtwork
+c000000004C221C4F0000000000001444
+t1277303887
+s5188
+
+N/Users/reshma/Downloads/PhotoPicker/tick.aiff
+c000000004ACCDD410000000000005DDE
+t1254939969
+s24030
+
+NInfo.plist
+c000000004C221D6600000000000004DF
+t1277304166
+s1247
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies314170195#314170195#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.0'1(4@58"error: There is no SDK with the name or path 'iphoneos4.0'314170195#18446744073709551615#0#0(1@0"0(0#1#0"8621887200#0"0#
+
+CCompileXIB /Users/reshma/Downloads/PhotoPicker/en.lproj/MainWindow.xib
+r0
+
+CCompileXIB /Users/reshma/Downloads/PhotoPicker/en.lproj/OverlayViewController.xib
+r0
+
+CCpResource build/Debug/PhotoPicker.app/Contents/Resources/Default.png images/Default.png
+r0
+
+CCpResource build/Debug/PhotoPicker.app/Contents/Resources/Icon-Small.png images/Icon-Small.png
+r0
+
+CCpResource build/Debug/PhotoPicker.app/Contents/Resources/Icon-Small@2x.png images/Icon-Small@2x.png
+r0
+
+CCpResource build/Debug/PhotoPicker.app/Contents/Resources/Icon.png images/Icon.png
+r0
+
+CCpResource build/Debug/PhotoPicker.app/Contents/Resources/Icon@2x.png images/Icon@2x.png
+r0
+
+CCpResource build/Debug/PhotoPicker.app/Contents/Resources/iTunesArtwork images/iTunesArtwork
+r0
+
+CCpResource build/Debug/PhotoPicker.app/Contents/Resources/tick.aiff tick.aiff
+r0
+
+CProcessInfoPlistFile /Users/reshma/Downloads/PhotoPicker/build/Debug/PhotoPicker.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/reshma/Downloads/PhotoPicker/build/Debug/PhotoPicker.app
+r0
+

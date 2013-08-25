@@ -1,0 +1,164 @@
+TMoveMe
+v7
+r1
+cCheck dependencies
+
+N/Users/reshma/Downloads/MoveMe/build/Debug/MoveMe.app
+t2
+s0
+
+N/Users/reshma/Downloads/MoveMe/build/Debug/MoveMe.app/Contents/Info.plist
+t2
+s0
+
+N/Users/reshma/Downloads/MoveMe/build/Debug/MoveMe.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/reshma/Downloads/MoveMe/build/Debug/MoveMe.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/reshma/Downloads/MoveMe/build/Debug/MoveMe.app/Contents/Resources/Icon-72.png
+t2
+s0
+
+N/Users/reshma/Downloads/MoveMe/build/Debug/MoveMe.app/Contents/Resources/Icon-Small-50.png
+t2
+s0
+
+N/Users/reshma/Downloads/MoveMe/build/Debug/MoveMe.app/Contents/Resources/Icon-Small.png
+t2
+s0
+
+N/Users/reshma/Downloads/MoveMe/build/Debug/MoveMe.app/Contents/Resources/Icon-Small@2x.png
+t2
+s0
+
+N/Users/reshma/Downloads/MoveMe/build/Debug/MoveMe.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/reshma/Downloads/MoveMe/build/Debug/MoveMe.app/Contents/Resources/Icon@2x.png
+t2
+s0
+
+N/Users/reshma/Downloads/MoveMe/build/Debug/MoveMe.app/Contents/Resources/Placard.png
+t2
+s0
+
+N/Users/reshma/Downloads/MoveMe/build/Debug/MoveMe.app/Contents/Resources/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/reshma/Downloads/MoveMe/build/Debug/MoveMe.app/Contents/Resources/en.lproj/MoveMeView.nib
+t2
+s0
+
+N/Users/reshma/Downloads/MoveMe/build/Debug/MoveMe.app/Contents/Resources/iTunesArtwork
+t2
+s0
+
+N/Users/reshma/Downloads/MoveMe/en.lproj/MainWindow.xib
+c000000004C20FB6B0000000000001B8B
+t1277229931
+s7051
+
+N/Users/reshma/Downloads/MoveMe/en.lproj/MoveMeView.xib
+c000000004C20FB6B0000000000001568
+t1277229931
+s5480
+
+N/Users/reshma/Downloads/MoveMe/images/Default.png
+c000000004C20FB6B00000000000032EC
+t1277229931
+s13036
+
+N/Users/reshma/Downloads/MoveMe/images/Icon-72.png
+c000000004C253D310000000000000427
+t1277508913
+s1063
+
+N/Users/reshma/Downloads/MoveMe/images/Icon-Small-50.png
+c000000004C253D3100000000000003E0
+t1277508913
+s992
+
+N/Users/reshma/Downloads/MoveMe/images/Icon-Small.png
+c000000004C253D310000000000000396
+t1277508913
+s918
+
+N/Users/reshma/Downloads/MoveMe/images/Icon-Small@2x.png
+c000000004C253D3100000000000003F2
+t1277508913
+s1010
+
+N/Users/reshma/Downloads/MoveMe/images/Icon.png
+c000000004C253D3100000000000003EF
+t1277508913
+s1007
+
+N/Users/reshma/Downloads/MoveMe/images/Icon@2x.png
+c000000004C253D3100000000000004E4
+t1277508913
+s1252
+
+N/Users/reshma/Downloads/MoveMe/images/Placard.png
+c000000004C20FB6B0000000000001583
+t1277229931
+s5507
+
+N/Users/reshma/Downloads/MoveMe/images/iTunesArtwork
+c000000004C253D310000000000001444
+t1277508913
+s5188
+
+NInfo.plist
+c000000004C253D31000000000000048A
+t1277508913
+s1162
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306321360#306321360#0(73"[BEROR]error: There is no SDK with the name or path 'iphonesimulator4.0'1(4@65"error: There is no SDK with the name or path 'iphonesimulator4.0'306321360#18446744073709551615#0#0(1@0"0(0#1#0"4300911832#0"0#
+
+CCompileXIB /Users/reshma/Downloads/MoveMe/en.lproj/MainWindow.xib
+r0
+
+CCompileXIB /Users/reshma/Downloads/MoveMe/en.lproj/MoveMeView.xib
+r0
+
+CCpResource build/Debug/MoveMe.app/Contents/Resources/Default.png images/Default.png
+r0
+
+CCpResource build/Debug/MoveMe.app/Contents/Resources/Icon-72.png images/Icon-72.png
+r0
+
+CCpResource build/Debug/MoveMe.app/Contents/Resources/Icon-Small-50.png images/Icon-Small-50.png
+r0
+
+CCpResource build/Debug/MoveMe.app/Contents/Resources/Icon-Small.png images/Icon-Small.png
+r0
+
+CCpResource build/Debug/MoveMe.app/Contents/Resources/Icon-Small@2x.png images/Icon-Small@2x.png
+r0
+
+CCpResource build/Debug/MoveMe.app/Contents/Resources/Icon.png images/Icon.png
+r0
+
+CCpResource build/Debug/MoveMe.app/Contents/Resources/Icon@2x.png images/Icon@2x.png
+r0
+
+CCpResource build/Debug/MoveMe.app/Contents/Resources/Placard.png images/Placard.png
+r0
+
+CCpResource build/Debug/MoveMe.app/Contents/Resources/iTunesArtwork images/iTunesArtwork
+r0
+
+CProcessInfoPlistFile /Users/reshma/Downloads/MoveMe/build/Debug/MoveMe.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/reshma/Downloads/MoveMe/build/Debug/MoveMe.app
+r0
+

@@ -1,0 +1,293 @@
+TSimpleTableView
+v7
+r0
+t307886872.978251
+cCheck dependencies
+cProcessInfoPlistFile "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/Info.plist" Info.plist
+cCpResource build/Debug-iphonesimulator/SimpleTableView.app/Default.png Default.png
+cCompileXIB "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/MainWindow.xib"
+cCopyStringsFile "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/en.lproj/Localizable.strings" en.lproj/Localizable.strings
+cCpResource build/Debug-iphonesimulator/SimpleTableView.app/Icon.png Icon.png
+cProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTableView_Prefix-esybwmnugjapihcygqllvsbxnpnh/SimpleTableView_Prefix.pch.gch SimpleTableView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/main.o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableViewAppDelegate.o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/Classes/SimpleTableViewAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/RootViewController.o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView" normal i386
+cGenerateDSYMFile "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app.dSYM" "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView"
+cTouch "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/Classes/RootViewController.h
+c000000004BA3E7810000000000000A7E
+t1269032833
+s2686
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/Classes/RootViewController.m
+c000000004BA3E7810000000000001029
+t1269032833
+s4137
+i"RootViewController.h"
+i"SimpleTableViewAppDelegate.h"
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/Classes/SimpleTableViewAppDelegate.h
+c000000004BA3E7810000000000000B08
+t1269032833
+s2824
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/Classes/SimpleTableViewAppDelegate.m
+c000000004BA3E7810000000000000E91
+t1269032833
+s3729
+i"SimpleTableViewAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/Default.png
+c000000004A21E53E0000000000000848
+t1243735358
+s2120
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/Icon.png
+c000000004A21E53E0000000000000BE3
+t1243735358
+s3043
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/MainWindow.xib
+c000000004A21E53E0000000000001D0F
+t1243735358
+s7439
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/SimpleTableView_Prefix.pch
+c000000004A21E53E00000000000000C7
+t1243735358
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app
+t1286194072
+s306
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app.dSYM
+t1286194072
+s102
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/Default.png
+t1286194071
+s2120
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/Icon.png
+t1286194071
+s3043
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/Info.plist
+t1286194071
+s624
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/MainWindow.nib
+t1286194071
+s1337
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/PkgInfo
+t1286194071
+s8
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView
+t1286194072
+s20904
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/en.lproj/Localizable.strings
+t1286194072
+s56
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/RootViewController.o
+t1286194072
+s34036
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableView.LinkFileList
+c000000004CA9C397000000000000021F
+t1286194071
+s543
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableViewAppDelegate.o
+t1286194072
+s40896
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/main.o
+t1286194072
+s6004
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/en.lproj/Localizable.strings
+c000000004A21E53E000000000000003E
+t1243735358
+s62
+
+N/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/main.m
+c000000004BA3E7810000000000000A66
+t1269032833
+s2662
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTableView_Prefix-esybwmnugjapihcygqllvsbxnpnh/SimpleTableView_Prefix.pch.gch
+t1286194072
+s12952976
+
+NInfo.plist
+c000000004A3C30290000000000000381
+t1245458473
+s897
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies307886871#307886871#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/RootViewController.o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307886872.864598
+e307886872.925194
+r1
+xCompileC
+xbuild/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/RootViewController.o
+x/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/Classes/RootViewController.m307886872#307886872#0(0"0(0#0#98"/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/Classes/RootViewController.m4300911832#2416"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-generated-files.hmap" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-own-target-headers.hmap" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-project-headers.hmap" "-F/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/include" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources/i386" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTableView_Prefix-esybwmnugjapihcygqllvsbxnpnh/SimpleTableView_Prefix.pch -c "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/Classes/RootViewController.m" -o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableViewAppDelegate.o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/Classes/SimpleTableViewAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307886872.819186
+e307886872.897045
+r1
+xCompileC
+xbuild/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableViewAppDelegate.o
+x/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/Classes/SimpleTableViewAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/Classes/SimpleTableViewAppDelegate.m307886872#307886872#0(0"0(0#0#106"/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/Classes/SimpleTableViewAppDelegate.m4300911832#2432"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-generated-files.hmap" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-own-target-headers.hmap" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-project-headers.hmap" "-F/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/include" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources/i386" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTableView_Prefix-esybwmnugjapihcygqllvsbxnpnh/SimpleTableView_Prefix.pch -c "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/Classes/SimpleTableViewAppDelegate.m" -o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableViewAppDelegate.o"0#
+
+CCompileC build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/main.o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307886872.817954
+e307886872.864499
+r1
+xCompileC
+xbuild/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/main.o
+x/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/main.m307886872#307886872#0(0"0(0#0#76"/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/main.m4300911832#2380"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-generated-files.hmap" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-own-target-headers.hmap" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-project-headers.hmap" "-F/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/include" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources/i386" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTableView_Prefix-esybwmnugjapihcygqllvsbxnpnh/SimpleTableView_Prefix.pch -c "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/main.m" -o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/MainWindow.xib"
+s307886871.484416
+e307886871.840815
+r1
+xCompileXIB
+x/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib307886871#307886871#0(0"0(0#0#84"/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/MainWindow.xib4300911832#587"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/MainWindow.nib" "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/MainWindow.xib"0#
+
+CCopyStringsFile "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/en.lproj/Localizable.strings" en.lproj/Localizable.strings
+s307886871.527240
+e307886872.044670
+r1
+xCopyStringsFile
+x/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/en.lproj/Localizable.strings
+xen.lproj/Localizable.strings
+lSLF07#2@33"Copy en.lproj/Localizable.strings307886871#307886872#0(0"0(0#0#98"/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/en.lproj/Localizable.strings4300911832#560"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding binary en.lproj/Localizable.strings --outdir "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/en.lproj"0#
+
+CCpResource build/Debug-iphonesimulator/SimpleTableView.app/Default.png Default.png
+s307886871.483747
+e307886871.527134
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SimpleTableView.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png307886871#307886871#0(0"0(0#0#81"/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/Default.png4300911832#562"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/Default.png" "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app"0#
+
+CCpResource build/Debug-iphonesimulator/SimpleTableView.app/Icon.png Icon.png
+s307886871.840906
+e307886871.906569
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SimpleTableView.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png307886871#307886871#0(0"0(0#0#78"/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/Icon.png4300911832#559"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/Icon.png" "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app"0#
+
+CGenerateDSYMFile "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app.dSYM" "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView"
+s307886872.943671
+e307886872.975360
+r1
+xGenerateDSYMFile
+x/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app.dSYM
+x/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/SimpleTableView.app.dSYM build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView307886872#307886872#0(0"0(0#0#133"/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView4300911832#506"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView" -o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app.dSYM"0#
+
+CLd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView" normal i386
+s307886872.925291
+e307886872.943573
+r1
+xLd
+x/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView
+xnormal
+xi386
+lSLF07#2@138"Link /Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView307886872#307886872#0(0"0(0#0#0"4300911832#1067"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk "-L/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator" "-F/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator" -filelist "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableView.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView"0#
+
+CProcessInfoPlistFile "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/Info.plist" Info.plist
+s307886871.466206
+e307886871.483647
+r1
+xProcessInfoPlistFile
+x/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist307886871#307886871#0(0"0(0#0#80"/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/Info.plist4300911832#586"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/Info.plist"0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTableView_Prefix-esybwmnugjapihcygqllvsbxnpnh/SimpleTableView_Prefix.pch.gch SimpleTableView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s307886872.044826
+e307886872.817837
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTableView_Prefix-esybwmnugjapihcygqllvsbxnpnh/SimpleTableView_Prefix.pch.gch
+xSimpleTableView_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile SimpleTableView_Prefix.pch307886872#307886872#0(0"0(0#0#96"/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/SimpleTableView_Prefix.pch4300911832#2231"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-generated-files.hmap" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-own-target-headers.hmap" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-project-headers.hmap" "-F/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/include" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources/i386" "-I/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources" -c "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/SimpleTableView_Prefix.pch" -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTableView_Prefix-esybwmnugjapihcygqllvsbxnpnh/SimpleTableView_Prefix.pch.gch0#
+
+CTouch "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app"
+s307886872.975528
+e307886872.978221
+r1
+xTouch
+x/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app
+lSLF07#2@123"Touch /Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app307886872#307886872#0(0"0(0#0#0"4300911832#352"    cd "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/reshma/Desktop/Desktop Folder/TableViewSuite/1_SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app"0#
+

@@ -1,0 +1,104 @@
+TiTouch
+v7
+r1
+cCheck dependencies
+
+N/Users/reshma/Downloads/iTouch/Clown_Fish1.jpg
+c000000004C7C8947000000000000C214
+t1283230023
+s49684
+
+N/Users/reshma/Downloads/iTouch/MainWindow.xib
+c000000004C7C89470000000000002641
+t1283230023
+s9793
+
+N/Users/reshma/Downloads/iTouch/build/Debug/iTouch.app
+t2
+s0
+
+N/Users/reshma/Downloads/iTouch/build/Debug/iTouch.app/Contents/Info.plist
+t2
+s0
+
+N/Users/reshma/Downloads/iTouch/build/Debug/iTouch.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/reshma/Downloads/iTouch/build/Debug/iTouch.app/Contents/Resources/Clown_Fish1.jpg
+t2
+s0
+
+N/Users/reshma/Downloads/iTouch/build/Debug/iTouch.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/reshma/Downloads/iTouch/build/Debug/iTouch.app/Contents/Resources/clownfish.jpg
+t2
+s0
+
+N/Users/reshma/Downloads/iTouch/build/Debug/iTouch.app/Contents/Resources/iTouchViewController.nib
+t2
+s0
+
+N/Users/reshma/Downloads/iTouch/build/Debug/iTouch.app/Contents/Resources/image2.jpg
+t2
+s0
+
+N/Users/reshma/Downloads/iTouch/build/Debug/iTouch.app/Contents/Resources/images.jpg
+t2
+s0
+
+N/Users/reshma/Downloads/iTouch/clownfish.jpg
+c000000004C7C8947000000000000AAFE
+t1283230023
+s43774
+
+N/Users/reshma/Downloads/iTouch/iTouchViewController.xib
+c000000004C7C89470000000000001A41
+t1283230023
+s6721
+
+N/Users/reshma/Downloads/iTouch/image2.jpg
+c000000004C7C894700000000000216CB
+t1283230023
+s136907
+
+N/Users/reshma/Downloads/iTouch/images.jpg
+c000000004C7C89470000000000002439
+t1283230023
+s9273
+
+NiTouch-Info.plist
+c000000004C7C8947000000000000038D
+t1283230023
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322980490#322980490#0(68"[BEROR]error: There is no SDK with the name or path 'iphoneos3.1.3'1(4@60"error: There is no SDK with the name or path 'iphoneos3.1.3'322980490#18446744073709551615#0#0(1@0"0(0#1#0"8619833568#0"0#
+
+CCompileXIB /Users/reshma/Downloads/iTouch/MainWindow.xib
+r0
+
+CCompileXIB /Users/reshma/Downloads/iTouch/iTouchViewController.xib
+r0
+
+CCpResource build/Debug/iTouch.app/Contents/Resources/Clown_Fish1.jpg Clown_Fish1.jpg
+r0
+
+CCpResource build/Debug/iTouch.app/Contents/Resources/clownfish.jpg clownfish.jpg
+r0
+
+CCpResource build/Debug/iTouch.app/Contents/Resources/image2.jpg image2.jpg
+r0
+
+CCpResource build/Debug/iTouch.app/Contents/Resources/images.jpg images.jpg
+r0
+
+CProcessInfoPlistFile /Users/reshma/Downloads/iTouch/build/Debug/iTouch.app/Contents/Info.plist iTouch-Info.plist
+r0
+
+CTouch /Users/reshma/Downloads/iTouch/build/Debug/iTouch.app
+r0
+

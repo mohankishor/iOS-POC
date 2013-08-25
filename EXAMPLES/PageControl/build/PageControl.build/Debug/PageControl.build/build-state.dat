@@ -1,0 +1,56 @@
+TPageControl
+v7
+r1
+cCheck dependencies
+
+N/Users/reshma/Desktop/PageControl/MainWindow.xib
+c000000004CED01480000000000004E59
+t1290600776
+s20057
+
+N/Users/reshma/Desktop/PageControl/PageControlViewController.xib
+c000000004CED0148000000000000446C
+t1290600776
+s17516
+
+N/Users/reshma/Desktop/PageControl/build/Debug/PageControl.app
+t2
+s0
+
+N/Users/reshma/Desktop/PageControl/build/Debug/PageControl.app/Contents/Info.plist
+t2
+s0
+
+N/Users/reshma/Desktop/PageControl/build/Debug/PageControl.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/reshma/Desktop/PageControl/build/Debug/PageControl.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/reshma/Desktop/PageControl/build/Debug/PageControl.app/Contents/Resources/PageControlViewController.nib
+t2
+s0
+
+NPageControl-Info.plist
+c000000004CED0148000000000000038D
+t1290600776
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312293741#312293741#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.1'1(4@58"error: There is no SDK with the name or path 'iphoneos4.1'312293741#18446744073709551615#0#0(1@0"0(0#1#0"8638098848#0"0#
+
+CCompileXIB /Users/reshma/Desktop/PageControl/MainWindow.xib
+r0
+
+CCompileXIB /Users/reshma/Desktop/PageControl/PageControlViewController.xib
+r0
+
+CProcessInfoPlistFile /Users/reshma/Desktop/PageControl/build/Debug/PageControl.app/Contents/Info.plist PageControl-Info.plist
+r0
+
+CTouch /Users/reshma/Desktop/PageControl/build/Debug/PageControl.app
+r0
+

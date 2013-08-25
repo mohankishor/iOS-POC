@@ -1,0 +1,158 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* ToolBarSample */ = {
+		activeExec = 0;
+		executables = (
+			9ABD523C12278488009446FB /* ToolBarSample */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ToolBarSampleViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 560}}";
+			sepNavSelRange = "{275, 0}";
+			sepNavVisRange = "{0, 310}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ToolBarSampleViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1097, 1339}}";
+			sepNavSelRange = "{887, 5}";
+			sepNavVisRange = "{690, 1129}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9ABD523C12278488009446FB /* ToolBarSample */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ToolBarSample */;
+		breakpoints = (
+		);
+		codeSenseManager = 9ABD5253122784A3009446FB /* Code sense */;
+		executables = (
+			9ABD523C12278488009446FB /* ToolBarSample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					694,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 307976832;
+			PBXWorkspaceStateSaveDate = 307976832;
+		};
+		perUserProjectItems = {
+			9A791A3B12279362007D91CB /* PBXTextBookmark */ = 9A791A3B12279362007D91CB /* PBXTextBookmark */;
+			9ABD52B112278E5F009446FB /* PBXTextBookmark */ = 9ABD52B112278E5F009446FB /* PBXTextBookmark */;
+			9ABD52C312278FE1009446FB /* PBXTextBookmark */ = 9ABD52C312278FE1009446FB /* PBXTextBookmark */;
+			9AE2999D125B5F440028E9FB /* PBXTextBookmark */ = 9AE2999D125B5F440028E9FB /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9ABD5252122784A3009446FB /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	9A791A3B12279362007D91CB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ToolBarSampleViewController.m */;
+		name = "ToolBarSampleViewController.m: 52";
+		rLen = 0;
+		rLoc = 1310;
+		rType = 0;
+		vrLen = 1148;
+		vrLoc = 671;
+	};
+	9ABD523C12278488009446FB /* ToolBarSample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ToolBarSample;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	9ABD5252122784A3009446FB /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9ABD5253122784A3009446FB /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9ABD529A12278D02009446FB /* UIBarButtonItem.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIBarButtonItem.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIBarButtonItem.h;
+		sourceTree = "<absolute>";
+	};
+	9ABD52B112278E5F009446FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ToolBarSampleViewController.h */;
+		name = "ToolBarSampleViewController.h: 13";
+		rLen = 0;
+		rLoc = 275;
+		rType = 0;
+		vrLen = 310;
+		vrLoc = 0;
+	};
+	9ABD52C312278FE1009446FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9ABD529A12278D02009446FB /* UIBarButtonItem.h */;
+		name = "UIBarButtonItem.h: 29";
+		rLen = 33;
+		rLoc = 713;
+		rType = 0;
+		vrLen = 1254;
+		vrLoc = 3;
+	};
+	9AE2999D125B5F440028E9FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ToolBarSampleViewController.m */;
+		name = "ToolBarSampleViewController.m: 41";
+		rLen = 5;
+		rLoc = 887;
+		rType = 0;
+		vrLen = 1129;
+		vrLoc = 690;
+	};
+}

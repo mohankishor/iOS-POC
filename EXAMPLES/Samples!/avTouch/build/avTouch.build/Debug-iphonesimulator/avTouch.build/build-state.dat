@@ -1,0 +1,744 @@
+TavTouch
+v7
+r0
+t305006113.937878
+cCheck dependencies
+cProcessInfoPlistFile /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/Info.plist Info.plist
+cCompileXIB /Users/reshma/Desktop/avTouch/MainWindow.xib
+cCompileXIB /Users/reshma/Desktop/avTouch/avTouchViewController.xib
+cCpResource build/Debug-iphonesimulator/avTouch.app/sample.m4a sample.m4a
+cCpResource build/Debug-iphonesimulator/avTouch.app/icon.png icon.png
+cCpResource build/Debug-iphonesimulator/avTouch.app/forward.png images/forward.png
+cCpResource build/Debug-iphonesimulator/avTouch.app/play.png images/play.png
+cCpResource build/Debug-iphonesimulator/avTouch.app/rewind.png images/rewind.png
+cCpResource build/Debug-iphonesimulator/avTouch.app/sound_meter_background.png images/sound_meter_background.png
+cCpResource build/Debug-iphonesimulator/avTouch.app/sound_meter_glare.png images/sound_meter_glare.png
+cCpResource build/Debug-iphonesimulator/avTouch.app/volume_down.png images/volume_down.png
+cCpResource build/Debug-iphonesimulator/avTouch.app/volume_up.png images/volume_up.png
+cCpResource build/Debug-iphonesimulator/avTouch.app/Default.png Default.png
+cCpResource build/Debug-iphonesimulator/avTouch.app/pause.png images/pause.png
+cProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-eezvrtwfssdkfsbmnklpqedojcmr/avTouch_Prefix.pch.gch avTouch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-ateoiuwchwrecnfqnmsksrrphrlq/avTouch_Prefix.pch.gch avTouch_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-gfuhwtmoeiyvmeaeadevbczlrtqd/avTouch_Prefix.pch.gch avTouch_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/main.o /Users/reshma/Desktop/avTouch/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchAppDelegate.o /Users/reshma/Desktop/avTouch/Classes/avTouchAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchViewController.o /Users/reshma/Desktop/avTouch/Classes/avTouchViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/GLLevelMeter.o /Users/reshma/Desktop/avTouch/Classes/GLLevelMeter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/LevelMeter.o /Users/reshma/Desktop/avTouch/Classes/LevelMeter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/MeterTable.o /Users/reshma/Desktop/avTouch/MeterTable.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchController.o /Users/reshma/Desktop/avTouch/Classes/avTouchController.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/CALevelMeter.o /Users/reshma/Desktop/avTouch/Classes/CALevelMeter.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cLd /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/avTouch normal i386
+cGenerateDSYMFile /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app.dSYM /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/avTouch
+cTouch /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004B2B4DF500000000000120D0
+t1261129205
+s73936
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004B2B4DEF00000000000000EB
+t1261129199
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004B2B4D460000000000193960
+t1261129030
+s1653088
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioQueue.h
+c000000004B2B4D2F0000000000011F11
+t1261129007
+s73489
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004B2B4D2F0000000000000A22
+t1261129007
+s2594
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004B2B5307000000000000094F
+t1261130503
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004B2B53070000000000000A61
+t1261130503
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004B2B53070000000000009369
+t1261130503
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004B2B53070000000000002A42
+t1261130503
+s10818
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004B2B532D000000000001F8E0
+t1261130541
+s129248
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004B2B537F000000000000007D
+t1261130623
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004B2B540C00000000000E5890
+t1261130764
+s940176
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/math.h
+c000000004748A10600000000000004B7
+t1195942150
+s1207
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/stdio.h
+c000000004748A1330000000000003D1D
+t1195942195
+s15645
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/stdlib.h
+c000000004748A1330000000000002A79
+t1195942195
+s10873
+
+N/Users/reshma/Desktop/avTouch/Classes/CALevelMeter.h
+c000000004BA3ED3B0000000000000DF8
+t1269034299
+s3576
+i<UIKit/UIKit.h>
+i<AudioToolbox/AudioQueue.h>
+i<AVFoundation/AVFoundation.h>
+i"MeterTable.h"
+
+N/Users/reshma/Desktop/avTouch/Classes/CALevelMeter.mm
+c000000004BA3ED3B00000000000021E8
+t1269034299
+s8680
+i"CALevelMeter.h"
+i"LevelMeter.h"
+i"GLLevelMeter.h"
+
+N/Users/reshma/Desktop/avTouch/Classes/GLLevelMeter.h
+c000000004BA3ED3B0000000000000ACD
+t1269034299
+s2765
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"LevelMeter.h"
+
+N/Users/reshma/Desktop/avTouch/Classes/GLLevelMeter.m
+c000000004BA3ED3B0000000000002A55
+t1269034299
+s10837
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGLDrawable.h>
+i"GLLevelMeter.h"
+
+N/Users/reshma/Desktop/avTouch/Classes/LevelMeter.h
+c000000004BA3ED3B0000000000001094
+t1269034299
+s4244
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/avTouch/Classes/LevelMeter.m
+c000000004BA3ED3B0000000000002199
+t1269034299
+s8601
+i"LevelMeter.h"
+
+N/Users/reshma/Desktop/avTouch/Classes/avTouchAppDelegate.h
+c000000004BA3ED3B0000000000000AC7
+t1269034299
+s2759
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/avTouch/Classes/avTouchAppDelegate.m
+c000000004BA3ED3B0000000000000B40
+t1269034299
+s2880
+i"avTouchAppDelegate.h"
+i"avTouchViewController.h"
+
+N/Users/reshma/Desktop/avTouch/Classes/avTouchController.h
+c000000004BA3ED3B0000000000000FF4
+t1269034299
+s4084
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/reshma/Desktop/avTouch/Classes/avTouchController.mm
+c000000004BA3ED3B00000000000024F1
+t1269034299
+s9457
+i"avTouchController.h"
+i<Foundation/Foundation.h>
+i<AudioToolbox/AudioToolbox.h>
+i"CALevelMeter.h"
+
+N/Users/reshma/Desktop/avTouch/Classes/avTouchViewController.h
+c000000004BA3ED3B0000000000000A12
+t1269034299
+s2578
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/avTouch/Classes/avTouchViewController.m
+c000000004BA3ED3B0000000000000E3E
+t1269034299
+s3646
+i"avTouchViewController.h"
+i"avTouchController.h"
+
+N/Users/reshma/Desktop/avTouch/Default.png
+c0000000049B6E5FE00000000000031C0
+t1236723198
+s12736
+
+N/Users/reshma/Desktop/avTouch/MainWindow.xib
+c000000004935AE6900000000000021BF
+t1228254825
+s8639
+
+N/Users/reshma/Desktop/avTouch/MeterTable.cpp
+c000000004BA3ED3B0000000000000CDE
+t1269034299
+s3294
+i"MeterTable.h"
+
+N/Users/reshma/Desktop/avTouch/MeterTable.h
+c000000004BA3ED3B0000000000000D99
+t1269034299
+s3481
+i<stdlib.h>
+i<stdio.h>
+i<math.h>
+
+N/Users/reshma/Desktop/avTouch/avTouchViewController.xib
+c0000000049B6E5FE000000000000963E
+t1236723198
+s38462
+
+N/Users/reshma/Desktop/avTouch/avTouch_Prefix.pch
+c000000004BA3ED3B00000000000009BD
+t1269034299
+s2493
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app
+t1283159861
+s612
+
+N/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app.dSYM
+t1283159861
+s102
+
+N/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/Default.png
+t1283159858
+s12736
+
+N/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/Info.plist
+t1283159857
+s677
+
+N/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/MainWindow.nib
+t1283159858
+s1479
+
+N/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/PkgInfo
+t1283159857
+s8
+
+N/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/avTouch
+t1283159861
+s71400
+
+N/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/avTouchViewController.nib
+t1283159858
+s7429
+
+N/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/forward.png
+t1283159858
+s1195
+
+N/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/icon.png
+t1283159858
+s2451
+
+N/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/pause.png
+t1283159858
+s3192
+
+N/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/play.png
+t1283159858
+s1084
+
+N/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/rewind.png
+t1283159858
+s1198
+
+N/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/sample.m4a
+t1283159858
+s46468
+
+N/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/sound_meter_background.png
+t1283159858
+s7391
+
+N/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/sound_meter_glare.png
+t1283159858
+s1526
+
+N/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/volume_down.png
+t1283159858
+s998
+
+N/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/volume_up.png
+t1283159858
+s1180
+
+N/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/CALevelMeter.o
+t1283159861
+s33616
+
+N/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/GLLevelMeter.o
+t1283159861
+s28040
+
+N/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/LevelMeter.o
+t1283159861
+s26348
+
+N/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/MeterTable.o
+t1283159861
+s7172
+
+N/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouch.LinkFileList
+c000000004C7B773100000000000003D0
+t1283159857
+s976
+
+N/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchAppDelegate.o
+t1283159861
+s38120
+
+N/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchController.o
+t1283159861
+s51648
+
+N/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchViewController.o
+t1283159861
+s31344
+
+N/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/main.o
+t1283159861
+s5932
+
+N/Users/reshma/Desktop/avTouch/icon.png
+c000000004935AE690000000000000993
+t1228254825
+s2451
+
+N/Users/reshma/Desktop/avTouch/images/forward.png
+c0000000049B6E5FE00000000000004AB
+t1236723198
+s1195
+
+N/Users/reshma/Desktop/avTouch/images/pause.png
+c0000000049B6E5FE0000000000000C78
+t1236723198
+s3192
+
+N/Users/reshma/Desktop/avTouch/images/play.png
+c0000000049B6E5FE000000000000043C
+t1236723198
+s1084
+
+N/Users/reshma/Desktop/avTouch/images/rewind.png
+c0000000049B6E5FE00000000000004AE
+t1236723198
+s1198
+
+N/Users/reshma/Desktop/avTouch/images/sound_meter_background.png
+c0000000049B6E5FE0000000000001CDF
+t1236723198
+s7391
+
+N/Users/reshma/Desktop/avTouch/images/sound_meter_glare.png
+c0000000049B6E5FE00000000000005F6
+t1236723198
+s1526
+
+N/Users/reshma/Desktop/avTouch/images/volume_down.png
+c0000000049B6E5FE00000000000003E6
+t1236723198
+s998
+
+N/Users/reshma/Desktop/avTouch/images/volume_up.png
+c0000000049B6E5FE000000000000049C
+t1236723198
+s1180
+
+N/Users/reshma/Desktop/avTouch/main.m
+c000000004BA3ED3B0000000000000A3C
+t1269034299
+s2620
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/avTouch/sample.m4a
+c000000004935AE69000000000000B584
+t1228254825
+s46468
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-ateoiuwchwrecnfqnmsksrrphrlq/avTouch_Prefix.pch.gch
+t1283159859
+s2515312
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-eezvrtwfssdkfsbmnklpqedojcmr/avTouch_Prefix.pch.gch
+t1283159859
+s13026768
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-gfuhwtmoeiyvmeaeadevbczlrtqd/avTouch_Prefix.pch.gch
+t1283159860
+s13968816
+
+NInfo.plist
+c0000000049B6E5FE00000000000003D4
+t1236723198
+s980
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies305006113#305006113#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/CALevelMeter.o /Users/reshma/Desktop/avTouch/Classes/CALevelMeter.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s304852661.583818
+e304852661.695569
+r1
+xCompileC
+xbuild/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/CALevelMeter.o
+x/Users/reshma/Desktop/avTouch/Classes/CALevelMeter.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/reshma/Desktop/avTouch/Classes/CALevelMeter.mm304852661#304852661#0(0"0(0#0#53"/Users/reshma/Desktop/avTouch/Classes/CALevelMeter.mm4300911832#1806"    cd /Users/reshma/Desktop/avTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-generated-files.hmap -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-own-target-headers.hmap -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-all-target-headers.hmap -iquote /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-project-headers.hmap -F/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator -I/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources/i386 -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-gfuhwtmoeiyvmeaeadevbczlrtqd/avTouch_Prefix.pch -c /Users/reshma/Desktop/avTouch/Classes/CALevelMeter.mm -o /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/CALevelMeter.o0#
+
+CCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/GLLevelMeter.o /Users/reshma/Desktop/avTouch/Classes/GLLevelMeter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304852661.217409
+e304852661.484299
+r1
+xCompileC
+xbuild/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/GLLevelMeter.o
+x/Users/reshma/Desktop/avTouch/Classes/GLLevelMeter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/reshma/Desktop/avTouch/Classes/GLLevelMeter.m304852661#304852661#0(0"0(0#0#52"/Users/reshma/Desktop/avTouch/Classes/GLLevelMeter.m4300911832#1784"    cd /Users/reshma/Desktop/avTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-generated-files.hmap -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-own-target-headers.hmap -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-all-target-headers.hmap -iquote /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-project-headers.hmap -F/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator -I/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources/i386 -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-eezvrtwfssdkfsbmnklpqedojcmr/avTouch_Prefix.pch -c /Users/reshma/Desktop/avTouch/Classes/GLLevelMeter.m -o /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/GLLevelMeter.o0#
+
+CCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/LevelMeter.o /Users/reshma/Desktop/avTouch/Classes/LevelMeter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304852661.305112
+e304852661.462352
+r1
+xCompileC
+xbuild/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/LevelMeter.o
+x/Users/reshma/Desktop/avTouch/Classes/LevelMeter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/reshma/Desktop/avTouch/Classes/LevelMeter.m304852661#304852661#0(0"0(0#0#50"/Users/reshma/Desktop/avTouch/Classes/LevelMeter.m4300911832#1780"    cd /Users/reshma/Desktop/avTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-generated-files.hmap -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-own-target-headers.hmap -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-all-target-headers.hmap -iquote /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-project-headers.hmap -F/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator -I/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources/i386 -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-eezvrtwfssdkfsbmnklpqedojcmr/avTouch_Prefix.pch -c /Users/reshma/Desktop/avTouch/Classes/LevelMeter.m -o /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/LevelMeter.o0#
+
+CCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/MeterTable.o /Users/reshma/Desktop/avTouch/MeterTable.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s304852661.462446
+e304852661.583718
+r1
+xCompileC
+xbuild/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/MeterTable.o
+x/Users/reshma/Desktop/avTouch/MeterTable.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/reshma/Desktop/avTouch/MeterTable.cpp304852661#304852661#0(0"0(0#0#44"/Users/reshma/Desktop/avTouch/MeterTable.cpp4300911832#1785"    cd /Users/reshma/Desktop/avTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-generated-files.hmap -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-own-target-headers.hmap -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-all-target-headers.hmap -iquote /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-project-headers.hmap -F/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator -I/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources/i386 -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-ateoiuwchwrecnfqnmsksrrphrlq/avTouch_Prefix.pch -c /Users/reshma/Desktop/avTouch/MeterTable.cpp -o /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/MeterTable.o0#
+
+CCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchAppDelegate.o /Users/reshma/Desktop/avTouch/Classes/avTouchAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304852661.112931
+e304852661.217305
+r1
+xCompileC
+xbuild/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchAppDelegate.o
+x/Users/reshma/Desktop/avTouch/Classes/avTouchAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/reshma/Desktop/avTouch/Classes/avTouchAppDelegate.m304852661#304852661#0(0"0(0#0#58"/Users/reshma/Desktop/avTouch/Classes/avTouchAppDelegate.m4300911832#1796"    cd /Users/reshma/Desktop/avTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-generated-files.hmap -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-own-target-headers.hmap -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-all-target-headers.hmap -iquote /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-project-headers.hmap -F/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator -I/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources/i386 -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-eezvrtwfssdkfsbmnklpqedojcmr/avTouch_Prefix.pch -c /Users/reshma/Desktop/avTouch/Classes/avTouchAppDelegate.m -o /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchAppDelegate.o0#
+
+CCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchController.o /Users/reshma/Desktop/avTouch/Classes/avTouchController.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s304852661.484407
+e304852661.649181
+r1
+xCompileC
+xbuild/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchController.o
+x/Users/reshma/Desktop/avTouch/Classes/avTouchController.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/reshma/Desktop/avTouch/Classes/avTouchController.mm304852661#304852661#0(0"0(0#0#58"/Users/reshma/Desktop/avTouch/Classes/avTouchController.mm4300911832#1816"    cd /Users/reshma/Desktop/avTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-generated-files.hmap -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-own-target-headers.hmap -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-all-target-headers.hmap -iquote /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-project-headers.hmap -F/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator -I/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources/i386 -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-gfuhwtmoeiyvmeaeadevbczlrtqd/avTouch_Prefix.pch -c /Users/reshma/Desktop/avTouch/Classes/avTouchController.mm -o /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchController.o0#
+
+CCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchViewController.o /Users/reshma/Desktop/avTouch/Classes/avTouchViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304852661.194968
+e304852661.305010
+r1
+xCompileC
+xbuild/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchViewController.o
+x/Users/reshma/Desktop/avTouch/Classes/avTouchViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/reshma/Desktop/avTouch/Classes/avTouchViewController.m304852661#304852661#0(0"0(0#0#61"/Users/reshma/Desktop/avTouch/Classes/avTouchViewController.m4300911832#1802"    cd /Users/reshma/Desktop/avTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-generated-files.hmap -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-own-target-headers.hmap -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-all-target-headers.hmap -iquote /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-project-headers.hmap -F/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator -I/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources/i386 -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-eezvrtwfssdkfsbmnklpqedojcmr/avTouch_Prefix.pch -c /Users/reshma/Desktop/avTouch/Classes/avTouchViewController.m -o /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchViewController.o0#
+
+CCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/main.o /Users/reshma/Desktop/avTouch/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304852661.111863
+e304852661.194863
+r1
+xCompileC
+xbuild/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/main.o
+x/Users/reshma/Desktop/avTouch/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/reshma/Desktop/avTouch/main.m304852661#304852661#0(0"0(0#0#36"/Users/reshma/Desktop/avTouch/main.m4300911832#1760"    cd /Users/reshma/Desktop/avTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-generated-files.hmap -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-own-target-headers.hmap -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-all-target-headers.hmap -iquote /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-project-headers.hmap -F/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator -I/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources/i386 -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-eezvrtwfssdkfsbmnklpqedojcmr/avTouch_Prefix.pch -c /Users/reshma/Desktop/avTouch/main.m -o /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/reshma/Desktop/avTouch/MainWindow.xib
+s304852657.699085
+e304852658.739289
+r1
+xCompileXIB
+x/Users/reshma/Desktop/avTouch/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib304852657#304852658#0(0"0(0#0#44"/Users/reshma/Desktop/avTouch/MainWindow.xib4300911832#455"    cd /Users/reshma/Desktop/avTouch    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/MainWindow.nib /Users/reshma/Desktop/avTouch/MainWindow.xib0#
+
+CCompileXIB /Users/reshma/Desktop/avTouch/avTouchViewController.xib
+s304852657.722987
+e304852659.032483
+r1
+xCompileXIB
+x/Users/reshma/Desktop/avTouch/avTouchViewController.xib
+lSLF07#2@36"CompileXIB avTouchViewController.xib304852657#304852659#0(0"0(0#0#55"/Users/reshma/Desktop/avTouch/avTouchViewController.xib4300911832#477"    cd /Users/reshma/Desktop/avTouch    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/avTouchViewController.nib /Users/reshma/Desktop/avTouch/avTouchViewController.xib0#
+
+CCpResource build/Debug-iphonesimulator/avTouch.app/Default.png Default.png
+s304852658.806968
+e304852658.826493
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/avTouch.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png304852658#304852658#0(0"0(0#0#41"/Users/reshma/Desktop/avTouch/Default.png4300911832#428"    cd /Users/reshma/Desktop/avTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Desktop/avTouch/Default.png /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/avTouch.app/forward.png images/forward.png
+s304852658.762713
+e304852658.806255
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/avTouch.app/forward.png
+ximages/forward.png
+lSLF07#2@23"Copy images/forward.png304852658#304852658#0(0"0(0#0#48"/Users/reshma/Desktop/avTouch/images/forward.png4300911832#435"    cd /Users/reshma/Desktop/avTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Desktop/avTouch/images/forward.png /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/avTouch.app/icon.png icon.png
+s304852658.740299
+e304852658.806149
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/avTouch.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png304852658#304852658#0(0"0(0#0#38"/Users/reshma/Desktop/avTouch/icon.png4300911832#425"    cd /Users/reshma/Desktop/avTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Desktop/avTouch/icon.png /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/avTouch.app/pause.png images/pause.png
+s304852658.809160
+e304852658.826674
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/avTouch.app/pause.png
+ximages/pause.png
+lSLF07#2@21"Copy images/pause.png304852658#304852658#0(0"0(0#0#46"/Users/reshma/Desktop/avTouch/images/pause.png4300911832#433"    cd /Users/reshma/Desktop/avTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Desktop/avTouch/images/pause.png /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/avTouch.app/play.png images/play.png
+s304852658.764416
+e304852658.806358
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/avTouch.app/play.png
+ximages/play.png
+lSLF07#2@20"Copy images/play.png304852658#304852658#0(0"0(0#0#45"/Users/reshma/Desktop/avTouch/images/play.png4300911832#432"    cd /Users/reshma/Desktop/avTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Desktop/avTouch/images/play.png /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/avTouch.app/rewind.png images/rewind.png
+s304852658.765898
+e304852658.806473
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/avTouch.app/rewind.png
+ximages/rewind.png
+lSLF07#2@22"Copy images/rewind.png304852658#304852658#0(0"0(0#0#47"/Users/reshma/Desktop/avTouch/images/rewind.png4300911832#434"    cd /Users/reshma/Desktop/avTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Desktop/avTouch/images/rewind.png /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/avTouch.app/sample.m4a sample.m4a
+s304852658.739370
+e304852658.806029
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/avTouch.app/sample.m4a
+xsample.m4a
+lSLF07#2@15"Copy sample.m4a304852658#304852658#0(0"0(0#0#40"/Users/reshma/Desktop/avTouch/sample.m4a4300911832#427"    cd /Users/reshma/Desktop/avTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Desktop/avTouch/sample.m4a /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/avTouch.app/sound_meter_background.png images/sound_meter_background.png
+s304852658.766589
+e304852658.806580
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/avTouch.app/sound_meter_background.png
+ximages/sound_meter_background.png
+lSLF07#2@38"Copy images/sound_meter_background.png304852658#304852658#0(0"0(0#0#63"/Users/reshma/Desktop/avTouch/images/sound_meter_background.png4300911832#450"    cd /Users/reshma/Desktop/avTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Desktop/avTouch/images/sound_meter_background.png /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/avTouch.app/sound_meter_glare.png images/sound_meter_glare.png
+s304852658.768188
+e304852658.806683
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/avTouch.app/sound_meter_glare.png
+ximages/sound_meter_glare.png
+lSLF07#2@33"Copy images/sound_meter_glare.png304852658#304852658#0(0"0(0#0#58"/Users/reshma/Desktop/avTouch/images/sound_meter_glare.png4300911832#445"    cd /Users/reshma/Desktop/avTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Desktop/avTouch/images/sound_meter_glare.png /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/avTouch.app/volume_down.png images/volume_down.png
+s304852658.770071
+e304852658.821824
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/avTouch.app/volume_down.png
+ximages/volume_down.png
+lSLF07#2@27"Copy images/volume_down.png304852658#304852658#0(0"0(0#0#52"/Users/reshma/Desktop/avTouch/images/volume_down.png4300911832#439"    cd /Users/reshma/Desktop/avTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Desktop/avTouch/images/volume_down.png /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/avTouch.app/volume_up.png images/volume_up.png
+s304852658.772407
+e304852658.806814
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/avTouch.app/volume_up.png
+ximages/volume_up.png
+lSLF07#2@25"Copy images/volume_up.png304852658#304852658#0(0"0(0#0#50"/Users/reshma/Desktop/avTouch/images/volume_up.png4300911832#437"    cd /Users/reshma/Desktop/avTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Desktop/avTouch/images/volume_up.png /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app0#
+
+CGenerateDSYMFile /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app.dSYM /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/avTouch
+s304852661.959819
+e304852661.994526
+r1
+xGenerateDSYMFile
+x/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app.dSYM
+x/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/avTouch
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/avTouch.app.dSYM build/Debug-iphonesimulator/avTouch.app/avTouch304852661#304852661#0(0"0(0#0#77"/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/avTouch4300911832#356"    cd /Users/reshma/Desktop/avTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/avTouch -o /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app.dSYM0#
+
+CLd /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/avTouch normal i386
+s304852661.695663
+e304852661.959725
+r1
+xLd
+x/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/avTouch
+xnormal
+xi386
+lSLF07#2@82"Link /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/avTouch304852661#304852661#0(0"0(0#0#0"4300911832#909"    cd /Users/reshma/Desktop/avTouch    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator -F/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator -filelist /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouch.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework OpenGLES -framework QuartzCore -framework AVFoundation -framework AudioToolbox -o /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/avTouch0#
+
+CProcessInfoPlistFile /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/Info.plist Info.plist
+s304852657.660634
+e304852657.698986
+r1
+xProcessInfoPlistFile
+x/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist304852657#304852657#0(0"0(0#0#40"/Users/reshma/Desktop/avTouch/Info.plist30681223440564324#444"    cd /Users/reshma/Desktop/avTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app/Info.plist0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-eezvrtwfssdkfsbmnklpqedojcmr/avTouch_Prefix.pch.gch avTouch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s304852659.032603
+e304852659.950285
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-eezvrtwfssdkfsbmnklpqedojcmr/avTouch_Prefix.pch.gch
+xavTouch_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile avTouch_Prefix.pch304852659#304852659#0(0"0(0#0#48"/Users/reshma/Desktop/avTouch/avTouch_Prefix.pch4300911832#1661"    cd /Users/reshma/Desktop/avTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-generated-files.hmap -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-own-target-headers.hmap -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-all-target-headers.hmap -iquote /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-project-headers.hmap -F/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator -I/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources/i386 -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources -c /Users/reshma/Desktop/avTouch/avTouch_Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-eezvrtwfssdkfsbmnklpqedojcmr/avTouch_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-ateoiuwchwrecnfqnmsksrrphrlq/avTouch_Prefix.pch.gch avTouch_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
+s304852659.033689
+e304852659.557385
+r1
+xProcessPCH++
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-ateoiuwchwrecnfqnmsksrrphrlq/avTouch_Prefix.pch.gch
+xavTouch_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile avTouch_Prefix.pch304852659#304852659#0(0"0(0#0#48"/Users/reshma/Desktop/avTouch/avTouch_Prefix.pch4300911832#1672"    cd /Users/reshma/Desktop/avTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-generated-files.hmap -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-own-target-headers.hmap -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-all-target-headers.hmap -iquote /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-project-headers.hmap -F/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator -I/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources/i386 -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources -c /Users/reshma/Desktop/avTouch/avTouch_Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-ateoiuwchwrecnfqnmsksrrphrlq/avTouch_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-gfuhwtmoeiyvmeaeadevbczlrtqd/avTouch_Prefix.pch.gch avTouch_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s304852659.557608
+e304852661.111697
+r1
+xProcessPCH++
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-gfuhwtmoeiyvmeaeadevbczlrtqd/avTouch_Prefix.pch.gch
+xavTouch_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile avTouch_Prefix.pch304852659#304852661#0(0"0(0#0#48"/Users/reshma/Desktop/avTouch/avTouch_Prefix.pch4300911832#1682"    cd /Users/reshma/Desktop/avTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-generated-files.hmap -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-own-target-headers.hmap -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-all-target-headers.hmap -iquote /Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-project-headers.hmap -F/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator -I/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources/i386 -I/Users/reshma/Desktop/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources -c /Users/reshma/Desktop/avTouch/avTouch_Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-gfuhwtmoeiyvmeaeadevbczlrtqd/avTouch_Prefix.pch.gch0#
+
+CTouch /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app
+s304852661.994621
+e304852661.997996
+r1
+xTouch
+x/Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app
+lSLF07#2@75"Touch /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app304852661#304852661#0(0"0(0#0#0"4300911832#260"    cd /Users/reshma/Desktop/avTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/reshma/Desktop/avTouch/build/Debug-iphonesimulator/avTouch.app0#
+

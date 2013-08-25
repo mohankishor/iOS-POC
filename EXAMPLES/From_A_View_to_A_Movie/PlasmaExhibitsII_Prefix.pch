@@ -1,0 +1,18 @@
+//
+// Prefix header for all source files of the 'OpenGLPlasmaExhibits' target in the 'OpenGLPlasmaExhibits' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+	#import <ApplicationServices/ApplicationServices.h>
+	#import <AppKit/AppKit.h>
+	#import <Accelerate/Accelerate.h>
+	#import <OpenGL/OpenGL.h>
+	#import <OpenGL/CGLRenderers.h>
+	#import <OpenGL/gl.h>
+	#import <OpenGL/glu.h>
+	#import <Quartz/Quartz.h>
+	#import <QuickTime/QuickTime.h>
+	#import <CoreVideo/CoreVideo.h>
+#endif
+

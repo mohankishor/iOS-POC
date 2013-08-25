@@ -1,0 +1,41 @@
+/*
+//
+//  Created by Iordan Iordanov on 2/26/10.
+//  Copyright MentorMate 2010. All rights reserved.
+*/
+
+body {
+	margin: 5px, 5px, 5px, 5px;
+	padding: 0;
+	background: transparent;
+	font-size: 40px;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+/* Post */
+
+#notification {
+	width: 860px;
+	height: 730px;
+	margin: auto;
+	/*background: url(img04.jpg) no-repeat left top;*/
+        background-color: transparent;
+}
+
+#notification h1, #logo h2 {
+	margin: 0;
+	padding: 0 0 0 0px;
+	line-height: normal;
+}
+
+#notification h1 {
+	padding-top: 105px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size:60px;
+}
+
+#graph {
+    text-align:center;
+}
+

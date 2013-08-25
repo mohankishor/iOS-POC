@@ -1,0 +1,51 @@
+TPhotoApp
+v7
+r1
+
+N/Users/reshma/Downloads/PhotoApp/MainWindow.xib
+c000000004A6F3E9F0000000000002420
+t1248804511
+s9248
+
+N/Users/reshma/Downloads/PhotoApp/PhotoAppViewController.xib
+c000000004A6F49A100000000000030EA
+t1248807329
+s12522
+
+N/Users/reshma/Downloads/PhotoApp/build/Debug/PhotoApp.app
+t2
+s0
+
+N/Users/reshma/Downloads/PhotoApp/build/Debug/PhotoApp.app/Contents/Info.plist
+t2
+s0
+
+N/Users/reshma/Downloads/PhotoApp/build/Debug/PhotoApp.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/reshma/Downloads/PhotoApp/build/Debug/PhotoApp.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/reshma/Downloads/PhotoApp/build/Debug/PhotoApp.app/Contents/Resources/PhotoAppViewController.nib
+t2
+s0
+
+NPhotoApp-Info.plist
+c000000004A6F3E9F000000000000038D
+t1248804511
+s909
+
+CCompileXIB /Users/reshma/Downloads/PhotoApp/MainWindow.xib
+r0
+
+CCompileXIB /Users/reshma/Downloads/PhotoApp/PhotoAppViewController.xib
+r0
+
+CProcessInfoPlistFile /Users/reshma/Downloads/PhotoApp/build/Debug/PhotoApp.app/Contents/Info.plist PhotoApp-Info.plist
+r0
+
+CTouch /Users/reshma/Downloads/PhotoApp/build/Debug/PhotoApp.app
+r0
+

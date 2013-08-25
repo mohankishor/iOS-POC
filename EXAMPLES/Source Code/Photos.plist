@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Filepath</key>
+		<string>/Library/Desktop Pictures</string>
+		<key>isEditable</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Filepath</key>
+		<string>/Library/Application Support/Apple/iChat Icons</string>
+		<key>isEditable</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Filepath</key>
+		<string>NSHomeDirectory()/Pictures</string>
+		<key>isEditable</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Filepath</key>
+		<string>/Library/User Pictures</string>
+		<key>isEditable</key>
+		<false/>
+	</dict>
+</array>
+</plist>

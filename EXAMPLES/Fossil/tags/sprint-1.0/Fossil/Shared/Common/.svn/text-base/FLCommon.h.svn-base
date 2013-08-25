@@ -1,0 +1,32 @@
+
+
+#ifndef FLCOMMON_H
+#define FLCOMMON_H
+
+#define FL_IS_IPAD (([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPad))
+
+#define FL_IPAD_CELL_ROW_HEIGHT 232.0
+#define FL_IPHONE_CELL_ROW_HEIGHT 108.0
+
+#define IMAGE_VIEW_WIDTH_HOME_SCREEN_IPAD 550.0
+#define TABLE_VIEW_HEIGHT_HOME_SCREEN_IPAD 768.0
+#define TABLE_VIEW_WIDTH_HOME_SCREEN_IPAD 454.0
+
+
+#define IMAGE_VIEW_WIDTH_HOME_SCREEN 260.0
+#define TABLE_VIEW_HEIGHT_HOME_SCREEN 320.0
+#define TABLE_VIEW_WIDTH_HOME_SCREEN 200.0
+
+#define FL_CATALOG_MENU_TABLE_CELL_IDENTIFIER @"FLMenuCell"
+#define FL_CATALOG_GRID_VIEW_CELL_IDENTIFIER @"FossilCell" //xib has this property; make sure u change there also
+
+#define FL_CATALOG_MENU_FONT_SIZE_IPAD 28.0
+#define FL_CATALOG_MENU_FONT_SIZE_IPHONE 16.0
+
+#define FL_COVER_OFFSET 1
+
+#endif
+
+
+
+

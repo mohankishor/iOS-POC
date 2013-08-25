@@ -1,0 +1,156 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* EasyCustomTableAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 520}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{504, 496}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* EasyCustomTable */ = {
+		activeExec = 0;
+		executables = (
+			9A922AF511EADB82005BFBFC /* EasyCustomTable */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9A922AF511EADB82005BFBFC /* EasyCustomTable */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* EasyCustomTable */;
+		codeSenseManager = 9A922B0011EADBA2005BFBFC /* Code sense */;
+		executables = (
+			9A922AF511EADB82005BFBFC /* EasyCustomTable */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					834,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 322979934;
+			PBXWorkspaceStateSaveDate = 322979934;
+		};
+		perUserProjectItems = {
+			9A0775DB1340488000652B2E /* PBXTextBookmark */ = 9A0775DB1340488000652B2E /* PBXTextBookmark */;
+			9A922B0311EADC75005BFBFC /* PBXTextBookmark */ = 9A922B0311EADC75005BFBFC /* PBXTextBookmark */;
+			9A922B0411EADC75005BFBFC /* PBXTextBookmark */ = 9A922B0411EADC75005BFBFC /* PBXTextBookmark */;
+			9A922B0611EADC75005BFBFC /* PBXTextBookmark */ = 9A922B0611EADC75005BFBFC /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9A922AFF11EADBA2005BFBFC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	9A0775DB1340488000652B2E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C902252D0FA5CC1700BE3D08 /* EasyCustomTableController.m */;
+		name = "EasyCustomTableController.m: 120";
+		rLen = 0;
+		rLoc = 3089;
+		rType = 0;
+		vrLen = 665;
+		vrLoc = 2425;
+	};
+	9A922AF511EADB82005BFBFC /* EasyCustomTable */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = EasyCustomTable;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	9A922AFF11EADBA2005BFBFC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9A922B0011EADBA2005BFBFC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9A922B0311EADC75005BFBFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* EasyCustomTableAppDelegate.m */;
+		name = "EasyCustomTableAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 496;
+		vrLoc = 504;
+	};
+	9A922B0411EADC75005BFBFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C902252C0FA5CC1700BE3D08 /* EasyCustomTableController.h */;
+		name = "EasyCustomTableController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 776;
+		vrLoc = 0;
+	};
+	9A922B0611EADC75005BFBFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C902252D0FA5CC1700BE3D08 /* EasyCustomTableController.m */;
+		name = "EasyCustomTableController.m: 120";
+		rLen = 0;
+		rLoc = 3089;
+		rType = 0;
+		vrLen = 688;
+		vrLoc = 2402;
+	};
+	C902252C0FA5CC1700BE3D08 /* EasyCustomTableController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 364}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 776}";
+		};
+	};
+	C902252D0FA5CC1700BE3D08 /* EasyCustomTableController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 3575}}";
+			sepNavSelRange = "{3089, 0}";
+			sepNavVisRange = "{2425, 665}";
+		};
+	};
+}

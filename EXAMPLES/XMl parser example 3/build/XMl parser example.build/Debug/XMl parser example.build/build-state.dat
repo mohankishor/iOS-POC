@@ -1,0 +1,56 @@
+TXMl parser example
+v7
+r1
+cCheck dependencies
+
+N/Users/reshma/Desktop/XMl parser example 3/MainWindow.xib
+c000000004C85E9C40000000000004D77
+t1283844548
+s19831
+
+N/Users/reshma/Desktop/XMl parser example 3/XMl_parser_exampleViewController.xib
+c000000004C85E9C40000000000003F0D
+t1283844548
+s16141
+
+N/Users/reshma/Desktop/XMl parser example 3/build/Debug/XMl parser example.app
+t2
+s0
+
+N/Users/reshma/Desktop/XMl parser example 3/build/Debug/XMl parser example.app/Contents/Info.plist
+t2
+s0
+
+N/Users/reshma/Desktop/XMl parser example 3/build/Debug/XMl parser example.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/reshma/Desktop/XMl parser example 3/build/Debug/XMl parser example.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/reshma/Desktop/XMl parser example 3/build/Debug/XMl parser example.app/Contents/Resources/XMl_parser_exampleViewController.nib
+t2
+s0
+
+NXMl_parser_example-Info.plist
+c000000004C85E9C400000000000004D6
+t1283844548
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311073721#311073721#0(99"[BEROR]No architectures to compile for (ARCHS=, VALID_ARCHS=i386 ppc ppc64 ppc7400 ppc970 x86_64).1(4@91"No architectures to compile for (ARCHS=, VALID_ARCHS=i386 ppc ppc64 ppc7400 ppc970 x86_64).311073721#18446744073709551615#0#0(1@0"0(0#1#0"8639211328#0"0#
+
+CCompileXIB "/Users/reshma/Desktop/XMl parser example 3/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/reshma/Desktop/XMl parser example 3/XMl_parser_exampleViewController.xib"
+r0
+
+CProcessInfoPlistFile "/Users/reshma/Desktop/XMl parser example 3/build/Debug/XMl parser example.app/Contents/Info.plist" XMl_parser_example-Info.plist
+r0
+
+CTouch "/Users/reshma/Desktop/XMl parser example 3/build/Debug/XMl parser example.app"
+r0
+

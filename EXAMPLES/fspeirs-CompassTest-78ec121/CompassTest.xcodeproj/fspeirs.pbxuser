@@ -1,0 +1,180 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* CompassTestAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {974, 1349}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 839}";
+			sepNavWindowFrame = "{{38, 75}, {1033, 1477}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* CompassTest */ = {
+		activeExec = 0;
+		executables = (
+			5F8EE71E0FEA846F00C0A751 /* CompassTest */,
+		);
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {974, 1326}}";
+			sepNavSelRange = "{288, 0}";
+			sepNavVisRange = "{0, 626}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {439, 3765}}";
+			sepNavSelRange = "{2441, 0}";
+			sepNavVisRange = "{2306, 168}";
+			sepNavWindowFrame = "{{623, 101}, {1033, 1477}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 5F8EE71E0FEA846F00C0A751 /* CompassTest */;
+		activeSDKPreference = iphoneos3.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CompassTest */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* CompassTest */,
+		);
+		breakpoints = (
+			5F8EE8390FEBA60700C0A751 /* RootViewController.m:114 */,
+		);
+		codeSenseManager = 5F8EE7270FEA848100C0A751 /* Code sense */;
+		executables = (
+			5F8EE71E0FEA846F00C0A751 /* CompassTest */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					315,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 267027567;
+			PBXWorkspaceStateSaveDate = 267027567;
+		};
+		sourceControlManager = 5F8EE7260FEA848100C0A751 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	5F8EE71E0FEA846F00C0A751 /* CompassTest */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CompassTest;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	5F8EE7260FEA848100C0A751 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	5F8EE7270FEA848100C0A751 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5F8EE8390FEBA60700C0A751 /* RootViewController.m:114 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+			5F8EE8470FEBA64500C0A751 /* XCBreakpointLogAction */,
+		);
+		breakpointStyle = 0;
+		comments = "Log breakpoint and hit count and auto-continue";
+		condition = 5F8EE8480FEBA64500C0A751 /* XCGDBBreakpointCondition */;
+		continueAfterActions = 1;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		functionName = "-locationManager:didUpdateHeading:";
+		hitCount = 125;
+		ignoreCount = 0;
+		lineNumber = 114;
+		location = CompassTest;
+		modificationTime = 267101829.138751;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	5F8EE8470FEBA64500C0A751 /* XCBreakpointLogAction */ = {
+		isa = XCBreakpointLogAction;
+		fallbackIsa = XCBreakpointAction;
+		logMessage = 1;
+		message = "Breakpoints '%B' hit %H times.";
+		speakMessage = 0;
+		useDebuggerSideImplementation = 0;
+	};
+	5F8EE8480FEBA64500C0A751 /* XCGDBBreakpointCondition */ = {
+		isa = XCGDBBreakpointCondition;
+		conditionString = "";
+	};
+}

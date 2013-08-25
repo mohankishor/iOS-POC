@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Employee</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Anand</string>
+			<key>Designation</key>
+			<string>Software Trainee</string>
+			<key>Contact</key>
+			<integer>923445353</integer>
+			<key>Address</key>
+			<string>Yelahanka</string>
+			<key>Photo</key>
+			<string>image1</string>
+			<key>E_Mail</key>
+			<string>anand@sourcebits.com</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Neelam</string>
+			<key>Designation</key>
+			<string>Software Trainee</string>
+			<key>Contact</key>
+			<string>987545</string>
+			<key>Address</key>
+			<string>bangalore</string>
+			<key>Photo</key>
+			<string>image1</string>
+			<key>E_Mail</key>
+			<string>neelam@sourcebits.com</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Naveen</string>
+			<key>Designation</key>
+			<string>Software Trainee</string>
+			<key>Contact</key>
+			<string>9865436896</string>
+			<key>Address</key>
+			<string>Jayanagar</string>
+			<key>Photo</key>
+			<string>image1</string>
+			<key>E_Mail</key>
+			<string>naveen@sourcebits.com</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Sanath</string>
+			<key>Designation</key>
+			<string>Software Trainee</string>
+			<key>Contact</key>
+			<string>98776678</string>
+			<key>Address</key>
+			<string>K_Mangla</string>
+			<key>Photo</key>
+			<string>image1</string>
+			<key>E_Mail</key>
+			<string>sanath@sourcebits.com</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Reshma</string>
+			<key>Designation</key>
+			<string>Software Trainee</string>
+			<key>Contact</key>
+			<string>98766</string>
+			<key>Address</key>
+			<string>Madiwala</string>
+			<key>Photo</key>
+			<string>image1</string>
+			<key>E_Mail</key>
+			<string>reshma@sourcebits.com</string>
+		</dict>
+	</array>
+</dict>
+</plist>

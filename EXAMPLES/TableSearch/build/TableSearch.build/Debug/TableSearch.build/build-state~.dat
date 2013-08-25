@@ -1,0 +1,116 @@
+TTableSearch
+v7
+r1
+cCheck dependencies
+
+N/Users/reshma/Desktop/TableSearch/Images/Icon-Small.png
+c000000004C1A8C3C0000000000000396
+t1276808252
+s918
+
+N/Users/reshma/Desktop/TableSearch/Images/Icon-Small@2x.png
+c000000004C1A8C3C00000000000003F2
+t1276808252
+s1010
+
+N/Users/reshma/Desktop/TableSearch/Images/Icon.png
+c000000004C1A8C3C00000000000003EF
+t1276808252
+s1007
+
+N/Users/reshma/Desktop/TableSearch/Images/Icon@2x.png
+c000000004C1A8C3C00000000000004E4
+t1276808252
+s1252
+
+N/Users/reshma/Desktop/TableSearch/Images/iTunesArtwork.png
+c000000004C1A8C3C0000000000001444
+t1276808252
+s5188
+
+N/Users/reshma/Desktop/TableSearch/build/Debug/TableSearch.app
+t2
+s0
+
+N/Users/reshma/Desktop/TableSearch/build/Debug/TableSearch.app/Contents/Info.plist
+t2
+s0
+
+N/Users/reshma/Desktop/TableSearch/build/Debug/TableSearch.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/reshma/Desktop/TableSearch/build/Debug/TableSearch.app/Contents/Resources/Icon-Small.png
+t2
+s0
+
+N/Users/reshma/Desktop/TableSearch/build/Debug/TableSearch.app/Contents/Resources/Icon-Small@2x.png
+t2
+s0
+
+N/Users/reshma/Desktop/TableSearch/build/Debug/TableSearch.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/reshma/Desktop/TableSearch/build/Debug/TableSearch.app/Contents/Resources/Icon@2x.png
+t2
+s0
+
+N/Users/reshma/Desktop/TableSearch/build/Debug/TableSearch.app/Contents/Resources/en.lproj/MainView.nib
+t2
+s0
+
+N/Users/reshma/Desktop/TableSearch/build/Debug/TableSearch.app/Contents/Resources/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/reshma/Desktop/TableSearch/build/Debug/TableSearch.app/Contents/Resources/iTunesArtwork.png
+t2
+s0
+
+N/Users/reshma/Desktop/TableSearch/en.lproj/MainView.xib
+c0000000049FF55D30000000000002874
+t1241470419
+s10356
+
+N/Users/reshma/Desktop/TableSearch/en.lproj/MainWindow.xib
+c0000000049FA561B0000000000001DEB
+t1241142811
+s7659
+
+NInfo.plist
+c000000004C1A6CBF0000000000000389
+t1276800191
+s905
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328684420#328684420#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.0'1(4@58"error: There is no SDK with the name or path 'iphoneos4.0'328684420#18446744073709551615#0#0(1@0"0(0#1#0"8627041856#0"0#
+
+CCompileXIB /Users/reshma/Desktop/TableSearch/en.lproj/MainView.xib
+r0
+
+CCompileXIB /Users/reshma/Desktop/TableSearch/en.lproj/MainWindow.xib
+r0
+
+CCpResource build/Debug/TableSearch.app/Contents/Resources/Icon-Small.png Images/Icon-Small.png
+r0
+
+CCpResource build/Debug/TableSearch.app/Contents/Resources/Icon-Small@2x.png Images/Icon-Small@2x.png
+r0
+
+CCpResource build/Debug/TableSearch.app/Contents/Resources/Icon.png Images/Icon.png
+r0
+
+CCpResource build/Debug/TableSearch.app/Contents/Resources/Icon@2x.png Images/Icon@2x.png
+r0
+
+CCpResource build/Debug/TableSearch.app/Contents/Resources/iTunesArtwork.png Images/iTunesArtwork.png
+r0
+
+CProcessInfoPlistFile /Users/reshma/Desktop/TableSearch/build/Debug/TableSearch.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/reshma/Desktop/TableSearch/build/Debug/TableSearch.app
+r0
+

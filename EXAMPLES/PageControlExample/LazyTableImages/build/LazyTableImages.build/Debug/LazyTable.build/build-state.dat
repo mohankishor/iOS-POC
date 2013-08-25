@@ -1,0 +1,140 @@
+TLazyTable
+v7
+r1
+cCheck dependencies
+
+N/Users/reshma/Downloads/LazyTableImages/build/Debug/LazyTable.app
+t2
+s0
+
+N/Users/reshma/Downloads/LazyTableImages/build/Debug/LazyTable.app/Contents/Info.plist
+t2
+s0
+
+N/Users/reshma/Downloads/LazyTableImages/build/Debug/LazyTable.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/reshma/Downloads/LazyTableImages/build/Debug/LazyTable.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/reshma/Downloads/LazyTableImages/build/Debug/LazyTable.app/Contents/Resources/Icon-Small.png
+t2
+s0
+
+N/Users/reshma/Downloads/LazyTableImages/build/Debug/LazyTable.app/Contents/Resources/Icon-Small@2x.png
+t2
+s0
+
+N/Users/reshma/Downloads/LazyTableImages/build/Debug/LazyTable.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/reshma/Downloads/LazyTableImages/build/Debug/LazyTable.app/Contents/Resources/Icon@2x.png
+t2
+s0
+
+N/Users/reshma/Downloads/LazyTableImages/build/Debug/LazyTable.app/Contents/Resources/Placeholder.png
+t2
+s0
+
+N/Users/reshma/Downloads/LazyTableImages/build/Debug/LazyTable.app/Contents/Resources/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/reshma/Downloads/LazyTableImages/build/Debug/LazyTable.app/Contents/Resources/en.lproj/RootViewController.nib
+t2
+s0
+
+N/Users/reshma/Downloads/LazyTableImages/build/Debug/LazyTable.app/Contents/Resources/iTunesArtwork
+t2
+s0
+
+N/Users/reshma/Downloads/LazyTableImages/en.lproj/MainWindow.xib
+c000000004AC661040000000000005C5F
+t1254514948
+s23647
+
+N/Users/reshma/Downloads/LazyTableImages/en.lproj/RootViewController.xib
+c000000004A53AC100000000000001F65
+t1246997520
+s8037
+
+N/Users/reshma/Downloads/LazyTableImages/images/Default.png
+c000000004C18FBDE000000000000355C
+t1276705758
+s13660
+
+N/Users/reshma/Downloads/LazyTableImages/images/Icon-Small.png
+c000000004C18FBDE0000000000000396
+t1276705758
+s918
+
+N/Users/reshma/Downloads/LazyTableImages/images/Icon-Small@2x.png
+c000000004C18FBDE00000000000003F2
+t1276705758
+s1010
+
+N/Users/reshma/Downloads/LazyTableImages/images/Icon.png
+c000000004C18FBDE00000000000003EF
+t1276705758
+s1007
+
+N/Users/reshma/Downloads/LazyTableImages/images/Icon@2x.png
+c000000004C18FBDE00000000000004E4
+t1276705758
+s1252
+
+N/Users/reshma/Downloads/LazyTableImages/images/Placeholder.png
+c000000004C18FBDE00000000000002C7
+t1276705758
+s711
+
+N/Users/reshma/Downloads/LazyTableImages/images/iTunesArtwork
+c000000004C251B450000000000001444
+t1277500229
+s5188
+
+NInfo.plist
+c000000004C251B450000000000000479
+t1277500229
+s1145
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies301814483#301814483#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.0'1(4@58"error: There is no SDK with the name or path 'iphoneos4.0'301814483#18446744073709551615#0#0(1@0"0(0#1#0"4300911832#0"0#
+
+CCompileXIB /Users/reshma/Downloads/LazyTableImages/en.lproj/MainWindow.xib
+r0
+
+CCompileXIB /Users/reshma/Downloads/LazyTableImages/en.lproj/RootViewController.xib
+r0
+
+CCpResource build/Debug/LazyTable.app/Contents/Resources/Default.png images/Default.png
+r0
+
+CCpResource build/Debug/LazyTable.app/Contents/Resources/Icon-Small.png images/Icon-Small.png
+r0
+
+CCpResource build/Debug/LazyTable.app/Contents/Resources/Icon-Small@2x.png images/Icon-Small@2x.png
+r0
+
+CCpResource build/Debug/LazyTable.app/Contents/Resources/Icon.png images/Icon.png
+r0
+
+CCpResource build/Debug/LazyTable.app/Contents/Resources/Icon@2x.png images/Icon@2x.png
+r0
+
+CCpResource build/Debug/LazyTable.app/Contents/Resources/Placeholder.png images/Placeholder.png
+r0
+
+CCpResource build/Debug/LazyTable.app/Contents/Resources/iTunesArtwork images/iTunesArtwork
+r0
+
+CProcessInfoPlistFile /Users/reshma/Downloads/LazyTableImages/build/Debug/LazyTable.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/reshma/Downloads/LazyTableImages/build/Debug/LazyTable.app
+r0
+

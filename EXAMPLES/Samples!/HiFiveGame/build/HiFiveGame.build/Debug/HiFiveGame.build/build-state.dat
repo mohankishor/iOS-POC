@@ -1,0 +1,420 @@
+THiFiveGame
+v7
+r0
+t309346372.237042
+cCheck dependencies
+cProcessInfoPlistFile /Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app/Contents/Info.plist HiFiveGame-Info.plist
+cCopyStringsFile /Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/reshma/Desktop/HiFiveGame/English.lproj/MainMenu.xib
+cCopyPlistFile /Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app/Contents/Resources/Patterns.plist Patterns.plist
+cCompileXIB /Users/reshma/Desktop/HiFiveGame/PlayerInformation.xib
+cProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HiFiveGame_Prefix-djmtdrpbmrsnymgbktidsoiziccc/HiFiveGame_Prefix.pch.gch HiFiveGame_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/main.o /Users/reshma/Desktop/HiFiveGame/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/HiFiveGameAppDelegate.o /Users/reshma/Desktop/HiFiveGame/HiFiveGameAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/NSString+FindIndex.o /Users/reshma/Desktop/HiFiveGame/NSString+FindIndex.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/HifiveModel.o /Users/reshma/Desktop/HiFiveGame/HifiveModel.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/HFGameController.o /Users/reshma/Desktop/HiFiveGame/HFGameController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/ColorButton.o /Users/reshma/Desktop/HiFiveGame/ColorButton.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/BoredredButton.o /Users/reshma/Desktop/HiFiveGame/BoredredButton.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/PlayerInformation.o /Users/reshma/Desktop/HiFiveGame/PlayerInformation.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app/Contents/MacOS/HiFiveGame normal x86_64
+cTouch /Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B99A23900000000000000EE
+t1268359737
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/reshma/Desktop/HiFiveGame/BoredredButton.h
+c000000004C85DD91000000000000015B
+t1283841425
+s347
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Desktop/HiFiveGame/BoredredButton.m
+c000000004C8851CC00000000000005CF
+t1284002252
+s1487
+i"BoredredButton.h"
+
+N/Users/reshma/Desktop/HiFiveGame/ColorButton.h
+c000000004C774E510000000000000111
+t1282887249
+s273
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Desktop/HiFiveGame/ColorButton.m
+c000000004C88517C0000000000000557
+t1284002172
+s1367
+i"ColorButton.h"
+
+N/Users/reshma/Desktop/HiFiveGame/English.lproj/InfoPlist.strings
+c000000004C75EB57000000000000002D
+t1282796375
+s45
+
+N/Users/reshma/Desktop/HiFiveGame/English.lproj/MainMenu.xib
+c000000004C862158000000000004E614
+t1283858776
+s321044
+
+N/Users/reshma/Desktop/HiFiveGame/HFGameController.h
+c000000004C8852AF00000000000006ED
+t1284002479
+s1773
+i<Cocoa/Cocoa.h>
+i"HifiveModel.h"
+i"ColorButton.h"
+i"BoredredButton.h"
+
+N/Users/reshma/Desktop/HiFiveGame/HFGameController.m
+c000000004C8852A500000000000042CC
+t1284002469
+s17100
+i"HFGameController.h"
+i"PlayerInformation.h"
+i"NSString+FindIndex.h"
+
+N/Users/reshma/Desktop/HiFiveGame/HiFiveGameAppDelegate.h
+c000000004C7F53F50000000000000189
+t1283412981
+s393
+i<Cocoa/Cocoa.h>
+i"PlayerInformation.h"
+
+N/Users/reshma/Desktop/HiFiveGame/HiFiveGameAppDelegate.m
+c000000004C80C5110000000000000360
+t1283507473
+s864
+i"HiFiveGameAppDelegate.h"
+i"PlayerInformation.h"
+
+N/Users/reshma/Desktop/HiFiveGame/HiFiveGame_Prefix.pch
+c000000004C75EB570000000000000097
+t1282796375
+s151
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Desktop/HiFiveGame/HifiveModel.h
+c000000004C8852F40000000000000416
+t1284002548
+s1046
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Desktop/HiFiveGame/HifiveModel.m
+c000000004C88543900000000000025B2
+t1284002873
+s9650
+i"HifiveModel.h"
+
+N/Users/reshma/Desktop/HiFiveGame/NSString+FindIndex.h
+c000000004C86204D000000000000011E
+t1283858509
+s286
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Desktop/HiFiveGame/NSString+FindIndex.m
+c000000004C86205200000000000002A4
+t1283858514
+s676
+i"NSString+FindIndex.h"
+
+N/Users/reshma/Desktop/HiFiveGame/Patterns.plist
+c000000004C77B761000000000000041E
+t1282914145
+s1054
+
+N/Users/reshma/Desktop/HiFiveGame/PlayerInformation.h
+c000000004C7E56E800000000000001B6
+t1283348200
+s438
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Desktop/HiFiveGame/PlayerInformation.m
+c000000004C80C51B0000000000000366
+t1283507483
+s870
+i"PlayerInformation.h"
+
+N/Users/reshma/Desktop/HiFiveGame/PlayerInformation.xib
+c000000004C86203E0000000000008D97
+t1283858494
+s36247
+
+N/Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app
+t1287652869
+s102
+
+N/Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app/Contents/Info.plist
+t1287652862
+s895
+
+N/Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app/Contents/MacOS/HiFiveGame
+t1287652869
+s74768
+
+N/Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app/Contents/PkgInfo
+t1287652862
+s8
+
+N/Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1287652863
+s92
+
+N/Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app/Contents/Resources/English.lproj/MainMenu.nib
+t1287652864
+s67297
+
+N/Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app/Contents/Resources/Patterns.plist
+t1287652863
+s1054
+
+N/Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app/Contents/Resources/PlayerInformation.nib
+t1287652864
+s4859
+
+N/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/BoredredButton.o
+t1287652869
+s25144
+
+N/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/ColorButton.o
+t1287652869
+s23364
+
+N/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/HFGameController.o
+t1287652869
+s74848
+
+N/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/HiFiveGame.LinkFileList
+c000000004CC005FE00000000000003B0
+t1287652862
+s944
+
+N/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/HiFiveGameAppDelegate.o
+t1287652868
+s29648
+
+N/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/HifiveModel.o
+t1287652868
+s30696
+
+N/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/NSString+FindIndex.o
+t1287652868
+s8344
+
+N/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/PlayerInformation.o
+t1287652869
+s20540
+
+N/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/main.o
+t1287652868
+s4976
+
+N/Users/reshma/Desktop/HiFiveGame/main.m
+c000000004C75EB5700000000000000FA
+t1282796375
+s250
+i<Cocoa/Cocoa.h>
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HiFiveGame_Prefix-djmtdrpbmrsnymgbktidsoiziccc/HiFiveGame_Prefix.pch.gch
+t1287652868
+s54265616
+
+NHiFiveGame-Info.plist
+c000000004C75EB5700000000000003EA
+t1282796375
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309346372#309346372#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/BoredredButton.o /Users/reshma/Desktop/HiFiveGame/BoredredButton.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s309345669.067252
+e309345669.227592
+r1
+xCompileC
+xbuild/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/BoredredButton.o
+x/Users/reshma/Desktop/HiFiveGame/BoredredButton.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/reshma/Desktop/HiFiveGame/BoredredButton.m309345669#309345669#0(0"0(0#0#49"/Users/reshma/Desktop/HiFiveGame/BoredredButton.m4300911832#1464"    cd /Users/reshma/Desktop/HiFiveGame    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-generated-files.hmap -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-own-target-headers.hmap -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-all-target-headers.hmap -iquote /Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-project-headers.hmap -F/Users/reshma/Desktop/HiFiveGame/build/Debug -I/Users/reshma/Desktop/HiFiveGame/build/Debug/include -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/DerivedSources/x86_64 -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HiFiveGame_Prefix-djmtdrpbmrsnymgbktidsoiziccc/HiFiveGame_Prefix.pch -c /Users/reshma/Desktop/HiFiveGame/BoredredButton.m -o /Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/BoredredButton.o0#
+
+CCompileC build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/ColorButton.o /Users/reshma/Desktop/HiFiveGame/ColorButton.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s309345668.916572
+e309345669.067146
+r1
+xCompileC
+xbuild/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/ColorButton.o
+x/Users/reshma/Desktop/HiFiveGame/ColorButton.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/reshma/Desktop/HiFiveGame/ColorButton.m309345668#309345669#0(0"0(0#0#46"/Users/reshma/Desktop/HiFiveGame/ColorButton.m4300911832#1458"    cd /Users/reshma/Desktop/HiFiveGame    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-generated-files.hmap -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-own-target-headers.hmap -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-all-target-headers.hmap -iquote /Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-project-headers.hmap -F/Users/reshma/Desktop/HiFiveGame/build/Debug -I/Users/reshma/Desktop/HiFiveGame/build/Debug/include -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/DerivedSources/x86_64 -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HiFiveGame_Prefix-djmtdrpbmrsnymgbktidsoiziccc/HiFiveGame_Prefix.pch -c /Users/reshma/Desktop/HiFiveGame/ColorButton.m -o /Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/ColorButton.o0#
+
+CCompileC build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/HFGameController.o /Users/reshma/Desktop/HiFiveGame/HFGameController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s309345668.829817
+e309345669.099174
+r1
+xCompileC
+xbuild/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/HFGameController.o
+x/Users/reshma/Desktop/HiFiveGame/HFGameController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/reshma/Desktop/HiFiveGame/HFGameController.m309345668#309345669#0(0"0(0#0#51"/Users/reshma/Desktop/HiFiveGame/HFGameController.m4300911832#1468"    cd /Users/reshma/Desktop/HiFiveGame    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-generated-files.hmap -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-own-target-headers.hmap -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-all-target-headers.hmap -iquote /Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-project-headers.hmap -F/Users/reshma/Desktop/HiFiveGame/build/Debug -I/Users/reshma/Desktop/HiFiveGame/build/Debug/include -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/DerivedSources/x86_64 -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HiFiveGame_Prefix-djmtdrpbmrsnymgbktidsoiziccc/HiFiveGame_Prefix.pch -c /Users/reshma/Desktop/HiFiveGame/HFGameController.m -o /Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/HFGameController.o0#
+
+CCompileC build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/HiFiveGameAppDelegate.o /Users/reshma/Desktop/HiFiveGame/HiFiveGameAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s309345668.524730
+e309345668.726789
+r1
+xCompileC
+xbuild/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/HiFiveGameAppDelegate.o
+x/Users/reshma/Desktop/HiFiveGame/HiFiveGameAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/reshma/Desktop/HiFiveGame/HiFiveGameAppDelegate.m309345668#309345668#0(0"0(0#0#56"/Users/reshma/Desktop/HiFiveGame/HiFiveGameAppDelegate.m4300911832#1478"    cd /Users/reshma/Desktop/HiFiveGame    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-generated-files.hmap -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-own-target-headers.hmap -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-all-target-headers.hmap -iquote /Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-project-headers.hmap -F/Users/reshma/Desktop/HiFiveGame/build/Debug -I/Users/reshma/Desktop/HiFiveGame/build/Debug/include -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/DerivedSources/x86_64 -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HiFiveGame_Prefix-djmtdrpbmrsnymgbktidsoiziccc/HiFiveGame_Prefix.pch -c /Users/reshma/Desktop/HiFiveGame/HiFiveGameAppDelegate.m -o /Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/HiFiveGameAppDelegate.o0#
+
+CCompileC build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/HifiveModel.o /Users/reshma/Desktop/HiFiveGame/HifiveModel.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s309345668.726885
+e309345668.916475
+r1
+xCompileC
+xbuild/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/HifiveModel.o
+x/Users/reshma/Desktop/HiFiveGame/HifiveModel.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/reshma/Desktop/HiFiveGame/HifiveModel.m309345668#309345668#0(0"0(0#0#46"/Users/reshma/Desktop/HiFiveGame/HifiveModel.m4300911832#1458"    cd /Users/reshma/Desktop/HiFiveGame    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-generated-files.hmap -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-own-target-headers.hmap -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-all-target-headers.hmap -iquote /Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-project-headers.hmap -F/Users/reshma/Desktop/HiFiveGame/build/Debug -I/Users/reshma/Desktop/HiFiveGame/build/Debug/include -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/DerivedSources/x86_64 -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HiFiveGame_Prefix-djmtdrpbmrsnymgbktidsoiziccc/HiFiveGame_Prefix.pch -c /Users/reshma/Desktop/HiFiveGame/HifiveModel.m -o /Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/HifiveModel.o0#
+
+CCompileC build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/NSString+FindIndex.o /Users/reshma/Desktop/HiFiveGame/NSString+FindIndex.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s309345668.713417
+e309345668.829721
+r1
+xCompileC
+xbuild/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/NSString+FindIndex.o
+x/Users/reshma/Desktop/HiFiveGame/NSString+FindIndex.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/reshma/Desktop/HiFiveGame/NSString+FindIndex.m309345668#309345668#0(0"0(0#0#53"/Users/reshma/Desktop/HiFiveGame/NSString+FindIndex.m4300911832#1472"    cd /Users/reshma/Desktop/HiFiveGame    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-generated-files.hmap -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-own-target-headers.hmap -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-all-target-headers.hmap -iquote /Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-project-headers.hmap -F/Users/reshma/Desktop/HiFiveGame/build/Debug -I/Users/reshma/Desktop/HiFiveGame/build/Debug/include -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/DerivedSources/x86_64 -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HiFiveGame_Prefix-djmtdrpbmrsnymgbktidsoiziccc/HiFiveGame_Prefix.pch -c /Users/reshma/Desktop/HiFiveGame/NSString+FindIndex.m -o /Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/NSString+FindIndex.o0#
+
+CCompileC build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/PlayerInformation.o /Users/reshma/Desktop/HiFiveGame/PlayerInformation.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s309345669.099268
+e309345669.231948
+r1
+xCompileC
+xbuild/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/PlayerInformation.o
+x/Users/reshma/Desktop/HiFiveGame/PlayerInformation.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/reshma/Desktop/HiFiveGame/PlayerInformation.m309345669#309345669#0(0"0(0#0#52"/Users/reshma/Desktop/HiFiveGame/PlayerInformation.m4300911832#1470"    cd /Users/reshma/Desktop/HiFiveGame    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-generated-files.hmap -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-own-target-headers.hmap -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-all-target-headers.hmap -iquote /Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-project-headers.hmap -F/Users/reshma/Desktop/HiFiveGame/build/Debug -I/Users/reshma/Desktop/HiFiveGame/build/Debug/include -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/DerivedSources/x86_64 -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HiFiveGame_Prefix-djmtdrpbmrsnymgbktidsoiziccc/HiFiveGame_Prefix.pch -c /Users/reshma/Desktop/HiFiveGame/PlayerInformation.m -o /Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/PlayerInformation.o0#
+
+CCompileC build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/main.o /Users/reshma/Desktop/HiFiveGame/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s309345668.523533
+e309345668.713323
+r1
+xCompileC
+xbuild/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/main.o
+x/Users/reshma/Desktop/HiFiveGame/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/reshma/Desktop/HiFiveGame/main.m309345668#309345668#0(0"0(0#0#39"/Users/reshma/Desktop/HiFiveGame/main.m4300911832#1444"    cd /Users/reshma/Desktop/HiFiveGame    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-generated-files.hmap -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-own-target-headers.hmap -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-all-target-headers.hmap -iquote /Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-project-headers.hmap -F/Users/reshma/Desktop/HiFiveGame/build/Debug -I/Users/reshma/Desktop/HiFiveGame/build/Debug/include -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/DerivedSources/x86_64 -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HiFiveGame_Prefix-djmtdrpbmrsnymgbktidsoiziccc/HiFiveGame_Prefix.pch -c /Users/reshma/Desktop/HiFiveGame/main.m -o /Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/reshma/Desktop/HiFiveGame/English.lproj/MainMenu.xib
+s309345662.153152
+e309345664.367779
+r1
+xCompileXIB
+x/Users/reshma/Desktop/HiFiveGame/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib309345662#309345664#0(0"0(0#0#59"/Users/reshma/Desktop/HiFiveGame/English.lproj/MainMenu.xib4300911832#312"    cd /Users/reshma/Desktop/HiFiveGame    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app/Contents/Resources/English.lproj/MainMenu.nib /Users/reshma/Desktop/HiFiveGame/English.lproj/MainMenu.xib0#
+
+CCompileXIB /Users/reshma/Desktop/HiFiveGame/PlayerInformation.xib
+s309345663.206775
+e309345664.163784
+r1
+xCompileXIB
+x/Users/reshma/Desktop/HiFiveGame/PlayerInformation.xib
+lSLF07#2@32"CompileXIB PlayerInformation.xib309345663#309345664#0(0"0(0#0#54"/Users/reshma/Desktop/HiFiveGame/PlayerInformation.xib4300911832#302"    cd /Users/reshma/Desktop/HiFiveGame    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app/Contents/Resources/PlayerInformation.nib /Users/reshma/Desktop/HiFiveGame/PlayerInformation.xib0#
+
+CCopyPlistFile /Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app/Contents/Resources/Patterns.plist Patterns.plist
+s309345663.138471
+e309345663.206676
+r1
+xCopyPlistFile
+x/Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app/Contents/Resources/Patterns.plist
+xPatterns.plist
+lSLF07#2@19"Copy Patterns.plist309345663#309345663#0(0"0(0#0#47"/Users/reshma/Desktop/HiFiveGame/Patterns.plist4300911832#234"    cd /Users/reshma/Desktop/HiFiveGame    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist Patterns.plist --outdir /Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app/Contents/Resources0#
+
+CCopyStringsFile /Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s309345662.111507
+e309345663.138374
+r1
+xCopyStringsFile
+x/Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings309345662#309345663#0(0"0(0#0#64"/Users/reshma/Desktop/HiFiveGame/English.lproj/InfoPlist.strings4300911832#356"    cd /Users/reshma/Desktop/HiFiveGame    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app/Contents/Resources/English.lproj0#
+
+CLd /Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app/Contents/MacOS/HiFiveGame normal x86_64
+s309345669.232060
+e309345669.795503
+r1
+xLd
+x/Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app/Contents/MacOS/HiFiveGame
+xnormal
+xx86_64
+lSLF07#2@90"Link /Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app/Contents/MacOS/HiFiveGame309345669#309345669#0(0"0(0#0#0"4300911832#527"    cd /Users/reshma/Desktop/HiFiveGame    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/reshma/Desktop/HiFiveGame/build/Debug -F/Users/reshma/Desktop/HiFiveGame/build/Debug -filelist /Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/Objects-normal/x86_64/HiFiveGame.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app/Contents/MacOS/HiFiveGame0#
+
+CProcessInfoPlistFile /Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app/Contents/Info.plist HiFiveGame-Info.plist
+s309345662.059124
+e309345662.111295
+r1
+xProcessInfoPlistFile
+x/Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app/Contents/Info.plist
+xHiFiveGame-Info.plist
+lSLF07#2@29"Process HiFiveGame-Info.plist309345662#309345662#0(0"0(0#0#54"/Users/reshma/Desktop/HiFiveGame/HiFiveGame-Info.plist28429479460798536#301"    cd /Users/reshma/Desktop/HiFiveGame    builtin-infoPlistUtility HiFiveGame-Info.plist -genpkginfo /Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HiFiveGame_Prefix-djmtdrpbmrsnymgbktidsoiziccc/HiFiveGame_Prefix.pch.gch HiFiveGame_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s309345664.367947
+e309345668.523334
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HiFiveGame_Prefix-djmtdrpbmrsnymgbktidsoiziccc/HiFiveGame_Prefix.pch.gch
+xHiFiveGame_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile HiFiveGame_Prefix.pch309345664#309345668#0(0"0(0#0#54"/Users/reshma/Desktop/HiFiveGame/HiFiveGame_Prefix.pch4300911832#1353"    cd /Users/reshma/Desktop/HiFiveGame    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-generated-files.hmap -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-own-target-headers.hmap -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-all-target-headers.hmap -iquote /Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/HiFiveGame-project-headers.hmap -F/Users/reshma/Desktop/HiFiveGame/build/Debug -I/Users/reshma/Desktop/HiFiveGame/build/Debug/include -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/DerivedSources/x86_64 -I/Users/reshma/Desktop/HiFiveGame/build/HiFiveGame.build/Debug/HiFiveGame.build/DerivedSources -c /Users/reshma/Desktop/HiFiveGame/HiFiveGame_Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HiFiveGame_Prefix-djmtdrpbmrsnymgbktidsoiziccc/HiFiveGame_Prefix.pch.gch0#
+
+CTouch /Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app
+s309345669.795597
+e309345669.798446
+r1
+xTouch
+x/Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app
+lSLF07#2@65"Touch /Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app309345669#309345669#0(0"0(0#0#0"4300911832#122"    cd /Users/reshma/Desktop/HiFiveGame    /usr/bin/touch -c /Users/reshma/Desktop/HiFiveGame/build/Debug/HiFiveGame.app0#
+

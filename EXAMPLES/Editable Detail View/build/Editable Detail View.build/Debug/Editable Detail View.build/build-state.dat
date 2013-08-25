@@ -1,0 +1,33 @@
+TEditable Detail View
+v7
+r0
+t309344664.674166
+cCheck dependencies
+
+N/Users/reshma/Downloads/Editable Detail View/build/Debug/Editable Detail View.app
+t2
+s0
+
+N/Users/reshma/Downloads/Editable Detail View/build/Debug/Editable Detail View.app/Contents/Info.plist
+t2
+s0
+
+N/Users/reshma/Downloads/Editable Detail View/build/Debug/Editable Detail View.app/Contents/PkgInfo
+t2
+s0
+
+NInfo.plist
+c000000004A53E707000000000000036E
+t1247012615
+s878
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309344665#309344665#0(68"[BEROR]error: There is no SDK with the name or path 'iphoneos2.2.1'1(4@60"error: There is no SDK with the name or path 'iphoneos2.2.1'309344665#18446744073709551615#0#0(1@0"0(0#1#0"4300911832#0"0#
+
+CProcessInfoPlistFile "/Users/reshma/Downloads/Editable Detail View/build/Debug/Editable Detail View.app/Contents/Info.plist" Info.plist
+r0
+
+CTouch "/Users/reshma/Downloads/Editable Detail View/build/Debug/Editable Detail View.app"
+r0
+

@@ -1,0 +1,211 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Editable Detail View */ = {
+		activeExec = 0;
+		executables = (
+			AB580B0D0FFCF93A003877B2 /* Editable Detail View */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = AB580B0D0FFCF93A003877B2 /* Editable Detail View */;
+		activeSDKPreference = iphoneos3.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Editable Detail View */;
+		codeSenseManager = AB580B150FFCF93E003877B2 /* Code sense */;
+		executables = (
+			AB580B0D0FFCF93A003877B2 /* Editable Detail View */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					775,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 268705185;
+			PBXWorkspaceStateSaveDate = 268705185;
+		};
+		perUserProjectItems = {
+			AB58156310041E8F003877B2 /* PBXTextBookmark */ = AB58156310041E8F003877B2 /* PBXTextBookmark */;
+			AB58156410041E8F003877B2 /* PlistBookmark */ = AB58156410041E8F003877B2 /* PlistBookmark */;
+			AB58156510041E8F003877B2 /* PBXTextBookmark */ = AB58156510041E8F003877B2 /* PBXTextBookmark */;
+			AB58156610041E8F003877B2 /* PlistBookmark */ = AB58156610041E8F003877B2 /* PlistBookmark */;
+			AB58156C10041F14003877B2 /* PlistBookmark */ = AB58156C10041F14003877B2 /* PlistBookmark */;
+			AB58156D10041F14003877B2 /* PlistBookmark */ = AB58156D10041F14003877B2 /* PlistBookmark */;
+			AB58156F10041F1E003877B2 /* PlistBookmark */ = AB58156F10041F1E003877B2 /* PlistBookmark */;
+			AB58157010041F1E003877B2 /* PBXBookmark */ = AB58157010041F1E003877B2 /* PBXBookmark */;
+			AB58157110041F1E003877B2 /* PlistBookmark */ = AB58157110041F1E003877B2 /* PlistBookmark */;
+			AB58157210041F1E003877B2 /* PBXBookmark */ = AB58157210041F1E003877B2 /* PBXBookmark */;
+		};
+		sourceControlManager = AB580B140FFCF93E003877B2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	AB580B0D0FFCF93A003877B2 /* Editable Detail View */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Editable Detail View";
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	AB580B140FFCF93E003877B2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryName = "iPhone Apps";
+		};
+	};
+	AB580B150FFCF93E003877B2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	AB58156310041E8F003877B2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ABA422DA0FEEBE4100C83D50 /* EditableViewController.m */;
+		name = "EditableViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2570;
+		vrLoc = 1659;
+	};
+	AB58156410041E8F003877B2 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/jonathan/Developer/AOI-Examples/Editable Detail View/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	AB58156510041E8F003877B2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ABA422DA0FEEBE4100C83D50 /* EditableViewController.m */;
+		name = "EditableViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2570;
+		vrLoc = 1659;
+	};
+	AB58156610041E8F003877B2 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleExecutable,
+		);
+		name = "/Users/jonathan/Developer/AOI-Examples/Editable Detail View/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	AB58156A10041F0E003877B2 /* Default.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = Default.png;
+		path = "/Users/jonathan/Developer/AOI-Examples/Editable Detail View/Default.png";
+		sourceTree = "<absolute>";
+	};
+	AB58156C10041F14003877B2 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleExecutable,
+		);
+		name = "/Users/jonathan/Developer/AOI-Examples/Editable Detail View/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	AB58156D10041F14003877B2 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleExecutable,
+		);
+		name = "/Users/jonathan/Developer/AOI-Examples/Editable Detail View/Info.plist";
+		rLen = 18;
+		rLoc = 0;
+	};
+	AB58156F10041F1E003877B2 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleExecutable,
+		);
+		name = "/Users/jonathan/Developer/AOI-Examples/Editable Detail View/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	AB58157010041F1E003877B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = AB58156A10041F0E003877B2 /* Default.png */;
+	};
+	AB58157110041F1E003877B2 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleExecutable,
+		);
+		name = "/Users/jonathan/Developer/AOI-Examples/Editable Detail View/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	AB58157210041F1E003877B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = AB58156A10041F0E003877B2 /* Default.png */;
+	};
+	ABA422DA0FEEBE4100C83D50 /* EditableViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {864, 2698}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1659, 2570}";
+		};
+	};
+}

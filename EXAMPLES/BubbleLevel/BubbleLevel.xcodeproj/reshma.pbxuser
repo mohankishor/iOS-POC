@@ -1,0 +1,231 @@
+// !$*UTF8*$!
+{
+	142056450D611772009CA2B3 /* CalibrationView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1461, 2327}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2590, 2572}";
+		};
+	};
+	14658DF50DB7BCB90090FC07 /* SoundEffect.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1333, 1209}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1603, 2051}";
+		};
+	};
+	14658DF60DB7BCB90090FC07 /* SoundEffect.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1333, 819}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2763}";
+		};
+	};
+	14FEDF1B0D5D311900487C46 /* LevelViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1333, 2158}}";
+			sepNavSelRange = "{6270, 28}";
+			sepNavVisRange = "{3904, 2421}";
+		};
+	};
+	14FEDF1C0D5D311900487C46 /* LevelView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1333, 1014}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2822}";
+		};
+	};
+	14FEDF1D0D5D311900487C46 /* LevelView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1333, 3887}}";
+			sepNavSelRange = "{11249, 51}";
+			sepNavVisRange = "{9522, 2346}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* BubbleLevel */ = {
+		activeExec = 0;
+		executables = (
+			9AFBAD0F1382510E009C3012 /* BubbleLevel */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9AFBAD0F1382510E009C3012 /* BubbleLevel */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* BubbleLevel */;
+		codeSenseManager = 9AFBAD281382511F009C3012 /* Code sense */;
+		executables = (
+			9AFBAD0F1382510E009C3012 /* BubbleLevel */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1155,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					324,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 327406102;
+			PBXWorkspaceStateSaveDate = 327406102;
+		};
+		perUserProjectItems = {
+			9A0174561383D43700EA520D /* PBXTextBookmark */ = 9A0174561383D43700EA520D /* PBXTextBookmark */;
+			9A0174571383D43700EA520D /* PBXTextBookmark */ = 9A0174571383D43700EA520D /* PBXTextBookmark */;
+			9A0174581383D43700EA520D /* PBXTextBookmark */ = 9A0174581383D43700EA520D /* PBXTextBookmark */;
+			9A0174591383D43700EA520D /* PBXTextBookmark */ = 9A0174591383D43700EA520D /* PBXTextBookmark */;
+			9A01745A1383D43700EA520D /* PBXTextBookmark */ = 9A01745A1383D43700EA520D /* PBXTextBookmark */;
+			9A01745B1383D43700EA520D /* PBXTextBookmark */ = 9A01745B1383D43700EA520D /* PBXTextBookmark */;
+			9A01745C1383D43700EA520D /* PBXTextBookmark */ = 9A01745C1383D43700EA520D /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9AFBAD271382511F009C3012 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	9A0174561383D43700EA520D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 14FEDF1C0D5D311900487C46 /* LevelView.h */;
+		name = "LevelView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2822;
+		vrLoc = 0;
+	};
+	9A0174571383D43700EA520D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 14658DF50DB7BCB90090FC07 /* SoundEffect.m */;
+		name = "SoundEffect.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2051;
+		vrLoc = 1603;
+	};
+	9A0174581383D43700EA520D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 14658DF60DB7BCB90090FC07 /* SoundEffect.h */;
+		name = "SoundEffect.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2763;
+		vrLoc = 0;
+	};
+	9A0174591383D43700EA520D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 142056450D611772009CA2B3 /* CalibrationView.m */;
+		name = "CalibrationView.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2572;
+		vrLoc = 2590;
+	};
+	9A01745A1383D43700EA520D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 14FEDF1B0D5D311900487C46 /* LevelViewController.m */;
+		name = "LevelViewController.m: 162";
+		rLen = 28;
+		rLoc = 6270;
+		rType = 0;
+		vrLen = 2421;
+		vrLoc = 3904;
+	};
+	9A01745B1383D43700EA520D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 14FEDF1D0D5D311900487C46 /* LevelView.m */;
+		rLen = 1;
+		rLoc = 266;
+		rType = 1;
+	};
+	9A01745C1383D43700EA520D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 14FEDF1D0D5D311900487C46 /* LevelView.m */;
+		name = "LevelView.m: 267";
+		rLen = 51;
+		rLoc = 11249;
+		rType = 0;
+		vrLen = 2346;
+		vrLoc = 9522;
+	};
+	9AFBAD0F1382510E009C3012 /* BubbleLevel */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = BubbleLevel;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	9AFBAD271382511F009C3012 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9AFBAD281382511F009C3012 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

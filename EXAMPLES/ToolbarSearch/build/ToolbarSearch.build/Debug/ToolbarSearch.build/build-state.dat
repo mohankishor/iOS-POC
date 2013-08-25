@@ -1,0 +1,63 @@
+TToolbarSearch
+v7
+r1
+
+N/Users/reshma/Desktop/ToolbarSearch/MainWindow.xib
+c000000004B96F4A5000000000000536C
+t1268184229
+s21356
+
+N/Users/reshma/Desktop/ToolbarSearch/ReadMe.txt
+c000000004B9697EC0000000000000821
+t1268160492
+s2081
+
+N/Users/reshma/Desktop/ToolbarSearch/ToolbarSearchViewController.xib
+c000000004B96F4A500000000000050F0
+t1268184229
+s20720
+
+N/Users/reshma/Desktop/ToolbarSearch/build/Debug/ToolbarSearch.app
+t2
+s0
+
+N/Users/reshma/Desktop/ToolbarSearch/build/Debug/ToolbarSearch.app/Contents/Info.plist
+t2
+s0
+
+N/Users/reshma/Desktop/ToolbarSearch/build/Debug/ToolbarSearch.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/reshma/Desktop/ToolbarSearch/build/Debug/ToolbarSearch.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/reshma/Desktop/ToolbarSearch/build/Debug/ToolbarSearch.app/Contents/Resources/ReadMe.txt
+t2
+s0
+
+N/Users/reshma/Desktop/ToolbarSearch/build/Debug/ToolbarSearch.app/Contents/Resources/ToolbarSearchViewController.nib
+t2
+s0
+
+NToolbarSearch-Info.plist
+c000000004B75E32B00000000000004D6
+t1266017067
+s1238
+
+CCompileXIB /Users/reshma/Desktop/ToolbarSearch/MainWindow.xib
+r0
+
+CCompileXIB /Users/reshma/Desktop/ToolbarSearch/ToolbarSearchViewController.xib
+r0
+
+CCpResource build/Debug/ToolbarSearch.app/Contents/Resources/ReadMe.txt ReadMe.txt
+r0
+
+CProcessInfoPlistFile /Users/reshma/Desktop/ToolbarSearch/build/Debug/ToolbarSearch.app/Contents/Info.plist ToolbarSearch-Info.plist
+r0
+
+CTouch /Users/reshma/Desktop/ToolbarSearch/build/Debug/ToolbarSearch.app
+r0
+

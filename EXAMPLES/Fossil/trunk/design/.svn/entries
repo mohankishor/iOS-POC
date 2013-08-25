@@ -1,0 +1,49 @@
+10
+
+dir
+208
+svn+ssh://192.168.2.99/svn/iphone/fossil/trunk/design
+svn+ssh://192.168.2.99/svn/iphone/fossil
+
+
+
+2010-09-27T07:42:29.161140Z
+172
+darshan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6b17547e-88a6-4764-b194-5126e0d3e9e1
+
+Database
+dir
+
+Diagram
+dir
+
+Discussions
+dir
+
+Images
+dir
+
+Specs
+dir
+
+Sprints
+dir
+
+Wireframes
+dir
+

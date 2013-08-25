@@ -1,0 +1,37 @@
+10
+
+dir
+208
+svn+ssh://192.168.2.99/svn/iphone/fossil/tags/sprint-1.0/Fossil/Resources/Xibs
+svn+ssh://192.168.2.99/svn/iphone/fossil
+
+
+
+2010-09-15T13:49:15.691541Z
+88
+darshan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6b17547e-88a6-4764-b194-5126e0d3e9e1
+
+Shared
+dir
+
+iPad
+dir
+
+iPhone
+dir
+

@@ -1,0 +1,361 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		19F61C3B1525B5980066556C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F61C3A1525B5980066556C /* UIKit.framework */; };
+		19F61C3D1525B5980066556C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F61C3C1525B5980066556C /* Foundation.framework */; };
+		19F61C3F1525B5980066556C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F61C3E1525B5980066556C /* CoreGraphics.framework */; };
+		19F61C451525B5980066556C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 19F61C431525B5980066556C /* InfoPlist.strings */; };
+		19F61C471525B5980066556C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 19F61C461525B5980066556C /* main.m */; };
+		19F61C5E1525B7950066556C /* SBHeatMapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 19F61C5C1525B7950066556C /* SBHeatMapViewController.m */; };
+		19F61C5F1525B7950066556C /* SBHeatMapViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 19F61C5D1525B7950066556C /* SBHeatMapViewController.xib */; };
+		19F61C621525B79E0066556C /* SBHeatMapView.m in Sources */ = {isa = PBXBuildFile; fileRef = 19F61C611525B79E0066556C /* SBHeatMapView.m */; };
+		19F61C6A1525B7A60066556C /* SBHeatMapKmlParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 19F61C641525B7A60066556C /* SBHeatMapKmlParser.m */; };
+		19F61C6B1525B7A60066556C /* NSDataAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 19F61C671525B7A60066556C /* NSDataAdditions.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc -w"; }; };
+		19F61C6C1525B7A60066556C /* TBXML.m in Sources */ = {isa = PBXBuildFile; fileRef = 19F61C691525B7A60066556C /* TBXML.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc -w"; }; };
+		19F61C6F1525B7B20066556C /* CountryNameAndCodes.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 19F61C6D1525B7B20066556C /* CountryNameAndCodes.rtf */; };
+		19F61C701525B7B20066556C /* GoogleEarth.kml in Resources */ = {isa = PBXBuildFile; fileRef = 19F61C6E1525B7B20066556C /* GoogleEarth.kml */; };
+		19F61C731525B7C00066556C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 19F61C721525B7C00066556C /* AppDelegate.m */; };
+		19F61C751525B8400066556C /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F61C741525B8400066556C /* libz.dylib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		19F61C361525B5980066556C /* SBHeatMap.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SBHeatMap.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		19F61C3A1525B5980066556C /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		19F61C3C1525B5980066556C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		19F61C3E1525B5980066556C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		19F61C421525B5980066556C /* SBHeatMap-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SBHeatMap-Info.plist"; sourceTree = "<group>"; };
+		19F61C441525B5980066556C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		19F61C461525B5980066556C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		19F61C481525B5980066556C /* SBHeatMap-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SBHeatMap-Prefix.pch"; sourceTree = "<group>"; };
+		19F61C5B1525B7950066556C /* SBHeatMapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SBHeatMapViewController.h; path = Classes/ViewController/SBHeatMapViewController.h; sourceTree = "<group>"; };
+		19F61C5C1525B7950066556C /* SBHeatMapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SBHeatMapViewController.m; path = Classes/ViewController/SBHeatMapViewController.m; sourceTree = "<group>"; };
+		19F61C5D1525B7950066556C /* SBHeatMapViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = SBHeatMapViewController.xib; path = Classes/ViewController/SBHeatMapViewController.xib; sourceTree = "<group>"; };
+		19F61C601525B79E0066556C /* SBHeatMapView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SBHeatMapView.h; path = Classes/View/SBHeatMapView.h; sourceTree = "<group>"; };
+		19F61C611525B79E0066556C /* SBHeatMapView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SBHeatMapView.m; path = Classes/View/SBHeatMapView.m; sourceTree = "<group>"; };
+		19F61C631525B7A60066556C /* SBHeatMapKmlParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SBHeatMapKmlParser.h; path = Classes/Parser/SBHeatMapKmlParser.h; sourceTree = "<group>"; };
+		19F61C641525B7A60066556C /* SBHeatMapKmlParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SBHeatMapKmlParser.m; path = Classes/Parser/SBHeatMapKmlParser.m; sourceTree = "<group>"; };
+		19F61C661525B7A60066556C /* NSDataAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSDataAdditions.h; sourceTree = "<group>"; };
+		19F61C671525B7A60066556C /* NSDataAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NSDataAdditions.m; sourceTree = "<group>"; };
+		19F61C681525B7A60066556C /* TBXML.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TBXML.h; sourceTree = "<group>"; };
+		19F61C691525B7A60066556C /* TBXML.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TBXML.m; sourceTree = "<group>"; };
+		19F61C6D1525B7B20066556C /* CountryNameAndCodes.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; name = CountryNameAndCodes.rtf; path = Resources/CountryNameAndCodes.rtf; sourceTree = "<group>"; };
+		19F61C6E1525B7B20066556C /* GoogleEarth.kml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = GoogleEarth.kml; path = Resources/GoogleEarth.kml; sourceTree = "<group>"; };
+		19F61C711525B7C00066556C /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = Classes/AppDelegate.h; sourceTree = "<group>"; };
+		19F61C721525B7C00066556C /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = Classes/AppDelegate.m; sourceTree = "<group>"; };
+		19F61C741525B8400066556C /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		19F61C331525B5980066556C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				19F61C751525B8400066556C /* libz.dylib in Frameworks */,
+				19F61C3B1525B5980066556C /* UIKit.framework in Frameworks */,
+				19F61C3D1525B5980066556C /* Foundation.framework in Frameworks */,
+				19F61C3F1525B5980066556C /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		19F61C2B1525B5970066556C = {
+			isa = PBXGroup;
+			children = (
+				19F61C401525B5980066556C /* SBHeatMap */,
+				19F61C391525B5980066556C /* Frameworks */,
+				19F61C371525B5980066556C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		19F61C371525B5980066556C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				19F61C361525B5980066556C /* SBHeatMap.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		19F61C391525B5980066556C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				19F61C741525B8400066556C /* libz.dylib */,
+				19F61C3A1525B5980066556C /* UIKit.framework */,
+				19F61C3C1525B5980066556C /* Foundation.framework */,
+				19F61C3E1525B5980066556C /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		19F61C401525B5980066556C /* SBHeatMap */ = {
+			isa = PBXGroup;
+			children = (
+				19F61C561525B7300066556C /* Classes */,
+				19F61C571525B7490066556C /* Resources */,
+				19F61C411525B5980066556C /* Supporting Files */,
+			);
+			path = SBHeatMap;
+			sourceTree = "<group>";
+		};
+		19F61C411525B5980066556C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				19F61C421525B5980066556C /* SBHeatMap-Info.plist */,
+				19F61C431525B5980066556C /* InfoPlist.strings */,
+				19F61C461525B5980066556C /* main.m */,
+				19F61C481525B5980066556C /* SBHeatMap-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		19F61C561525B7300066556C /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				19F61C711525B7C00066556C /* AppDelegate.h */,
+				19F61C721525B7C00066556C /* AppDelegate.m */,
+				19F61C581525B7550066556C /* ViewControllers */,
+				19F61C591525B75F0066556C /* Views */,
+				19F61C5A1525B76C0066556C /* Parser */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		19F61C571525B7490066556C /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				19F61C6D1525B7B20066556C /* CountryNameAndCodes.rtf */,
+				19F61C6E1525B7B20066556C /* GoogleEarth.kml */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		19F61C581525B7550066556C /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				19F61C5B1525B7950066556C /* SBHeatMapViewController.h */,
+				19F61C5C1525B7950066556C /* SBHeatMapViewController.m */,
+				19F61C5D1525B7950066556C /* SBHeatMapViewController.xib */,
+			);
+			name = ViewControllers;
+			sourceTree = "<group>";
+		};
+		19F61C591525B75F0066556C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				19F61C601525B79E0066556C /* SBHeatMapView.h */,
+				19F61C611525B79E0066556C /* SBHeatMapView.m */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		19F61C5A1525B76C0066556C /* Parser */ = {
+			isa = PBXGroup;
+			children = (
+				19F61C631525B7A60066556C /* SBHeatMapKmlParser.h */,
+				19F61C641525B7A60066556C /* SBHeatMapKmlParser.m */,
+				19F61C651525B7A60066556C /* TBXML */,
+			);
+			name = Parser;
+			sourceTree = "<group>";
+		};
+		19F61C651525B7A60066556C /* TBXML */ = {
+			isa = PBXGroup;
+			children = (
+				19F61C661525B7A60066556C /* NSDataAdditions.h */,
+				19F61C671525B7A60066556C /* NSDataAdditions.m */,
+				19F61C681525B7A60066556C /* TBXML.h */,
+				19F61C691525B7A60066556C /* TBXML.m */,
+			);
+			name = TBXML;
+			path = Classes/Parser/TBXML;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		19F61C351525B5980066556C /* SBHeatMap */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 19F61C4E1525B5980066556C /* Build configuration list for PBXNativeTarget "SBHeatMap" */;
+			buildPhases = (
+				19F61C321525B5980066556C /* Sources */,
+				19F61C331525B5980066556C /* Frameworks */,
+				19F61C341525B5980066556C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SBHeatMap;
+			productName = SBHeatMap;
+			productReference = 19F61C361525B5980066556C /* SBHeatMap.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		19F61C2D1525B5970066556C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 19F61C301525B5970066556C /* Build configuration list for PBXProject "SBHeatMap" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 19F61C2B1525B5970066556C;
+			productRefGroup = 19F61C371525B5980066556C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				19F61C351525B5980066556C /* SBHeatMap */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		19F61C341525B5980066556C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				19F61C451525B5980066556C /* InfoPlist.strings in Resources */,
+				19F61C5F1525B7950066556C /* SBHeatMapViewController.xib in Resources */,
+				19F61C6F1525B7B20066556C /* CountryNameAndCodes.rtf in Resources */,
+				19F61C701525B7B20066556C /* GoogleEarth.kml in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		19F61C321525B5980066556C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				19F61C471525B5980066556C /* main.m in Sources */,
+				19F61C5E1525B7950066556C /* SBHeatMapViewController.m in Sources */,
+				19F61C621525B79E0066556C /* SBHeatMapView.m in Sources */,
+				19F61C6A1525B7A60066556C /* SBHeatMapKmlParser.m in Sources */,
+				19F61C6B1525B7A60066556C /* NSDataAdditions.m in Sources */,
+				19F61C6C1525B7A60066556C /* TBXML.m in Sources */,
+				19F61C731525B7C00066556C /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		19F61C431525B5980066556C /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				19F61C441525B5980066556C /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		19F61C4C1525B5980066556C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		19F61C4D1525B5980066556C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		19F61C4F1525B5980066556C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SBHeatMap/SBHeatMap-Prefix.pch";
+				INFOPLIST_FILE = "SBHeatMap/SBHeatMap-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		19F61C501525B5980066556C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SBHeatMap/SBHeatMap-Prefix.pch";
+				INFOPLIST_FILE = "SBHeatMap/SBHeatMap-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		19F61C301525B5970066556C /* Build configuration list for PBXProject "SBHeatMap" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				19F61C4C1525B5980066556C /* Debug */,
+				19F61C4D1525B5980066556C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		19F61C4E1525B5980066556C /* Build configuration list for PBXNativeTarget "SBHeatMap" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				19F61C4F1525B5980066556C /* Debug */,
+				19F61C501525B5980066556C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 19F61C2D1525B5970066556C /* Project object */;
+}

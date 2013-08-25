@@ -1,0 +1,180 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* OpenMailAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1096, 491}}";
+			sepNavSelRange = "{191, 19}";
+			sepNavVisRange = "{0, 852}";
+			sepNavWindowFrame = "{{15, 171}, {1288, 852}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* OpenMailAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1303, 676}}";
+			sepNavSelRange = "{884, 0}";
+			sepNavVisRange = "{537, 763}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* OpenMail */ = {
+		activeExec = 0;
+		executables = (
+			9AE16E2312B8DC80005A9690 /* OpenMail */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9AE16E2312B8DC80005A9690 /* OpenMail */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* OpenMail */;
+		breakpoints = (
+		);
+		codeSenseManager = 9AE16E4312B8DCD9005A9690 /* Code sense */;
+		executables = (
+			9AE16E2312B8DC80005A9690 /* OpenMail */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					918,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					654,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					600,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 314183850;
+			PBXWorkspaceStateSaveDate = 314183850;
+		};
+		perUserProjectItems = {
+			9AE5FC5A12B8ED4A00814D2B /* PBXTextBookmark */ = 9AE5FC5A12B8ED4A00814D2B /* PBXTextBookmark */;
+			9AE5FE6D12B9049000814D2B /* PBXTextBookmark */ = 9AE5FE6D12B9049000814D2B /* PBXTextBookmark */;
+			9AEA2FAB12BA110100756067 /* PBXTextBookmark */ = 9AEA2FAB12BA110100756067 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9AE16E4212B8DCD9005A9690 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	9AE16E2312B8DC80005A9690 /* OpenMail */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = OpenMail;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	9AE16E4212B8DCD9005A9690 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9AE16E4312B8DCD9005A9690 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9AE5FC5A12B8ED4A00814D2B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* OpenMailAppDelegate.h */;
+		name = "OpenMailAppDelegate.h: 11";
+		rLen = 19;
+		rLoc = 191;
+		rType = 0;
+		vrLen = 852;
+		vrLoc = 0;
+	};
+	9AE5FE6D12B9049000814D2B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* OpenMailAppDelegate.m */;
+		name = "OpenMailAppDelegate.m: 36";
+		rLen = 0;
+		rLoc = 884;
+		rType = 0;
+		vrLen = 1186;
+		vrLoc = 187;
+	};
+	9AEA2FAB12BA110100756067 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* OpenMailAppDelegate.m */;
+		name = "OpenMailAppDelegate.m: 36";
+		rLen = 0;
+		rLoc = 884;
+		rType = 0;
+		vrLen = 1218;
+		vrLoc = 155;
+	};
+}

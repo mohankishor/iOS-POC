@@ -1,0 +1,155 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* PageControlAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1292, 895}}";
+			sepNavSelRange = "{347, 1}";
+			sepNavVisRange = "{0, 349}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* PageControl */ = {
+		activeExec = 0;
+		executables = (
+			6FE10A54129D38D50085910B /* PageControl */,
+		);
+	};
+	1F19E6961202EFFF00DE8CE0 /* ZZPageControl.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1292, 2432}}";
+			sepNavSelRange = "{2666, 36}";
+			sepNavVisRange = "{2495, 1453}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6FE10A54129D38D50085910B /* PageControl */;
+		activeSDKPreference = iphonesimulator4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PageControl */;
+		codeSenseManager = 6FE10A6E129D38EE0085910B /* Code sense */;
+		executables = (
+			6FE10A54129D38D50085910B /* PageControl */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 312293589;
+			PBXWorkspaceStateSaveDate = 312293589;
+		};
+		perUserProjectItems = {
+			6FE10A59129D38D70085910B /* PBXBookmark */ = 6FE10A59129D38D70085910B /* PBXBookmark */;
+			6FE10A5A129D38D70085910B /* PBXTextBookmark */ = 6FE10A5A129D38D70085910B /* PBXTextBookmark */;
+			6FE10A62129D38EE0085910B /* PBXTextBookmark */ = 6FE10A62129D38EE0085910B /* PBXTextBookmark */;
+			6FE10A63129D38EE0085910B /* PBXTextBookmark */ = 6FE10A63129D38EE0085910B /* PBXTextBookmark */;
+			6FE10A64129D38EE0085910B /* PBXTextBookmark */ = 6FE10A64129D38EE0085910B /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6FE10A6D129D38EE0085910B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	6FE10A54129D38D50085910B /* PageControl */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PageControl;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6FE10A59129D38D70085910B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1D3623240D0F684500981E51 /* PageControlAppDelegate.h */;
+	};
+	6FE10A5A129D38D70085910B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* PageControlAppDelegate.h */;
+		name = "PageControlAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 349;
+		vrLoc = 0;
+	};
+	6FE10A62129D38EE0085910B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* PageControlAppDelegate.h */;
+		name = "PageControlAppDelegate.h: 13";
+		rLen = 1;
+		rLoc = 347;
+		rType = 0;
+		vrLen = 349;
+		vrLoc = 0;
+	};
+	6FE10A63129D38EE0085910B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F19E6961202EFFF00DE8CE0 /* ZZPageControl.m */;
+		name = "ZZPageControl.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1675;
+		vrLoc = 0;
+	};
+	6FE10A64129D38EE0085910B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F19E6961202EFFF00DE8CE0 /* ZZPageControl.m */;
+		name = "ZZPageControl.m: 104";
+		rLen = 36;
+		rLoc = 2666;
+		rType = 0;
+		vrLen = 1453;
+		vrLoc = 2495;
+	};
+	6FE10A6D129D38EE0085910B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6FE10A6E129D38EE0085910B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

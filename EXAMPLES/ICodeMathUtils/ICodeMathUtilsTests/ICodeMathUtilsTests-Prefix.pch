@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'ICodeMathUtilsTests' target in the 'ICodeMathUtilsTests' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif

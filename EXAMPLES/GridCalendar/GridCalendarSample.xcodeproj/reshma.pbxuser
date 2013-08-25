@@ -1,0 +1,171 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Development;
+		activeExecutable = 9AC69AEC12225D6400A94F1A /* GridCalendar */;
+		activeTarget = A44C9539082B0226001CE67D /* GridCalendar */;
+		codeSenseManager = 9AC69AFD12225D6500A94F1A /* Code sense */;
+		executables = (
+			9AC69AEC12225D6400A94F1A /* GridCalendar */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					138,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 304244695;
+			PBXWorkspaceStateSaveDate = 304244695;
+		};
+		perUserProjectItems = {
+			9AC69B70122268B800A94F1A /* PBXTextBookmark */ = 9AC69B70122268B800A94F1A /* PBXTextBookmark */;
+			9AC69B71122268B800A94F1A /* PBXTextBookmark */ = 9AC69B71122268B800A94F1A /* PBXTextBookmark */;
+			9AC69B72122268B800A94F1A /* PBXTextBookmark */ = 9AC69B72122268B800A94F1A /* PBXTextBookmark */;
+			9AC69B73122268B800A94F1A /* PBXBookmark */ = 9AC69B73122268B800A94F1A /* PBXBookmark */;
+			9AC69B74122268B800A94F1A /* PBXTextBookmark */ = 9AC69B74122268B800A94F1A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9AC69AFC12225D6500A94F1A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8A97F97807650E9A0073AAC0 /* GridSampleMainWindowController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1083, 6955}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{12664, 724}";
+		};
+	};
+	9AC69AEC12225D6400A94F1A /* GridCalendar */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GridCalendar;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	9AC69AFC12225D6500A94F1A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9AC69AFD12225D6500A94F1A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9AC69B70122268B800A94F1A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A44C95CE082B0B9F001CE67D /* GridCalendarNewJobWindowController.m */;
+		name = "GridCalendarNewJobWindowController.m: 131";
+		rLen = 0;
+		rLoc = 5453;
+		rType = 0;
+		vrLen = 1372;
+		vrLoc = 4298;
+	};
+	9AC69B71122268B800A94F1A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A44C95CD082B0B9F001CE67D /* GridCalendarNewJobWindowController.h */;
+		name = "GridCalendarNewJobWindowController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1490;
+		vrLoc = 1169;
+	};
+	9AC69B72122268B800A94F1A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A44C95C1082B0A7E001CE67D /* GridCalendarApplicationDelegate.m */;
+		name = "GridCalendarApplicationDelegate.m: 47";
+		rLen = 8;
+		rLoc = 2420;
+		rType = 0;
+		vrLen = 1329;
+		vrLoc = 1360;
+	};
+	9AC69B73122268B800A94F1A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8A97F97807650E9A0073AAC0 /* GridSampleMainWindowController.m */;
+	};
+	9AC69B74122268B800A94F1A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8A97F97807650E9A0073AAC0 /* GridSampleMainWindowController.m */;
+		name = "GridSampleMainWindowController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 724;
+		vrLoc = 12664;
+	};
+	A44C9539082B0226001CE67D /* GridCalendar */ = {
+		activeExec = 0;
+		executables = (
+			9AC69AEC12225D6400A94F1A /* GridCalendar */,
+		);
+	};
+	A44C95C1082B0A7E001CE67D /* GridCalendarApplicationDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {836, 780}}";
+			sepNavSelRange = "{2420, 8}";
+			sepNavVisRange = "{1360, 1329}";
+			sepNavWindowFrame = "{{15, 179}, {1010, 844}}";
+		};
+	};
+	A44C95CD082B0B9F001CE67D /* GridCalendarNewJobWindowController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {836, 741}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1169, 1490}";
+		};
+	};
+	A44C95CE082B0B9F001CE67D /* GridCalendarNewJobWindowController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 2080}}";
+			sepNavSelRange = "{5453, 0}";
+			sepNavVisRange = "{4298, 1372}";
+		};
+	};
+}

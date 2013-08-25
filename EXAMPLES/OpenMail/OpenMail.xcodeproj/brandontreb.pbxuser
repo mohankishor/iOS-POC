@@ -1,0 +1,360 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* OpenMailAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 588}}";
+			sepNavSelRange = "{264, 0}";
+			sepNavVisRange = "{0, 852}";
+		};
+	};
+	1D3623250D0F684500981E51 /* OpenMailAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 565}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 492}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* OpenMail */ = {
+		activeExec = 0;
+		executables = (
+			C771CB090F4CD25F003FB28F /* OpenMail */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C771CB090F4CD25F003FB28F /* OpenMail */;
+		activeSDKPreference = iphonesimulator2.2.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* OpenMail */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* OpenMail */,
+		);
+		codeSenseManager = C771CB130F4CD27D003FB28F /* Code sense */;
+		executables = (
+			C771CB090F4CD25F003FB28F /* OpenMail */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					1363,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1473,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 256844825;
+			PBXWorkspaceStateSaveDate = 256844825;
+		};
+		perUserProjectItems = {
+			C771CB430F4CD98D003FB28F = C771CB430F4CD98D003FB28F /* PBXBookmark */;
+			C771CB460F4CD98D003FB28F = C771CB460F4CD98D003FB28F /* PBXBookmark */;
+			C771CB480F4CD98D003FB28F = C771CB480F4CD98D003FB28F /* PBXBookmark */;
+			C771CB490F4CD98D003FB28F = C771CB490F4CD98D003FB28F /* PBXTextBookmark */;
+			C771CB4A0F4CD98D003FB28F = C771CB4A0F4CD98D003FB28F /* PBXBookmark */;
+			C771CB4B0F4CD98D003FB28F = C771CB4B0F4CD98D003FB28F /* PBXTextBookmark */;
+			C771CB4C0F4CD98D003FB28F = C771CB4C0F4CD98D003FB28F /* PBXTextBookmark */;
+			C771CB700F4CDAFE003FB28F = C771CB700F4CDAFE003FB28F /* PBXTextBookmark */;
+			C771CB710F4CDAFE003FB28F = C771CB710F4CDAFE003FB28F /* PBXTextBookmark */;
+			C771CB7F0F4CF31A003FB28F = C771CB7F0F4CF31A003FB28F /* PBXTextBookmark */;
+			C771CB800F4CF31A003FB28F = C771CB800F4CF31A003FB28F /* PBXTextBookmark */;
+			C771CB810F4CF31A003FB28F = C771CB810F4CF31A003FB28F /* PlistBookmark */;
+			C771CB820F4CF31A003FB28F = C771CB820F4CF31A003FB28F /* PBXTextBookmark */;
+			C771CB830F4CF31A003FB28F = C771CB830F4CF31A003FB28F /* PBXTextBookmark */;
+			C771CB840F4CF31A003FB28F = C771CB840F4CF31A003FB28F /* PBXTextBookmark */;
+			C771CB850F4CF31A003FB28F = C771CB850F4CF31A003FB28F /* PlistBookmark */;
+			C7989FE50F4F244800FB8DBA /* PlistBookmark */ = C7989FE50F4F244800FB8DBA /* PlistBookmark */;
+			C7989FE60F4F244800FB8DBA /* PBXTextBookmark */ = C7989FE60F4F244800FB8DBA /* PBXTextBookmark */;
+			C7989FE70F4F244800FB8DBA /* PlistBookmark */ = C7989FE70F4F244800FB8DBA /* PlistBookmark */;
+			C7989FE80F4F244800FB8DBA /* PBXTextBookmark */ = C7989FE80F4F244800FB8DBA /* PBXTextBookmark */;
+			C7989FE90F4F244800FB8DBA /* PBXTextBookmark */ = C7989FE90F4F244800FB8DBA /* PBXTextBookmark */;
+			C7989FFC0F4F330100FB8DBA /* PBXTextBookmark */ = C7989FFC0F4F330100FB8DBA /* PBXTextBookmark */;
+		};
+		sourceControlManager = C771CB120F4CD27D003FB28F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	C771CB090F4CD25F003FB28F /* OpenMail */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = OpenMail;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	C771CB120F4CD27D003FB28F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	C771CB130F4CD27D003FB28F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C771CB410F4CD971003FB28F /* OpenMailAppDelegate.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = OpenMailAppDelegate.m;
+		path = "/Users/brandontreb/Documents/Programming/iPhone/Tutorial Demos/OpenMail/Classes/OpenMailAppDelegate.m";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 728}}";
+			sepNavSelRange = "{279, 0}";
+			sepNavVisRange = "{224, 1145}";
+		};
+	};
+	C771CB430F4CD98D003FB28F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = C771CB2D0F4CD4C5003FB28F /* apple-mail-icon.jpg */;
+	};
+	C771CB460F4CD98D003FB28F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = C771CB470F4CD98D003FB28F;
+	};
+	C771CB470F4CD98D003FB28F = {
+		isa = PBXFileReference;
+		lastKnownFileType = folder;
+		sourceTree = "<group>";
+	};
+	C771CB480F4CD98D003FB28F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = C771CB2D0F4CD4C5003FB28F /* apple-mail-icon.jpg */;
+	};
+	C771CB490F4CD98D003FB28F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* OpenMailAppDelegate.h */;
+		name = "OpenMailAppDelegate.h: 26";
+		rLen = 0;
+		rLoc = 747;
+		rType = 0;
+		vrLen = 832;
+		vrLoc = 0;
+	};
+	C771CB4A0F4CD98D003FB28F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = C771CB2D0F4CD4C5003FB28F /* apple-mail-icon.jpg */;
+	};
+	C771CB4B0F4CD98D003FB28F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* OpenMailAppDelegate.m */;
+		name = "OpenMailAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 492;
+		vrLoc = 0;
+	};
+	C771CB4C0F4CD98D003FB28F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* OpenMailAppDelegate.h */;
+		name = "OpenMailAppDelegate.h: 26";
+		rLen = 0;
+		rLoc = 747;
+		rType = 0;
+		vrLen = 832;
+		vrLoc = 0;
+	};
+	C771CB700F4CDAFE003FB28F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C771CB410F4CD971003FB28F /* OpenMailAppDelegate.m */;
+		name = "OpenMailAppDelegate.m: 28";
+		rLen = 0;
+		rLoc = 1051;
+		rType = 0;
+		vrLen = 1151;
+		vrLoc = 0;
+	};
+	C771CB710F4CDAFE003FB28F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* OpenMailAppDelegate.h */;
+		name = "OpenMailAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 264;
+		rType = 0;
+		vrLen = 852;
+		vrLoc = 0;
+	};
+	C771CB7F0F4CF31A003FB28F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* OpenMailAppDelegate.h */;
+		name = "OpenMailAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 264;
+		rType = 0;
+		vrLen = 852;
+		vrLoc = 0;
+	};
+	C771CB800F4CF31A003FB28F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C771CB410F4CD971003FB28F /* OpenMailAppDelegate.m */;
+		name = "OpenMailAppDelegate.m: 22";
+		rLen = 0;
+		rLoc = 510;
+		rType = 0;
+		vrLen = 1296;
+		vrLoc = 0;
+	};
+	C771CB810F4CF31A003FB28F /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/brandontreb/Documents/Programming/iPhone/Tutorial Demos/OpenMail/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	C771CB820F4CF31A003FB28F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C771CB410F4CD971003FB28F /* OpenMailAppDelegate.m */;
+		name = "OpenMailAppDelegate.m: 23";
+		rLen = 0;
+		rLoc = 536;
+		rType = 0;
+		vrLen = 1286;
+		vrLoc = 0;
+	};
+	C771CB830F4CF31A003FB28F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* OpenMailAppDelegate.h */;
+		name = "OpenMailAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 264;
+		rType = 0;
+		vrLen = 852;
+		vrLoc = 0;
+	};
+	C771CB840F4CF31A003FB28F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C771CB410F4CD971003FB28F /* OpenMailAppDelegate.m */;
+		name = "OpenMailAppDelegate.m: 22";
+		rLen = 0;
+		rLoc = 510;
+		rType = 0;
+		vrLen = 1296;
+		vrLoc = 0;
+	};
+	C771CB850F4CF31A003FB28F /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/brandontreb/Documents/Programming/iPhone/Tutorial Demos/OpenMail/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	C7989FE50F4F244800FB8DBA /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/brandontreb/Documents/Programming/iPhone/Tutorial Demos/OpenMail/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	C7989FE60F4F244800FB8DBA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* OpenMailAppDelegate.h */;
+		name = "OpenMailAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 264;
+		rType = 0;
+		vrLen = 852;
+		vrLoc = 0;
+	};
+	C7989FE70F4F244800FB8DBA /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/brandontreb/Documents/Programming/iPhone/Tutorial Demos/OpenMail/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	C7989FE80F4F244800FB8DBA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* OpenMailAppDelegate.h */;
+		name = "OpenMailAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 264;
+		rType = 0;
+		vrLen = 852;
+		vrLoc = 0;
+	};
+	C7989FE90F4F244800FB8DBA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C771CB410F4CD971003FB28F /* OpenMailAppDelegate.m */;
+		name = "OpenMailAppDelegate.m: 22";
+		rLen = 0;
+		rLoc = 510;
+		rType = 0;
+		vrLen = 1181;
+		vrLoc = 188;
+	};
+	C7989FFC0F4F330100FB8DBA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C771CB410F4CD971003FB28F /* OpenMailAppDelegate.m */;
+		name = "OpenMailAppDelegate.m: 15";
+		rLen = 0;
+		rLoc = 279;
+		rType = 0;
+		vrLen = 1145;
+		vrLoc = 224;
+	};
+}

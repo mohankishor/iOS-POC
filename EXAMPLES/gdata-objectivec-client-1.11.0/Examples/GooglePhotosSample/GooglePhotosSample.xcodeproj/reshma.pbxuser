@@ -1,0 +1,190 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9AD7256D1330D429000451B1 /* GooglePhotosSample */;
+		activeTarget = 8D1107260486CEB800E47090 /* GooglePhotosSample */;
+		codeSenseManager = 9AD7258F1330D44C000451B1 /* Code sense */;
+		executables = (
+			9AD7256D1330D429000451B1 /* GooglePhotosSample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					328,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 321967145;
+			PBXWorkspaceStateSaveDate = 321967145;
+		};
+		perUserProjectItems = {
+			9AD725961330D59B000451B1 /* PBXTextBookmark */ = 9AD725961330D59B000451B1 /* PBXTextBookmark */;
+			9AD725971330D59B000451B1 /* PBXTextBookmark */ = 9AD725971330D59B000451B1 /* PBXTextBookmark */;
+			9AD725981330D59B000451B1 /* XCBuildMessageTextBookmark */ = 9AD725981330D59B000451B1 /* XCBuildMessageTextBookmark */;
+			9AD725991330D59B000451B1 /* PBXTextBookmark */ = 9AD725991330D59B000451B1 /* PBXTextBookmark */;
+			9AD725A31330D605000451B1 /* PBXTextBookmark */ = 9AD725A31330D605000451B1 /* PBXTextBookmark */;
+			9AD725A41330D605000451B1 /* PBXTextBookmark */ = 9AD725A41330D605000451B1 /* PBXTextBookmark */;
+			9AD725A51330D605000451B1 /* PBXTextBookmark */ = 9AD725A51330D605000451B1 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9AD7258E1330D44C000451B1 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4F5C29BC0D9C68B900C647A5 /* GooglePhotosSampleWindowController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {726, 15132}}";
+			sepNavSelRange = "{30635, 59}";
+			sepNavVisRange = "{29915, 2513}";
+		};
+	};
+	4F5C29BD0D9C68B900C647A5 /* GooglePhotosSampleAppController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {650, 260}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 402}";
+		};
+	};
+	4F5C29BE0D9C68B900C647A5 /* GooglePhotosSampleWindowController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {698, 1131}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{547, 2001}";
+		};
+	};
+	8D1107260486CEB800E47090 /* GooglePhotosSample */ = {
+		activeExec = 0;
+		executables = (
+			9AD7256D1330D429000451B1 /* GooglePhotosSample */,
+		);
+	};
+	9AD7256D1330D429000451B1 /* GooglePhotosSample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GooglePhotosSample;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	9AD7258E1330D44C000451B1 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9AD7258F1330D44C000451B1 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9AD725961330D59B000451B1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4F5C29BD0D9C68B900C647A5 /* GooglePhotosSampleAppController.h */;
+		name = "GooglePhotosSampleAppController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 402;
+		vrLoc = 0;
+	};
+	9AD725971330D59B000451B1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4F5C29BE0D9C68B900C647A5 /* GooglePhotosSampleWindowController.h */;
+		name = "GooglePhotosSampleWindowController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 402;
+		vrLoc = 0;
+	};
+	9AD725981330D59B000451B1 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'changeFileAttributes:atPath:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:163)";
+		fRef = 4F5C29BC0D9C68B900C647A5 /* GooglePhotosSampleWindowController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 910;
+		rType = 1;
+	};
+	9AD725991330D59B000451B1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4F5C29BC0D9C68B900C647A5 /* GooglePhotosSampleWindowController.m */;
+		name = "GooglePhotosSampleWindowController.m: 911";
+		rLen = 59;
+		rLoc = 30635;
+		rType = 0;
+		vrLen = 832;
+		vrLoc = 30444;
+	};
+	9AD725A31330D605000451B1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4F5C29BC0D9C68B900C647A5 /* GooglePhotosSampleWindowController.m */;
+		name = "GooglePhotosSampleWindowController.m: 911";
+		rLen = 59;
+		rLoc = 30635;
+		rType = 0;
+		vrLen = 2513;
+		vrLoc = 29915;
+	};
+	9AD725A41330D605000451B1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4F5C29BE0D9C68B900C647A5 /* GooglePhotosSampleWindowController.h */;
+		name = "GooglePhotosSampleWindowController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2001;
+		vrLoc = 547;
+	};
+	9AD725A51330D605000451B1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4F5C29BE0D9C68B900C647A5 /* GooglePhotosSampleWindowController.h */;
+		name = "GooglePhotosSampleWindowController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2001;
+		vrLoc = 547;
+	};
+}

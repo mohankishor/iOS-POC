@@ -1,0 +1,471 @@
+TMoveMe
+v7
+r0
+t306321369.371866
+cCheck dependencies
+cProcessInfoPlistFile /Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/Info.plist Info.plist
+cCpResource build/Debug-iphonesimulator/MoveMe.app/Default.png images/Default.png
+cCpResource build/Debug-iphonesimulator/MoveMe.app/Placard.png images/Placard.png
+cCompileXIB /Users/reshma/Downloads/MoveMe/en.lproj/MainWindow.xib
+cCompileXIB /Users/reshma/Downloads/MoveMe/en.lproj/MoveMeView.xib
+cCpResource build/Debug-iphonesimulator/MoveMe.app/Icon-72.png images/Icon-72.png
+cCpResource build/Debug-iphonesimulator/MoveMe.app/Icon-Small-50.png images/Icon-Small-50.png
+cCpResource build/Debug-iphonesimulator/MoveMe.app/Icon-Small.png images/Icon-Small.png
+cCpResource build/Debug-iphonesimulator/MoveMe.app/Icon-Small@2x.png images/Icon-Small@2x.png
+cCpResource build/Debug-iphonesimulator/MoveMe.app/Icon.png images/Icon.png
+cCpResource build/Debug-iphonesimulator/MoveMe.app/Icon@2x.png images/Icon@2x.png
+cCpResource build/Debug-iphonesimulator/MoveMe.app/iTunesArtwork images/iTunesArtwork
+cProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoveMe_Prefix-ddkshpewxqtvxveozdljcggfhxww/MoveMe_Prefix.pch.gch MoveMe_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/main.o /Users/reshma/Downloads/MoveMe/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/MoveMeAppDelegate.o /Users/reshma/Downloads/MoveMe/Classes/MoveMeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/PlacardView.o /Users/reshma/Downloads/MoveMe/Classes/PlacardView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/MoveMeView.o /Users/reshma/Downloads/MoveMe/Classes/MoveMeView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/MoveMe normal i386
+cGenerateDSYMFile /Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app.dSYM /Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/MoveMe
+cTouch /Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004CEB7E850000000000000110
+t1290501765
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004BD1D01E000000000000007D
+t1272041502
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004BD1D06900000000001294B0
+t1272041577
+s1217712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Users/reshma/Downloads/MoveMe/Classes/MoveMeAppDelegate.h
+c000000004C29064A0000000000000ACC
+t1277757002
+s2764
+
+N/Users/reshma/Downloads/MoveMe/Classes/MoveMeAppDelegate.m
+c000000004C29064A0000000000000DA0
+t1277757002
+s3488
+i"MoveMeAppDelegate.h"
+
+N/Users/reshma/Downloads/MoveMe/Classes/MoveMeView.h
+c000000004C29064A0000000000000B01
+t1277757002
+s2817
+
+N/Users/reshma/Downloads/MoveMe/Classes/MoveMeView.m
+c000000004C29064A0000000000003137
+t1277757002
+s12599
+i"MoveMeView.h"
+i"PlacardView.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/reshma/Downloads/MoveMe/Classes/PlacardView.h
+c000000004C29064A0000000000000B6E
+t1277757002
+s2926
+
+N/Users/reshma/Downloads/MoveMe/Classes/PlacardView.m
+c000000004C29064A000000000000157A
+t1277757002
+s5498
+i"PlacardView.h"
+
+N/Users/reshma/Downloads/MoveMe/MoveMe_Prefix.pch
+c0000000048B653C200000000000000B5
+t1219908546
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app
+t1284628569
+s510
+
+N/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app.dSYM
+t1284628569
+s102
+
+N/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/Default.png
+t1284628566
+s13036
+
+N/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/Icon-72.png
+t1284628567
+s1063
+
+N/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/Icon-Small-50.png
+t1284628567
+s992
+
+N/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/Icon-Small.png
+t1284628567
+s918
+
+N/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/Icon-Small@2x.png
+t1284628567
+s1010
+
+N/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/Icon.png
+t1284628567
+s1007
+
+N/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/Icon@2x.png
+t1284628567
+s1252
+
+N/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/Info.plist
+t1284628566
+s747
+
+N/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/MoveMe
+t1284628569
+s31988
+
+N/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/PkgInfo
+t1284628566
+s8
+
+N/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/Placard.png
+t1284628566
+s5507
+
+N/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/en.lproj/MainWindow.nib
+t1284628567
+s953
+
+N/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/en.lproj/MoveMeView.nib
+t1284628567
+s849
+
+N/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/iTunesArtwork
+t1284628567
+s5188
+
+N/Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/MoveMe.LinkFileList
+c000000004C91E05600000000000001DA
+t1284628566
+s474
+
+N/Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/MoveMeAppDelegate.o
+t1284628569
+s43008
+
+N/Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/MoveMeView.o
+t1284628569
+s28916
+
+N/Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/PlacardView.o
+t1284628569
+s19888
+
+N/Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/main.o
+t1284628569
+s5928
+
+N/Users/reshma/Downloads/MoveMe/en.lproj/MainWindow.xib
+c000000004C20FB6B0000000000001B8B
+t1277229931
+s7051
+
+N/Users/reshma/Downloads/MoveMe/en.lproj/MoveMeView.xib
+c000000004C20FB6B0000000000001568
+t1277229931
+s5480
+
+N/Users/reshma/Downloads/MoveMe/images/Default.png
+c000000004C20FB6B00000000000032EC
+t1277229931
+s13036
+
+N/Users/reshma/Downloads/MoveMe/images/Icon-72.png
+c000000004C253D310000000000000427
+t1277508913
+s1063
+
+N/Users/reshma/Downloads/MoveMe/images/Icon-Small-50.png
+c000000004C253D3100000000000003E0
+t1277508913
+s992
+
+N/Users/reshma/Downloads/MoveMe/images/Icon-Small.png
+c000000004C253D310000000000000396
+t1277508913
+s918
+
+N/Users/reshma/Downloads/MoveMe/images/Icon-Small@2x.png
+c000000004C253D3100000000000003F2
+t1277508913
+s1010
+
+N/Users/reshma/Downloads/MoveMe/images/Icon.png
+c000000004C253D3100000000000003EF
+t1277508913
+s1007
+
+N/Users/reshma/Downloads/MoveMe/images/Icon@2x.png
+c000000004C253D3100000000000004E4
+t1277508913
+s1252
+
+N/Users/reshma/Downloads/MoveMe/images/Placard.png
+c000000004C20FB6B0000000000001583
+t1277229931
+s5507
+
+N/Users/reshma/Downloads/MoveMe/images/iTunesArtwork
+c000000004C253D310000000000001444
+t1277508913
+s5188
+
+N/Users/reshma/Downloads/MoveMe/main.m
+c000000004C29064A0000000000000A61
+t1277757002
+s2657
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoveMe_Prefix-ddkshpewxqtvxveozdljcggfhxww/MoveMe_Prefix.pch.gch
+t1284628568
+s13805456
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoveMe_Prefix-ervvvcihkkpzxzbtgmibhqhezaci/MoveMe_Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c000000004C253D31000000000000048A
+t1277508913
+s1162
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306321366#306321366#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/MoveMeAppDelegate.o /Users/reshma/Downloads/MoveMe/Classes/MoveMeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306321369.004344
+e306321369.079840
+r1
+xCompileC
+xbuild/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/MoveMeAppDelegate.o
+x/Users/reshma/Downloads/MoveMe/Classes/MoveMeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/reshma/Downloads/MoveMe/Classes/MoveMeAppDelegate.m306321369#306321369#0(0"0(0#0#58"/Users/reshma/Downloads/MoveMe/Classes/MoveMeAppDelegate.m4300911832#1783"    cd /Users/reshma/Downloads/MoveMe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-generated-files.hmap -I/Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-own-target-headers.hmap -I/Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-all-target-headers.hmap -iquote /Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-project-headers.hmap -F/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator -I/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/include -I/Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/DerivedSources/i386 -I/Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoveMe_Prefix-ddkshpewxqtvxveozdljcggfhxww/MoveMe_Prefix.pch -c /Users/reshma/Downloads/MoveMe/Classes/MoveMeAppDelegate.m -o /Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/MoveMeAppDelegate.o0#
+
+CCompileC build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/MoveMeView.o /Users/reshma/Downloads/MoveMe/Classes/MoveMeView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306321369.079940
+e306321369.284589
+r1
+xCompileC
+xbuild/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/MoveMeView.o
+x/Users/reshma/Downloads/MoveMe/Classes/MoveMeView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/reshma/Downloads/MoveMe/Classes/MoveMeView.m306321369#306321369#0(0"0(0#0#51"/Users/reshma/Downloads/MoveMe/Classes/MoveMeView.m4300911832#1769"    cd /Users/reshma/Downloads/MoveMe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-generated-files.hmap -I/Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-own-target-headers.hmap -I/Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-all-target-headers.hmap -iquote /Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-project-headers.hmap -F/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator -I/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/include -I/Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/DerivedSources/i386 -I/Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoveMe_Prefix-ddkshpewxqtvxveozdljcggfhxww/MoveMe_Prefix.pch -c /Users/reshma/Downloads/MoveMe/Classes/MoveMeView.m -o /Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/MoveMeView.o0#
+
+CCompileC build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/PlacardView.o /Users/reshma/Downloads/MoveMe/Classes/PlacardView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306321369.050278
+e306321369.116081
+r1
+xCompileC
+xbuild/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/PlacardView.o
+x/Users/reshma/Downloads/MoveMe/Classes/PlacardView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/reshma/Downloads/MoveMe/Classes/PlacardView.m306321369#306321369#0(0"0(0#0#52"/Users/reshma/Downloads/MoveMe/Classes/PlacardView.m4300911832#1771"    cd /Users/reshma/Downloads/MoveMe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-generated-files.hmap -I/Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-own-target-headers.hmap -I/Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-all-target-headers.hmap -iquote /Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-project-headers.hmap -F/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator -I/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/include -I/Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/DerivedSources/i386 -I/Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoveMe_Prefix-ddkshpewxqtvxveozdljcggfhxww/MoveMe_Prefix.pch -c /Users/reshma/Downloads/MoveMe/Classes/PlacardView.m -o /Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/PlacardView.o0#
+
+CCompileC build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/main.o /Users/reshma/Downloads/MoveMe/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306321369.003165
+e306321369.050173
+r1
+xCompileC
+xbuild/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/main.o
+x/Users/reshma/Downloads/MoveMe/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/reshma/Downloads/MoveMe/main.m306321369#306321369#0(0"0(0#0#37"/Users/reshma/Downloads/MoveMe/main.m4300911832#1749"    cd /Users/reshma/Downloads/MoveMe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-generated-files.hmap -I/Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-own-target-headers.hmap -I/Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-all-target-headers.hmap -iquote /Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-project-headers.hmap -F/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator -I/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/include -I/Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/DerivedSources/i386 -I/Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoveMe_Prefix-ddkshpewxqtvxveozdljcggfhxww/MoveMe_Prefix.pch -c /Users/reshma/Downloads/MoveMe/main.m -o /Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/reshma/Downloads/MoveMe/en.lproj/MainWindow.xib
+s306321366.784396
+e306321367.497305
+r1
+xCompileXIB
+x/Users/reshma/Downloads/MoveMe/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib306321366#306321367#0(0"0(0#0#54"/Users/reshma/Downloads/MoveMe/en.lproj/MainWindow.xib4300911832#473"    cd /Users/reshma/Downloads/MoveMe    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/en.lproj/MainWindow.nib /Users/reshma/Downloads/MoveMe/en.lproj/MainWindow.xib0#
+
+CCompileXIB /Users/reshma/Downloads/MoveMe/en.lproj/MoveMeView.xib
+s306321366.792317
+e306321367.538062
+r1
+xCompileXIB
+x/Users/reshma/Downloads/MoveMe/en.lproj/MoveMeView.xib
+lSLF07#2@34"CompileXIB en.lproj/MoveMeView.xib306321366#306321367#0(0"0(0#0#54"/Users/reshma/Downloads/MoveMe/en.lproj/MoveMeView.xib4300911832#473"    cd /Users/reshma/Downloads/MoveMe    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/en.lproj/MoveMeView.nib /Users/reshma/Downloads/MoveMe/en.lproj/MoveMeView.xib0#
+
+CCpResource build/Debug-iphonesimulator/MoveMe.app/Default.png images/Default.png
+s306321366.757671
+e306321366.789860
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MoveMe.app/Default.png
+ximages/Default.png
+lSLF07#2@23"Copy images/Default.png306321366#306321366#0(0"0(0#0#49"/Users/reshma/Downloads/MoveMe/images/Default.png4300911832#437"    cd /Users/reshma/Downloads/MoveMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Downloads/MoveMe/images/Default.png /Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app0#
+
+CCpResource build/Debug-iphonesimulator/MoveMe.app/Icon-72.png images/Icon-72.png
+s306321367.497396
+e306321367.512257
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MoveMe.app/Icon-72.png
+ximages/Icon-72.png
+lSLF07#2@23"Copy images/Icon-72.png306321367#306321367#0(0"0(0#0#49"/Users/reshma/Downloads/MoveMe/images/Icon-72.png4300911832#437"    cd /Users/reshma/Downloads/MoveMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Downloads/MoveMe/images/Icon-72.png /Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app0#
+
+CCpResource build/Debug-iphonesimulator/MoveMe.app/Icon-Small-50.png images/Icon-Small-50.png
+s306321367.498145
+e306321367.512378
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MoveMe.app/Icon-Small-50.png
+ximages/Icon-Small-50.png
+lSLF07#2@29"Copy images/Icon-Small-50.png306321367#306321367#0(0"0(0#0#55"/Users/reshma/Downloads/MoveMe/images/Icon-Small-50.png4300911832#443"    cd /Users/reshma/Downloads/MoveMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Downloads/MoveMe/images/Icon-Small-50.png /Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app0#
+
+CCpResource build/Debug-iphonesimulator/MoveMe.app/Icon-Small.png images/Icon-Small.png
+s306321367.498887
+e306321367.512489
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MoveMe.app/Icon-Small.png
+ximages/Icon-Small.png
+lSLF07#2@26"Copy images/Icon-Small.png306321367#306321367#0(0"0(0#0#52"/Users/reshma/Downloads/MoveMe/images/Icon-Small.png4300911832#440"    cd /Users/reshma/Downloads/MoveMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Downloads/MoveMe/images/Icon-Small.png /Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app0#
+
+CCpResource build/Debug-iphonesimulator/MoveMe.app/Icon-Small@2x.png images/Icon-Small@2x.png
+s306321367.499627
+e306321367.512596
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MoveMe.app/Icon-Small@2x.png
+ximages/Icon-Small@2x.png
+lSLF07#2@29"Copy images/Icon-Small@2x.png306321367#306321367#0(0"0(0#0#55"/Users/reshma/Downloads/MoveMe/images/Icon-Small@2x.png4300911832#443"    cd /Users/reshma/Downloads/MoveMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Downloads/MoveMe/images/Icon-Small@2x.png /Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app0#
+
+CCpResource build/Debug-iphonesimulator/MoveMe.app/Icon.png images/Icon.png
+s306321367.500914
+e306321367.512701
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MoveMe.app/Icon.png
+ximages/Icon.png
+lSLF07#2@20"Copy images/Icon.png306321367#306321367#0(0"0(0#0#46"/Users/reshma/Downloads/MoveMe/images/Icon.png4300911832#434"    cd /Users/reshma/Downloads/MoveMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Downloads/MoveMe/images/Icon.png /Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app0#
+
+CCpResource build/Debug-iphonesimulator/MoveMe.app/Icon@2x.png images/Icon@2x.png
+s306321367.506384
+e306321367.512806
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MoveMe.app/Icon@2x.png
+ximages/Icon@2x.png
+lSLF07#2@23"Copy images/Icon@2x.png306321367#306321367#0(0"0(0#0#49"/Users/reshma/Downloads/MoveMe/images/Icon@2x.png4300911832#437"    cd /Users/reshma/Downloads/MoveMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Downloads/MoveMe/images/Icon@2x.png /Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app0#
+
+CCpResource build/Debug-iphonesimulator/MoveMe.app/Placard.png images/Placard.png
+s306321366.773079
+e306321366.792243
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MoveMe.app/Placard.png
+ximages/Placard.png
+lSLF07#2@23"Copy images/Placard.png306321366#306321366#0(0"0(0#0#49"/Users/reshma/Downloads/MoveMe/images/Placard.png4300911832#437"    cd /Users/reshma/Downloads/MoveMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Downloads/MoveMe/images/Placard.png /Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app0#
+
+CCpResource build/Debug-iphonesimulator/MoveMe.app/iTunesArtwork images/iTunesArtwork
+s306321367.508042
+e306321367.535925
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MoveMe.app/iTunesArtwork
+ximages/iTunesArtwork
+lSLF07#2@25"Copy images/iTunesArtwork306321367#306321367#0(0"0(0#0#51"/Users/reshma/Downloads/MoveMe/images/iTunesArtwork4300911832#439"    cd /Users/reshma/Downloads/MoveMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Downloads/MoveMe/images/iTunesArtwork /Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app0#
+
+CGenerateDSYMFile /Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app.dSYM /Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/MoveMe
+s306321369.320539
+e306321369.344924
+r1
+xGenerateDSYMFile
+x/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app.dSYM
+x/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/MoveMe
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/MoveMe.app.dSYM build/Debug-iphonesimulator/MoveMe.app/MoveMe306321369#306321369#0(0"0(0#0#76"/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/MoveMe4300911832#356"    cd /Users/reshma/Downloads/MoveMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/MoveMe -o /Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app.dSYM0#
+
+CLd /Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/MoveMe normal i386
+s306321369.284707
+e306321369.320441
+r1
+xLd
+x/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/MoveMe
+xnormal
+xi386
+lSLF07#2@81"Link /Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/MoveMe306321369#306321369#0(0"0(0#0#0"4300911832#839"    cd /Users/reshma/Downloads/MoveMe    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator -F/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator -filelist /Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/MoveMe.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/MoveMe0#
+
+CProcessInfoPlistFile /Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/Info.plist Info.plist
+s306321366.754500
+e306321366.757602
+r1
+xProcessInfoPlistFile
+x/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist306321366#306321366#0(0"0(0#0#41"/Users/reshma/Downloads/MoveMe/Info.plist4300911832#445"    cd /Users/reshma/Downloads/MoveMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app/Info.plist0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoveMe_Prefix-ddkshpewxqtvxveozdljcggfhxww/MoveMe_Prefix.pch.gch MoveMe_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s306321367.538171
+e306321369.003007
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoveMe_Prefix-ddkshpewxqtvxveozdljcggfhxww/MoveMe_Prefix.pch.gch
+xMoveMe_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile MoveMe_Prefix.pch306321367#306321369#0(0"0(0#0#48"/Users/reshma/Downloads/MoveMe/MoveMe_Prefix.pch4300911832#1650"    cd /Users/reshma/Downloads/MoveMe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-generated-files.hmap -I/Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-own-target-headers.hmap -I/Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-all-target-headers.hmap -iquote /Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-project-headers.hmap -F/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator -I/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/include -I/Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/DerivedSources/i386 -I/Users/reshma/Downloads/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/DerivedSources -c /Users/reshma/Downloads/MoveMe/MoveMe_Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoveMe_Prefix-ddkshpewxqtvxveozdljcggfhxww/MoveMe_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoveMe_Prefix-ervvvcihkkpzxzbtgmibhqhezaci/MoveMe_Prefix.pch.gch MoveMe_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app
+s306321369.345019
+e306321369.371811
+r1
+xTouch
+x/Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app
+lSLF07#2@75"Touch /Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app306321369#306321369#0(0"0(0#0#0"4300911832#261"    cd /Users/reshma/Downloads/MoveMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/reshma/Downloads/MoveMe/build/Debug-iphonesimulator/MoveMe.app0#
+

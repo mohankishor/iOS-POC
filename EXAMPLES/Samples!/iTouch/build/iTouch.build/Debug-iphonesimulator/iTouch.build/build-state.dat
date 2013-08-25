@@ -1,0 +1,513 @@
+TiTouch
+v7
+r0
+t304505938.369227
+cCheck dependencies
+cProcessInfoPlistFile "/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app/Info.plist" iTouch-Info.plist
+cCompileXIB "/Volumes/Development/MAC Samples/iTouch/MainWindow.xib"
+cCompileXIB "/Volumes/Development/MAC Samples/iTouch/iTouchViewController.xib"
+cCpResource build/Debug-iphonesimulator/iTouch.app/images.jpg images.jpg
+cCpResource build/Debug-iphonesimulator/iTouch.app/image2.jpg image2.jpg
+cCpResource build/Debug-iphonesimulator/iTouch.app/clownfish.jpg clownfish.jpg
+cCpResource build/Debug-iphonesimulator/iTouch.app/Clown_Fish1.jpg Clown_Fish1.jpg
+cProcessPCH /var/folders/FD/FDIqXRgIEMKi3wDwfq2Qm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTouch_Prefix-ecwfgzjtxtmxnzarxxvbnjooogzy/iTouch_Prefix.pch.gch iTouch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTouch.build/Debug-iphonesimulator/iTouch.build/Objects-normal/i386/main.o "/Volumes/Development/MAC Samples/iTouch/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTouch.build/Debug-iphonesimulator/iTouch.build/Objects-normal/i386/iTouchAppDelegate.o "/Volumes/Development/MAC Samples/iTouch/Classes/iTouchAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTouch.build/Debug-iphonesimulator/iTouch.build/Objects-normal/i386/iTouchViewController.o "/Volumes/Development/MAC Samples/iTouch/Classes/iTouchViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app/iTouch" normal i386
+cGenerateDSYMFile "/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app.dSYM" "/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app/iTouch"
+cTouch "/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/reshma/Desktop/Anand/iTouch/Classes/iTouchAppDelegate.h
+c000000004C6D2A2700000000000001E3
+t1282222631
+s483
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/Anand/iTouch/Classes/iTouchAppDelegate.m
+c000000004C6D2A2700000000000002A8
+t1282222631
+s680
+i"iTouchAppDelegate.h"
+i"iTouchViewController.h"
+
+N/Users/reshma/Desktop/Anand/iTouch/Classes/iTouchViewController.h
+c000000004C73CC4600000000000001CA
+t1282657350
+s458
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/Anand/iTouch/Classes/iTouchViewController.m
+c000000004C762CD1000000000000174B
+t1282813137
+s5963
+i"iTouchViewController.h"
+
+N/Users/reshma/Desktop/Anand/iTouch/Clown_Fish1.jpg
+c000000004C73CD00000000000000C214
+t1282657536
+s49684
+
+N/Users/reshma/Desktop/Anand/iTouch/MainWindow.xib
+c000000004C6D2A280000000000002641
+t1282222632
+s9793
+
+N/Users/reshma/Desktop/Anand/iTouch/build/Debug-iphonesimulator/iTouch.app
+t1282813138
+s408
+
+N/Users/reshma/Desktop/Anand/iTouch/build/Debug-iphonesimulator/iTouch.app.dSYM
+t1282813138
+s102
+
+N/Users/reshma/Desktop/Anand/iTouch/build/Debug-iphonesimulator/iTouch.app/Clown_Fish1.jpg
+t1282657993
+s49684
+
+N/Users/reshma/Desktop/Anand/iTouch/build/Debug-iphonesimulator/iTouch.app/Info.plist
+t1282222885
+s589
+
+N/Users/reshma/Desktop/Anand/iTouch/build/Debug-iphonesimulator/iTouch.app/MainWindow.nib
+t1282222886
+s1508
+
+N/Users/reshma/Desktop/Anand/iTouch/build/Debug-iphonesimulator/iTouch.app/PkgInfo
+t1282222885
+s8
+
+N/Users/reshma/Desktop/Anand/iTouch/build/Debug-iphonesimulator/iTouch.app/clownfish.jpg
+t1282657928
+s43774
+
+N/Users/reshma/Desktop/Anand/iTouch/build/Debug-iphonesimulator/iTouch.app/iTouch
+t1282813138
+s24668
+
+N/Users/reshma/Desktop/Anand/iTouch/build/Debug-iphonesimulator/iTouch.app/iTouchViewController.nib
+t1282222886
+s1151
+
+N/Users/reshma/Desktop/Anand/iTouch/build/Debug-iphonesimulator/iTouch.app/image2.jpg
+t1282655162
+s136907
+
+N/Users/reshma/Desktop/Anand/iTouch/build/Debug-iphonesimulator/iTouch.app/images.jpg
+t1282653986
+s9273
+
+N/Users/reshma/Desktop/Anand/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/Objects-normal/i386/iTouch.LinkFileList
+c000000004C6D2B250000000000000188
+t1282222885
+s392
+
+N/Users/reshma/Desktop/Anand/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/Objects-normal/i386/iTouchAppDelegate.o
+t1282657611
+s40748
+
+N/Users/reshma/Desktop/Anand/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/Objects-normal/i386/iTouchViewController.o
+t1282813138
+s44584
+
+N/Users/reshma/Desktop/Anand/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/Objects-normal/i386/main.o
+t1282222887
+s5952
+
+N/Users/reshma/Desktop/Anand/iTouch/clownfish.jpg
+c000000004C73CD0B000000000000AAFE
+t1282657547
+s43774
+
+N/Users/reshma/Desktop/Anand/iTouch/iTouchViewController.xib
+c000000004C6D2A280000000000001A41
+t1282222632
+s6721
+
+N/Users/reshma/Desktop/Anand/iTouch/iTouch_Prefix.pch
+c000000004C6D2A2800000000000000B5
+t1282222632
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/Anand/iTouch/image2.jpg
+c000000004C73C38400000000000216CB
+t1282655108
+s136907
+
+N/Users/reshma/Desktop/Anand/iTouch/images.jpg
+c000000004C6A04200000000000002439
+t1282016288
+s9273
+
+N/Users/reshma/Desktop/Anand/iTouch/main.m
+c000000004C6D2A280000000000000172
+t1282222632
+s370
+i<UIKit/UIKit.h>
+
+N/Volumes/Development/MAC Samples/iTouch/Classes/iTouchAppDelegate.h
+c000000004C6D2A2700000000000001E3
+t1282222631
+s483
+i<UIKit/UIKit.h>
+
+N/Volumes/Development/MAC Samples/iTouch/Classes/iTouchAppDelegate.m
+c000000004C6D2A2700000000000002A8
+t1282222631
+s680
+i"iTouchAppDelegate.h"
+i"iTouchViewController.h"
+
+N/Volumes/Development/MAC Samples/iTouch/Classes/iTouchViewController.h
+c000000004C73CC4600000000000001CA
+t1282657350
+s458
+i<UIKit/UIKit.h>
+
+N/Volumes/Development/MAC Samples/iTouch/Classes/iTouchViewController.m
+c000000004C762CD1000000000000174B
+t1282813137
+s5963
+i"iTouchViewController.h"
+
+N/Volumes/Development/MAC Samples/iTouch/Clown_Fish1.jpg
+c000000004C73CD00000000000000C214
+t1282657536
+s49684
+
+N/Volumes/Development/MAC Samples/iTouch/MainWindow.xib
+c000000004C6D2A280000000000002641
+t1282222632
+s9793
+
+N/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app
+t1282813138
+s408
+
+N/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app.dSYM
+t1282813138
+s102
+
+N/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app/Clown_Fish1.jpg
+t1282657993
+s49684
+
+N/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app/Info.plist
+t1282222885
+s589
+
+N/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app/MainWindow.nib
+t1282222886
+s1508
+
+N/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app/PkgInfo
+t1282222885
+s8
+
+N/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app/clownfish.jpg
+t1282657928
+s43774
+
+N/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app/iTouch
+t1282813138
+s24668
+
+N/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app/iTouchViewController.nib
+t1282222886
+s1151
+
+N/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app/icon_car.gif
+t1282655019
+s317
+
+N/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app/image2.jpg
+t1282655162
+s136907
+
+N/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app/images.jpg
+t1282653986
+s9273
+
+N/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/Objects-normal/i386/iTouch.LinkFileList
+c000000004C6D2B250000000000000188
+t1282222885
+s392
+
+N/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/Objects-normal/i386/iTouchAppDelegate.o
+t1282657611
+s40748
+
+N/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/Objects-normal/i386/iTouchViewController.o
+t1282813138
+s44584
+
+N/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/Objects-normal/i386/main.o
+t1282222887
+s5952
+
+N/Volumes/Development/MAC Samples/iTouch/clownfish.jpg
+c000000004C73CD0B000000000000AAFE
+t1282657547
+s43774
+
+N/Volumes/Development/MAC Samples/iTouch/iTouchViewController.xib
+c000000004C6D2A280000000000001A41
+t1282222632
+s6721
+
+N/Volumes/Development/MAC Samples/iTouch/iTouch_Prefix.pch
+c000000004C6D2A2800000000000000B5
+t1282222632
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/Development/MAC Samples/iTouch/icon_car.gif
+c000000004C6DEE63000000000000013D
+t1282272867
+s317
+
+N/Volumes/Development/MAC Samples/iTouch/image2.jpg
+c000000004C73C38400000000000216CB
+t1282655108
+s136907
+
+N/Volumes/Development/MAC Samples/iTouch/images.jpg
+c000000004C6A04200000000000002439
+t1282016288
+s9273
+
+N/Volumes/Development/MAC Samples/iTouch/main.m
+c000000004C6D2A280000000000000172
+t1282222632
+s370
+i<UIKit/UIKit.h>
+
+N/var/folders/FD/FDIqXRgIEMKi3wDwfq2Qm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTouch_Prefix-ecwfgzjtxtmxnzarxxvbnjooogzy/iTouch_Prefix.pch.gch
+t1282222887
+s13026768
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTouch_Prefix-dhhzdphwomdlyybcugcafhplhuqb/iTouch_Prefix.pch.gch
+t2
+s0
+
+NiTouch-Info.plist
+c000000004C6D2A28000000000000038D
+t1282222632
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies304505937#304505937#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/iTouch.build/Debug-iphonesimulator/iTouch.build/Objects-normal/i386/iTouchAppDelegate.o "/Volumes/Development/MAC Samples/iTouch/Classes/iTouchAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304350411.271773
+e304350411.410157
+r1
+xCompileC
+xbuild/iTouch.build/Debug-iphonesimulator/iTouch.build/Objects-normal/i386/iTouchAppDelegate.o
+x/Volumes/Development/MAC Samples/iTouch/Classes/iTouchAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Volumes/Development/MAC Samples/iTouch/Classes/iTouchAppDelegate.m304350411#304350411#0(0"0(0#0#67"/Volumes/Development/MAC Samples/iTouch/Classes/iTouchAppDelegate.m4300911832#1906"    cd "/Volumes/Development/MAC Samples/iTouch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/iTouch-generated-files.hmap" "-I/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/iTouch-own-target-headers.hmap" "-I/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/iTouch-all-target-headers.hmap" -iquote "/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/iTouch-project-headers.hmap" "-F/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator" "-I/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/include" "-I/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/DerivedSources/i386" "-I/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/DerivedSources" -include /var/folders/FD/FDIqXRgIEMKi3wDwfq2Qm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTouch_Prefix-ecwfgzjtxtmxnzarxxvbnjooogzy/iTouch_Prefix.pch -c "/Volumes/Development/MAC Samples/iTouch/Classes/iTouchAppDelegate.m" -o "/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/Objects-normal/i386/iTouchAppDelegate.o"0#
+
+CCompileC build/iTouch.build/Debug-iphonesimulator/iTouch.build/Objects-normal/i386/iTouchAppDelegate.o /Users/reshma/Desktop/Anand/iTouch/Classes/iTouchAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iTouch.build/Debug-iphonesimulator/iTouch.build/Objects-normal/i386/iTouchViewController.o "/Volumes/Development/MAC Samples/iTouch/Classes/iTouchViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304505937.993534
+e304505938.318864
+r1
+xCompileC
+xbuild/iTouch.build/Debug-iphonesimulator/iTouch.build/Objects-normal/i386/iTouchViewController.o
+x/Volumes/Development/MAC Samples/iTouch/Classes/iTouchViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Volumes/Development/MAC Samples/iTouch/Classes/iTouchViewController.m304505937#304505938#0(0"0(0#0#70"/Volumes/Development/MAC Samples/iTouch/Classes/iTouchViewController.m4300911832#1912"    cd "/Volumes/Development/MAC Samples/iTouch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/iTouch-generated-files.hmap" "-I/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/iTouch-own-target-headers.hmap" "-I/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/iTouch-all-target-headers.hmap" -iquote "/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/iTouch-project-headers.hmap" "-F/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator" "-I/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/include" "-I/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/DerivedSources/i386" "-I/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/DerivedSources" -include /var/folders/FD/FDIqXRgIEMKi3wDwfq2Qm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTouch_Prefix-ecwfgzjtxtmxnzarxxvbnjooogzy/iTouch_Prefix.pch -c "/Volumes/Development/MAC Samples/iTouch/Classes/iTouchViewController.m" -o "/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/Objects-normal/i386/iTouchViewController.o"0#
+
+CCompileC build/iTouch.build/Debug-iphonesimulator/iTouch.build/Objects-normal/i386/iTouchViewController.o /Users/reshma/Desktop/Anand/iTouch/Classes/iTouchViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iTouch.build/Debug-iphonesimulator/iTouch.build/Objects-normal/i386/main.o "/Volumes/Development/MAC Samples/iTouch/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303915687.261626
+e303915687.354074
+r1
+xCompileC
+xbuild/iTouch.build/Debug-iphonesimulator/iTouch.build/Objects-normal/i386/main.o
+x/Volumes/Development/MAC Samples/iTouch/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Volumes/Development/MAC Samples/iTouch/main.m303915687#303915687#0(0"0(0#0#46"/Volumes/Development/MAC Samples/iTouch/main.m4300911832#1872"    cd "/Volumes/Development/MAC Samples/iTouch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/iTouch-generated-files.hmap" "-I/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/iTouch-own-target-headers.hmap" "-I/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/iTouch-all-target-headers.hmap" -iquote "/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/iTouch-project-headers.hmap" "-F/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator" "-I/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/include" "-I/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/DerivedSources/i386" "-I/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/DerivedSources" -include /var/folders/FD/FDIqXRgIEMKi3wDwfq2Qm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTouch_Prefix-ecwfgzjtxtmxnzarxxvbnjooogzy/iTouch_Prefix.pch -c "/Volumes/Development/MAC Samples/iTouch/main.m" -o "/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/iTouch.build/Debug-iphonesimulator/iTouch.build/Objects-normal/i386/main.o /Users/reshma/Desktop/Anand/iTouch/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Volumes/Development/MAC Samples/iTouch/MainWindow.xib"
+s303915685.591465
+e303915686.281344
+r1
+xCompileXIB
+x/Volumes/Development/MAC Samples/iTouch/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib303915685#303915686#0(0"0(0#0#54"/Volumes/Development/MAC Samples/iTouch/MainWindow.xib4300911832#490"    cd "/Volumes/Development/MAC Samples/iTouch"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app/MainWindow.nib" "/Volumes/Development/MAC Samples/iTouch/MainWindow.xib"0#
+
+CCompileXIB "/Volumes/Development/MAC Samples/iTouch/iTouchViewController.xib"
+s303915685.592505
+e303915686.271121
+r1
+xCompileXIB
+x/Volumes/Development/MAC Samples/iTouch/iTouchViewController.xib
+lSLF07#2@35"CompileXIB iTouchViewController.xib303915685#303915686#0(0"0(0#0#64"/Volumes/Development/MAC Samples/iTouch/iTouchViewController.xib4300911832#510"    cd "/Volumes/Development/MAC Samples/iTouch"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app/iTouchViewController.nib" "/Volumes/Development/MAC Samples/iTouch/iTouchViewController.xib"0#
+
+CCompileXIB /Users/reshma/Desktop/Anand/iTouch/MainWindow.xib
+r0
+
+CCompileXIB /Users/reshma/Desktop/Anand/iTouch/iTouchViewController.xib
+r0
+
+CCpResource build/Debug-iphonesimulator/iTouch.app/Clown_Fish1.jpg Clown_Fish1.jpg
+s304350793.902424
+e304350793.912059
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iTouch.app/Clown_Fish1.jpg
+xClown_Fish1.jpg
+lSLF07#2@20"Copy Clown_Fish1.jpg304350793#304350793#0(0"0(0#0#55"/Volumes/Development/MAC Samples/iTouch/Clown_Fish1.jpg4300911832#467"    cd "/Volumes/Development/MAC Samples/iTouch"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Volumes/Development/MAC Samples/iTouch/Clown_Fish1.jpg" "/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app"0#
+
+CCpResource build/Debug-iphonesimulator/iTouch.app/clownfish.jpg clownfish.jpg
+s304350728.309755
+e304350728.377660
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iTouch.app/clownfish.jpg
+xclownfish.jpg
+lSLF07#2@18"Copy clownfish.jpg304350728#304350728#0(0"0(0#0#53"/Volumes/Development/MAC Samples/iTouch/clownfish.jpg4300911832#465"    cd "/Volumes/Development/MAC Samples/iTouch"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Volumes/Development/MAC Samples/iTouch/clownfish.jpg" "/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app"0#
+
+CCpResource build/Debug-iphonesimulator/iTouch.app/icon_car.gif icon_car.gif
+s304347818.968723
+e304347819.021255
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iTouch.app/icon_car.gif
+xicon_car.gif
+lSLF07#2@17"Copy icon_car.gif304347818#304347819#0(0"0(0#0#52"/Volumes/Development/MAC Samples/iTouch/icon_car.gif4300911832#464"    cd "/Volumes/Development/MAC Samples/iTouch"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Volumes/Development/MAC Samples/iTouch/icon_car.gif" "/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app"0#
+
+CCpResource build/Debug-iphonesimulator/iTouch.app/image2.jpg image2.jpg
+s304347962.960002
+e304347962.994282
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iTouch.app/image2.jpg
+ximage2.jpg
+lSLF07#2@15"Copy image2.jpg304347962#304347962#0(0"0(0#0#50"/Volumes/Development/MAC Samples/iTouch/image2.jpg4300911832#462"    cd "/Volumes/Development/MAC Samples/iTouch"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Volumes/Development/MAC Samples/iTouch/image2.jpg" "/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app"0#
+
+CCpResource build/Debug-iphonesimulator/iTouch.app/images.jpg images.jpg
+s304346786.270975
+e304346786.327831
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iTouch.app/images.jpg
+ximages.jpg
+lSLF07#2@15"Copy images.jpg304346786#304346786#0(0"0(0#0#50"/Volumes/Development/MAC Samples/iTouch/images.jpg4300911832#462"    cd "/Volumes/Development/MAC Samples/iTouch"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Volumes/Development/MAC Samples/iTouch/images.jpg" "/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app"0#
+
+CGenerateDSYMFile "/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app.dSYM" "/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app/iTouch"
+s304505938.351397
+e304505938.366556
+r1
+xGenerateDSYMFile
+x/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app.dSYM
+x/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app/iTouch
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/iTouch.app.dSYM build/Debug-iphonesimulator/iTouch.app/iTouch304505938#304505938#0(0"0(0#0#85"/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app/iTouch4300911832#389"    cd "/Volumes/Development/MAC Samples/iTouch"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app/iTouch" -o "/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app.dSYM"0#
+
+CGenerateDSYMFile /Users/reshma/Desktop/Anand/iTouch/build/Debug-iphonesimulator/iTouch.app.dSYM /Users/reshma/Desktop/Anand/iTouch/build/Debug-iphonesimulator/iTouch.app/iTouch
+r0
+
+CLd "/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app/iTouch" normal i386
+s304505938.318967
+e304505938.351290
+r1
+xLd
+x/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app/iTouch
+xnormal
+xi386
+lSLF07#2@90"Link /Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app/iTouch304505938#304505938#0(0"0(0#0#0"4300911832#874"    cd "/Volumes/Development/MAC Samples/iTouch"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk "-L/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator" "-F/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator" -filelist "/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/Objects-normal/i386/iTouch.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app/iTouch"0#
+
+CLd /Users/reshma/Desktop/Anand/iTouch/build/Debug-iphonesimulator/iTouch.app/iTouch normal i386
+r0
+
+CProcessInfoPlistFile "/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app/Info.plist" iTouch-Info.plist
+s303915685.576828
+e303915685.591368
+r1
+xProcessInfoPlistFile
+x/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app/Info.plist
+xiTouch-Info.plist
+lSLF07#2@25"Process iTouch-Info.plist303915685#303915685#0(0"0(0#0#57"/Volumes/Development/MAC Samples/iTouch/iTouch-Info.plist4300911832#485"    cd "/Volumes/Development/MAC Samples/iTouch"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iTouch-Info.plist -genpkginfo "/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app/Info.plist"0#
+
+CProcessInfoPlistFile /Users/reshma/Desktop/Anand/iTouch/build/Debug-iphonesimulator/iTouch.app/Info.plist iTouch-Info.plist
+r0
+
+CProcessPCH /var/folders/FD/FDIqXRgIEMKi3wDwfq2Qm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTouch_Prefix-ecwfgzjtxtmxnzarxxvbnjooogzy/iTouch_Prefix.pch.gch iTouch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s303915686.281474
+e303915687.261372
+r1
+xProcessPCH
+x/var/folders/FD/FDIqXRgIEMKi3wDwfq2Qm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTouch_Prefix-ecwfgzjtxtmxnzarxxvbnjooogzy/iTouch_Prefix.pch.gch
+xiTouch_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile iTouch_Prefix.pch303915686#303915687#0(0"0(0#0#57"/Volumes/Development/MAC Samples/iTouch/iTouch_Prefix.pch4300911832#1762"    cd "/Volumes/Development/MAC Samples/iTouch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/iTouch-generated-files.hmap" "-I/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/iTouch-own-target-headers.hmap" "-I/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/iTouch-all-target-headers.hmap" -iquote "/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/iTouch-project-headers.hmap" "-F/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator" "-I/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/include" "-I/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/DerivedSources/i386" "-I/Volumes/Development/MAC Samples/iTouch/build/iTouch.build/Debug-iphonesimulator/iTouch.build/DerivedSources" -c "/Volumes/Development/MAC Samples/iTouch/iTouch_Prefix.pch" -o /var/folders/FD/FDIqXRgIEMKi3wDwfq2Qm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTouch_Prefix-ecwfgzjtxtmxnzarxxvbnjooogzy/iTouch_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTouch_Prefix-dhhzdphwomdlyybcugcafhplhuqb/iTouch_Prefix.pch.gch iTouch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app"
+s304505938.366650
+e304505938.369186
+r1
+xTouch
+x/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app
+lSLF07#2@84"Touch /Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app304505938#304505938#0(0"0(0#0#0"4300911832#283"    cd "/Volumes/Development/MAC Samples/iTouch"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Volumes/Development/MAC Samples/iTouch/build/Debug-iphonesimulator/iTouch.app"0#
+
+CTouch /Users/reshma/Desktop/Anand/iTouch/build/Debug-iphonesimulator/iTouch.app
+r0
+

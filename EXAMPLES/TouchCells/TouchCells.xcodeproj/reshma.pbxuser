@@ -1,0 +1,147 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* TouchCells */ = {
+		activeExec = 0;
+		executables = (
+			9ACE7161124215B700D4DA72 /* TouchCells */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9ACE7161124215B700D4DA72 /* TouchCells */;
+		activeSDKPreference = iphonesimulator3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TouchCells */;
+		codeSenseManager = 9ACE717D124215CF00D4DA72 /* Code sense */;
+		executables = (
+			9ACE7161124215B700D4DA72 /* TouchCells */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					594,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 306320823;
+			PBXWorkspaceStateSaveDate = 306320823;
+		};
+		perUserProjectItems = {
+			9ACE71831242162200D4DA72 /* PBXTextBookmark */ = 9ACE71831242162200D4DA72 /* PBXTextBookmark */;
+			9ACE71841242162200D4DA72 /* PBXTextBookmark */ = 9ACE71841242162200D4DA72 /* PBXTextBookmark */;
+			9ACE71851242162200D4DA72 /* PBXTextBookmark */ = 9ACE71851242162200D4DA72 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9ACE717C124215CF00D4DA72 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	53743DB60E5A3E33006E6D4D /* CustomCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {908, 1495}}";
+			sepNavSelRange = "{3223, 1}";
+			sepNavVisRange = "{2432, 1393}";
+		};
+	};
+	53743E2C0E5A475E006E6D4D /* DetailViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {772, 845}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1315, 1473}";
+		};
+	};
+	53F7EFC80E5B2CDC00963339 /* ReadMe.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3785, 716}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2271}";
+			sepNavWindowFrame = "{{15, 179}, {1010, 844}}";
+		};
+	};
+	9ACE7161124215B700D4DA72 /* TouchCells */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TouchCells;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	9ACE717C124215CF00D4DA72 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9ACE717D124215CF00D4DA72 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9ACE71831242162200D4DA72 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53743DB60E5A3E33006E6D4D /* CustomCell.m */;
+		name = "CustomCell.m: 69";
+		rLen = 1;
+		rLoc = 3223;
+		rType = 0;
+		vrLen = 1393;
+		vrLoc = 2432;
+	};
+	9ACE71841242162200D4DA72 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53743E2C0E5A475E006E6D4D /* DetailViewController.m */;
+		name = "DetailViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2457;
+		vrLoc = 0;
+	};
+	9ACE71851242162200D4DA72 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53743E2C0E5A475E006E6D4D /* DetailViewController.m */;
+		name = "DetailViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1473;
+		vrLoc = 1315;
+	};
+}

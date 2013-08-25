@@ -1,0 +1,124 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* SQLiteBooks */ = {
+		activeExec = 0;
+		executables = (
+			AC9B0D330E08D4E100DEECC8 /* SQLiteBooks */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = AC9B0D330E08D4E100DEECC8 /* SQLiteBooks */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SQLiteBooks */;
+		codeSenseManager = AC9B0D450E08D4E800DEECC8 /* Code sense */;
+		executables = (
+			AC9B0D330E08D4E100DEECC8 /* SQLiteBooks */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					806,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 237051799;
+			PBXWorkspaceStateSaveDate = 237051799;
+		};
+		sourceControlManager = AC9B0D440E08D4E800DEECC8 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	301073BF0D6D075700B9B6F8 /* DetailViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1078, 1360}}";
+			sepNavSelRange = "{3566, 0}";
+			sepNavVisRange = "{2648, 1097}";
+		};
+	};
+	301073C00D6D075700B9B6F8 /* DetailViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1078, 3248}}";
+			sepNavSelRange = "{3590, 20}";
+			sepNavVisRange = "{3574, 963}";
+		};
+	};
+	301073C10D6D075700B9B6F8 /* MasterViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1078, 1280}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1827, 1490}";
+		};
+	};
+	301073C20D6D075700B9B6F8 /* MasterViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1078, 3328}}";
+			sepNavSelRange = "{6669, 20}";
+			sepNavVisRange = "{6508, 1314}";
+		};
+	};
+	30A672000DAAC05A00052E7C /* EditingViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1078, 1520}}";
+			sepNavSelRange = "{3553, 10}";
+			sepNavVisRange = "{2883, 984}";
+		};
+	};
+	30A672010DAAC05A00052E7C /* EditingViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {984, 2320}}";
+			sepNavSelRange = "{5500, 0}";
+			sepNavVisRange = "{4082, 1348}";
+		};
+	};
+	AC9B0D330E08D4E100DEECC8 /* SQLiteBooks */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SQLiteBooks;
+		sourceDirectories = (
+		);
+	};
+	AC9B0D440E08D4E800DEECC8 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	AC9B0D450E08D4E800DEECC8 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

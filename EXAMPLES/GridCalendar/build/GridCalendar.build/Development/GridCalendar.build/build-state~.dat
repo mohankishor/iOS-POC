@@ -1,0 +1,755 @@
+TGridCalendar
+v7
+r0
+t303998425.079546
+cCheck dependencies
+cProcessInfoPlistFile /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Info.plist Info.plist
+cStripNIB /Users/reshma/Desktop/GridCalendar/English.lproj/MainMenu.nib
+cStripNIB /Users/reshma/Desktop/GridCalendar/English.lproj/MainWindow.nib
+cStripNIB /Users/reshma/Desktop/GridCalendar/English.lproj/Login.nib
+cStripNIB /Users/reshma/Desktop/GridCalendar/English.lproj/NewJob.nib
+cStripNIB /Users/reshma/Desktop/GridCalendar/English.lproj/JobInfo.nib
+cStripNIB /Users/reshma/Desktop/GridCalendar/English.lproj/JobResults.nib
+cCopyTiffFile /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/addFile.tiff Images/addFile.tiff
+cCopyTiffFile /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/clone.tiff Images/clone.tiff
+cCopyTiffFile /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/delete.tiff Images/delete.tiff
+cCopyTiffFile /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/info.tiff Images/info.tiff
+cCopyTiffFile /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/new.tiff Images/new.tiff
+cCopyTiffFile /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/stop.tiff Images/stop.tiff
+cProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GridSample_Prefix-fnpybegsgznprlbeumhjnfmpjjdl/GridSample_Prefix.pch.gch GridSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/main.o /Users/reshma/Desktop/GridCalendar/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleApplicationDelegate.o /Users/reshma/Desktop/GridCalendar/GridSampleApplicationDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleConnectionController.o /Users/reshma/Desktop/GridCalendar/GridSampleConnectionController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleJobInfoWindowController.o /Users/reshma/Desktop/GridCalendar/GridSampleJobInfoWindowController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleJobResultsWindowController.o /Users/reshma/Desktop/GridCalendar/GridSampleJobResultsWindowController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleJobStateToStringTransformer.o /Users/reshma/Desktop/GridCalendar/GridSampleJobStateToStringTransformer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleLoginController.o /Users/reshma/Desktop/GridCalendar/GridSampleLoginController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleMainWindowController.o /Users/reshma/Desktop/GridCalendar/GridSampleMainWindowController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleNewJobWindowController.o /Users/reshma/Desktop/GridCalendar/GridSampleNewJobWindowController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleServiceBrowser.o /Users/reshma/Desktop/GridCalendar/GridSampleServiceBrowser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleToolbarController.o /Users/reshma/Desktop/GridCalendar/GridSampleToolbarController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridCalendarApplicationDelegate.o /Users/reshma/Desktop/GridCalendar/GridCalendarApplicationDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridCalendarNewJobWindowController.o /Users/reshma/Desktop/GridCalendar/GridCalendarNewJobWindowController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/MacOS/GridCalendar normal i386
+cTouch /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/XgridFoundation.framework/Headers/XgridFoundation.h
+c000000004B31CDE700000000000001CB
+t1261555175
+s459
+
+N/System/Library/Frameworks/XgridFoundation.framework/XgridFoundation
+c000000004AD869C20000000000236C20
+t1255696834
+s2321440
+
+N/Users/reshma/Desktop/GridCalendar/English.lproj/JobInfo.nib
+c000000004BA3BAAC00000000000000AA
+t1269021356
+s170
+
+N/Users/reshma/Desktop/GridCalendar/English.lproj/JobResults.nib
+c000000004BA3BAAC00000000000000AA
+t1269021356
+s170
+
+N/Users/reshma/Desktop/GridCalendar/English.lproj/Login.nib
+c000000004BA3BAAB00000000000000AA
+t1269021355
+s170
+
+N/Users/reshma/Desktop/GridCalendar/English.lproj/MainMenu.nib
+c000000004BA3BAAB00000000000000AA
+t1269021355
+s170
+
+N/Users/reshma/Desktop/GridCalendar/English.lproj/MainWindow.nib
+c000000004BA3BAAC00000000000000AA
+t1269021356
+s170
+
+N/Users/reshma/Desktop/GridCalendar/English.lproj/NewJob.nib
+c000000004BA3BAAC00000000000000AA
+t1269021356
+s170
+
+N/Users/reshma/Desktop/GridCalendar/GridCalendarApplicationDelegate.h
+c000000004285274B00000000000009FF
+t1116022603
+s2559
+i<Cocoa/Cocoa.h>
+i"GridSampleApplicationDelegate.h"
+
+N/Users/reshma/Desktop/GridCalendar/GridCalendarApplicationDelegate.m
+c000000004285274B0000000000000A81
+t1116022603
+s2689
+i"GridCalendarApplicationDelegate.h"
+i"GridCalendarNewJobWindowController.h"
+
+N/Users/reshma/Desktop/GridCalendar/GridCalendarNewJobWindowController.h
+c000000004285274B0000000000000A63
+t1116022603
+s2659
+i<Cocoa/Cocoa.h>
+i"GridSampleNewJobWindowController.h"
+
+N/Users/reshma/Desktop/GridCalendar/GridCalendarNewJobWindowController.m
+c000000004285274B0000000000001895
+t1116022603
+s6293
+i"GridCalendarNewJobWindowController.h"
+
+N/Users/reshma/Desktop/GridCalendar/GridSampleApplicationDelegate.h
+c000000004285274B0000000000000C1C
+t1116022603
+s3100
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Desktop/GridCalendar/GridSampleApplicationDelegate.m
+c000000004285274B0000000000001347
+t1116022603
+s4935
+i"GridSampleApplicationDelegate.h"
+i"GridSampleServiceBrowser.h"
+i"GridSampleConnectionController.h"
+i"GridSampleJobStateToStringTransformer.h"
+i"GridSampleNewJobWindowController.h"
+i"GridSampleJobInfoWindowController.h"
+i"GridSampleJobResultsWindowController.h"
+
+N/Users/reshma/Desktop/GridCalendar/GridSampleConnectionController.h
+c000000004285274B0000000000000D80
+t1116022603
+s3456
+i<Cocoa/Cocoa.h>
+i<XgridFoundation/XgridFoundation.h>
+
+N/Users/reshma/Desktop/GridCalendar/GridSampleConnectionController.m
+c000000004285274B0000000000001DBF
+t1116022603
+s7615
+i"GridSampleConnectionController.h"
+i"GridSampleMainWindowController.h"
+
+N/Users/reshma/Desktop/GridCalendar/GridSampleJobInfoWindowController.h
+c000000004285274B0000000000000BE8
+t1116022603
+s3048
+i<Cocoa/Cocoa.h>
+i<XgridFoundation/XgridFoundation.h>
+
+N/Users/reshma/Desktop/GridCalendar/GridSampleJobInfoWindowController.m
+c000000004285274B0000000000000E10
+t1116022603
+s3600
+i"GridSampleJobInfoWindowController.h"
+i"GridSampleMainWindowController.h"
+
+N/Users/reshma/Desktop/GridCalendar/GridSampleJobResultsWindowController.h
+c000000004285274B0000000000000DB7
+t1116022603
+s3511
+i<Cocoa/Cocoa.h>
+i<XgridFoundation/XgridFoundation.h>
+
+N/Users/reshma/Desktop/GridCalendar/GridSampleJobResultsWindowController.m
+c000000004285274B0000000000004A64
+t1116022603
+s19044
+i"GridSampleJobResultsWindowController.h"
+i"GridSampleMainWindowController.h"
+
+N/Users/reshma/Desktop/GridCalendar/GridSampleJobStateToStringTransformer.h
+c000000004285274B0000000000000A03
+t1116022603
+s2563
+i<Cocoa/Cocoa.h>
+i<XgridFoundation/XgridFoundation.h>
+
+N/Users/reshma/Desktop/GridCalendar/GridSampleJobStateToStringTransformer.m
+c000000004285274B0000000000001004
+t1116022603
+s4100
+i"GridSampleJobStateToStringTransformer.h"
+
+N/Users/reshma/Desktop/GridCalendar/GridSampleLoginController.h
+c000000004285274B0000000000000DE5
+t1116022603
+s3557
+i<Cocoa/Cocoa.h>
+i<XgridFoundation/XgridFoundation.h>
+
+N/Users/reshma/Desktop/GridCalendar/GridSampleLoginController.m
+c000000004285274B0000000000002BF5
+t1116022603
+s11253
+i"GridSampleLoginController.h"
+i"GridSampleMainWindowController.h"
+i"GridSampleApplicationDelegate.h"
+i"GridSampleServiceBrowser.h"
+i"GridSampleConnectionController.h"
+
+N/Users/reshma/Desktop/GridCalendar/GridSampleMainWindowController.h
+c000000004285274B000000000000128F
+t1116022603
+s4751
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Desktop/GridCalendar/GridSampleMainWindowController.m
+c000000004285274B0000000000003BC8
+t1116022603
+s15304
+i"GridSampleMainWindowController.h"
+i"GridSampleApplicationDelegate.h"
+i"GridSampleConnectionController.h"
+i"GridSampleLoginController.h"
+i"GridSampleToolbarController.h"
+i"GridSampleNewJobWindowController.h"
+i"GridSampleJobInfoWindowController.h"
+i"GridSampleJobResultsWindowController.h"
+
+N/Users/reshma/Desktop/GridCalendar/GridSampleNewJobWindowController.h
+c000000004285274B0000000000000D19
+t1116022603
+s3353
+i<Cocoa/Cocoa.h>
+i<XgridFoundation/XgridFoundation.h>
+
+N/Users/reshma/Desktop/GridCalendar/GridSampleNewJobWindowController.m
+c000000004285274B0000000000002AD2
+t1116022603
+s10962
+i"GridSampleNewJobWindowController.h"
+i"GridSampleMainWindowController.h"
+i"GridSampleConnectionController.h"
+
+N/Users/reshma/Desktop/GridCalendar/GridSampleServiceBrowser.h
+c000000004285274B0000000000000AC5
+t1116022603
+s2757
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Desktop/GridCalendar/GridSampleServiceBrowser.m
+c000000004285274B00000000000015CB
+t1116022603
+s5579
+i"GridSampleServiceBrowser.h"
+
+N/Users/reshma/Desktop/GridCalendar/GridSampleToolbarController.h
+c000000004285274B00000000000009E8
+t1116022603
+s2536
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Desktop/GridCalendar/GridSampleToolbarController.m
+c000000004285274B000000000000215A
+t1116022603
+s8538
+i"GridSampleToolbarController.h"
+i"GridSampleMainWindowController.h"
+
+N/Users/reshma/Desktop/GridCalendar/GridSample_Prefix.pch
+c000000004285274B00000000000000A9
+t1116022603
+s169
+i<Cocoa/Cocoa.h>
+i<XgridFoundation/XgridFoundation.h>
+
+N/Users/reshma/Desktop/GridCalendar/Images/addFile.tiff
+c000000004285274B0000000000003514
+t1116022603
+s13588
+
+N/Users/reshma/Desktop/GridCalendar/Images/clone.tiff
+c000000004285274B0000000000004FC0
+t1116022603
+s20416
+
+N/Users/reshma/Desktop/GridCalendar/Images/delete.tiff
+c000000004285274B000000000000083E
+t1116022603
+s2110
+
+N/Users/reshma/Desktop/GridCalendar/Images/info.tiff
+c000000004285274B00000000000006B4
+t1116022603
+s1716
+
+N/Users/reshma/Desktop/GridCalendar/Images/new.tiff
+c000000004285274B0000000000000D38
+t1116022603
+s3384
+
+N/Users/reshma/Desktop/GridCalendar/Images/stop.tiff
+c000000004285274B00000000000014A8
+t1116022603
+s5288
+
+N/Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app
+t1282305625
+s102
+
+N/Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Info.plist
+t1282305615
+s787
+
+N/Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/MacOS/GridCalendar
+t1282305625
+s111764
+
+N/Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/PkgInfo
+t1282305615
+s8
+
+N/Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/English.lproj/JobInfo.nib
+t1282305616
+s11548
+
+N/Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/English.lproj/JobResults.nib
+t1282305616
+s17418
+
+N/Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/English.lproj/Login.nib
+t1282305616
+s15395
+
+N/Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/English.lproj/MainMenu.nib
+t1282305616
+s14751
+
+N/Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/English.lproj/MainWindow.nib
+t1282305616
+s15119
+
+N/Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/English.lproj/NewJob.nib
+t1282305616
+s13206
+
+N/Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/addFile.tiff
+t1282305616
+s13588
+
+N/Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/clone.tiff
+t1282305616
+s20416
+
+N/Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/delete.tiff
+t1282305616
+s2110
+
+N/Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/info.tiff
+t1282305616
+s1716
+
+N/Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/new.tiff
+t1282305616
+s3384
+
+N/Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/stop.tiff
+t1282305616
+s5288
+
+N/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridCalendar.LinkFileList
+c000000004C6E6E4F000000000000073E
+t1282305615
+s1854
+
+N/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridCalendarApplicationDelegate.o
+t1282305624
+s18452
+
+N/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridCalendarNewJobWindowController.o
+t1282305624
+s25724
+
+N/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleApplicationDelegate.o
+t1282305623
+s29240
+
+N/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleConnectionController.o
+t1282305623
+s31708
+
+N/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleJobInfoWindowController.o
+t1282305623
+s23392
+
+N/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleJobResultsWindowController.o
+t1282305623
+s62204
+
+N/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleJobStateToStringTransformer.o
+t1282305623
+s10560
+
+N/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleLoginController.o
+t1282305623
+s43724
+
+N/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleMainWindowController.o
+t1282305623
+s55280
+
+N/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleNewJobWindowController.o
+t1282305623
+s41732
+
+N/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleServiceBrowser.o
+t1282305623
+s17084
+
+N/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleToolbarController.o
+t1282305624
+s30320
+
+N/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/main.o
+t1282305623
+s4788
+
+N/Users/reshma/Desktop/GridCalendar/main.m
+c000000004285274B00000000000009C5
+t1116022603
+s2501
+i<Cocoa/Cocoa.h>
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GridSample_Prefix-fnpybegsgznprlbeumhjnfmpjjdl/GridSample_Prefix.pch.gch
+t1282305622
+s56916176
+
+NInfo.plist
+c000000004285274B0000000000000322
+t1116022603
+s802
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies303998415#303998415#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridCalendarApplicationDelegate.o /Users/reshma/Desktop/GridCalendar/GridCalendarApplicationDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303998423.968101
+e303998424.103460
+r1
+xCompileC
+xbuild/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridCalendarApplicationDelegate.o
+x/Users/reshma/Desktop/GridCalendar/GridCalendarApplicationDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/reshma/Desktop/GridCalendar/GridCalendarApplicationDelegate.m303998423#303998424#0(0"0(0#0#68"/Users/reshma/Desktop/GridCalendar/GridCalendarApplicationDelegate.m4300911832#1132"    cd /Users/reshma/Desktop/GridCalendar    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -gdwarf-2 -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/GridCalendar.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/reshma/Desktop/GridCalendar/build/Development -I/Users/reshma/Desktop/GridCalendar/build/Development/include -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/DerivedSources/i386 -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GridSample_Prefix-fnpybegsgznprlbeumhjnfmpjjdl/GridSample_Prefix.pch -c /Users/reshma/Desktop/GridCalendar/GridCalendarApplicationDelegate.m -o /Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridCalendarApplicationDelegate.o0#
+
+CCompileC build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridCalendarNewJobWindowController.o /Users/reshma/Desktop/GridCalendar/GridCalendarNewJobWindowController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303998424.044299
+e303998424.206772
+r1
+xCompileC
+xbuild/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridCalendarNewJobWindowController.o
+x/Users/reshma/Desktop/GridCalendar/GridCalendarNewJobWindowController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/reshma/Desktop/GridCalendar/GridCalendarNewJobWindowController.m303998424#303998424#0(0"0(0#0#71"/Users/reshma/Desktop/GridCalendar/GridCalendarNewJobWindowController.m4300911832#1138"    cd /Users/reshma/Desktop/GridCalendar    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -gdwarf-2 -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/GridCalendar.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/reshma/Desktop/GridCalendar/build/Development -I/Users/reshma/Desktop/GridCalendar/build/Development/include -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/DerivedSources/i386 -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GridSample_Prefix-fnpybegsgznprlbeumhjnfmpjjdl/GridSample_Prefix.pch -c /Users/reshma/Desktop/GridCalendar/GridCalendarNewJobWindowController.m -o /Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridCalendarNewJobWindowController.o0#
+
+CCompileC build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleApplicationDelegate.o /Users/reshma/Desktop/GridCalendar/GridSampleApplicationDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303998422.878214
+e303998423.089834
+r1
+xCompileC
+xbuild/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleApplicationDelegate.o
+x/Users/reshma/Desktop/GridCalendar/GridSampleApplicationDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/reshma/Desktop/GridCalendar/GridSampleApplicationDelegate.m303998422#303998423#0(0"0(0#0#66"/Users/reshma/Desktop/GridCalendar/GridSampleApplicationDelegate.m4300911832#1128"    cd /Users/reshma/Desktop/GridCalendar    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -gdwarf-2 -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/GridCalendar.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/reshma/Desktop/GridCalendar/build/Development -I/Users/reshma/Desktop/GridCalendar/build/Development/include -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/DerivedSources/i386 -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GridSample_Prefix-fnpybegsgznprlbeumhjnfmpjjdl/GridSample_Prefix.pch -c /Users/reshma/Desktop/GridCalendar/GridSampleApplicationDelegate.m -o /Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleApplicationDelegate.o0#
+
+CCompileC build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleConnectionController.o /Users/reshma/Desktop/GridCalendar/GridSampleConnectionController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303998423.062054
+e303998423.301468
+r1
+xCompileC
+xbuild/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleConnectionController.o
+x/Users/reshma/Desktop/GridCalendar/GridSampleConnectionController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/reshma/Desktop/GridCalendar/GridSampleConnectionController.m303998423#303998423#0(0"0(0#0#67"/Users/reshma/Desktop/GridCalendar/GridSampleConnectionController.m4300911832#1130"    cd /Users/reshma/Desktop/GridCalendar    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -gdwarf-2 -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/GridCalendar.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/reshma/Desktop/GridCalendar/build/Development -I/Users/reshma/Desktop/GridCalendar/build/Development/include -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/DerivedSources/i386 -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GridSample_Prefix-fnpybegsgznprlbeumhjnfmpjjdl/GridSample_Prefix.pch -c /Users/reshma/Desktop/GridCalendar/GridSampleConnectionController.m -o /Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleConnectionController.o0#
+
+CCompileC build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleJobInfoWindowController.o /Users/reshma/Desktop/GridCalendar/GridSampleJobInfoWindowController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303998423.089932
+e303998423.257698
+r1
+xCompileC
+xbuild/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleJobInfoWindowController.o
+x/Users/reshma/Desktop/GridCalendar/GridSampleJobInfoWindowController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/reshma/Desktop/GridCalendar/GridSampleJobInfoWindowController.m303998423#303998423#0(0"0(0#0#70"/Users/reshma/Desktop/GridCalendar/GridSampleJobInfoWindowController.m4300911832#1136"    cd /Users/reshma/Desktop/GridCalendar    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -gdwarf-2 -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/GridCalendar.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/reshma/Desktop/GridCalendar/build/Development -I/Users/reshma/Desktop/GridCalendar/build/Development/include -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/DerivedSources/i386 -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GridSample_Prefix-fnpybegsgznprlbeumhjnfmpjjdl/GridSample_Prefix.pch -c /Users/reshma/Desktop/GridCalendar/GridSampleJobInfoWindowController.m -o /Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleJobInfoWindowController.o0#
+
+CCompileC build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleJobResultsWindowController.o /Users/reshma/Desktop/GridCalendar/GridSampleJobResultsWindowController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303998423.273344
+e303998423.538922
+r1
+xCompileC
+xbuild/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleJobResultsWindowController.o
+x/Users/reshma/Desktop/GridCalendar/GridSampleJobResultsWindowController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/reshma/Desktop/GridCalendar/GridSampleJobResultsWindowController.m: In function 'createOrVerifyDirectoryPath':
+o/Users/reshma/Desktop/GridCalendar/GridSampleJobResultsWindowController.m:78: warning: 'createDirectoryAtPath:attributes:' is deprecated (declared at /System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:168)
+lSLF07#2@81"Compile /Users/reshma/Desktop/GridCalendar/GridSampleJobResultsWindowController.m303998423#303998423#0(345"/Users/reshma/Desktop/GridCalendar/GridSampleJobResultsWindowController.m: In function 'createOrVerifyDirectoryPath':/Users/reshma/Desktop/GridCalendar/GridSampleJobResultsWindowController.m:78: warning: 'createDirectoryAtPath:attributes:' is deprecated (declared at /System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:168)1(22@139"'createDirectoryAtPath:attributes:' is deprecated (declared at /System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:168)303998423#118#227#0(6@73"/Users/reshma/Desktop/GridCalendar/GridSampleJobResultsWindowController.m137715403#78#0#78#0#33"'*' is deprecated (declared at *)0(0#0#73"/Users/reshma/Desktop/GridCalendar/GridSampleJobResultsWindowController.m4300911832#1142"    cd /Users/reshma/Desktop/GridCalendar    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -gdwarf-2 -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/GridCalendar.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/reshma/Desktop/GridCalendar/build/Development -I/Users/reshma/Desktop/GridCalendar/build/Development/include -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/DerivedSources/i386 -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GridSample_Prefix-fnpybegsgznprlbeumhjnfmpjjdl/GridSample_Prefix.pch -c /Users/reshma/Desktop/GridCalendar/GridSampleJobResultsWindowController.m -o /Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleJobResultsWindowController.o0#
+
+CCompileC build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleJobStateToStringTransformer.o /Users/reshma/Desktop/GridCalendar/GridSampleJobStateToStringTransformer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303998423.301574
+e303998423.448856
+r1
+xCompileC
+xbuild/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleJobStateToStringTransformer.o
+x/Users/reshma/Desktop/GridCalendar/GridSampleJobStateToStringTransformer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/reshma/Desktop/GridCalendar/GridSampleJobStateToStringTransformer.m303998423#303998423#0(0"0(0#0#74"/Users/reshma/Desktop/GridCalendar/GridSampleJobStateToStringTransformer.m4300911832#1144"    cd /Users/reshma/Desktop/GridCalendar    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -gdwarf-2 -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/GridCalendar.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/reshma/Desktop/GridCalendar/build/Development -I/Users/reshma/Desktop/GridCalendar/build/Development/include -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/DerivedSources/i386 -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GridSample_Prefix-fnpybegsgznprlbeumhjnfmpjjdl/GridSample_Prefix.pch -c /Users/reshma/Desktop/GridCalendar/GridSampleJobStateToStringTransformer.m -o /Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleJobStateToStringTransformer.o0#
+
+CCompileC build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleLoginController.o /Users/reshma/Desktop/GridCalendar/GridSampleLoginController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303998423.448965
+e303998423.650821
+r1
+xCompileC
+xbuild/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleLoginController.o
+x/Users/reshma/Desktop/GridCalendar/GridSampleLoginController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/reshma/Desktop/GridCalendar/GridSampleLoginController.m303998423#303998423#0(0"0(0#0#62"/Users/reshma/Desktop/GridCalendar/GridSampleLoginController.m4300911832#1120"    cd /Users/reshma/Desktop/GridCalendar    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -gdwarf-2 -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/GridCalendar.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/reshma/Desktop/GridCalendar/build/Development -I/Users/reshma/Desktop/GridCalendar/build/Development/include -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/DerivedSources/i386 -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GridSample_Prefix-fnpybegsgznprlbeumhjnfmpjjdl/GridSample_Prefix.pch -c /Users/reshma/Desktop/GridCalendar/GridSampleLoginController.m -o /Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleLoginController.o0#
+
+CCompileC build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleMainWindowController.o /Users/reshma/Desktop/GridCalendar/GridSampleMainWindowController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303998423.539025
+e303998423.776862
+r1
+xCompileC
+xbuild/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleMainWindowController.o
+x/Users/reshma/Desktop/GridCalendar/GridSampleMainWindowController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/reshma/Desktop/GridCalendar/GridSampleMainWindowController.m303998423#303998423#0(0"0(0#0#67"/Users/reshma/Desktop/GridCalendar/GridSampleMainWindowController.m4300911832#1130"    cd /Users/reshma/Desktop/GridCalendar    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -gdwarf-2 -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/GridCalendar.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/reshma/Desktop/GridCalendar/build/Development -I/Users/reshma/Desktop/GridCalendar/build/Development/include -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/DerivedSources/i386 -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GridSample_Prefix-fnpybegsgznprlbeumhjnfmpjjdl/GridSample_Prefix.pch -c /Users/reshma/Desktop/GridCalendar/GridSampleMainWindowController.m -o /Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleMainWindowController.o0#
+
+CCompileC build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleNewJobWindowController.o /Users/reshma/Desktop/GridCalendar/GridSampleNewJobWindowController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303998423.650924
+e303998423.876470
+r1
+xCompileC
+xbuild/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleNewJobWindowController.o
+x/Users/reshma/Desktop/GridCalendar/GridSampleNewJobWindowController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/reshma/Desktop/GridCalendar/GridSampleNewJobWindowController.m303998423#303998423#0(0"0(0#0#69"/Users/reshma/Desktop/GridCalendar/GridSampleNewJobWindowController.m4300911832#1134"    cd /Users/reshma/Desktop/GridCalendar    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -gdwarf-2 -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/GridCalendar.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/reshma/Desktop/GridCalendar/build/Development -I/Users/reshma/Desktop/GridCalendar/build/Development/include -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/DerivedSources/i386 -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GridSample_Prefix-fnpybegsgznprlbeumhjnfmpjjdl/GridSample_Prefix.pch -c /Users/reshma/Desktop/GridCalendar/GridSampleNewJobWindowController.m -o /Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleNewJobWindowController.o0#
+
+CCompileC build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleServiceBrowser.o /Users/reshma/Desktop/GridCalendar/GridSampleServiceBrowser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303998423.776973
+e303998423.967991
+r1
+xCompileC
+xbuild/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleServiceBrowser.o
+x/Users/reshma/Desktop/GridCalendar/GridSampleServiceBrowser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/reshma/Desktop/GridCalendar/GridSampleServiceBrowser.m: In function '-[GridSampleServiceBrowser initWithDomain:]':
+o/Users/reshma/Desktop/GridCalendar/GridSampleServiceBrowser.m:69: warning: class 'GridSampleServiceBrowser' does not implement the 'NSNetServiceBrowserDelegate' protocol
+lSLF07#2@69"Compile /Users/reshma/Desktop/GridCalendar/GridSampleServiceBrowser.m303998423#303998423#0(292"/Users/reshma/Desktop/GridCalendar/GridSampleServiceBrowser.m: In function '-[GridSampleServiceBrowser initWithDomain:]':/Users/reshma/Desktop/GridCalendar/GridSampleServiceBrowser.m:69: warning: class 'GridSampleServiceBrowser' does not implement the 'NSNetServiceBrowserDelegate' protocol1(22@94"Class 'GridSampleServiceBrowser' does not implement the 'NSNetServiceBrowserDelegate' protocol303998423#122#170#0(6@61"/Users/reshma/Desktop/GridCalendar/GridSampleServiceBrowser.m137715403#69#0#69#0#45"class '*' does not implement the '*' protocol0(0#0#61"/Users/reshma/Desktop/GridCalendar/GridSampleServiceBrowser.m4300911832#1118"    cd /Users/reshma/Desktop/GridCalendar    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -gdwarf-2 -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/GridCalendar.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/reshma/Desktop/GridCalendar/build/Development -I/Users/reshma/Desktop/GridCalendar/build/Development/include -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/DerivedSources/i386 -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GridSample_Prefix-fnpybegsgznprlbeumhjnfmpjjdl/GridSample_Prefix.pch -c /Users/reshma/Desktop/GridCalendar/GridSampleServiceBrowser.m -o /Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleServiceBrowser.o0#
+
+CCompileC build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleToolbarController.o /Users/reshma/Desktop/GridCalendar/GridSampleToolbarController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303998423.876578
+e303998424.044189
+r1
+xCompileC
+xbuild/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleToolbarController.o
+x/Users/reshma/Desktop/GridCalendar/GridSampleToolbarController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/reshma/Desktop/GridCalendar/GridSampleToolbarController.m: In function '-[GridSampleToolbarController init]':
+o/Users/reshma/Desktop/GridCalendar/GridSampleToolbarController.m:86: warning: class 'GridSampleToolbarController' does not implement the 'NSToolbarDelegate' protocol
+lSLF07#2@72"Compile /Users/reshma/Desktop/GridCalendar/GridSampleToolbarController.m303998423#303998424#0(283"/Users/reshma/Desktop/GridCalendar/GridSampleToolbarController.m: In function '-[GridSampleToolbarController init]':/Users/reshma/Desktop/GridCalendar/GridSampleToolbarController.m:86: warning: class 'GridSampleToolbarController' does not implement the 'NSToolbarDelegate' protocol1(22@87"Class 'GridSampleToolbarController' does not implement the 'NSToolbarDelegate' protocol303998423#117#166#0(6@64"/Users/reshma/Desktop/GridCalendar/GridSampleToolbarController.m137715403#86#0#86#0#45"class '*' does not implement the '*' protocol0(0#0#64"/Users/reshma/Desktop/GridCalendar/GridSampleToolbarController.m4300911832#1124"    cd /Users/reshma/Desktop/GridCalendar    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -gdwarf-2 -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/GridCalendar.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/reshma/Desktop/GridCalendar/build/Development -I/Users/reshma/Desktop/GridCalendar/build/Development/include -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/DerivedSources/i386 -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GridSample_Prefix-fnpybegsgznprlbeumhjnfmpjjdl/GridSample_Prefix.pch -c /Users/reshma/Desktop/GridCalendar/GridSampleToolbarController.m -o /Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridSampleToolbarController.o0#
+
+CCompileC build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/main.o /Users/reshma/Desktop/GridCalendar/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303998422.867318
+e303998423.061949
+r1
+xCompileC
+xbuild/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/main.o
+x/Users/reshma/Desktop/GridCalendar/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/reshma/Desktop/GridCalendar/main.m303998422#303998423#0(0"0(0#0#41"/Users/reshma/Desktop/GridCalendar/main.m4300911832#1078"    cd /Users/reshma/Desktop/GridCalendar    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -gdwarf-2 -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/GridCalendar.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/reshma/Desktop/GridCalendar/build/Development -I/Users/reshma/Desktop/GridCalendar/build/Development/include -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/DerivedSources/i386 -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GridSample_Prefix-fnpybegsgznprlbeumhjnfmpjjdl/GridSample_Prefix.pch -c /Users/reshma/Desktop/GridCalendar/main.m -o /Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/main.o0#
+
+CCopyTiffFile /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/addFile.tiff Images/addFile.tiff
+s303998416.637310
+e303998416.865707
+r1
+xCopyTiffFile
+x/Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/addFile.tiff
+xImages/addFile.tiff
+lSLF07#2@24"Copy Images/addFile.tiff303998416#303998416#0(0"0(0#0#54"/Users/reshma/Desktop/GridCalendar/Images/addFile.tiff4300911832#250"    cd /Users/reshma/Desktop/GridCalendar    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copytiff Images/addFile.tiff --outdir /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources0#
+
+CCopyTiffFile /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/clone.tiff Images/clone.tiff
+s303998416.681458
+e303998416.865543
+r1
+xCopyTiffFile
+x/Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/clone.tiff
+xImages/clone.tiff
+lSLF07#2@22"Copy Images/clone.tiff303998416#303998416#0(0"0(0#0#52"/Users/reshma/Desktop/GridCalendar/Images/clone.tiff4300911832#248"    cd /Users/reshma/Desktop/GridCalendar    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copytiff Images/clone.tiff --outdir /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources0#
+
+CCopyTiffFile /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/delete.tiff Images/delete.tiff
+s303998416.865801
+e303998416.888711
+r1
+xCopyTiffFile
+x/Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/delete.tiff
+xImages/delete.tiff
+lSLF07#2@23"Copy Images/delete.tiff303998416#303998416#0(0"0(0#0#53"/Users/reshma/Desktop/GridCalendar/Images/delete.tiff4300911832#249"    cd /Users/reshma/Desktop/GridCalendar    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copytiff Images/delete.tiff --outdir /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources0#
+
+CCopyTiffFile /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/info.tiff Images/info.tiff
+s303998416.866444
+e303998416.885140
+r1
+xCopyTiffFile
+x/Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/info.tiff
+xImages/info.tiff
+lSLF07#2@21"Copy Images/info.tiff303998416#303998416#0(0"0(0#0#51"/Users/reshma/Desktop/GridCalendar/Images/info.tiff4300911832#247"    cd /Users/reshma/Desktop/GridCalendar    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copytiff Images/info.tiff --outdir /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources0#
+
+CCopyTiffFile /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/new.tiff Images/new.tiff
+s303998416.885234
+e303998416.904731
+r1
+xCopyTiffFile
+x/Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/new.tiff
+xImages/new.tiff
+lSLF07#2@20"Copy Images/new.tiff303998416#303998416#0(0"0(0#0#50"/Users/reshma/Desktop/GridCalendar/Images/new.tiff4300911832#246"    cd /Users/reshma/Desktop/GridCalendar    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copytiff Images/new.tiff --outdir /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources0#
+
+CCopyTiffFile /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/stop.tiff Images/stop.tiff
+s303998416.888794
+e303998416.909319
+r1
+xCopyTiffFile
+x/Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/stop.tiff
+xImages/stop.tiff
+lSLF07#2@21"Copy Images/stop.tiff303998416#303998416#0(0"0(0#0#51"/Users/reshma/Desktop/GridCalendar/Images/stop.tiff4300911832#247"    cd /Users/reshma/Desktop/GridCalendar    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copytiff Images/stop.tiff --outdir /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources0#
+
+CLd /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/MacOS/GridCalendar normal i386
+s303998424.206865
+e303998425.075902
+r1
+xLd
+x/Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/MacOS/GridCalendar
+xnormal
+xi386
+lSLF07#2@102"Link /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/MacOS/GridCalendar303998424#303998425#0(0"0(0#0#0"4300911832#486"    cd /Users/reshma/Desktop/GridCalendar    /Developer/usr/bin/gcc-4.2 -arch i386 -L/Users/reshma/Desktop/GridCalendar/build/Development -F/Users/reshma/Desktop/GridCalendar/build/Development -filelist /Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/Objects-normal/i386/GridCalendar.LinkFileList -framework Cocoa -framework XgridFoundation -o /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/MacOS/GridCalendar0#
+
+CProcessInfoPlistFile /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Info.plist Info.plist
+s303998415.681203
+e303998415.723211
+r1
+xProcessInfoPlistFile
+x/Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist303998415#303998415#0(0"0(0#0#45"/Users/reshma/Desktop/GridCalendar/Info.plist4300911832#312"    cd /Users/reshma/Desktop/GridCalendar    builtin-infoPlistUtility Info.plist -genpkginfo /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GridSample_Prefix-fnpybegsgznprlbeumhjnfmpjjdl/GridSample_Prefix.pch.gch GridSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s303998416.909432
+e303998422.867097
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GridSample_Prefix-fnpybegsgznprlbeumhjnfmpjjdl/GridSample_Prefix.pch.gch
+xGridSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile GridSample_Prefix.pch303998416#303998422#0(0"0(0#0#56"/Users/reshma/Desktop/GridCalendar/GridSample_Prefix.pch4300911832#977"    cd /Users/reshma/Desktop/GridCalendar    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -gdwarf-2 -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/GridCalendar.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/reshma/Desktop/GridCalendar/build/Development -I/Users/reshma/Desktop/GridCalendar/build/Development/include -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/DerivedSources/i386 -I/Users/reshma/Desktop/GridCalendar/build/GridCalendar.build/Development/GridCalendar.build/DerivedSources -c /Users/reshma/Desktop/GridCalendar/GridSample_Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GridSample_Prefix-fnpybegsgznprlbeumhjnfmpjjdl/GridSample_Prefix.pch.gch0#
+
+CStripNIB /Users/reshma/Desktop/GridCalendar/English.lproj/JobInfo.nib
+s303998416.494126
+e303998416.681371
+r1
+xStripNIB
+x/Users/reshma/Desktop/GridCalendar/English.lproj/JobInfo.nib
+lSLF07#2@34"StripNIB English.lproj/JobInfo.nib303998416#303998416#0(0"0(0#0#60"/Users/reshma/Desktop/GridCalendar/English.lproj/JobInfo.nib4300911832#292"    cd /Users/reshma/Desktop/GridCalendar    /Developer/usr/bin/ibtool --strip /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/English.lproj/JobInfo.nib --output-format human-readable-text /Users/reshma/Desktop/GridCalendar/English.lproj/JobInfo.nib0#
+
+CStripNIB /Users/reshma/Desktop/GridCalendar/English.lproj/JobResults.nib
+s303998416.494809
+e303998416.637198
+r1
+xStripNIB
+x/Users/reshma/Desktop/GridCalendar/English.lproj/JobResults.nib
+lSLF07#2@37"StripNIB English.lproj/JobResults.nib303998416#303998416#0(0"0(0#0#63"/Users/reshma/Desktop/GridCalendar/English.lproj/JobResults.nib4300911832#298"    cd /Users/reshma/Desktop/GridCalendar    /Developer/usr/bin/ibtool --strip /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/English.lproj/JobResults.nib --output-format human-readable-text /Users/reshma/Desktop/GridCalendar/English.lproj/JobResults.nib0#
+
+CStripNIB /Users/reshma/Desktop/GridCalendar/English.lproj/Login.nib
+s303998416.378455
+e303998416.494042
+r1
+xStripNIB
+x/Users/reshma/Desktop/GridCalendar/English.lproj/Login.nib
+lSLF07#2@32"StripNIB English.lproj/Login.nib303998416#303998416#0(0"0(0#0#58"/Users/reshma/Desktop/GridCalendar/English.lproj/Login.nib4300911832#288"    cd /Users/reshma/Desktop/GridCalendar    /Developer/usr/bin/ibtool --strip /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/English.lproj/Login.nib --output-format human-readable-text /Users/reshma/Desktop/GridCalendar/English.lproj/Login.nib0#
+
+CStripNIB /Users/reshma/Desktop/GridCalendar/English.lproj/MainMenu.nib
+s303998415.723336
+e303998416.388370
+r1
+xStripNIB
+x/Users/reshma/Desktop/GridCalendar/English.lproj/MainMenu.nib
+lSLF07#2@35"StripNIB English.lproj/MainMenu.nib303998415#303998416#0(0"0(0#0#61"/Users/reshma/Desktop/GridCalendar/English.lproj/MainMenu.nib4300911832#294"    cd /Users/reshma/Desktop/GridCalendar    /Developer/usr/bin/ibtool --strip /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/English.lproj/MainMenu.nib --output-format human-readable-text /Users/reshma/Desktop/GridCalendar/English.lproj/MainMenu.nib0#
+
+CStripNIB /Users/reshma/Desktop/GridCalendar/English.lproj/MainWindow.nib
+s303998415.737177
+e303998416.378375
+r1
+xStripNIB
+x/Users/reshma/Desktop/GridCalendar/English.lproj/MainWindow.nib
+lSLF07#2@37"StripNIB English.lproj/MainWindow.nib303998415#303998416#0(0"0(0#0#63"/Users/reshma/Desktop/GridCalendar/English.lproj/MainWindow.nib4300911832#298"    cd /Users/reshma/Desktop/GridCalendar    /Developer/usr/bin/ibtool --strip /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/English.lproj/MainWindow.nib --output-format human-readable-text /Users/reshma/Desktop/GridCalendar/English.lproj/MainWindow.nib0#
+
+CStripNIB /Users/reshma/Desktop/GridCalendar/English.lproj/NewJob.nib
+s303998416.388448
+e303998416.493843
+r1
+xStripNIB
+x/Users/reshma/Desktop/GridCalendar/English.lproj/NewJob.nib
+lSLF07#2@33"StripNIB English.lproj/NewJob.nib303998416#303998416#0(0"0(0#0#59"/Users/reshma/Desktop/GridCalendar/English.lproj/NewJob.nib4300911832#290"    cd /Users/reshma/Desktop/GridCalendar    /Developer/usr/bin/ibtool --strip /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app/Contents/Resources/English.lproj/NewJob.nib --output-format human-readable-text /Users/reshma/Desktop/GridCalendar/English.lproj/NewJob.nib0#
+
+CTouch /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app
+s303998425.076075
+e303998425.079516
+r1
+xTouch
+x/Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app
+lSLF07#2@75"Touch /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app303998425#303998425#0(0"0(0#0#0"4300911832#134"    cd /Users/reshma/Desktop/GridCalendar    /usr/bin/touch -c /Users/reshma/Desktop/GridCalendar/build/Development/GridCalendar.app0#
+

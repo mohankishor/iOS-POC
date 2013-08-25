@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<!-- If you want to line break in text, use &#xD; -->
+<loc>
+	<county name="Norrbotten">
+		<province name="Arjeplog">
+			<city name="Arjeplog" inhabitants="123" email="email@email.com" phone="+46611111111" desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit. &#xD;&#xD;Ut id est a neque elementum fringilla. Nullam vitae dolor ante, in ultrices neque. Sed id nunc risus. Fusce iaculis, tellus ut viverra aliquet, massa sem egestas risus, quis scelerisque velit augue convallis magna. Nulla sit amet risus lacus. Mauris sodales, urna ut tempus mollis, sapien urna euismod tellus, non euismod urna nibh sed velit. Sed elementum, lorem vel pulvinar rutrum, orci sem vehicula libero, in gravida diam erat et quam. Etiam at orci tortor, quis scelerisque erat. Ut sodales sodales mauris at porta." />
+			<city name="Arvidsjaur" inhabitants="345" email="email@email.com" phone="+46611111111" desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id est a neque elementum fringilla. Nullam vitae dolor ante, in ultrices neque. Sed id nunc risus. Fusce iaculis, tellus ut viverra aliquet, massa sem egestas risus, quis scelerisque velit augue convallis magna. Nulla sit amet risus lacus. Mauris sodales, urna ut tempus mollis, sapien urna euismod tellus, non euismod urna nibh sed velit. Sed elementum, lorem vel pulvinar rutrum, orci sem vehicula libero, in gravida diam erat et quam. Etiam at orci tortor, quis scelerisque erat. Ut sodales sodales mauris at porta." />
+			<city name="Jäckvik" inhabitants="346" email="email@email.com" phone="+46611111111" desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id est a neque elementum fringilla. Nullam vitae dolor ante, in ultrices neque. Sed id nunc risus. Fusce iaculis, tellus ut viverra aliquet, massa sem egestas risus, quis scelerisque velit augue convallis magna. Nulla sit amet risus lacus. Mauris sodales, urna ut tempus mollis, sapien urna euismod tellus, non euismod urna nibh sed velit. Sed elementum, lorem vel pulvinar rutrum, orci sem vehicula libero, in gravida diam erat et quam. Etiam at orci tortor, quis scelerisque erat. Ut sodales sodales mauris at porta." />
+			<city name="Laisvall" inhabitants="2356" email="email@email.com" desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id est a neque elementum fringilla. Nullam vitae dolor ante, in ultrices neque. Sed id nunc risus. Fusce iaculis, tellus ut viverra aliquet, massa sem egestas risus, quis scelerisque velit augue convallis magna. Nulla sit amet risus lacus. Mauris sodales, urna ut tempus mollis, sapien urna euismod tellus, non euismod urna nibh sed velit. Sed elementum, lorem vel pulvinar rutrum, orci sem vehicula libero, in gravida diam erat et quam. Etiam at orci tortor, quis scelerisque erat. Ut sodales sodales mauris at porta." />
+			<city name="Mellanström" inhabitants="12" desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id est a neque elementum fringilla. Nullam vitae dolor ante, in ultrices neque. Sed id nunc risus. Fusce iaculis, tellus ut viverra aliquet, massa sem egestas risus, quis scelerisque velit augue convallis magna. Nulla sit amet risus lacus. Mauris sodales, urna ut tempus mollis, sapien urna euismod tellus, non euismod urna nibh sed velit. Sed elementum, lorem vel pulvinar rutrum, orci sem vehicula libero, in gravida diam erat et quam. Etiam at orci tortor, quis scelerisque erat. Ut sodales sodales mauris at porta." />
+			<city name="Moskosel"/>
+			<city name="Slagnäs"/>
+			<city name="Sorsele"/>
+		</province>
+		<province name="Arvidsjaur"/>
+		<province name="Boden"/>
+		<province name="Gällivare"/>
+		<province name="Haparanda"/>
+		<province name="Jokkmokk"/>
+		<province name="Kalix"/>
+		<province name="Kiruna"/>
+		<province name="Luleå"/>
+		<province name="Pajala"/>
+		<province name="Piteå"/>
+		<province name="Älvsbyn"/>
+		<province name="Överkalix"/>
+		<province name="Övertorneå"/>
+	</county>
+	<county name="Västerbotten"/>
+	<county name="Jämtland"/>
+	<county name="Västerbotten"/>
+	<county name="Gävleborg"/>
+	<county name="Dalarna"/>
+	<county name="Värmland"/>
+	<county name="Örebro"/>
+	<county name="Västmanland"/>
+	<county name="Uppsala"/>
+	<county name="Stockholm"/>
+	<county name="Södermanland"/>
+	<county name="Östergötland"/>
+	<county name="Västra Götaland"/>
+	<county name="Jönköping"/>
+	<county name="Kalmar"/>
+	<county name="Gotland"/>
+	<county name="Halland"/>
+	<county name="Kronoberg"/>
+	<county name="Blekinge"/>
+	<county name="Skåne"/>
+</loc>

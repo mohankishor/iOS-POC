@@ -1,0 +1,156 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* TableViewCellSubviews */ = {
+		activeExec = 0;
+		executables = (
+			9AE38936125EE06000BA78C2 /* TableViewCellSubviews */,
+		);
+	};
+	28275AF00D6E02D900A8AFA4 /* TimeZoneWrapper.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {981, 3042}}";
+			sepNavSelRange = "{4321, 0}";
+			sepNavVisRange = "{4106, 1421}";
+		};
+	};
+	2867DEFB0D581C2E0037AED8 /* TableViewCellSubviewsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1622, 1937}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{4234, 1244}";
+		};
+	};
+	2867DEFC0D581C2E0037AED8 /* TableViewCellSubviewsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {981, 767}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2628}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9AE38936125EE06000BA78C2 /* TableViewCellSubviews */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TableViewCellSubviews */;
+		codeSenseManager = 9AE38956125EE06900BA78C2 /* Code sense */;
+		executables = (
+			9AE38936125EE06000BA78C2 /* TableViewCellSubviews */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					364,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 326713849;
+			PBXWorkspaceStateSaveDate = 326713849;
+		};
+		perUserProjectItems = {
+			9A107C131379426A009DAA51 /* PBXTextBookmark */ = 9A107C131379426A009DAA51 /* PBXTextBookmark */;
+			9A107C141379426A009DAA51 /* PBXTextBookmark */ = 9A107C141379426A009DAA51 /* PBXTextBookmark */;
+			9A107C151379426A009DAA51 /* PBXTextBookmark */ = 9A107C151379426A009DAA51 /* PBXTextBookmark */;
+			9A107C161379426A009DAA51 /* PBXTextBookmark */ = 9A107C161379426A009DAA51 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9AE38955125EE06900BA78C2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	9A107C131379426A009DAA51 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28275AF00D6E02D900A8AFA4 /* TimeZoneWrapper.m */;
+		name = "TimeZoneWrapper.m: 118";
+		rLen = 0;
+		rLoc = 4321;
+		rType = 0;
+		vrLen = 1421;
+		vrLoc = 4106;
+	};
+	9A107C141379426A009DAA51 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2867DEFC0D581C2E0037AED8 /* TableViewCellSubviewsAppDelegate.h */;
+		name = "TableViewCellSubviewsAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2628;
+		vrLoc = 0;
+	};
+	9A107C151379426A009DAA51 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2867DEFB0D581C2E0037AED8 /* TableViewCellSubviewsAppDelegate.m */;
+		name = "TableViewCellSubviewsAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2621;
+		vrLoc = 0;
+	};
+	9A107C161379426A009DAA51 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2867DEFB0D581C2E0037AED8 /* TableViewCellSubviewsAppDelegate.m */;
+		name = "TableViewCellSubviewsAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1244;
+		vrLoc = 4234;
+	};
+	9AE38936125EE06000BA78C2 /* TableViewCellSubviews */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TableViewCellSubviews;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	9AE38955125EE06900BA78C2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9AE38956125EE06900BA78C2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

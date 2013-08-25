@@ -1,0 +1,766 @@
+TDRssReader
+v7
+r0
+t311747544.932056
+cCheck dependencies
+cProcessInfoPlistFile /Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app/Info.plist DRssReader-Info.plist
+cCompileXIB /Users/reshma/Desktop/DRssReader/MainWindow.xib
+cCompileXIB /Users/reshma/Desktop/DRssReader/Classes/DTableView.xib
+cProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-bockjtzquxxfibbfhmhtbcmtqzbt/DRssReader_Prefix.pch.gch DRssReader_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile /Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DRssReader.momd /Users/reshma/Desktop/DRssReader/DRssReader.xcdatamodeld
+cCompileC build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/main.o /Users/reshma/Desktop/DRssReader/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/DRssReaderAppDelegate.o /Users/reshma/Desktop/DRssReader/Classes/DRssReaderAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/DTableView.o /Users/reshma/Desktop/DRssReader/Classes/DTableView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/XMLParser.o /Users/reshma/Desktop/DRssReader/Classes/XMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DRssReader normal i386
+cGenerateDSYMFile /Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app.dSYM /Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DRssReader
+cTouch /Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004C5A4E0B00000000001D2EC0
+t1280986635
+s1912512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004C5A4DED000000000000046B
+t1280986605
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/Availability.h
+c000000004C57A0390000000000001A5C
+t1280811065
+s6748
+
+N/Users/reshma/Desktop/DRssReader/Classes/DCommon.h
+c000000004CE3A0E80000000000000080
+t1289986280
+s128
+
+N/Users/reshma/Desktop/DRssReader/Classes/DRssReaderAppDelegate.h
+c000000004CE1067B00000000000003BD
+t1289815675
+s957
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/reshma/Desktop/DRssReader/Classes/DRssReaderAppDelegate.m
+c000000004CE3A0A000000000000022A8
+t1289986208
+s8872
+i"DRssReaderAppDelegate.h"
+i"DTableView.h"
+i"XMLParser.h"
+
+N/Users/reshma/Desktop/DRssReader/Classes/DTableView.h
+c000000004CE399260000000000000228
+t1289984294
+s552
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/DRssReader/Classes/DTableView.m
+c000000004CE3998D00000000000015BD
+t1289984397
+s5565
+i"DTableView.h"
+i"XMLParser.h"
+
+N/Users/reshma/Desktop/DRssReader/Classes/DTableView.xib
+c000000004CE3997E00000000000045C8
+t1289984382
+s17864
+
+N/Users/reshma/Desktop/DRssReader/Classes/XMLParser.h
+c000000004CE2539B0000000000000576
+t1289900955
+s1398
+i"DCommon.h"
+
+N/Users/reshma/Desktop/DRssReader/Classes/XMLParser.m
+c000000004CE3A03C000000000000161C
+t1289986108
+s5660
+i"XMLParser.h"
+
+N/Users/reshma/Desktop/DRssReader/DRssReader.xcdatamodeld
+c000000004CE126290000000000000088
+t1289823785
+s136
+
+N/Users/reshma/Desktop/DRssReader/DRssReader_Prefix.pch
+c000000004CE0FA400000000000000168
+t1289812544
+s360
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/reshma/Desktop/DRssReader/MainWindow.xib
+c000000004CE1063B00000000000043D5
+t1289815611
+s17365
+
+N/Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/DRssReader.LinkFileList
+c000000004CE4AC570000000000000204
+t1290054743
+s516
+
+N/Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/DRssReaderAppDelegate.o
+t1290054744
+s69936
+
+N/Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/DTableView.o
+t1290054744
+s60872
+
+N/Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/XMLParser.o
+t1290054744
+s26560
+
+N/Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/main.o
+t1290054744
+s6292
+
+N/Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app
+t1290054744
+s306
+
+N/Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app.dSYM
+t1290054744
+s102
+
+N/Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DRssReader
+t1290054744
+s40968
+
+N/Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DRssReader.momd
+t1289891997
+s136
+
+N/Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DTableView.nib
+t1289984398
+s1756
+
+N/Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app/Info.plist
+t1289815559
+s630
+
+N/Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app/MainWindow.nib
+t1289815821
+s1534
+
+N/Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app/PkgInfo
+t1289815559
+s8
+
+N/Users/reshma/Desktop/DRssReader/main.m
+c000000004CE0FA400000000000000168
+t1289812544
+s360
+i<UIKit/UIKit.h>
+
+N/Volumes/Development/Code/DRssReader/Classes/DCommon.h
+c000000004CE3A0E80000000000000080
+t1289986280
+s128
+
+N/Volumes/Development/Code/DRssReader/Classes/DRssReaderAppDelegate.h
+c000000004CE1067B00000000000003BD
+t1289815675
+s957
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Volumes/Development/Code/DRssReader/Classes/DRssReaderAppDelegate.m
+c000000004CE3A0A000000000000022A8
+t1289986208
+s8872
+i"DRssReaderAppDelegate.h"
+i"DTableView.h"
+i"XMLParser.h"
+
+N/Volumes/Development/Code/DRssReader/Classes/DTabViewController.h
+c000000004CE1055900000000000000E9
+t1289815385
+s233
+i<UIKit/UIKit.h>
+
+N/Volumes/Development/Code/DRssReader/Classes/DTabViewController.m
+c000000004CE1049900000000000005A1
+t1289815193
+s1441
+i"DTabViewController.h"
+
+N/Volumes/Development/Code/DRssReader/Classes/DTabViewController.xib
+c000000004CE105940000000000003AAC
+t1289815444
+s15020
+
+N/Volumes/Development/Code/DRssReader/Classes/DTableView.h
+c000000004CE399260000000000000228
+t1289984294
+s552
+i<UIKit/UIKit.h>
+
+N/Volumes/Development/Code/DRssReader/Classes/DTableView.m
+c000000004CE3998D00000000000015BD
+t1289984397
+s5565
+i"DTableView.h"
+i"XMLParser.h"
+
+N/Volumes/Development/Code/DRssReader/Classes/DTableView.xib
+c000000004CE3997E00000000000045C8
+t1289984382
+s17864
+
+N/Volumes/Development/Code/DRssReader/Classes/XMLParser.h
+c000000004CE2539B0000000000000576
+t1289900955
+s1398
+i"DCommon.h"
+
+N/Volumes/Development/Code/DRssReader/Classes/XMLParser.m
+c000000004CE3A03C000000000000161C
+t1289986108
+s5660
+i"XMLParser.h"
+
+N/Volumes/Development/Code/DRssReader/DRssReader.xcdatamodeld
+c000000004CE126290000000000000088
+t1289823785
+s136
+
+N/Volumes/Development/Code/DRssReader/DRssReader_Prefix.pch
+c000000004CE0FA400000000000000168
+t1289812544
+s360
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Volumes/Development/Code/DRssReader/MainWindow.xib
+c000000004CE1063B00000000000043D5
+t1289815611
+s17365
+
+N/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/DRssReader.LinkFileList
+c000000004CE2309D0000000000000214
+t1289891997
+s532
+
+N/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/DRssReaderAppDelegate.o
+t1289986281
+s69944
+
+N/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/DTabViewController.o
+t1289815520
+s37244
+
+N/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/DTableView.o
+t1289986281
+s60880
+
+N/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/XMLParser.o
+t1289986281
+s26568
+
+N/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/main.o
+t1289815153
+s6300
+
+N/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/StaticAnalyzer/normal/i386/DRssReaderAppDelegate.plist
+t2
+s0
+
+N/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/StaticAnalyzer/normal/i386/DTableView.plist
+t2
+s0
+
+N/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/StaticAnalyzer/normal/i386/XMLParser.plist
+t2
+s0
+
+N/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/StaticAnalyzer/normal/i386/main.plist
+t2
+s0
+
+N/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app
+t1289986281
+s306
+
+N/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app.dSYM
+t1289986281
+s102
+
+N/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DRssReader
+t1289986281
+s41000
+
+N/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DRssReader.momd
+t1289891997
+s136
+
+N/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DTabViewController.nib
+t1289815519
+s1231
+
+N/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DTableView.nib
+t1289984398
+s1756
+
+N/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app/Info.plist
+t1289815559
+s630
+
+N/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app/MainWindow.nib
+t1289815821
+s1534
+
+N/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app/PkgInfo
+t1289815559
+s8
+
+N/Volumes/Development/Code/DRssReader/main.m
+c000000004CE0FA400000000000000168
+t1289812544
+s360
+i<UIKit/UIKit.h>
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-bockjtzquxxfibbfhmhtbcmtqzbt/DRssReader_Prefix.pch.gch
+t1290054744
+s16080688
+
+N/var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-aivmnkorcuzfcccwnulwvpjnwfba/DRssReader_Prefix.pch.gch
+t1289815153
+s16080688
+
+N/var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-cxfmtvbovlkhhjbtwnpxbjhoqkmw/DRssReader_Prefix.pch.pth
+t2
+s0
+
+NDRssReader-Info.plist
+c000000004CE1060400000000000003B5
+t1289815556
+s949
+
+CAnalyze /Volumes/Development/Code/DRssReader/Classes/DRssReaderAppDelegate.m
+s311588348.517543
+e311588348.658867
+r1
+xAnalyze
+x/Volumes/Development/Code/DRssReader/Classes/DRssReaderAppDelegate.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-cxfmtvbovlkhhjbtwnpxbjhoqkmw/DRssReader_Prefix.pch' file not found
+o #include "/var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-cxfmtvbovlkhhjbtwnpxbjhoqkmw/DRssReader_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@76"Analyze /Volumes/Development/Code/DRssReader/Classes/DRssReaderAppDelegate.m311588348#311588348#0(466"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-cxfmtvbovlkhhjbtwnpxbjhoqkmw/DRssReader_Prefix.pch' file not found #include "/var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-cxfmtvbovlkhhjbtwnpxbjhoqkmw/DRssReader_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors311588348#18446744073709551615#0#1(25@183"'/var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-cxfmtvbovlkhhjbtwnpxbjhoqkmw/DRssReader_Prefix.pch' file not found311588348#18446744073709551615#0#0(6@14"<command line>311588348#1#0#1#0#0"0(6@14"<command line>311588348#0#0#0#0#0"0(0#0#68"/Volumes/Development/Code/DRssReader/Classes/DRssReaderAppDelegate.m8616746784#1949"    cd /Volumes/Development/Code/DRssReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-generated-files.hmap -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-own-target-headers.hmap -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-all-target-headers.hmap -iquote /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-project-headers.hmap -F/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator -I/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/include -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources/i386 -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources -include /var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-cxfmtvbovlkhhjbtwnpxbjhoqkmw/DRssReader_Prefix.pch --analyze /Volumes/Development/Code/DRssReader/Classes/DRssReaderAppDelegate.m -o /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/StaticAnalyzer/normal/i386/DRssReaderAppDelegate.plist0#
+
+CAnalyze /Volumes/Development/Code/DRssReader/Classes/DTableView.m
+s311588348.567425
+e311588348.696306
+r1
+xAnalyze
+x/Volumes/Development/Code/DRssReader/Classes/DTableView.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-cxfmtvbovlkhhjbtwnpxbjhoqkmw/DRssReader_Prefix.pch' file not found
+o #include "/var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-cxfmtvbovlkhhjbtwnpxbjhoqkmw/DRssReader_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@65"Analyze /Volumes/Development/Code/DRssReader/Classes/DTableView.m311588348#311588348#0(466"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-cxfmtvbovlkhhjbtwnpxbjhoqkmw/DRssReader_Prefix.pch' file not found #include "/var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-cxfmtvbovlkhhjbtwnpxbjhoqkmw/DRssReader_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors311588348#18446744073709551615#0#1(25@183"'/var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-cxfmtvbovlkhhjbtwnpxbjhoqkmw/DRssReader_Prefix.pch' file not found311588348#18446744073709551615#0#0(6@14"<command line>311588348#1#0#1#0#0"0(6@14"<command line>311588348#0#0#0#0#0"0(0#0#57"/Volumes/Development/Code/DRssReader/Classes/DTableView.m8616612640#1927"    cd /Volumes/Development/Code/DRssReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-generated-files.hmap -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-own-target-headers.hmap -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-all-target-headers.hmap -iquote /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-project-headers.hmap -F/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator -I/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/include -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources/i386 -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources -include /var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-cxfmtvbovlkhhjbtwnpxbjhoqkmw/DRssReader_Prefix.pch --analyze /Volumes/Development/Code/DRssReader/Classes/DTableView.m -o /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/StaticAnalyzer/normal/i386/DTableView.plist0#
+
+CAnalyze /Volumes/Development/Code/DRssReader/Classes/XMLParser.m
+s311588348.658940
+e311588348.669482
+r1
+xAnalyze
+x/Volumes/Development/Code/DRssReader/Classes/XMLParser.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-cxfmtvbovlkhhjbtwnpxbjhoqkmw/DRssReader_Prefix.pch' file not found
+o #include "/var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-cxfmtvbovlkhhjbtwnpxbjhoqkmw/DRssReader_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@64"Analyze /Volumes/Development/Code/DRssReader/Classes/XMLParser.m311588348#311588348#0(466"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-cxfmtvbovlkhhjbtwnpxbjhoqkmw/DRssReader_Prefix.pch' file not found #include "/var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-cxfmtvbovlkhhjbtwnpxbjhoqkmw/DRssReader_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors311588348#18446744073709551615#0#1(25@183"'/var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-cxfmtvbovlkhhjbtwnpxbjhoqkmw/DRssReader_Prefix.pch' file not found311588348#18446744073709551615#0#0(6@14"<command line>311588348#1#0#1#0#0"0(6@14"<command line>311588348#0#0#0#0#0"0(0#0#56"/Volumes/Development/Code/DRssReader/Classes/XMLParser.m8616442208#1925"    cd /Volumes/Development/Code/DRssReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-generated-files.hmap -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-own-target-headers.hmap -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-all-target-headers.hmap -iquote /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-project-headers.hmap -F/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator -I/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/include -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources/i386 -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources -include /var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-cxfmtvbovlkhhjbtwnpxbjhoqkmw/DRssReader_Prefix.pch --analyze /Volumes/Development/Code/DRssReader/Classes/XMLParser.m -o /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/StaticAnalyzer/normal/i386/XMLParser.plist0#
+
+CAnalyze /Volumes/Development/Code/DRssReader/main.m
+s311588348.421135
+e311588348.567181
+r1
+xAnalyze
+x/Volumes/Development/Code/DRssReader/main.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-cxfmtvbovlkhhjbtwnpxbjhoqkmw/DRssReader_Prefix.pch' file not found
+o #include "/var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-cxfmtvbovlkhhjbtwnpxbjhoqkmw/DRssReader_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@51"Analyze /Volumes/Development/Code/DRssReader/main.m311588348#311588348#0(466"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-cxfmtvbovlkhhjbtwnpxbjhoqkmw/DRssReader_Prefix.pch' file not found #include "/var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-cxfmtvbovlkhhjbtwnpxbjhoqkmw/DRssReader_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors311588348#18446744073709551615#0#1(25@183"'/var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-cxfmtvbovlkhhjbtwnpxbjhoqkmw/DRssReader_Prefix.pch' file not found311588348#18446744073709551615#0#0(6@14"<command line>311588348#1#0#1#0#0"0(6@14"<command line>311588348#0#0#0#0#0"0(0#0#43"/Volumes/Development/Code/DRssReader/main.m8615045088#1907"    cd /Volumes/Development/Code/DRssReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-generated-files.hmap -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-own-target-headers.hmap -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-all-target-headers.hmap -iquote /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-project-headers.hmap -F/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator -I/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/include -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources/i386 -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources -include /var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-cxfmtvbovlkhhjbtwnpxbjhoqkmw/DRssReader_Prefix.pch --analyze /Volumes/Development/Code/DRssReader/main.m -o /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311747543#311747543#0(0"0(0#1#0"8616864832#0"0#
+
+CCompileC build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/DRssReaderAppDelegate.o /Users/reshma/Desktop/DRssReader/Classes/DRssReaderAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311747544.672868
+e311747544.767981
+r1
+xCompileC
+xbuild/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/DRssReaderAppDelegate.o
+x/Users/reshma/Desktop/DRssReader/Classes/DRssReaderAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/reshma/Desktop/DRssReader/Classes/DRssReaderAppDelegate.m311747544#311747544#0(0"0(0#0#64"/Users/reshma/Desktop/DRssReader/Classes/DRssReaderAppDelegate.m8615302656#1950"    cd /Users/reshma/Desktop/DRssReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-generated-files.hmap -I/Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-own-target-headers.hmap -I/Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-all-target-headers.hmap -iquote /Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-project-headers.hmap -F/Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator -I/Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources/i386 -I/Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-bockjtzquxxfibbfhmhtbcmtqzbt/DRssReader_Prefix.pch -c /Users/reshma/Desktop/DRssReader/Classes/DRssReaderAppDelegate.m -o /Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/DRssReaderAppDelegate.o0#
+
+CCompileC build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/DRssReaderAppDelegate.o /Volumes/Development/Code/DRssReader/Classes/DRssReaderAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311679081.370050
+e311679081.552125
+r1
+xCompileC
+xbuild/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/DRssReaderAppDelegate.o
+x/Volumes/Development/Code/DRssReader/Classes/DRssReaderAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Volumes/Development/Code/DRssReader/Classes/DRssReaderAppDelegate.m311679081#311679081#0(0"0(0#0#68"/Volumes/Development/Code/DRssReader/Classes/DRssReaderAppDelegate.m8631165184#1994"    cd /Volumes/Development/Code/DRssReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-generated-files.hmap -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-own-target-headers.hmap -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-all-target-headers.hmap -iquote /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-project-headers.hmap -F/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator -I/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/include -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources/i386 -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources -include /var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-aivmnkorcuzfcccwnulwvpjnwfba/DRssReader_Prefix.pch -c /Volumes/Development/Code/DRssReader/Classes/DRssReaderAppDelegate.m -o /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/DRssReaderAppDelegate.o0#
+
+CCompileC build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/DTabViewController.o /Volumes/Development/Code/DRssReader/Classes/DTabViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311508320.020683
+e311508320.068959
+r1
+xCompileC
+xbuild/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/DTabViewController.o
+x/Volumes/Development/Code/DRssReader/Classes/DTabViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Volumes/Development/Code/DRssReader/Classes/DTabViewController.m311508320#311508320#0(0"0(0#0#65"/Volumes/Development/Code/DRssReader/Classes/DTabViewController.m8630320704#1988"    cd /Volumes/Development/Code/DRssReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-generated-files.hmap -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-own-target-headers.hmap -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-all-target-headers.hmap -iquote /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-project-headers.hmap -F/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator -I/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/include -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources/i386 -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources -include /var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-aivmnkorcuzfcccwnulwvpjnwfba/DRssReader_Prefix.pch -c /Volumes/Development/Code/DRssReader/Classes/DTabViewController.m -o /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/DTabViewController.o0#
+
+CCompileC build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/DTableView.o /Users/reshma/Desktop/DRssReader/Classes/DTableView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311747544.724800
+e311747544.847263
+r1
+xCompileC
+xbuild/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/DTableView.o
+x/Users/reshma/Desktop/DRssReader/Classes/DTableView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/reshma/Desktop/DRssReader/Classes/DTableView.m: In function '-[DTableView viewDidLoad]':
+o/Users/reshma/Desktop/DRssReader/Classes/DTableView.m:63: warning: class 'DTableView' does not implement the 'UITableViewDataSource' protocol
+lSLF07#2@61"Compile /Users/reshma/Desktop/DRssReader/Classes/DTableView.m311747544#311747544#0(238"/Users/reshma/Desktop/DRssReader/Classes/DTableView.m: In function '-[DTableView viewDidLoad]':/Users/reshma/Desktop/DRssReader/Classes/DTableView.m:63: warning: class 'DTableView' does not implement the 'UITableViewDataSource' protocol1(22@74"Class 'DTableView' does not implement the 'UITableViewDataSource' protocol311747544#96#142#0(6@53"/Users/reshma/Desktop/DRssReader/Classes/DTableView.m311677197#63#0#63#0#45"class '*' does not implement the '*' protocol0(0#0#53"/Users/reshma/Desktop/DRssReader/Classes/DTableView.m8606948160#1928"    cd /Users/reshma/Desktop/DRssReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-generated-files.hmap -I/Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-own-target-headers.hmap -I/Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-all-target-headers.hmap -iquote /Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-project-headers.hmap -F/Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator -I/Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources/i386 -I/Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-bockjtzquxxfibbfhmhtbcmtqzbt/DRssReader_Prefix.pch -c /Users/reshma/Desktop/DRssReader/Classes/DTableView.m -o /Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/DTableView.o0#
+
+CCompileC build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/DTableView.o /Volumes/Development/Code/DRssReader/Classes/DTableView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311679081.370886
+e311679081.512244
+r1
+xCompileC
+xbuild/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/DTableView.o
+x/Volumes/Development/Code/DRssReader/Classes/DTableView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/Development/Code/DRssReader/Classes/DTableView.m: In function '-[DTableView viewDidLoad]':
+o/Volumes/Development/Code/DRssReader/Classes/DTableView.m:63: warning: class 'DTableView' does not implement the 'UITableViewDataSource' protocol
+lSLF07#2@65"Compile /Volumes/Development/Code/DRssReader/Classes/DTableView.m311679081#311679081#0(246"/Volumes/Development/Code/DRssReader/Classes/DTableView.m: In function '-[DTableView viewDidLoad]':/Volumes/Development/Code/DRssReader/Classes/DTableView.m:63: warning: class 'DTableView' does not implement the 'UITableViewDataSource' protocol1(22@74"Class 'DTableView' does not implement the 'UITableViewDataSource' protocol311679081#100#146#0(6@57"/Volumes/Development/Code/DRssReader/Classes/DTableView.m311677197#63#0#63#0#45"class '*' does not implement the '*' protocol0(0#0#57"/Volumes/Development/Code/DRssReader/Classes/DTableView.m8619766720#1972"    cd /Volumes/Development/Code/DRssReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-generated-files.hmap -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-own-target-headers.hmap -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-all-target-headers.hmap -iquote /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-project-headers.hmap -F/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator -I/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/include -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources/i386 -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources -include /var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-aivmnkorcuzfcccwnulwvpjnwfba/DRssReader_Prefix.pch -c /Volumes/Development/Code/DRssReader/Classes/DTableView.m -o /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/DTableView.o0#
+
+CCompileC build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/XMLParser.o /Users/reshma/Desktop/DRssReader/Classes/XMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311747544.768080
+e311747544.877373
+r1
+xCompileC
+xbuild/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/XMLParser.o
+x/Users/reshma/Desktop/DRssReader/Classes/XMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/reshma/Desktop/DRssReader/Classes/XMLParser.m311747544#311747544#0(0"0(0#0#52"/Users/reshma/Desktop/DRssReader/Classes/XMLParser.m8604715136#1926"    cd /Users/reshma/Desktop/DRssReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-generated-files.hmap -I/Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-own-target-headers.hmap -I/Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-all-target-headers.hmap -iquote /Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-project-headers.hmap -F/Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator -I/Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources/i386 -I/Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-bockjtzquxxfibbfhmhtbcmtqzbt/DRssReader_Prefix.pch -c /Users/reshma/Desktop/DRssReader/Classes/XMLParser.m -o /Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/XMLParser.o0#
+
+CCompileC build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/XMLParser.o /Volumes/Development/Code/DRssReader/Classes/XMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311679081.512327
+e311679081.580673
+r1
+xCompileC
+xbuild/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/XMLParser.o
+x/Volumes/Development/Code/DRssReader/Classes/XMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Volumes/Development/Code/DRssReader/Classes/XMLParser.m311679081#311679081#0(0"0(0#0#56"/Volumes/Development/Code/DRssReader/Classes/XMLParser.m8673697888#1970"    cd /Volumes/Development/Code/DRssReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-generated-files.hmap -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-own-target-headers.hmap -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-all-target-headers.hmap -iquote /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-project-headers.hmap -F/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator -I/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/include -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources/i386 -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources -include /var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-aivmnkorcuzfcccwnulwvpjnwfba/DRssReader_Prefix.pch -c /Volumes/Development/Code/DRssReader/Classes/XMLParser.m -o /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/XMLParser.o0#
+
+CCompileC build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/main.o /Users/reshma/Desktop/DRssReader/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311747544.671593
+e311747544.724708
+r1
+xCompileC
+xbuild/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/main.o
+x/Users/reshma/Desktop/DRssReader/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/reshma/Desktop/DRssReader/main.m311747544#311747544#0(0"0(0#0#39"/Users/reshma/Desktop/DRssReader/main.m8615512480#1908"    cd /Users/reshma/Desktop/DRssReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-generated-files.hmap -I/Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-own-target-headers.hmap -I/Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-all-target-headers.hmap -iquote /Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-project-headers.hmap -F/Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator -I/Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources/i386 -I/Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-bockjtzquxxfibbfhmhtbcmtqzbt/DRssReader_Prefix.pch -c /Users/reshma/Desktop/DRssReader/main.m -o /Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/main.o0#
+
+CCompileC build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/main.o /Volumes/Development/Code/DRssReader/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311507953.196332
+e311507953.346345
+r1
+xCompileC
+xbuild/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/main.o
+x/Volumes/Development/Code/DRssReader/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Volumes/Development/Code/DRssReader/main.m311507953#311507953#0(0"0(0#0#43"/Volumes/Development/Code/DRssReader/main.m8619166112#1952"    cd /Volumes/Development/Code/DRssReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-generated-files.hmap -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-own-target-headers.hmap -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-all-target-headers.hmap -iquote /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-project-headers.hmap -F/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator -I/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/include -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources/i386 -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources -include /var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-aivmnkorcuzfcccwnulwvpjnwfba/DRssReader_Prefix.pch -c /Volumes/Development/Code/DRssReader/main.m -o /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/reshma/Desktop/DRssReader/Classes/DTableView.xib
+r0
+
+CCompileXIB /Users/reshma/Desktop/DRssReader/MainWindow.xib
+r0
+
+CCompileXIB /Volumes/Development/Code/DRssReader/Classes/DTabViewController.xib
+s311508319.624887
+e311508319.995782
+r1
+xCompileXIB
+x/Volumes/Development/Code/DRssReader/Classes/DTabViewController.xib
+lSLF07#2@41"CompileXIB Classes/DTabViewController.xib311508319#311508319#0(0"0(0#0#67"/Volumes/Development/Code/DRssReader/Classes/DTabViewController.xib8628012832#591"    cd /Volumes/Development/Code/DRssReader    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DTabViewController.nib /Volumes/Development/Code/DRssReader/Classes/DTabViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Volumes/Development/Code/DRssReader/Classes/DTableView.xib
+s311677198.128912
+e311677198.515337
+r1
+xCompileXIB
+x/Volumes/Development/Code/DRssReader/Classes/DTableView.xib
+lSLF07#2@33"CompileXIB Classes/DTableView.xib311677198#311677198#0(0"0(0#0#59"/Volumes/Development/Code/DRssReader/Classes/DTableView.xib8655515360#575"    cd /Volumes/Development/Code/DRssReader    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DTableView.nib /Volumes/Development/Code/DRssReader/Classes/DTableView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Volumes/Development/Code/DRssReader/MainWindow.xib
+s311508621.411717
+e311508621.741759
+r1
+xCompileXIB
+x/Volumes/Development/Code/DRssReader/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib311508621#311508621#0(0"0(0#0#51"/Volumes/Development/Code/DRssReader/MainWindow.xib8642885280#567"    cd /Volumes/Development/Code/DRssReader    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app/MainWindow.nib /Volumes/Development/Code/DRssReader/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CDataModelVersionCompile /Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DRssReader.momd /Users/reshma/Desktop/DRssReader/DRssReader.xcdatamodeld
+r0
+
+CDataModelVersionCompile /Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DRssReader.momd /Volumes/Development/Code/DRssReader/DRssReader.xcdatamodeld
+s311584797.374694
+e311584797.480965
+r1
+xDataModelVersionCompile
+x/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DRssReader.momd
+x/Volumes/Development/Code/DRssReader/DRssReader.xcdatamodeld
+o/Volumes/Development/Code/DRssReader/DRssReader.xcdatamodeld/DRssReader.xcdatamodel:ItemEntity.description: warning: ItemEntity.description -- property name conflicts with a method already on NSObject or NSManagedObject 
+o/Volumes/Development/Code/DRssReader/DRssReader.xcdatamodeld/DRssReader.xcdatamodel:ItemEntity.category: warning: ItemEntity.category -- to-many relationship does not have an inverse:  this is an advanced setting (no object can be in multiple destinations for a specific relationship) 
+lSLF07#2@106"DataModelVersionCompile build/Debug-iphonesimulator/DRssReader.app/DRssReader.momd DRssReader.xcdatamodeld311584797#311584797#0(507"/Volumes/Development/Code/DRssReader/DRssReader.xcdatamodeld/DRssReader.xcdatamodel:ItemEntity.description: warning: ItemEntity.description -- property name conflicts with a method already on NSObject or NSManagedObject /Volumes/Development/Code/DRssReader/DRssReader.xcdatamodeld/DRssReader.xcdatamodel:ItemEntity.category: warning: ItemEntity.category -- to-many relationship does not have an inverse:  this is an advanced setting (no object can be in multiple destinations for a specific relationship) 2(22@103"ItemEntity.description -- property name conflicts with a method already on NSObject or NSManagedObject 311584797#18446744073709551615#0#0(6@83"/Volumes/Development/Code/DRssReader/DRssReader.xcdatamodeld/DRssReader.xcdatamodel311516585#0#0#0#0#0"0(22@171"ItemEntity.category -- to-many relationship does not have an inverse:  this is an advanced setting (no object can be in multiple destinations for a specific relationship) 311584797#18446744073709551615#0#0(6@83"/Volumes/Development/Code/DRssReader/DRssReader.xcdatamodeld/DRssReader.xcdatamodel311516585#0#0#0#0#0"0(0#0#60"/Volumes/Development/Code/DRssReader/DRssReader.xcdatamodeld30399800003068008#389"    cd /Volumes/Development/Code/DRssReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Volumes/Development/Code/DRssReader/DRssReader.xcdatamodeld /Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DRssReader.momd0#
+
+CGenerateDSYMFile /Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app.dSYM /Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DRssReader
+s311747544.903454
+e311747544.929607
+r1
+xGenerateDSYMFile
+x/Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app.dSYM
+x/Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DRssReader
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/DRssReader.app.dSYM build/Debug-iphonesimulator/DRssReader.app/DRssReader311747544#311747544#0(0"0(0#0#86"/Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DRssReader8608387072#374"    cd /Users/reshma/Desktop/DRssReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DRssReader -o /Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app.dSYM0#
+
+CGenerateDSYMFile /Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app.dSYM /Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DRssReader
+s311679081.603774
+e311679081.621841
+r1
+xGenerateDSYMFile
+x/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app.dSYM
+x/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DRssReader
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/DRssReader.app.dSYM build/Debug-iphonesimulator/DRssReader.app/DRssReader311679081#311679081#0(0"0(0#0#90"/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DRssReader8670227136#386"    cd /Volumes/Development/Code/DRssReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DRssReader -o /Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app.dSYM0#
+
+CLd /Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DRssReader normal i386
+s311747544.877461
+e311747544.903357
+r1
+xLd
+x/Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DRssReader
+xnormal
+xi386
+lSLF07#2@91"Link /Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DRssReader311747544#311747544#0(0"0(0#0#0"8616122528#905"    cd /Users/reshma/Desktop/DRssReader    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator -F/Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator -filelist /Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/DRssReader.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o /Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DRssReader0#
+
+CLd /Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DRssReader normal i386
+s311679081.580750
+e311679081.603689
+r1
+xLd
+x/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DRssReader
+xnormal
+xi386
+lSLF07#2@95"Link /Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DRssReader311679081#311679081#0(0"0(0#0#0"8671369728#925"    cd /Volumes/Development/Code/DRssReader    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator -F/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator -filelist /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/Objects-normal/i386/DRssReader.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o /Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app/DRssReader0#
+
+CProcessInfoPlistFile /Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app/Info.plist DRssReader-Info.plist
+r0
+
+CProcessInfoPlistFile /Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app/Info.plist DRssReader-Info.plist
+s311508359.327186
+e311508359.330643
+r1
+xProcessInfoPlistFile
+x/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app/Info.plist
+xDRssReader-Info.plist
+lSLF07#2@29"Process DRssReader-Info.plist311508359#311508359#0(0"0(0#0#58"/Volumes/Development/Code/DRssReader/DRssReader-Info.plist8633272640#482"    cd /Volumes/Development/Code/DRssReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility DRssReader-Info.plist -genpkginfo /Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app/Info.plist0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-bockjtzquxxfibbfhmhtbcmtqzbt/DRssReader_Prefix.pch.gch DRssReader_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s311747543.855517
+e311747544.671412
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-bockjtzquxxfibbfhmhtbcmtqzbt/DRssReader_Prefix.pch.gch
+xDRssReader_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile DRssReader_Prefix.pch311747543#311747544#0(0"0(0#0#54"/Users/reshma/Desktop/DRssReader/DRssReader_Prefix.pch8616533440#1803"    cd /Users/reshma/Desktop/DRssReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-generated-files.hmap -I/Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-own-target-headers.hmap -I/Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-all-target-headers.hmap -iquote /Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-project-headers.hmap -F/Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator -I/Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources/i386 -I/Users/reshma/Desktop/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources -c /Users/reshma/Desktop/DRssReader/DRssReader_Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-bockjtzquxxfibbfhmhtbcmtqzbt/DRssReader_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-aivmnkorcuzfcccwnulwvpjnwfba/DRssReader_Prefix.pch.gch DRssReader_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s311507952.339135
+e311507953.195607
+r1
+xProcessPCH
+x/var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-aivmnkorcuzfcccwnulwvpjnwfba/DRssReader_Prefix.pch.gch
+xDRssReader_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile DRssReader_Prefix.pch311507952#311507953#0(0"0(0#0#58"/Volumes/Development/Code/DRssReader/DRssReader_Prefix.pch8243105062446068736#1843"    cd /Volumes/Development/Code/DRssReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-generated-files.hmap -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-own-target-headers.hmap -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-all-target-headers.hmap -iquote /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-project-headers.hmap -F/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator -I/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/include -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources/i386 -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources -c /Volumes/Development/Code/DRssReader/DRssReader_Prefix.pch -o /var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-aivmnkorcuzfcccwnulwvpjnwfba/DRssReader_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-cxfmtvbovlkhhjbtwnpxbjhoqkmw/DRssReader_Prefix.pch.pth DRssReader_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s311588348.258133
+e311588348.420050
+r1
+xProcessPCH
+x/var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-cxfmtvbovlkhhjbtwnpxbjhoqkmw/DRssReader_Prefix.pch.pth
+xDRssReader_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+oIn file included from /Volumes/Development/Code/DRssReader/DRssReader_Prefix.pch:13:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator
+o   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);
+o                       ^
+oIn file included from /Volumes/Development/Code/DRssReader/DRssReader_Prefix.pch:13:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from:
+o # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING
+o                                ^
+o<scratch space>:82:1: note: instantiated from:
+o __AVAILABILITY_INTERNAL__MAC_10_7
+o ^
+oIn file included from /Volumes/Development/Code/DRssReader/DRssReader_Prefix.pch:13:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type
+o + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                                                                                           ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type
+o + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                                                                                      ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type
+o + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview
+o                                                                                                                  ^
+oIn file included from /Volumes/Development/Code/DRssReader/DRssReader_Prefix.pch:13:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState'
+o @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                               ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type
+o - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o    ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type
+o - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                            ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type
+o - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
+o                                             ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type
+o - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
+o    ^
+oIn file included from /Volumes/Development/Code/DRssReader/DRssReader_Prefix.pch:13:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes'
+o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
+o                      ^
+oIn file included from /Volumes/Development/Code/DRssReader/DRssReader_Prefix.pch:13:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes'
+o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
+o                      ^
+o11 errors generated.
+lSLF07#2@32"Precompile DRssReader_Prefix.pch311588348#311588348#0(8123"In file included from /Volumes/Development/Code/DRssReader/DRssReader_Prefix.pch:13:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);                       ^In file included from /Volumes/Development/Code/DRssReader/DRssReader_Prefix.pch:13:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from: # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING                                ^<scratch space>:82:1: note: instantiated from: __AVAILABILITY_INTERNAL__MAC_10_7 ^In file included from /Volumes/Development/Code/DRssReader/DRssReader_Prefix.pch:13:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                           ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                      ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview                                                                                                                  ^In file included from /Volumes/Development/Code/DRssReader/DRssReader_Prefix.pch:13:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState' @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                               ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);    ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                            ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);                                             ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);    ^In file included from /Volumes/Development/Code/DRssReader/DRssReader_Prefix.pch:13:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^In file included from /Volumes/Development/Code/DRssReader/DRssReader_Prefix.pch:13:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^11 errors generated.1(25@46"Analyzer skipped this file due to parse errors311588348#18446744073709551615#0#11(25@48"expected function body after function declarator311588348#18446744073709551615#0#0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#60#0#60#0#0"0(25@15"expected a type311588348#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#250#0#250#0#0"0(25@15"expected a type311588348#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#256#0#256#0#0"0(25@15"expected a type311588348#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#258#0#258#0#0"0(25@38"unknown type name 'UIApplicationState'311588348#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#187#0#187#0#0"0(25@15"expected a type311588348#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#190#0#190#0#0"0(25@15"expected a type311588348#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#191#0#191#0#0"0(25@15"expected a type311588348#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#202#0#202#0#0"0(25@15"expected a type311588348#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#206#0#206#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'311588348#18446744073709551615#0#0(6@146"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h303200622#82#0#82#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'311588348#18446744073709551615#0#0(6@145"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h303200623#54#0#54#0#0"0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#0#0#0#0#0"0(0#0#58"/Volumes/Development/Code/DRssReader/DRssReader_Prefix.pch8617460256#1780"    cd /Volumes/Development/Code/DRssReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-generated-files.hmap -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-own-target-headers.hmap -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-all-target-headers.hmap -iquote /Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DRssReader-project-headers.hmap -F/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator -I/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/include -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources/i386 -I/Volumes/Development/Code/DRssReader/build/DRssReader.build/Debug-iphonesimulator/DRssReader.build/DerivedSources -c /Volumes/Development/Code/DRssReader/DRssReader_Prefix.pch -o /var/folders/yP/yPfzlIFYFTqY8umr-J-SNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DRssReader_Prefix-cxfmtvbovlkhhjbtwnpxbjhoqkmw/DRssReader_Prefix.pch.pth0#
+
+CTouch /Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app
+s311747544.929680
+e311747544.932028
+r1
+xTouch
+x/Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app
+lSLF07#2@81"Touch /Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app311747544#311747544#0(0"0(0#0#0"8607172864#269"    cd /Users/reshma/Desktop/DRssReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/reshma/Desktop/DRssReader/build/Debug-iphonesimulator/DRssReader.app0#
+
+CTouch /Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app
+s311679081.621920
+e311679081.625808
+r1
+xTouch
+x/Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app
+lSLF07#2@85"Touch /Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app311679081#311679081#0(0"0(0#0#0"8670123552#277"    cd /Volumes/Development/Code/DRssReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Volumes/Development/Code/DRssReader/build/Debug-iphonesimulator/DRssReader.app0#
+

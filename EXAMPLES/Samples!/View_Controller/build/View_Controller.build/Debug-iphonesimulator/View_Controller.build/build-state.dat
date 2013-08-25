@@ -1,0 +1,792 @@
+TView_Controller
+v7
+r0
+t308052949.626188
+cCheck dependencies
+cProcessInfoPlistFile /Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/Info.plist View_Controller-Info.plist
+cCompileXIB /Users/reshma/Desktop/View_Controller/MainWindow.xib
+cCompileXIB /Users/reshma/Desktop/View_Controller/View_ControllerViewController.xib
+cCpResource build/Debug-iphonesimulator/View_Controller.app/India.gif "/Library/Application Support/Apple/iChat Icons/Flags/India.gif"
+cCpResource build/Debug-iphonesimulator/View_Controller.app/Sunflower.gif Sunflower.gif
+cCpResource "build/Debug-iphonesimulator/View_Controller.app/Green Apple.gif" "Green Apple.gif"
+cCpResource build/Debug-iphonesimulator/View_Controller.app/Orange.gif Orange.gif
+cCpResource build/Debug-iphonesimulator/View_Controller.app/Pear.gif Pear.gif
+cCpResource "build/Debug-iphonesimulator/View_Controller.app/Red Apple.gif" "Red Apple.gif"
+cCpResource build/Debug-iphonesimulator/View_Controller.app/Strawberry.gif Strawberry.gif
+cCpResource "build/Debug-iphonesimulator/View_Controller.app/Yoruba Mask.gif" "Yoruba Mask.gif"
+cProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Controller_Prefix-hjllpuedeqrepeexesrkwdkiicpy/View_Controller_Prefix.pch.gch View_Controller_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/main.o /Users/reshma/Desktop/View_Controller/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/View_ControllerAppDelegate.o /Users/reshma/Desktop/View_Controller/Classes/View_ControllerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/View_ControllerViewController.o /Users/reshma/Desktop/View_Controller/Classes/View_ControllerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/myFile1.o /Users/reshma/Desktop/View_Controller/Classes/myFile1.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/View_Controller normal i386
+cGenerateDSYMFile /Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app.dSYM /Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/View_Controller
+cTouch /Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C3848970000000000000110
+t1278757015
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AB3000000000026F020
+t1268791987
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F1DE40000000000289C20
+t1268719076
+s2661408
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F1DD60000000000001355
+t1268719062
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BA6CAEC000000000000098F
+t1269222124
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BA6CB31000000000214E400
+t1269222193
+s34923520
+
+N/Library/Application Support/Apple/iChat Icons/Flags/India.gif
+c000000004A6FDDEE0000000000000950
+t1248845294
+s2384
+
+N/Users/anandkumar/Desktop/View_Controller/../../../../Library/Application Support/Apple/iChat Icons/Flags/India.gif
+c000000004A6FDDEE0000000000000950
+t1248845294
+s2384
+
+N/Users/anandkumar/Desktop/View_Controller/Classes/View_ControllerAppDelegate.h
+c000000004C62979A0000000000000295
+t1281529754
+s661
+i<UIKit/UIKit.h>
+
+N/Users/anandkumar/Desktop/View_Controller/Classes/View_ControllerAppDelegate.m
+c000000004C6298F00000000000000450
+t1281530096
+s1104
+i"View_ControllerAppDelegate.h"
+i"View_ControllerViewController.h"
+
+N/Users/anandkumar/Desktop/View_Controller/Classes/View_ControllerViewController.h
+c000000004C6293D40000000000000197
+t1281528788
+s407
+i<UIKit/UIKit.h>
+
+N/Users/anandkumar/Desktop/View_Controller/Classes/View_ControllerViewController.m
+c000000004C6A618200000000000015DA
+t1282040194
+s5594
+i"View_ControllerViewController.h"
+i"myFile1.h"
+
+N/Users/anandkumar/Desktop/View_Controller/Classes/myFile1.h
+c000000004C63CE920000000000000126
+t1281609362
+s294
+i<UIKit/UIKit.h>
+
+N/Users/anandkumar/Desktop/View_Controller/Classes/myFile1.m
+c000000004C63DB640000000000000BA5
+t1281612644
+s2981
+i"myFile1.h"
+
+N/Users/anandkumar/Desktop/View_Controller/Green Apple.gif
+c000000004C63D2B1000000000000086F
+t1281610417
+s2159
+
+N/Users/anandkumar/Desktop/View_Controller/MainWindow.xib
+c000000004C628B9300000000000026A4
+t1281526675
+s9892
+
+N/Users/anandkumar/Desktop/View_Controller/Orange.gif
+c000000004C63D2BA0000000000000A57
+t1281610426
+s2647
+
+N/Users/anandkumar/Desktop/View_Controller/Pear.gif
+c000000004C63D2C200000000000006D4
+t1281610434
+s1748
+
+N/Users/anandkumar/Desktop/View_Controller/Red Apple.gif
+c000000004C63D2C90000000000000870
+t1281610441
+s2160
+
+N/Users/anandkumar/Desktop/View_Controller/Strawberry.gif
+c000000004C63D2D0000000000000079B
+t1281610448
+s1947
+
+N/Users/anandkumar/Desktop/View_Controller/Sunflower.gif
+c000000004C63C0910000000000000AAA
+t1281605777
+s2730
+
+N/Users/anandkumar/Desktop/View_Controller/View_ControllerViewController.xib
+c000000004C628B930000000000001A65
+t1281526675
+s6757
+
+N/Users/anandkumar/Desktop/View_Controller/View_Controller_Prefix.pch
+c000000004C628B9300000000000000C7
+t1281526675
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/anandkumar/Desktop/View_Controller/Yoruba Mask.gif
+c000000004C63D3820000000000000978
+t1281610626
+s2424
+
+N/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app
+t1282791998
+s510
+
+N/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app.dSYM
+t1282791998
+s102
+
+N/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/Green Apple.gif
+t1281610565
+s2159
+
+N/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/India.gif
+t1281594965
+s2384
+
+N/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/Info.plist
+t1281590230
+s631
+
+N/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/MainWindow.nib
+t1281590231
+s1526
+
+N/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/Orange.gif
+t1281610565
+s2647
+
+N/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/Pear.gif
+t1281610565
+s1748
+
+N/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/PkgInfo
+t1281590230
+s8
+
+N/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/Red Apple.gif
+t1281610565
+s2160
+
+N/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/Strawberry.gif
+t1281610565
+s1947
+
+N/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/Sunflower.gif
+t1281605948
+s2730
+
+N/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/View_Controller
+t1282791998
+s32036
+
+N/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/View_ControllerViewController.nib
+t1281590231
+s1151
+
+N/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/Yoruba Mask.gif
+t1281610653
+s2424
+
+N/Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/View_Controller.LinkFileList
+c000000004C6383D60000000000000266
+t1281590230
+s614
+
+N/Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/View_ControllerAppDelegate.o
+t1282791998
+s41604
+
+N/Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/View_ControllerViewController.o
+t1282791998
+s49648
+
+N/Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/main.o
+t1282791998
+s5956
+
+N/Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/myFile1.o
+t1282791998
+s35040
+
+N/Users/anandkumar/Desktop/View_Controller/main.m
+c000000004C628B93000000000000017B
+t1281526675
+s379
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/View_Controller/Classes/View_ControllerAppDelegate.h
+c000000004CAC4A8C0000000000000295
+t1286359692
+s661
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/View_Controller/Classes/View_ControllerAppDelegate.m
+c000000004CAC4A8C0000000000000450
+t1286359692
+s1104
+i"View_ControllerAppDelegate.h"
+i"View_ControllerViewController.h"
+
+N/Users/reshma/Desktop/View_Controller/Classes/View_ControllerViewController.h
+c000000004CAC4A8C0000000000000197
+t1286359692
+s407
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/View_Controller/Classes/View_ControllerViewController.m
+c000000004CAC4A8C00000000000015DA
+t1286359692
+s5594
+i"View_ControllerViewController.h"
+i"myFile1.h"
+
+N/Users/reshma/Desktop/View_Controller/Classes/myFile1.h
+c000000004CAC4A8C0000000000000126
+t1286359692
+s294
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/View_Controller/Classes/myFile1.m
+c000000004CAC4C5D0000000000000BA5
+t1286360157
+s2981
+i"myFile1.h"
+
+N/Users/reshma/Desktop/View_Controller/Green Apple.gif
+c000000004CAC4A8C000000000000086F
+t1286359692
+s2159
+
+N/Users/reshma/Desktop/View_Controller/MainWindow.xib
+c000000004CAC4A8C00000000000026A4
+t1286359692
+s9892
+
+N/Users/reshma/Desktop/View_Controller/Orange.gif
+c000000004CAC4A8C0000000000000A57
+t1286359692
+s2647
+
+N/Users/reshma/Desktop/View_Controller/Pear.gif
+c000000004CAC4A8C00000000000006D4
+t1286359692
+s1748
+
+N/Users/reshma/Desktop/View_Controller/Red Apple.gif
+c000000004CAC4A8C0000000000000870
+t1286359692
+s2160
+
+N/Users/reshma/Desktop/View_Controller/Strawberry.gif
+c000000004CAC4A8C000000000000079B
+t1286359692
+s1947
+
+N/Users/reshma/Desktop/View_Controller/Sunflower.gif
+c000000004CAC4A8C0000000000000AAA
+t1286359692
+s2730
+
+N/Users/reshma/Desktop/View_Controller/View_ControllerViewController.xib
+c000000004CAC4A8C0000000000001A65
+t1286359692
+s6757
+
+N/Users/reshma/Desktop/View_Controller/View_Controller_Prefix.pch
+c000000004CAC4A8C00000000000000C7
+t1286359692
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/View_Controller/Yoruba Mask.gif
+c000000004CAC4A8C0000000000000978
+t1286359692
+s2424
+
+N/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app
+t1286360149
+s510
+
+N/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app.dSYM
+t1286360149
+s102
+
+N/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/Green Apple.gif
+t1286359707
+s2159
+
+N/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/India.gif
+t1286359690
+s2384
+
+N/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/Info.plist
+t1286359707
+s631
+
+N/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/MainWindow.nib
+t1286359707
+s1526
+
+N/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/Orange.gif
+t1286359707
+s2647
+
+N/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/Pear.gif
+t1286359707
+s1748
+
+N/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/PkgInfo
+t1286359707
+s8
+
+N/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/Red Apple.gif
+t1286359707
+s2160
+
+N/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/Strawberry.gif
+t1286359707
+s1947
+
+N/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/Sunflower.gif
+t1286359707
+s2730
+
+N/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/View_Controller
+t1286360149
+s32004
+
+N/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/View_ControllerViewController.nib
+t1286359707
+s1151
+
+N/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/Yoruba Mask.gif
+t1286359707
+s2424
+
+N/Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/View_Controller.LinkFileList
+c000000004CAC4A9A0000000000000256
+t1286359706
+s598
+
+N/Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/View_ControllerAppDelegate.o
+t1286359708
+s41596
+
+N/Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/View_ControllerViewController.o
+t1286359708
+s49640
+
+N/Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/main.o
+t1286359708
+s5948
+
+N/Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/myFile1.o
+t1286360149
+s34104
+
+N/Users/reshma/Desktop/View_Controller/main.m
+c000000004CAC4A8C000000000000017B
+t1286359692
+s379
+i<UIKit/UIKit.h>
+
+N/var/folders/FD/FDIqXRgIEMKi3wDwfq2Qm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Controller_Prefix-avxfovomcmpsaaejwvezoxcelhmv/View_Controller_Prefix.pch.gch
+t1282791998
+s13026768
+
+N/var/folders/FD/FDIqXRgIEMKi3wDwfq2Qm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Controller_Prefix-fbercedmrkjpddhjqkovmjfdzmgs/View_Controller_Prefix.pch.gch
+t1281529412
+s13805456
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Controller_Prefix-hjllpuedeqrepeexesrkwdkiicpy/View_Controller_Prefix.pch.gch
+t1286359707
+s13026768
+
+NView_Controller-Info.plist
+c000000004CAC4A8C000000000000038D
+t1286359692
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308052949#308052949#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/View_ControllerAppDelegate.o /Users/anandkumar/Desktop/View_Controller/Classes/View_ControllerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304484798.494780
+e304484798.682374
+r1
+xCompileC
+xbuild/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/View_ControllerAppDelegate.o
+x/Users/anandkumar/Desktop/View_Controller/Classes/View_ControllerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/anandkumar/Desktop/View_Controller/Classes/View_ControllerAppDelegate.m304484798#304484798#0(0"0(0#0#78"/Users/anandkumar/Desktop/View_Controller/Classes/View_ControllerAppDelegate.m4300911832#2104"    cd /Users/anandkumar/Desktop/View_Controller    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-generated-files.hmap -I/Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-own-target-headers.hmap -I/Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-all-target-headers.hmap -iquote /Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-project-headers.hmap -F/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator -I/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/include -I/Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/DerivedSources/i386 -I/Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/DerivedSources -include /var/folders/FD/FDIqXRgIEMKi3wDwfq2Qm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Controller_Prefix-avxfovomcmpsaaejwvezoxcelhmv/View_Controller_Prefix.pch -c /Users/anandkumar/Desktop/View_Controller/Classes/View_ControllerAppDelegate.m -o /Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/View_ControllerAppDelegate.o0#
+
+CCompileC build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/View_ControllerAppDelegate.o /Users/reshma/Desktop/View_Controller/Classes/View_ControllerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308052507.978769
+e308052508.072102
+r1
+xCompileC
+xbuild/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/View_ControllerAppDelegate.o
+x/Users/reshma/Desktop/View_Controller/Classes/View_ControllerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/reshma/Desktop/View_Controller/Classes/View_ControllerAppDelegate.m308052507#308052508#0(0"0(0#0#74"/Users/reshma/Desktop/View_Controller/Classes/View_ControllerAppDelegate.m4300911832#2060"    cd /Users/reshma/Desktop/View_Controller    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-generated-files.hmap -I/Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-own-target-headers.hmap -I/Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-all-target-headers.hmap -iquote /Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-project-headers.hmap -F/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator -I/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/DerivedSources/i386 -I/Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Controller_Prefix-hjllpuedeqrepeexesrkwdkiicpy/View_Controller_Prefix.pch -c /Users/reshma/Desktop/View_Controller/Classes/View_ControllerAppDelegate.m -o /Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/View_ControllerAppDelegate.o0#
+
+CCompileC build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/View_ControllerViewController.o /Users/anandkumar/Desktop/View_Controller/Classes/View_ControllerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304484798.592110
+e304484798.796695
+r1
+xCompileC
+xbuild/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/View_ControllerViewController.o
+x/Users/anandkumar/Desktop/View_Controller/Classes/View_ControllerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/anandkumar/Desktop/View_Controller/Classes/View_ControllerViewController.m304484798#304484798#0(0"0(0#0#81"/Users/anandkumar/Desktop/View_Controller/Classes/View_ControllerViewController.m4300911832#2110"    cd /Users/anandkumar/Desktop/View_Controller    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-generated-files.hmap -I/Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-own-target-headers.hmap -I/Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-all-target-headers.hmap -iquote /Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-project-headers.hmap -F/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator -I/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/include -I/Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/DerivedSources/i386 -I/Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/DerivedSources -include /var/folders/FD/FDIqXRgIEMKi3wDwfq2Qm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Controller_Prefix-avxfovomcmpsaaejwvezoxcelhmv/View_Controller_Prefix.pch -c /Users/anandkumar/Desktop/View_Controller/Classes/View_ControllerViewController.m -o /Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/View_ControllerViewController.o0#
+
+CCompileC build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/View_ControllerViewController.o /Users/reshma/Desktop/View_Controller/Classes/View_ControllerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308052508.048660
+e308052508.164357
+r1
+xCompileC
+xbuild/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/View_ControllerViewController.o
+x/Users/reshma/Desktop/View_Controller/Classes/View_ControllerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/reshma/Desktop/View_Controller/Classes/View_ControllerViewController.m308052508#308052508#0(0"0(0#0#77"/Users/reshma/Desktop/View_Controller/Classes/View_ControllerViewController.m4300911832#2066"    cd /Users/reshma/Desktop/View_Controller    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-generated-files.hmap -I/Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-own-target-headers.hmap -I/Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-all-target-headers.hmap -iquote /Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-project-headers.hmap -F/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator -I/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/DerivedSources/i386 -I/Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Controller_Prefix-hjllpuedeqrepeexesrkwdkiicpy/View_Controller_Prefix.pch -c /Users/reshma/Desktop/View_Controller/Classes/View_ControllerViewController.m -o /Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/View_ControllerViewController.o0#
+
+CCompileC build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/main.o /Users/anandkumar/Desktop/View_Controller/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304484798.493725
+e304484798.591802
+r1
+xCompileC
+xbuild/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/main.o
+x/Users/anandkumar/Desktop/View_Controller/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/anandkumar/Desktop/View_Controller/main.m304484798#304484798#0(0"0(0#0#48"/Users/anandkumar/Desktop/View_Controller/main.m4300911832#2052"    cd /Users/anandkumar/Desktop/View_Controller    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-generated-files.hmap -I/Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-own-target-headers.hmap -I/Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-all-target-headers.hmap -iquote /Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-project-headers.hmap -F/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator -I/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/include -I/Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/DerivedSources/i386 -I/Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/DerivedSources -include /var/folders/FD/FDIqXRgIEMKi3wDwfq2Qm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Controller_Prefix-avxfovomcmpsaaejwvezoxcelhmv/View_Controller_Prefix.pch -c /Users/anandkumar/Desktop/View_Controller/main.m -o /Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/main.o0#
+
+CCompileC build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/main.o /Users/reshma/Desktop/View_Controller/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308052507.977803
+e308052508.048353
+r1
+xCompileC
+xbuild/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/main.o
+x/Users/reshma/Desktop/View_Controller/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/reshma/Desktop/View_Controller/main.m308052507#308052508#0(0"0(0#0#44"/Users/reshma/Desktop/View_Controller/main.m4300911832#2008"    cd /Users/reshma/Desktop/View_Controller    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-generated-files.hmap -I/Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-own-target-headers.hmap -I/Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-all-target-headers.hmap -iquote /Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-project-headers.hmap -F/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator -I/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/DerivedSources/i386 -I/Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Controller_Prefix-hjllpuedeqrepeexesrkwdkiicpy/View_Controller_Prefix.pch -c /Users/reshma/Desktop/View_Controller/main.m -o /Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/main.o0#
+
+CCompileC build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/myFile1.o /Users/anandkumar/Desktop/View_Controller/Classes/myFile1.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304484798.682472
+e304484798.793157
+r1
+xCompileC
+xbuild/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/myFile1.o
+x/Users/anandkumar/Desktop/View_Controller/Classes/myFile1.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/anandkumar/Desktop/View_Controller/Classes/myFile1.m304484798#304484798#0(0"0(0#0#59"/Users/anandkumar/Desktop/View_Controller/Classes/myFile1.m4300911832#2066"    cd /Users/anandkumar/Desktop/View_Controller    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-generated-files.hmap -I/Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-own-target-headers.hmap -I/Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-all-target-headers.hmap -iquote /Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-project-headers.hmap -F/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator -I/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/include -I/Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/DerivedSources/i386 -I/Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/DerivedSources -include /var/folders/FD/FDIqXRgIEMKi3wDwfq2Qm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Controller_Prefix-avxfovomcmpsaaejwvezoxcelhmv/View_Controller_Prefix.pch -c /Users/anandkumar/Desktop/View_Controller/Classes/myFile1.m -o /Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/myFile1.o0#
+
+CCompileC build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/myFile1.o /Users/reshma/Desktop/View_Controller/Classes/myFile1.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308052949.429735
+e308052949.586792
+r1
+xCompileC
+xbuild/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/myFile1.o
+x/Users/reshma/Desktop/View_Controller/Classes/myFile1.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/reshma/Desktop/View_Controller/Classes/myFile1.m308052949#308052949#0(0"0(0#0#55"/Users/reshma/Desktop/View_Controller/Classes/myFile1.m4300911832#2022"    cd /Users/reshma/Desktop/View_Controller    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-generated-files.hmap -I/Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-own-target-headers.hmap -I/Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-all-target-headers.hmap -iquote /Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-project-headers.hmap -F/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator -I/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/DerivedSources/i386 -I/Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Controller_Prefix-hjllpuedeqrepeexesrkwdkiicpy/View_Controller_Prefix.pch -c /Users/reshma/Desktop/View_Controller/Classes/myFile1.m -o /Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/myFile1.o0#
+
+CCompileXIB /Users/anandkumar/Desktop/View_Controller/MainWindow.xib
+s303283030.829008
+e303283031.157969
+r1
+xCompileXIB
+x/Users/anandkumar/Desktop/View_Controller/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib303283030#303283031#0(0"0(0#0#56"/Users/anandkumar/Desktop/View_Controller/MainWindow.xib4300911832#499"    cd /Users/anandkumar/Desktop/View_Controller    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/MainWindow.nib /Users/anandkumar/Desktop/View_Controller/MainWindow.xib0#
+
+CCompileXIB /Users/anandkumar/Desktop/View_Controller/View_ControllerViewController.xib
+s303283030.829748
+e303283031.158476
+r1
+xCompileXIB
+x/Users/anandkumar/Desktop/View_Controller/View_ControllerViewController.xib
+lSLF07#2@44"CompileXIB View_ControllerViewController.xib303283030#303283031#0(0"0(0#0#75"/Users/anandkumar/Desktop/View_Controller/View_ControllerViewController.xib4300911832#537"    cd /Users/anandkumar/Desktop/View_Controller    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/View_ControllerViewController.nib /Users/anandkumar/Desktop/View_Controller/View_ControllerViewController.xib0#
+
+CCompileXIB /Users/reshma/Desktop/View_Controller/MainWindow.xib
+s308052507.021195
+e308052507.364172
+r1
+xCompileXIB
+x/Users/reshma/Desktop/View_Controller/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib308052507#308052507#0(0"0(0#0#52"/Users/reshma/Desktop/View_Controller/MainWindow.xib4300911832#487"    cd /Users/reshma/Desktop/View_Controller    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/MainWindow.nib /Users/reshma/Desktop/View_Controller/MainWindow.xib0#
+
+CCompileXIB /Users/reshma/Desktop/View_Controller/View_ControllerViewController.xib
+s308052507.022018
+e308052507.320478
+r1
+xCompileXIB
+x/Users/reshma/Desktop/View_Controller/View_ControllerViewController.xib
+lSLF07#2@44"CompileXIB View_ControllerViewController.xib308052507#308052507#0(0"0(0#0#71"/Users/reshma/Desktop/View_Controller/View_ControllerViewController.xib4300911832#525"    cd /Users/reshma/Desktop/View_Controller    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/View_ControllerViewController.nib /Users/reshma/Desktop/View_Controller/View_ControllerViewController.xib0#
+
+CCpResource "build/Debug-iphonesimulator/View_Controller.app/Green Apple.gif" "Green Apple.gif"
+s308052507.321384
+e308052507.360571
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_Controller.app/Green Apple.gif
+xGreen Apple.gif
+lSLF07#2@20"Copy Green Apple.gif308052507#308052507#0(0"0(0#0#53"/Users/reshma/Desktop/View_Controller/Green Apple.gif4300911832#466"    cd /Users/reshma/Desktop/View_Controller    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/reshma/Desktop/View_Controller/Green Apple.gif" /Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app0#
+
+CCpResource "build/Debug-iphonesimulator/View_Controller.app/Red Apple.gif" "Red Apple.gif"
+s308052507.331029
+e308052507.360891
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_Controller.app/Red Apple.gif
+xRed Apple.gif
+lSLF07#2@18"Copy Red Apple.gif308052507#308052507#0(0"0(0#0#51"/Users/reshma/Desktop/View_Controller/Red Apple.gif4300911832#464"    cd /Users/reshma/Desktop/View_Controller    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/reshma/Desktop/View_Controller/Red Apple.gif" /Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app0#
+
+CCpResource "build/Debug-iphonesimulator/View_Controller.app/Yoruba Mask.gif" "Yoruba Mask.gif"
+s308052507.336811
+e308052507.365151
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_Controller.app/Yoruba Mask.gif
+xYoruba Mask.gif
+lSLF07#2@20"Copy Yoruba Mask.gif308052507#308052507#0(0"0(0#0#53"/Users/reshma/Desktop/View_Controller/Yoruba Mask.gif4300911832#466"    cd /Users/reshma/Desktop/View_Controller    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/reshma/Desktop/View_Controller/Yoruba Mask.gif" /Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app0#
+
+CCpResource build/Debug-iphonesimulator/View_Controller.app/India.gif "../../../../Library/Application Support/Apple/iChat Icons/Flags/India.gif"
+r0
+
+CCpResource build/Debug-iphonesimulator/View_Controller.app/India.gif "/Library/Application Support/Apple/iChat Icons/Flags/India.gif"
+s303287765.305112
+e303287765.350253
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_Controller.app/India.gif
+x/Library/Application Support/Apple/iChat Icons/Flags/India.gif
+lSLF07#2@67"Copy /Library/Application Support/Apple/iChat Icons/Flags/India.gif303287765#303287765#0(0"0(0#0#62"/Library/Application Support/Apple/iChat Icons/Flags/India.gif4300911832#483"    cd /Users/anandkumar/Desktop/View_Controller    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Library/Application Support/Apple/iChat Icons/Flags/India.gif" /Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app0#
+
+CCpResource build/Debug-iphonesimulator/View_Controller.app/Orange.gif Orange.gif
+s308052507.324165
+e308052507.360677
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_Controller.app/Orange.gif
+xOrange.gif
+lSLF07#2@15"Copy Orange.gif308052507#308052507#0(0"0(0#0#48"/Users/reshma/Desktop/View_Controller/Orange.gif4300911832#459"    cd /Users/reshma/Desktop/View_Controller    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Desktop/View_Controller/Orange.gif /Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app0#
+
+CCpResource build/Debug-iphonesimulator/View_Controller.app/Pear.gif Pear.gif
+s308052507.329922
+e308052507.360781
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_Controller.app/Pear.gif
+xPear.gif
+lSLF07#2@13"Copy Pear.gif308052507#308052507#0(0"0(0#0#46"/Users/reshma/Desktop/View_Controller/Pear.gif4300911832#457"    cd /Users/reshma/Desktop/View_Controller    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Desktop/View_Controller/Pear.gif /Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app0#
+
+CCpResource build/Debug-iphonesimulator/View_Controller.app/Strawberry.gif Strawberry.gif
+s308052507.335276
+e308052507.360998
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_Controller.app/Strawberry.gif
+xStrawberry.gif
+lSLF07#2@19"Copy Strawberry.gif308052507#308052507#0(0"0(0#0#52"/Users/reshma/Desktop/View_Controller/Strawberry.gif4300911832#463"    cd /Users/reshma/Desktop/View_Controller    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Desktop/View_Controller/Strawberry.gif /Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app0#
+
+CCpResource build/Debug-iphonesimulator/View_Controller.app/Sunflower.gif Sunflower.gif
+s308052507.320651
+e308052507.360452
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_Controller.app/Sunflower.gif
+xSunflower.gif
+lSLF07#2@18"Copy Sunflower.gif308052507#308052507#0(0"0(0#0#51"/Users/reshma/Desktop/View_Controller/Sunflower.gif4300911832#462"    cd /Users/reshma/Desktop/View_Controller    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Desktop/View_Controller/Sunflower.gif /Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app0#
+
+CGenerateDSYMFile /Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app.dSYM /Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/View_Controller
+s304484798.837609
+e304484798.855230
+r1
+xGenerateDSYMFile
+x/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app.dSYM
+x/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/View_Controller
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/View_Controller.app.dSYM build/Debug-iphonesimulator/View_Controller.app/View_Controller304484798#304484798#0(0"0(0#0#105"/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/View_Controller4300911832#416"    cd /Users/anandkumar/Desktop/View_Controller    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/View_Controller -o /Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app.dSYM0#
+
+CGenerateDSYMFile /Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app.dSYM /Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/View_Controller
+s308052949.608242
+e308052949.623683
+r1
+xGenerateDSYMFile
+x/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app.dSYM
+x/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/View_Controller
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/View_Controller.app.dSYM build/Debug-iphonesimulator/View_Controller.app/View_Controller308052949#308052949#0(0"0(0#0#101"/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/View_Controller4300911832#404"    cd /Users/reshma/Desktop/View_Controller    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/View_Controller -o /Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app.dSYM0#
+
+CLd /Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/View_Controller normal i386
+s304484798.796791
+e304484798.837493
+r1
+xLd
+x/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/View_Controller
+xnormal
+xi386
+lSLF07#2@110"Link /Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/View_Controller304484798#304484798#0(0"0(0#0#0"4300911832#919"    cd /Users/anandkumar/Desktop/View_Controller    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator -F/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator -filelist /Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/View_Controller.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/View_Controller0#
+
+CLd /Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/View_Controller normal i386
+s308052949.586886
+e308052949.608144
+r1
+xLd
+x/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/View_Controller
+xnormal
+xi386
+lSLF07#2@106"Link /Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/View_Controller308052949#308052949#0(0"0(0#0#0"4300911832#899"    cd /Users/reshma/Desktop/View_Controller    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator -F/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator -filelist /Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/Objects-normal/i386/View_Controller.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/View_Controller0#
+
+CProcessInfoPlistFile /Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/Info.plist View_Controller-Info.plist
+s303283030.818727
+e303283030.828917
+r1
+xProcessInfoPlistFile
+x/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/Info.plist
+xView_Controller-Info.plist
+lSLF07#2@34"Process View_Controller-Info.plist303283030#303283030#0(0"0(0#0#68"/Users/anandkumar/Desktop/View_Controller/View_Controller-Info.plist4300911832#512"    cd /Users/anandkumar/Desktop/View_Controller    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility View_Controller-Info.plist -genpkginfo /Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/Info.plist View_Controller-Info.plist
+s308052507.016823
+e308052507.021125
+r1
+xProcessInfoPlistFile
+x/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/Info.plist
+xView_Controller-Info.plist
+lSLF07#2@34"Process View_Controller-Info.plist308052507#308052507#0(0"0(0#0#64"/Users/reshma/Desktop/View_Controller/View_Controller-Info.plist4300911832#500"    cd /Users/reshma/Desktop/View_Controller    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility View_Controller-Info.plist -genpkginfo /Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app/Info.plist0#
+
+CProcessPCH /var/folders/FD/FDIqXRgIEMKi3wDwfq2Qm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Controller_Prefix-avxfovomcmpsaaejwvezoxcelhmv/View_Controller_Prefix.pch.gch View_Controller_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s304484797.898702
+e304484798.493613
+r1
+xProcessPCH
+x/var/folders/FD/FDIqXRgIEMKi3wDwfq2Qm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Controller_Prefix-avxfovomcmpsaaejwvezoxcelhmv/View_Controller_Prefix.pch.gch
+xView_Controller_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile View_Controller_Prefix.pch304484797#304484798#0(0"0(0#0#68"/Users/anandkumar/Desktop/View_Controller/View_Controller_Prefix.pch4300911832#1933"    cd /Users/anandkumar/Desktop/View_Controller    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-generated-files.hmap -I/Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-own-target-headers.hmap -I/Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-all-target-headers.hmap -iquote /Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-project-headers.hmap -F/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator -I/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/include -I/Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/DerivedSources/i386 -I/Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/DerivedSources -c /Users/anandkumar/Desktop/View_Controller/View_Controller_Prefix.pch -o /var/folders/FD/FDIqXRgIEMKi3wDwfq2Qm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Controller_Prefix-avxfovomcmpsaaejwvezoxcelhmv/View_Controller_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/FD/FDIqXRgIEMKi3wDwfq2Qm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Controller_Prefix-fbercedmrkjpddhjqkovmjfdzmgs/View_Controller_Prefix.pch.gch View_Controller_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s303222211.704032
+e303222212.422581
+r1
+xProcessPCH
+x/var/folders/FD/FDIqXRgIEMKi3wDwfq2Qm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Controller_Prefix-fbercedmrkjpddhjqkovmjfdzmgs/View_Controller_Prefix.pch.gch
+xView_Controller_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile View_Controller_Prefix.pch303222211#303222212#0(0"0(0#0#68"/Users/anandkumar/Desktop/View_Controller/View_Controller_Prefix.pch4300911832#1931"    cd /Users/anandkumar/Desktop/View_Controller    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-generated-files.hmap -I/Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-own-target-headers.hmap -I/Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-all-target-headers.hmap -iquote /Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-project-headers.hmap -F/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator -I/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/include -I/Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/DerivedSources/i386 -I/Users/anandkumar/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/DerivedSources -c /Users/anandkumar/Desktop/View_Controller/View_Controller_Prefix.pch -o /var/folders/FD/FDIqXRgIEMKi3wDwfq2Qm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Controller_Prefix-fbercedmrkjpddhjqkovmjfdzmgs/View_Controller_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Controller_Prefix-hjllpuedeqrepeexesrkwdkiicpy/View_Controller_Prefix.pch.gch View_Controller_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308052507.365244
+e308052507.977707
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Controller_Prefix-hjllpuedeqrepeexesrkwdkiicpy/View_Controller_Prefix.pch.gch
+xView_Controller_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile View_Controller_Prefix.pch308052507#308052507#0(0"0(0#0#64"/Users/reshma/Desktop/View_Controller/View_Controller_Prefix.pch4300911832#1893"    cd /Users/reshma/Desktop/View_Controller    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-generated-files.hmap -I/Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-own-target-headers.hmap -I/Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-all-target-headers.hmap -iquote /Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/View_Controller-project-headers.hmap -F/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator -I/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/DerivedSources/i386 -I/Users/reshma/Desktop/View_Controller/build/View_Controller.build/Debug-iphonesimulator/View_Controller.build/DerivedSources -c /Users/reshma/Desktop/View_Controller/View_Controller_Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Controller_Prefix-hjllpuedeqrepeexesrkwdkiicpy/View_Controller_Prefix.pch.gch0#
+
+CTouch /Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app
+s304484798.855319
+e304484798.859148
+r1
+xTouch
+x/Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app
+lSLF07#2@95"Touch /Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app304484798#304484798#0(0"0(0#0#0"4300911832#292"    cd /Users/anandkumar/Desktop/View_Controller    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/anandkumar/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app0#
+
+CTouch /Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app
+s308052949.623762
+e308052949.626157
+r1
+xTouch
+x/Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app
+lSLF07#2@91"Touch /Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app308052949#308052949#0(0"0(0#0#0"4300911832#284"    cd /Users/reshma/Desktop/View_Controller    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/reshma/Desktop/View_Controller/build/Debug-iphonesimulator/View_Controller.app0#
+

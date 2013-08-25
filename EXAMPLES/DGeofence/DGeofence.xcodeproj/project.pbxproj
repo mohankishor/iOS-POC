@@ -1,0 +1,353 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4C9AFED715C1886A009B8E3F /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 4C9AFED515C1886A009B8E3F /* Model.xcdatamodeld */; };
+		4C9AFEDB15C18C64009B8E3F /* DDataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C9AFEDA15C18C63009B8E3F /* DDataManager.m */; };
+		4C9AFEDE15C18E2A009B8E3F /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C9AFEDC15C18E17009B8E3F /* CoreData.framework */; };
+		4C9AFEDF15C18E2C009B8E3F /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CBD222515C17C3600275295 /* CoreLocation.framework */; };
+		4C9AFEE015C18E2D009B8E3F /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CBD222215C17C3200275295 /* MapKit.framework */; };
+		4C9AFEE315C19020009B8E3F /* Fence.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C9AFEE215C19020009B8E3F /* Fence.m */; };
+		4CBD21FF15C179EB00275295 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CBD21FE15C179EB00275295 /* UIKit.framework */; };
+		4CBD220115C179EB00275295 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CBD220015C179EB00275295 /* Foundation.framework */; };
+		4CBD220315C179EB00275295 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CBD220215C179EB00275295 /* CoreGraphics.framework */; };
+		4CBD220915C179EB00275295 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4CBD220715C179EB00275295 /* InfoPlist.strings */; };
+		4CBD220B15C179EB00275295 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CBD220A15C179EB00275295 /* main.m */; };
+		4CBD220F15C179EB00275295 /* DAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CBD220E15C179EB00275295 /* DAppDelegate.m */; };
+		4CBD221215C179EB00275295 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4CBD221015C179EB00275295 /* MainStoryboard.storyboard */; };
+		4CBD221515C179EB00275295 /* DViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CBD221415C179EB00275295 /* DViewController.m */; };
+		4CBD221D15C17AF600275295 /* DAddViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CBD221C15C17AF600275295 /* DAddViewController.m */; };
+		7DA7B75F15C7F8EC006CCCD0 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 7DA7B75D15C7F8EC006CCCD0 /* Icon.png */; };
+		7DA7B76015C7F8EC006CCCD0 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7DA7B75E15C7F8EC006CCCD0 /* Icon@2x.png */; };
+		7DA7B76215C7F939006CCCD0 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 7DA7B76115C7F939006CCCD0 /* Icon.png */; };
+		7DA7B76415C7F93C006CCCD0 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7DA7B76315C7F93C006CCCD0 /* Icon@2x.png */; };
+		7DCE2EFD15CA46CC007D80AE /* Crosshairs.png in Resources */ = {isa = PBXBuildFile; fileRef = 7DCE2EFC15CA46CC007D80AE /* Crosshairs.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		4C9AFED615C1886A009B8E3F /* Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Model.xcdatamodel; sourceTree = "<group>"; };
+		4C9AFED915C18C63009B8E3F /* DDataManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDataManager.h; sourceTree = "<group>"; };
+		4C9AFEDA15C18C63009B8E3F /* DDataManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDataManager.m; sourceTree = "<group>"; };
+		4C9AFEDC15C18E17009B8E3F /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		4C9AFEE115C19020009B8E3F /* Fence.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Fence.h; sourceTree = "<group>"; };
+		4C9AFEE215C19020009B8E3F /* Fence.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Fence.m; sourceTree = "<group>"; };
+		4CBD21FA15C179EB00275295 /* DGeofence.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DGeofence.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4CBD21FE15C179EB00275295 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		4CBD220015C179EB00275295 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		4CBD220215C179EB00275295 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		4CBD220615C179EB00275295 /* DGeofence-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DGeofence-Info.plist"; sourceTree = "<group>"; };
+		4CBD220815C179EB00275295 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		4CBD220A15C179EB00275295 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		4CBD220C15C179EB00275295 /* DGeofence-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DGeofence-Prefix.pch"; sourceTree = "<group>"; };
+		4CBD220D15C179EB00275295 /* DAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DAppDelegate.h; sourceTree = "<group>"; };
+		4CBD220E15C179EB00275295 /* DAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DAppDelegate.m; sourceTree = "<group>"; };
+		4CBD221115C179EB00275295 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		4CBD221315C179EB00275295 /* DViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DViewController.h; sourceTree = "<group>"; };
+		4CBD221415C179EB00275295 /* DViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DViewController.m; sourceTree = "<group>"; };
+		4CBD221B15C17AF600275295 /* DAddViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DAddViewController.h; sourceTree = "<group>"; };
+		4CBD221C15C17AF600275295 /* DAddViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DAddViewController.m; sourceTree = "<group>"; };
+		4CBD222215C17C3200275295 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		4CBD222515C17C3600275295 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		7DA7B75D15C7F8EC006CCCD0 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		7DA7B75E15C7F8EC006CCCD0 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		7DA7B76115C7F939006CCCD0 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		7DA7B76315C7F93C006CCCD0 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		7DCE2EFC15CA46CC007D80AE /* Crosshairs.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Crosshairs.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4CBD21F715C179EB00275295 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4C9AFEDE15C18E2A009B8E3F /* CoreData.framework in Frameworks */,
+				4CBD21FF15C179EB00275295 /* UIKit.framework in Frameworks */,
+				4C9AFEDF15C18E2C009B8E3F /* CoreLocation.framework in Frameworks */,
+				4CBD220115C179EB00275295 /* Foundation.framework in Frameworks */,
+				4C9AFEE015C18E2D009B8E3F /* MapKit.framework in Frameworks */,
+				4CBD220315C179EB00275295 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4CBD21EF15C179EB00275295 = {
+			isa = PBXGroup;
+			children = (
+				7DA7B76315C7F93C006CCCD0 /* Icon@2x.png */,
+				7DA7B76115C7F939006CCCD0 /* Icon.png */,
+				4CBD220415C179EB00275295 /* DGeofence */,
+				4CBD21FD15C179EB00275295 /* Frameworks */,
+				4CBD21FB15C179EB00275295 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4CBD21FB15C179EB00275295 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4CBD21FA15C179EB00275295 /* DGeofence.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4CBD21FD15C179EB00275295 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				4C9AFEDC15C18E17009B8E3F /* CoreData.framework */,
+				4CBD222515C17C3600275295 /* CoreLocation.framework */,
+				4CBD222215C17C3200275295 /* MapKit.framework */,
+				4CBD21FE15C179EB00275295 /* UIKit.framework */,
+				4CBD220015C179EB00275295 /* Foundation.framework */,
+				4CBD220215C179EB00275295 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		4CBD220415C179EB00275295 /* DGeofence */ = {
+			isa = PBXGroup;
+			children = (
+				7DCE2EFC15CA46CC007D80AE /* Crosshairs.png */,
+				7DA7B75D15C7F8EC006CCCD0 /* Icon.png */,
+				7DA7B75E15C7F8EC006CCCD0 /* Icon@2x.png */,
+				4C9AFED515C1886A009B8E3F /* Model.xcdatamodeld */,
+				4CBD221015C179EB00275295 /* MainStoryboard.storyboard */,
+				4C9AFED915C18C63009B8E3F /* DDataManager.h */,
+				4C9AFEDA15C18C63009B8E3F /* DDataManager.m */,
+				4CBD220D15C179EB00275295 /* DAppDelegate.h */,
+				4CBD220E15C179EB00275295 /* DAppDelegate.m */,
+				4CBD221315C179EB00275295 /* DViewController.h */,
+				4CBD221415C179EB00275295 /* DViewController.m */,
+				4CBD221B15C17AF600275295 /* DAddViewController.h */,
+				4CBD221C15C17AF600275295 /* DAddViewController.m */,
+				4C9AFEE115C19020009B8E3F /* Fence.h */,
+				4C9AFEE215C19020009B8E3F /* Fence.m */,
+				4CBD220515C179EB00275295 /* Supporting Files */,
+			);
+			path = DGeofence;
+			sourceTree = "<group>";
+		};
+		4CBD220515C179EB00275295 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				4CBD220615C179EB00275295 /* DGeofence-Info.plist */,
+				4CBD220715C179EB00275295 /* InfoPlist.strings */,
+				4CBD220A15C179EB00275295 /* main.m */,
+				4CBD220C15C179EB00275295 /* DGeofence-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4CBD21F915C179EB00275295 /* DGeofence */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4CBD221815C179EB00275295 /* Build configuration list for PBXNativeTarget "DGeofence" */;
+			buildPhases = (
+				4CBD21F615C179EB00275295 /* Sources */,
+				4CBD21F715C179EB00275295 /* Frameworks */,
+				4CBD21F815C179EB00275295 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DGeofence;
+			productName = DGeofence;
+			productReference = 4CBD21FA15C179EB00275295 /* DGeofence.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4CBD21F115C179EB00275295 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 4CBD21F415C179EB00275295 /* Build configuration list for PBXProject "DGeofence" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 4CBD21EF15C179EB00275295;
+			productRefGroup = 4CBD21FB15C179EB00275295 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4CBD21F915C179EB00275295 /* DGeofence */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4CBD21F815C179EB00275295 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4CBD220915C179EB00275295 /* InfoPlist.strings in Resources */,
+				4CBD221215C179EB00275295 /* MainStoryboard.storyboard in Resources */,
+				7DA7B75F15C7F8EC006CCCD0 /* Icon.png in Resources */,
+				7DA7B76015C7F8EC006CCCD0 /* Icon@2x.png in Resources */,
+				7DA7B76215C7F939006CCCD0 /* Icon.png in Resources */,
+				7DA7B76415C7F93C006CCCD0 /* Icon@2x.png in Resources */,
+				7DCE2EFD15CA46CC007D80AE /* Crosshairs.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4CBD21F615C179EB00275295 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4CBD220B15C179EB00275295 /* main.m in Sources */,
+				4CBD220F15C179EB00275295 /* DAppDelegate.m in Sources */,
+				4CBD221515C179EB00275295 /* DViewController.m in Sources */,
+				4CBD221D15C17AF600275295 /* DAddViewController.m in Sources */,
+				4C9AFED715C1886A009B8E3F /* Model.xcdatamodeld in Sources */,
+				4C9AFEDB15C18C64009B8E3F /* DDataManager.m in Sources */,
+				4C9AFEE315C19020009B8E3F /* Fence.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		4CBD220715C179EB00275295 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4CBD220815C179EB00275295 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		4CBD221015C179EB00275295 /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4CBD221115C179EB00275295 /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		4CBD221615C179EB00275295 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Gregg Hammerman (JFWXRW9LRC)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				PROVISIONING_PROFILE = "390A943A-5745-468E-BFC9-DEB630E6B51D";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		4CBD221715C179EB00275295 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Gregg Hammerman (JFWXRW9LRC)";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "390A943A-5745-468E-BFC9-DEB630E6B51D";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4CBD221915C179EB00275295 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "DGeofence/DGeofence-Prefix.pch";
+				INFOPLIST_FILE = "DGeofence/DGeofence-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		4CBD221A15C179EB00275295 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "DGeofence/DGeofence-Prefix.pch";
+				INFOPLIST_FILE = "DGeofence/DGeofence-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4CBD21F415C179EB00275295 /* Build configuration list for PBXProject "DGeofence" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4CBD221615C179EB00275295 /* Debug */,
+				4CBD221715C179EB00275295 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4CBD221815C179EB00275295 /* Build configuration list for PBXNativeTarget "DGeofence" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4CBD221915C179EB00275295 /* Debug */,
+				4CBD221A15C179EB00275295 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		4C9AFED515C1886A009B8E3F /* Model.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				4C9AFED615C1886A009B8E3F /* Model.xcdatamodel */,
+			);
+			currentVersion = 4C9AFED615C1886A009B8E3F /* Model.xcdatamodel */;
+			path = Model.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 4CBD21F115C179EB00275295 /* Project object */;
+}

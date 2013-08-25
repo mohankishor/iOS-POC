@@ -1,0 +1,712 @@
+TMailComposer
+v7
+r0
+t314113613.296751
+cCheck dependencies
+cProcessInfoPlistFile /Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app/Info.plist MailComposer-Info.plist
+cCpResource build/Debug-iphonesimulator/MailComposer.app/ReadMe.txt ReadMe.txt
+cCpResource build/Debug-iphonesimulator/MailComposer.app/Icon-72.png images/Icon-72.png
+cCpResource build/Debug-iphonesimulator/MailComposer.app/Icon-Small-50.png images/Icon-Small-50.png
+cCpResource build/Debug-iphonesimulator/MailComposer.app/Icon-Small.png images/Icon-Small.png
+cCpResource build/Debug-iphonesimulator/MailComposer.app/Icon-Small@2x.png images/Icon-Small@2x.png
+cCpResource build/Debug-iphonesimulator/MailComposer.app/Icon.png images/Icon.png
+cCpResource build/Debug-iphonesimulator/MailComposer.app/Icon@2x.png images/Icon@2x.png
+cCpResource build/Debug-iphonesimulator/MailComposer.app/iTunesArtwork.png images/iTunesArtwork.png
+cCpResource build/Debug-iphonesimulator/MailComposer.app/rainy.png images/rainy.png
+cCompileXIB /Users/reshma/Desktop/MailComposer/en.lproj/MailComposerViewController.xib
+cCompileXIB /Users/reshma/Desktop/MailComposer/en.lproj/MainWindow.xib
+cProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MailComposer_Prefix-aqqxqjoxvpgocdfzkrwnbmbwwhsu/MailComposer_Prefix.pch.gch MailComposer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/main.o /Users/reshma/Desktop/MailComposer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposerAppDelegate.o /Users/reshma/Desktop/MailComposer/Classes/MailComposerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposerViewController.o /Users/reshma/Desktop/MailComposer/Classes/MailComposerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer normal i386
+cGenerateDSYMFile /Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app.dSYM /Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer
+cTouch /Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MFMailComposeViewController.h
+c000000004CC6561F000000000000291C
+t1288066591
+s10524
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004CC6561F00000000000000CD
+t1288066591
+s205
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004CC6562D000000000009BEC0
+t1288066605
+s638656
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/reshma/Desktop/MailComposer/Classes/MailComposerAppDelegate.h
+c000000004C33465A0000000000000AEE
+t1278428762
+s2798
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/MailComposer/Classes/MailComposerAppDelegate.m
+c000000004C33465A0000000000000B6E
+t1278428762
+s2926
+i"MailComposerAppDelegate.h"
+i"MailComposerViewController.h"
+
+N/Users/reshma/Desktop/MailComposer/Classes/MailComposerViewController.h
+c000000004C33465A0000000000000B19
+t1278428762
+s2841
+i<UIKit/UIKit.h>
+i<MessageUI/MessageUI.h>
+i<MessageUI/MFMailComposeViewController.h>
+
+N/Users/reshma/Desktop/MailComposer/Classes/MailComposerViewController.m
+c000000004C33465A00000000000018A2
+t1278428762
+s6306
+i"MailComposerViewController.h"
+
+N/Users/reshma/Desktop/MailComposer/MailComposer_Prefix.pch
+c000000004C33465A00000000000009E3
+t1278428762
+s2531
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/MailComposer/ReadMe.txt
+c000000004C2112C20000000000000E9E
+t1277235906
+s3742
+
+N/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app
+t1292397240
+s510
+
+N/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app.dSYM
+t1292397240
+s102
+
+N/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app/Icon-72.png
+t1292393096
+s1063
+
+N/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app/Icon-Small-50.png
+t1292393096
+s992
+
+N/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app/Icon-Small.png
+t1292393096
+s918
+
+N/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app/Icon-Small@2x.png
+t1292393096
+s1010
+
+N/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app/Icon.png
+t1292393096
+s1007
+
+N/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app/Icon@2x.png
+t1292393096
+s1252
+
+N/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app/Info.plist
+t1292393096
+s744
+
+N/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer
+t1292397240
+s21876
+
+N/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app/PkgInfo
+t1292393096
+s8
+
+N/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app/ReadMe.txt
+t1292393096
+s3742
+
+N/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app/en.lproj/MailComposerViewController.nib
+t1292393097
+s1967
+
+N/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app/en.lproj/MainWindow.nib
+t1292393097
+s1109
+
+N/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app/iTunesArtwork.png
+t1292393096
+s5188
+
+N/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app/rainy.png
+t1292393096
+s18948
+
+N/Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposer.LinkFileList
+c000000004D086AB500000000000001A9
+t1292397237
+s425
+
+N/Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposerAppDelegate.o
+t1292397240
+s48632
+
+N/Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposerViewController.o
+t1292397240
+s54536
+
+N/Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/main.o
+t1292397240
+s6296
+
+N/Users/reshma/Desktop/MailComposer/en.lproj/MailComposerViewController.xib
+c000000004C2112C20000000000002847
+t1277235906
+s10311
+
+N/Users/reshma/Desktop/MailComposer/en.lproj/MainWindow.xib
+c000000004C2112C2000000000000244C
+t1277235906
+s9292
+
+N/Users/reshma/Desktop/MailComposer/images/Icon-72.png
+c000000004C2112C20000000000000427
+t1277235906
+s1063
+
+N/Users/reshma/Desktop/MailComposer/images/Icon-Small-50.png
+c000000004C2112C200000000000003E0
+t1277235906
+s992
+
+N/Users/reshma/Desktop/MailComposer/images/Icon-Small.png
+c000000004C2112C20000000000000396
+t1277235906
+s918
+
+N/Users/reshma/Desktop/MailComposer/images/Icon-Small@2x.png
+c000000004C2112C200000000000003F2
+t1277235906
+s1010
+
+N/Users/reshma/Desktop/MailComposer/images/Icon.png
+c000000004C2112C200000000000003EF
+t1277235906
+s1007
+
+N/Users/reshma/Desktop/MailComposer/images/Icon@2x.png
+c000000004C2112C200000000000004E4
+t1277235906
+s1252
+
+N/Users/reshma/Desktop/MailComposer/images/iTunesArtwork.png
+c000000004C2112C20000000000001444
+t1277235906
+s5188
+
+N/Users/reshma/Desktop/MailComposer/images/rainy.png
+c000000004C2112C20000000000004A04
+t1277235906
+s18948
+
+N/Users/reshma/Desktop/MailComposer/main.m
+c000000004C33465A0000000000000A5E
+t1278428762
+s2654
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/MailComposer/Classes/MailComposerAppDelegate.h
+c000000004C33465A0000000000000AEE
+t1278428762
+s2798
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/MailComposer/Classes/MailComposerAppDelegate.m
+c000000004C33465A0000000000000B6E
+t1278428762
+s2926
+i"MailComposerAppDelegate.h"
+i"MailComposerViewController.h"
+
+N/Users/reshma/Downloads/MailComposer/Classes/MailComposerViewController.h
+c000000004C33465A0000000000000B19
+t1278428762
+s2841
+i<UIKit/UIKit.h>
+i<MessageUI/MessageUI.h>
+i<MessageUI/MFMailComposeViewController.h>
+
+N/Users/reshma/Downloads/MailComposer/Classes/MailComposerViewController.m
+c000000004C33465A00000000000018A2
+t1278428762
+s6306
+i"MailComposerViewController.h"
+
+N/Users/reshma/Downloads/MailComposer/MailComposer_Prefix.pch
+c000000004C33465A00000000000009E3
+t1278428762
+s2531
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/MailComposer/ReadMe.txt
+c000000004C2112C20000000000000E9E
+t1277235906
+s3742
+
+N/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app
+t1292393097
+s510
+
+N/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app.dSYM
+t1292393097
+s102
+
+N/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app/Icon-72.png
+t1292393096
+s1063
+
+N/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app/Icon-Small-50.png
+t1292393096
+s992
+
+N/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app/Icon-Small.png
+t1292393096
+s918
+
+N/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app/Icon-Small@2x.png
+t1292393096
+s1010
+
+N/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app/Icon.png
+t1292393096
+s1007
+
+N/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app/Icon@2x.png
+t1292393096
+s1252
+
+N/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app/Info.plist
+t1292393096
+s744
+
+N/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer
+t1292393097
+s21888
+
+N/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app/PkgInfo
+t1292393096
+s8
+
+N/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app/ReadMe.txt
+t1292393096
+s3742
+
+N/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app/en.lproj/MailComposerViewController.nib
+t1292393097
+s1967
+
+N/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app/en.lproj/MainWindow.nib
+t1292393097
+s1109
+
+N/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app/iTunesArtwork.png
+t1292393096
+s5188
+
+N/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app/rainy.png
+t1292393096
+s18948
+
+N/Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposer.LinkFileList
+c000000004D085A8800000000000001AF
+t1292393096
+s431
+
+N/Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposerAppDelegate.o
+t1292393097
+s48636
+
+N/Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposerViewController.o
+t1292393097
+s54540
+
+N/Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/main.o
+t1292393097
+s6300
+
+N/Users/reshma/Downloads/MailComposer/en.lproj/MailComposerViewController.xib
+c000000004C2112C20000000000002847
+t1277235906
+s10311
+
+N/Users/reshma/Downloads/MailComposer/en.lproj/MainWindow.xib
+c000000004C2112C2000000000000244C
+t1277235906
+s9292
+
+N/Users/reshma/Downloads/MailComposer/images/Icon-72.png
+c000000004C2112C20000000000000427
+t1277235906
+s1063
+
+N/Users/reshma/Downloads/MailComposer/images/Icon-Small-50.png
+c000000004C2112C200000000000003E0
+t1277235906
+s992
+
+N/Users/reshma/Downloads/MailComposer/images/Icon-Small.png
+c000000004C2112C20000000000000396
+t1277235906
+s918
+
+N/Users/reshma/Downloads/MailComposer/images/Icon-Small@2x.png
+c000000004C2112C200000000000003F2
+t1277235906
+s1010
+
+N/Users/reshma/Downloads/MailComposer/images/Icon.png
+c000000004C2112C200000000000003EF
+t1277235906
+s1007
+
+N/Users/reshma/Downloads/MailComposer/images/Icon@2x.png
+c000000004C2112C200000000000004E4
+t1277235906
+s1252
+
+N/Users/reshma/Downloads/MailComposer/images/iTunesArtwork.png
+c000000004C2112C20000000000001444
+t1277235906
+s5188
+
+N/Users/reshma/Downloads/MailComposer/images/rainy.png
+c000000004C2112C20000000000004A04
+t1277235906
+s18948
+
+N/Users/reshma/Downloads/MailComposer/main.m
+c000000004C33465A0000000000000A5E
+t1278428762
+s2654
+i<UIKit/UIKit.h>
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MailComposer_Prefix-aqqxqjoxvpgocdfzkrwnbmbwwhsu/MailComposer_Prefix.pch.gch
+t1292397239
+s15473872
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MailComposer_Prefix-dmamfrimicvfnjbhuchtqfelbigd/MailComposer_Prefix.pch.gch
+t1292393097
+s15473872
+
+NMailComposer-Info.plist
+c000000004C2112C2000000000000046A
+t1277235906
+s1130
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies314113613#314113613#0(0"0(0#1#0"8612314144#0"0#
+
+CCompileC build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposerAppDelegate.o /Users/reshma/Desktop/MailComposer/Classes/MailComposerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314090040.059389
+e314090040.297191
+r1
+xCompileC
+xbuild/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposerAppDelegate.o
+x/Users/reshma/Desktop/MailComposer/Classes/MailComposerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/reshma/Desktop/MailComposer/Classes/MailComposerAppDelegate.m314090040#314090040#0(0"0(0#0#68"/Users/reshma/Desktop/MailComposer/Classes/MailComposerAppDelegate.m8634713824#2016"    cd /Users/reshma/Desktop/MailComposer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-generated-files.hmap -I/Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-own-target-headers.hmap -I/Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-all-target-headers.hmap -iquote /Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-project-headers.hmap -F/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator -I/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/DerivedSources/i386 -I/Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MailComposer_Prefix-aqqxqjoxvpgocdfzkrwnbmbwwhsu/MailComposer_Prefix.pch -c /Users/reshma/Desktop/MailComposer/Classes/MailComposerAppDelegate.m -o /Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposerAppDelegate.o0#
+
+CCompileC build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposerAppDelegate.o /Users/reshma/Downloads/MailComposer/Classes/MailComposerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314085897.777378
+e314085897.912832
+r1
+xCompileC
+xbuild/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposerAppDelegate.o
+x/Users/reshma/Downloads/MailComposer/Classes/MailComposerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/reshma/Downloads/MailComposer/Classes/MailComposerAppDelegate.m314085897#314085897#0(0"0(0#0#70"/Users/reshma/Downloads/MailComposer/Classes/MailComposerAppDelegate.m8626455008#2038"    cd /Users/reshma/Downloads/MailComposer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-generated-files.hmap -I/Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-own-target-headers.hmap -I/Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-all-target-headers.hmap -iquote /Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-project-headers.hmap -F/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator -I/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/include -I/Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/DerivedSources/i386 -I/Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MailComposer_Prefix-dmamfrimicvfnjbhuchtqfelbigd/MailComposer_Prefix.pch -c /Users/reshma/Downloads/MailComposer/Classes/MailComposerAppDelegate.m -o /Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposerAppDelegate.o0#
+
+CCompileC build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposerViewController.o /Users/reshma/Desktop/MailComposer/Classes/MailComposerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314090040.278060
+e314090040.366272
+r1
+xCompileC
+xbuild/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposerViewController.o
+x/Users/reshma/Desktop/MailComposer/Classes/MailComposerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/reshma/Desktop/MailComposer/Classes/MailComposerViewController.m314090040#314090040#0(0"0(0#0#71"/Users/reshma/Desktop/MailComposer/Classes/MailComposerViewController.m8627569120#2022"    cd /Users/reshma/Desktop/MailComposer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-generated-files.hmap -I/Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-own-target-headers.hmap -I/Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-all-target-headers.hmap -iquote /Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-project-headers.hmap -F/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator -I/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/DerivedSources/i386 -I/Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MailComposer_Prefix-aqqxqjoxvpgocdfzkrwnbmbwwhsu/MailComposer_Prefix.pch -c /Users/reshma/Desktop/MailComposer/Classes/MailComposerViewController.m -o /Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposerViewController.o0#
+
+CCompileC build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposerViewController.o /Users/reshma/Downloads/MailComposer/Classes/MailComposerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314085897.839673
+e314085897.923009
+r1
+xCompileC
+xbuild/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposerViewController.o
+x/Users/reshma/Downloads/MailComposer/Classes/MailComposerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/reshma/Downloads/MailComposer/Classes/MailComposerViewController.m314085897#314085897#0(0"0(0#0#73"/Users/reshma/Downloads/MailComposer/Classes/MailComposerViewController.m8624431904#2044"    cd /Users/reshma/Downloads/MailComposer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-generated-files.hmap -I/Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-own-target-headers.hmap -I/Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-all-target-headers.hmap -iquote /Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-project-headers.hmap -F/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator -I/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/include -I/Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/DerivedSources/i386 -I/Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MailComposer_Prefix-dmamfrimicvfnjbhuchtqfelbigd/MailComposer_Prefix.pch -c /Users/reshma/Downloads/MailComposer/Classes/MailComposerViewController.m -o /Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposerViewController.o0#
+
+CCompileC build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/main.o /Users/reshma/Desktop/MailComposer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314090040.042882
+e314090040.277966
+r1
+xCompileC
+xbuild/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/main.o
+x/Users/reshma/Desktop/MailComposer/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/reshma/Desktop/MailComposer/main.m314090040#314090040#0(0"0(0#0#41"/Users/reshma/Desktop/MailComposer/main.m8636957408#1970"    cd /Users/reshma/Desktop/MailComposer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-generated-files.hmap -I/Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-own-target-headers.hmap -I/Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-all-target-headers.hmap -iquote /Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-project-headers.hmap -F/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator -I/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/DerivedSources/i386 -I/Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MailComposer_Prefix-aqqxqjoxvpgocdfzkrwnbmbwwhsu/MailComposer_Prefix.pch -c /Users/reshma/Desktop/MailComposer/main.m -o /Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/main.o0#
+
+CCompileC build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/main.o /Users/reshma/Downloads/MailComposer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314085897.776104
+e314085897.839576
+r1
+xCompileC
+xbuild/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/main.o
+x/Users/reshma/Downloads/MailComposer/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/reshma/Downloads/MailComposer/main.m314085897#314085897#0(0"0(0#0#43"/Users/reshma/Downloads/MailComposer/main.m8625829056#1992"    cd /Users/reshma/Downloads/MailComposer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-generated-files.hmap -I/Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-own-target-headers.hmap -I/Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-all-target-headers.hmap -iquote /Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-project-headers.hmap -F/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator -I/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/include -I/Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/DerivedSources/i386 -I/Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MailComposer_Prefix-dmamfrimicvfnjbhuchtqfelbigd/MailComposer_Prefix.pch -c /Users/reshma/Downloads/MailComposer/main.m -o /Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/reshma/Desktop/MailComposer/en.lproj/MailComposerViewController.xib
+r0
+
+CCompileXIB /Users/reshma/Desktop/MailComposer/en.lproj/MainWindow.xib
+r0
+
+CCompileXIB /Users/reshma/Downloads/MailComposer/en.lproj/MailComposerViewController.xib
+s314085896.625829
+e314085897.074880
+r1
+xCompileXIB
+x/Users/reshma/Downloads/MailComposer/en.lproj/MailComposerViewController.xib
+lSLF07#2@50"CompileXIB en.lproj/MailComposerViewController.xib314085896#314085897#0(0"0(0#0#76"/Users/reshma/Downloads/MailComposer/en.lproj/MailComposerViewController.xib8625818816#619"    cd /Users/reshma/Downloads/MailComposer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app/en.lproj/MailComposerViewController.nib /Users/reshma/Downloads/MailComposer/en.lproj/MailComposerViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/reshma/Downloads/MailComposer/en.lproj/MainWindow.xib
+s314085896.634912
+e314085897.066284
+r1
+xCompileXIB
+x/Users/reshma/Downloads/MailComposer/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib314085896#314085897#0(0"0(0#0#60"/Users/reshma/Downloads/MailComposer/en.lproj/MainWindow.xib8626011296#587"    cd /Users/reshma/Downloads/MailComposer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app/en.lproj/MainWindow.nib /Users/reshma/Downloads/MailComposer/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/MailComposer.app/Icon-72.png images/Icon-72.png
+s314085896.549386
+e314085896.626809
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MailComposer.app/Icon-72.png
+ximages/Icon-72.png
+lSLF07#2@23"Copy images/Icon-72.png314085896#314085896#0(0"0(0#0#55"/Users/reshma/Downloads/MailComposer/images/Icon-72.png8619606400#475"    cd /Users/reshma/Downloads/MailComposer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/MailComposer/images/Icon-72.png /Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app0#
+
+CCpResource build/Debug-iphonesimulator/MailComposer.app/Icon-Small-50.png images/Icon-Small-50.png
+s314085896.555957
+e314085896.626919
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MailComposer.app/Icon-Small-50.png
+ximages/Icon-Small-50.png
+lSLF07#2@29"Copy images/Icon-Small-50.png314085896#314085896#0(0"0(0#0#61"/Users/reshma/Downloads/MailComposer/images/Icon-Small-50.png8625883840#481"    cd /Users/reshma/Downloads/MailComposer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/MailComposer/images/Icon-Small-50.png /Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app0#
+
+CCpResource build/Debug-iphonesimulator/MailComposer.app/Icon-Small.png images/Icon-Small.png
+s314085896.560570
+e314085896.627028
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MailComposer.app/Icon-Small.png
+ximages/Icon-Small.png
+lSLF07#2@26"Copy images/Icon-Small.png314085896#314085896#0(0"0(0#0#58"/Users/reshma/Downloads/MailComposer/images/Icon-Small.png8625223680#478"    cd /Users/reshma/Downloads/MailComposer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/MailComposer/images/Icon-Small.png /Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app0#
+
+CCpResource build/Debug-iphonesimulator/MailComposer.app/Icon-Small@2x.png images/Icon-Small@2x.png
+s314085896.564684
+e314085896.627146
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MailComposer.app/Icon-Small@2x.png
+ximages/Icon-Small@2x.png
+lSLF07#2@29"Copy images/Icon-Small@2x.png314085896#314085896#0(0"0(0#0#61"/Users/reshma/Downloads/MailComposer/images/Icon-Small@2x.png8626044768#481"    cd /Users/reshma/Downloads/MailComposer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/MailComposer/images/Icon-Small@2x.png /Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app0#
+
+CCpResource build/Debug-iphonesimulator/MailComposer.app/Icon.png images/Icon.png
+s314085896.568250
+e314085896.627263
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MailComposer.app/Icon.png
+ximages/Icon.png
+lSLF07#2@20"Copy images/Icon.png314085896#314085896#0(0"0(0#0#52"/Users/reshma/Downloads/MailComposer/images/Icon.png8625252736#472"    cd /Users/reshma/Downloads/MailComposer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/MailComposer/images/Icon.png /Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app0#
+
+CCpResource build/Debug-iphonesimulator/MailComposer.app/Icon@2x.png images/Icon@2x.png
+s314085896.623872
+e314085896.634592
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MailComposer.app/Icon@2x.png
+ximages/Icon@2x.png
+lSLF07#2@23"Copy images/Icon@2x.png314085896#314085896#0(0"0(0#0#55"/Users/reshma/Downloads/MailComposer/images/Icon@2x.png8625042080#475"    cd /Users/reshma/Downloads/MailComposer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/MailComposer/images/Icon@2x.png /Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app0#
+
+CCpResource build/Debug-iphonesimulator/MailComposer.app/ReadMe.txt ReadMe.txt
+s314085896.540702
+e314085896.626681
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MailComposer.app/ReadMe.txt
+xReadMe.txt
+lSLF07#2@15"Copy ReadMe.txt314085896#314085896#0(0"0(0#0#47"/Users/reshma/Downloads/MailComposer/ReadMe.txt8625985440#467"    cd /Users/reshma/Downloads/MailComposer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/MailComposer/ReadMe.txt /Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app0#
+
+CCpResource build/Debug-iphonesimulator/MailComposer.app/iTunesArtwork.png images/iTunesArtwork.png
+s314085896.624616
+e314085896.634712
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MailComposer.app/iTunesArtwork.png
+ximages/iTunesArtwork.png
+lSLF07#2@29"Copy images/iTunesArtwork.png314085896#314085896#0(0"0(0#0#61"/Users/reshma/Downloads/MailComposer/images/iTunesArtwork.png8626990624#481"    cd /Users/reshma/Downloads/MailComposer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/MailComposer/images/iTunesArtwork.png /Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app0#
+
+CCpResource build/Debug-iphonesimulator/MailComposer.app/rainy.png images/rainy.png
+s314085896.625221
+e314085896.634844
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MailComposer.app/rainy.png
+ximages/rainy.png
+lSLF07#2@21"Copy images/rainy.png314085896#314085896#0(0"0(0#0#53"/Users/reshma/Downloads/MailComposer/images/rainy.png8626454816#473"    cd /Users/reshma/Downloads/MailComposer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/MailComposer/images/rainy.png /Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app0#
+
+CGenerateDSYMFile /Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app.dSYM /Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer
+s314090040.505391
+e314090040.545331
+r1
+xGenerateDSYMFile
+x/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app.dSYM
+x/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/MailComposer.app.dSYM build/Debug-iphonesimulator/MailComposer.app/MailComposer314090040#314090040#0(0"0(0#0#92"/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer8644095328#386"    cd /Users/reshma/Desktop/MailComposer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer -o /Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app.dSYM0#
+
+CGenerateDSYMFile /Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app.dSYM /Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer
+s314085897.958961
+e314085897.973047
+r1
+xGenerateDSYMFile
+x/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app.dSYM
+x/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/MailComposer.app.dSYM build/Debug-iphonesimulator/MailComposer.app/MailComposer314085897#314085897#0(0"0(0#0#94"/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer8627804224#392"    cd /Users/reshma/Downloads/MailComposer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer -o /Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app.dSYM0#
+
+CLd /Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer normal i386
+s314090040.366353
+e314090040.505299
+r1
+xLd
+x/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer
+xnormal
+xi386
+lSLF07#2@97"Link /Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer314090040#314090040#0(0"0(0#0#0"8604021984#931"    cd /Users/reshma/Desktop/MailComposer    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator -F/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator -filelist /Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposer.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -weak_framework MessageUI -o /Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer0#
+
+CLd /Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer normal i386
+s314085897.923089
+e314085897.958859
+r1
+xLd
+x/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer
+xnormal
+xi386
+lSLF07#2@99"Link /Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer314085897#314085897#0(0"0(0#0#0"8618107808#941"    cd /Users/reshma/Downloads/MailComposer    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator -F/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator -filelist /Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposer.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -weak_framework MessageUI -o /Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer0#
+
+CProcessInfoPlistFile /Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app/Info.plist MailComposer-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app/Info.plist MailComposer-Info.plist
+s314085896.512431
+e314085896.540623
+r1
+xProcessInfoPlistFile
+x/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app/Info.plist
+xMailComposer-Info.plist
+lSLF07#2@31"Process MailComposer-Info.plist314085896#314085896#0(0"0(0#0#60"/Users/reshma/Downloads/MailComposer/MailComposer-Info.plist8625203872#488"    cd /Users/reshma/Downloads/MailComposer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MailComposer-Info.plist -genpkginfo /Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app/Info.plist0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MailComposer_Prefix-aqqxqjoxvpgocdfzkrwnbmbwwhsu/MailComposer_Prefix.pch.gch MailComposer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s314090037.536081
+e314090040.042714
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MailComposer_Prefix-aqqxqjoxvpgocdfzkrwnbmbwwhsu/MailComposer_Prefix.pch.gch
+xMailComposer_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile MailComposer_Prefix.pch314090037#314090040#0(0"0(0#0#58"/Users/reshma/Desktop/MailComposer/MailComposer_Prefix.pch8636208256#1861"    cd /Users/reshma/Desktop/MailComposer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-generated-files.hmap -I/Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-own-target-headers.hmap -I/Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-all-target-headers.hmap -iquote /Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-project-headers.hmap -F/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator -I/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/DerivedSources/i386 -I/Users/reshma/Desktop/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/DerivedSources -c /Users/reshma/Desktop/MailComposer/MailComposer_Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MailComposer_Prefix-aqqxqjoxvpgocdfzkrwnbmbwwhsu/MailComposer_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MailComposer_Prefix-dmamfrimicvfnjbhuchtqfelbigd/MailComposer_Prefix.pch.gch MailComposer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s314085897.074979
+e314085897.776015
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MailComposer_Prefix-dmamfrimicvfnjbhuchtqfelbigd/MailComposer_Prefix.pch.gch
+xMailComposer_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile MailComposer_Prefix.pch314085897#314085897#0(0"0(0#0#60"/Users/reshma/Downloads/MailComposer/MailComposer_Prefix.pch8625931232#1881"    cd /Users/reshma/Downloads/MailComposer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-generated-files.hmap -I/Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-own-target-headers.hmap -I/Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-all-target-headers.hmap -iquote /Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-project-headers.hmap -F/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator -I/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/include -I/Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/DerivedSources/i386 -I/Users/reshma/Downloads/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/DerivedSources -c /Users/reshma/Downloads/MailComposer/MailComposer_Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MailComposer_Prefix-dmamfrimicvfnjbhuchtqfelbigd/MailComposer_Prefix.pch.gch0#
+
+CTouch /Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app
+s314090040.545410
+e314090040.569279
+r1
+xTouch
+x/Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app
+lSLF07#2@85"Touch /Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app314090040#314090040#0(0"0(0#0#0"8643611264#275"    cd /Users/reshma/Desktop/MailComposer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/reshma/Desktop/MailComposer/build/Debug-iphonesimulator/MailComposer.app0#
+
+CTouch /Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app
+s314085897.973124
+e314085897.976036
+r1
+xTouch
+x/Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app
+lSLF07#2@87"Touch /Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app314085897#314085897#0(0"0(0#0#0"8627214720#279"    cd /Users/reshma/Downloads/MailComposer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/reshma/Downloads/MailComposer/build/Debug-iphonesimulator/MailComposer.app0#
+

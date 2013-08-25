@@ -1,0 +1,158 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* TabBarSaveStateAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1335, 1131}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{605, 1939}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* TabBarSaveState */ = {
+		activeExec = 0;
+		executables = (
+			9AF2FA4712BB4BB400C4EB6C /* TabBarSaveState */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9AF2FA4712BB4BB400C4EB6C /* TabBarSaveState */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TabBarSaveState */;
+		codeSenseManager = 9AF2FA6612BB4BD800C4EB6C /* Code sense */;
+		executables = (
+			9AF2FA4712BB4BB400C4EB6C /* TabBarSaveState */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					741,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 314712261;
+			PBXWorkspaceStateSaveDate = 314712261;
+		};
+		perUserProjectItems = {
+			9A1AAB3E12C220D000B06C05 /* PBXTextBookmark */ = 9A1AAB3E12C220D000B06C05 /* PBXTextBookmark */;
+			9AF2FA7812BB661500C4EB6C /* PBXTextBookmark */ = 9AF2FA7812BB661500C4EB6C /* PBXTextBookmark */;
+			9AF2FA7912BB661500C4EB6C /* PBXTextBookmark */ = 9AF2FA7912BB661500C4EB6C /* PBXTextBookmark */;
+			9AF2FA7B12BB661500C4EB6C /* PBXTextBookmark */ = 9AF2FA7B12BB661500C4EB6C /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9AF2FA6512BB4BD800C4EB6C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	9A1AAB3E12C220D000B06C05 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TabBarSaveStateAppDelegate.m */;
+		name = "TabBarSaveStateAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1939;
+		vrLoc = 605;
+	};
+	9AF2FA4712BB4BB400C4EB6C /* TabBarSaveState */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TabBarSaveState;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	9AF2FA6512BB4BD800C4EB6C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9AF2FA6612BB4BD800C4EB6C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9AF2FA7812BB661500C4EB6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF144F40F586BA200DBDC82 /* AllTabsViewController.m */;
+		name = "AllTabsViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1178;
+		vrLoc = 246;
+	};
+	9AF2FA7912BB661500C4EB6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF144F30F586BA200DBDC82 /* AllTabsViewController.h */;
+		name = "AllTabsViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 316;
+		vrLoc = 0;
+	};
+	9AF2FA7B12BB661500C4EB6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TabBarSaveStateAppDelegate.m */;
+		name = "TabBarSaveStateAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1939;
+		vrLoc = 605;
+	};
+	9CF144F30F586BA200DBDC82 /* AllTabsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {919, 609}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 316}";
+		};
+	};
+	9CF144F40F586BA200DBDC82 /* AllTabsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {919, 780}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{246, 1178}";
+		};
+	};
+}

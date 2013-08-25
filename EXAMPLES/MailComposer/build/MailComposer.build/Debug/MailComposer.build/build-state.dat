@@ -1,0 +1,164 @@
+TMailComposer
+v7
+r1
+cCheck dependencies
+
+N/Users/reshma/Downloads/MailComposer/ReadMe.txt
+c000000004C2112C20000000000000E9E
+t1277235906
+s3742
+
+N/Users/reshma/Downloads/MailComposer/build/Debug/MailComposer.app
+t2
+s0
+
+N/Users/reshma/Downloads/MailComposer/build/Debug/MailComposer.app/Contents/Info.plist
+t2
+s0
+
+N/Users/reshma/Downloads/MailComposer/build/Debug/MailComposer.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/reshma/Downloads/MailComposer/build/Debug/MailComposer.app/Contents/Resources/Icon-72.png
+t2
+s0
+
+N/Users/reshma/Downloads/MailComposer/build/Debug/MailComposer.app/Contents/Resources/Icon-Small-50.png
+t2
+s0
+
+N/Users/reshma/Downloads/MailComposer/build/Debug/MailComposer.app/Contents/Resources/Icon-Small.png
+t2
+s0
+
+N/Users/reshma/Downloads/MailComposer/build/Debug/MailComposer.app/Contents/Resources/Icon-Small@2x.png
+t2
+s0
+
+N/Users/reshma/Downloads/MailComposer/build/Debug/MailComposer.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/reshma/Downloads/MailComposer/build/Debug/MailComposer.app/Contents/Resources/Icon@2x.png
+t2
+s0
+
+N/Users/reshma/Downloads/MailComposer/build/Debug/MailComposer.app/Contents/Resources/ReadMe.txt
+t2
+s0
+
+N/Users/reshma/Downloads/MailComposer/build/Debug/MailComposer.app/Contents/Resources/en.lproj/MailComposerViewController.nib
+t2
+s0
+
+N/Users/reshma/Downloads/MailComposer/build/Debug/MailComposer.app/Contents/Resources/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/reshma/Downloads/MailComposer/build/Debug/MailComposer.app/Contents/Resources/iTunesArtwork.png
+t2
+s0
+
+N/Users/reshma/Downloads/MailComposer/build/Debug/MailComposer.app/Contents/Resources/rainy.png
+t2
+s0
+
+N/Users/reshma/Downloads/MailComposer/en.lproj/MailComposerViewController.xib
+c000000004C2112C20000000000002847
+t1277235906
+s10311
+
+N/Users/reshma/Downloads/MailComposer/en.lproj/MainWindow.xib
+c000000004C2112C2000000000000244C
+t1277235906
+s9292
+
+N/Users/reshma/Downloads/MailComposer/images/Icon-72.png
+c000000004C2112C20000000000000427
+t1277235906
+s1063
+
+N/Users/reshma/Downloads/MailComposer/images/Icon-Small-50.png
+c000000004C2112C200000000000003E0
+t1277235906
+s992
+
+N/Users/reshma/Downloads/MailComposer/images/Icon-Small.png
+c000000004C2112C20000000000000396
+t1277235906
+s918
+
+N/Users/reshma/Downloads/MailComposer/images/Icon-Small@2x.png
+c000000004C2112C200000000000003F2
+t1277235906
+s1010
+
+N/Users/reshma/Downloads/MailComposer/images/Icon.png
+c000000004C2112C200000000000003EF
+t1277235906
+s1007
+
+N/Users/reshma/Downloads/MailComposer/images/Icon@2x.png
+c000000004C2112C200000000000004E4
+t1277235906
+s1252
+
+N/Users/reshma/Downloads/MailComposer/images/iTunesArtwork.png
+c000000004C2112C20000000000001444
+t1277235906
+s5188
+
+N/Users/reshma/Downloads/MailComposer/images/rainy.png
+c000000004C2112C20000000000004A04
+t1277235906
+s18948
+
+NMailComposer-Info.plist
+c000000004C2112C2000000000000046A
+t1277235906
+s1130
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies314085865#314085865#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.0'1(4@58"error: There is no SDK with the name or path 'iphoneos4.0'314085865#18446744073709551615#0#0(1@0"0(0#1#0"8625772864#0"0#
+
+CCompileXIB /Users/reshma/Downloads/MailComposer/en.lproj/MailComposerViewController.xib
+r0
+
+CCompileXIB /Users/reshma/Downloads/MailComposer/en.lproj/MainWindow.xib
+r0
+
+CCpResource build/Debug/MailComposer.app/Contents/Resources/Icon-72.png images/Icon-72.png
+r0
+
+CCpResource build/Debug/MailComposer.app/Contents/Resources/Icon-Small-50.png images/Icon-Small-50.png
+r0
+
+CCpResource build/Debug/MailComposer.app/Contents/Resources/Icon-Small.png images/Icon-Small.png
+r0
+
+CCpResource build/Debug/MailComposer.app/Contents/Resources/Icon-Small@2x.png images/Icon-Small@2x.png
+r0
+
+CCpResource build/Debug/MailComposer.app/Contents/Resources/Icon.png images/Icon.png
+r0
+
+CCpResource build/Debug/MailComposer.app/Contents/Resources/Icon@2x.png images/Icon@2x.png
+r0
+
+CCpResource build/Debug/MailComposer.app/Contents/Resources/ReadMe.txt ReadMe.txt
+r0
+
+CCpResource build/Debug/MailComposer.app/Contents/Resources/iTunesArtwork.png images/iTunesArtwork.png
+r0
+
+CCpResource build/Debug/MailComposer.app/Contents/Resources/rainy.png images/rainy.png
+r0
+
+CProcessInfoPlistFile /Users/reshma/Downloads/MailComposer/build/Debug/MailComposer.app/Contents/Info.plist MailComposer-Info.plist
+r0
+
+CTouch /Users/reshma/Downloads/MailComposer/build/Debug/MailComposer.app
+r0
+

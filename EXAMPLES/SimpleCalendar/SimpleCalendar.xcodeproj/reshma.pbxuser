@@ -1,0 +1,292 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9AC8FFA41212DE3A00796B90 /* SimpleCalendar */;
+		activeTarget = 8D1107260486CEB800E47090 /* SimpleCalendar */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* SimpleCalendar */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 9AC8FFC31212DE3F00796B90 /* Code sense */;
+		executables = (
+			9AC8FFA41212DE3A00796B90 /* SimpleCalendar */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1032,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 305700491;
+			PBXWorkspaceStateSaveDate = 305700491;
+		};
+		perUserProjectItems = {
+			9AC105CF121A6EB200E0E3EB /* PBXTextBookmark */ = 9AC105CF121A6EB200E0E3EB /* PBXTextBookmark */;
+			9AC109F8121AC7C600E0E3EB /* PBXTextBookmark */ = 9AC109F8121AC7C600E0E3EB /* PBXTextBookmark */;
+			9AC109FB121AC7C600E0E3EB /* PBXTextBookmark */ = 9AC109FB121AC7C600E0E3EB /* PBXTextBookmark */;
+			9AC825FF121521E50035F5C6 /* PBXTextBookmark */ = 9AC825FF121521E50035F5C6 /* PBXTextBookmark */;
+			9AC82601121521E50035F5C6 /* PBXTextBookmark */ = 9AC82601121521E50035F5C6 /* PBXTextBookmark */;
+			9AC82602121521E50035F5C6 /* PBXTextBookmark */ = 9AC82602121521E50035F5C6 /* PBXTextBookmark */;
+			9AC82603121521E50035F5C6 /* PBXTextBookmark */ = 9AC82603121521E50035F5C6 /* PBXTextBookmark */;
+			9AC82604121521E50035F5C6 /* PBXTextBookmark */ = 9AC82604121521E50035F5C6 /* PBXTextBookmark */;
+			9ACADFAD1213B13700295B09 /* PBXTextBookmark */ = 9ACADFAD1213B13700295B09 /* PBXTextBookmark */;
+			9ACAE48B12142FB000295B09 /* PBXTextBookmark */ = 9ACAE48B12142FB000295B09 /* PBXTextBookmark */;
+			9ACB366B12391D49008F4E02 /* PBXTextBookmark */ = 9ACB366B12391D49008F4E02 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9AC8FFC21212DE3F00796B90 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	722526620A6C81B700ABB15E /* AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1210, 806}}";
+			sepNavSelRange = "{2605, 0}";
+			sepNavVisRange = "{508, 2187}";
+		};
+	};
+	722526630A6C81B700ABB15E /* AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1210, 1209}}";
+			sepNavSelRange = "{2852, 0}";
+			sepNavVisRange = "{2417, 1097}";
+		};
+	};
+	722526640A6C81B700ABB15E /* Calendar.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1210, 819}}";
+			sepNavSelRange = "{2650, 0}";
+			sepNavVisRange = "{4, 2470}";
+		};
+	};
+	722526650A6C81B700ABB15E /* Calendar.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1210, 3848}}";
+			sepNavSelRange = "{8015, 0}";
+			sepNavVisRange = "{6295, 2073}";
+		};
+	};
+	722526660A6C81B700ABB15E /* CalendarController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1210, 1313}}";
+			sepNavSelRange = "{3310, 0}";
+			sepNavVisRange = "{2442, 1345}";
+		};
+	};
+	722526670A6C81B700ABB15E /* CalendarController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1210, 9113}}";
+			sepNavSelRange = "{4618, 0}";
+			sepNavVisRange = "{0, 2441}";
+			sepNavWindowFrame = "{{15, 179}, {1010, 844}}";
+		};
+	};
+	722526680A6C81B700ABB15E /* DayController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1210, 845}}";
+			sepNavSelRange = "{1494, 0}";
+			sepNavVisRange = "{735, 1934}";
+		};
+	};
+	722526690A6C81B700ABB15E /* DayController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1210, 1482}}";
+			sepNavSelRange = "{3302, 0}";
+			sepNavVisRange = "{3021, 572}";
+		};
+	};
+	8D1107260486CEB800E47090 /* SimpleCalendar */ = {
+		activeExec = 0;
+		executables = (
+			9AC8FFA41212DE3A00796B90 /* SimpleCalendar */,
+		);
+	};
+	9AC105CF121A6EB200E0E3EB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 722526680A6C81B700ABB15E /* DayController.h */;
+		name = "DayController.h: 28";
+		rLen = 0;
+		rLoc = 1494;
+		rType = 0;
+		vrLen = 1934;
+		vrLoc = 735;
+	};
+	9AC109F8121AC7C600E0E3EB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9AC109F9121AC7C600E0E3EB /* CFDate.h */;
+		name = "CFDate.h: 55";
+		rLen = 19;
+		rLoc = 1252;
+		rType = 0;
+		vrLen = 1208;
+		vrLoc = 680;
+	};
+	9AC109F9121AC7C600E0E3EB /* CFDate.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CFDate.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDate.h;
+		sourceTree = "<absolute>";
+	};
+	9AC109FB121AC7C600E0E3EB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 722526670A6C81B700ABB15E /* CalendarController.m */;
+		name = "CalendarController.m: 189";
+		rLen = 0;
+		rLoc = 6745;
+		rType = 0;
+		vrLen = 1503;
+		vrLoc = 3611;
+	};
+	9AC825FF121521E50035F5C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 722526650A6C81B700ABB15E /* Calendar.m */;
+		name = "Calendar.m: 188";
+		rLen = 0;
+		rLoc = 8015;
+		rType = 0;
+		vrLen = 2073;
+		vrLoc = 6295;
+	};
+	9AC82601121521E50035F5C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 722526660A6C81B700ABB15E /* CalendarController.h */;
+		name = "CalendarController.h: 83";
+		rLen = 0;
+		rLoc = 3310;
+		rType = 0;
+		vrLen = 1345;
+		vrLoc = 2442;
+	};
+	9AC82602121521E50035F5C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 722526620A6C81B700ABB15E /* AppDelegate.h */;
+		name = "AppDelegate.h: 58";
+		rLen = 0;
+		rLoc = 2605;
+		rType = 0;
+		vrLen = 2187;
+		vrLoc = 508;
+	};
+	9AC82603121521E50035F5C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 722526630A6C81B700ABB15E /* AppDelegate.m */;
+		name = "AppDelegate.m: 61";
+		rLen = 0;
+		rLoc = 2852;
+		rType = 0;
+		vrLen = 1097;
+		vrLoc = 2417;
+	};
+	9AC82604121521E50035F5C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 722526640A6C81B700ABB15E /* Calendar.h */;
+		name = "Calendar.h: 59";
+		rLen = 0;
+		rLoc = 2650;
+		rType = 0;
+		vrLen = 2470;
+		vrLoc = 4;
+	};
+	9AC8FFA41212DE3A00796B90 /* SimpleCalendar */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SimpleCalendar;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	9AC8FFC21212DE3F00796B90 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9AC8FFC31212DE3F00796B90 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9ACADFAD1213B13700295B09 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9ACADFAE1213B13700295B09 /* NSGeometry.h */;
+		name = "NSGeometry.h: 94";
+		rLen = 0;
+		rLoc = 1911;
+		rType = 0;
+		vrLen = 548;
+		vrLoc = 1520;
+	};
+	9ACADFAE1213B13700295B09 /* NSGeometry.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSGeometry.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSGeometry.h;
+		sourceTree = "<absolute>";
+	};
+	9ACAE48B12142FB000295B09 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 722526690A6C81B700ABB15E /* DayController.m */;
+		name = "DayController.m: 98";
+		rLen = 0;
+		rLoc = 3302;
+		rType = 0;
+		vrLen = 572;
+		vrLoc = 3021;
+	};
+	9ACB366B12391D49008F4E02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 722526670A6C81B700ABB15E /* CalendarController.m */;
+		name = "CalendarController.m: 96";
+		rLen = 0;
+		rLoc = 4618;
+		rType = 0;
+		vrLen = 2441;
+		vrLoc = 0;
+	};
+}

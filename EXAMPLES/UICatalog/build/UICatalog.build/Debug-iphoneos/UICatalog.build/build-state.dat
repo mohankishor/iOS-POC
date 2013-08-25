@@ -1,0 +1,1386 @@
+TUICatalog
+v7
+r0
+t329744834.562704
+cCheck dependencies
+cCpResource build/Debug-iphoneos/UICatalog.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/Info.plist Info.plist
+cCpResource build/Debug-iphoneos/UICatalog.app/scene1.jpg images/scene1.jpg
+cCpResource build/Debug-iphoneos/UICatalog.app/scene2.jpg images/scene2.jpg
+cCpResource build/Debug-iphoneos/UICatalog.app/scene3.jpg images/scene3.jpg
+cCpResource build/Debug-iphoneos/UICatalog.app/scene4.jpg images/scene4.jpg
+cCpResource build/Debug-iphoneos/UICatalog.app/scene5.jpg images/scene5.jpg
+cCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/whiteButton.png images/whiteButton.png
+cCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/Default.png images/Default.png
+cCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/segment_tools.png images/segment_tools.png
+cCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/segment_search.png images/segment_search.png
+cCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/segment_check.png images/segment_check.png
+cCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/slider_ball.png images/slider_ball.png
+cCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/yellowslide.png images/yellowslide.png
+cCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/orangeslide.png images/orangeslide.png
+cCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/Icon.png images/Icon.png
+cCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/UIButton_custom.png images/UIButton_custom.png
+cCompileXIB /Developer/Examples/iPhone/UICatalog/en.lproj/MainWindow.xib
+cCopyStringsFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+cCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/blueButton.png images/blueButton.png
+cCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/12-6AM.png images/12-6AM.png
+cCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/6-12PM.png images/6-12PM.png
+cCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/6-12AM.png images/6-12AM.png
+cCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/12-6PM.png images/12-6PM.png
+cCompileXIB /Developer/Examples/iPhone/UICatalog/en.lproj/PickerViewController.xib
+cCompileXIB /Developer/Examples/iPhone/UICatalog/en.lproj/ButtonsViewController.xib
+cCompileXIB /Developer/Examples/iPhone/UICatalog/en.lproj/ControlsViewController.xib
+cCompileXIB /Developer/Examples/iPhone/UICatalog/en.lproj/TextFieldController.xib
+cCompileXIB /Developer/Examples/iPhone/UICatalog/en.lproj/TextViewController.xib
+cCompileXIB /Developer/Examples/iPhone/UICatalog/en.lproj/SearchBarController.xib
+cCompileXIB /Developer/Examples/iPhone/UICatalog/en.lproj/ImagesViewController.xib
+cCompileXIB /Developer/Examples/iPhone/UICatalog/en.lproj/WebViewController.xib
+cCompileXIB /Developer/Examples/iPhone/UICatalog/en.lproj/SegmentViewController.xib
+cCompileXIB /Developer/Examples/iPhone/UICatalog/en.lproj/ToolbarViewController.xib
+cCompileXIB /Developer/Examples/iPhone/UICatalog/en.lproj/AlertsViewController.xib
+cCompileXIB /Developer/Examples/iPhone/UICatalog/en.lproj/TransitionViewController.xib
+cProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bxysoilwspwvxmbbhpvgpyxifpdi/Prefix.pch.gch Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/main.o /Developer/Examples/iPhone/UICatalog/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/AppDelegate.o /Developer/Examples/iPhone/UICatalog/AppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/WebViewController.o /Developer/Examples/iPhone/UICatalog/WebViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/TextViewController.o /Developer/Examples/iPhone/UICatalog/TextViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/PickerViewController.o /Developer/Examples/iPhone/UICatalog/PickerViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/MainViewController.o /Developer/Examples/iPhone/UICatalog/MainViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/ImagesViewController.o /Developer/Examples/iPhone/UICatalog/ImagesViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/ControlsViewController.o /Developer/Examples/iPhone/UICatalog/ControlsViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/AlertsViewController.o /Developer/Examples/iPhone/UICatalog/AlertsViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/SegmentViewController.o /Developer/Examples/iPhone/UICatalog/SegmentViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/TextFieldController.o /Developer/Examples/iPhone/UICatalog/TextFieldController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/ButtonsViewController.o /Developer/Examples/iPhone/UICatalog/ButtonsViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/ToolbarViewController.o /Developer/Examples/iPhone/UICatalog/ToolbarViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/SearchBarController.o /Developer/Examples/iPhone/UICatalog/SearchBarController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/TransitionViewController.o /Developer/Examples/iPhone/UICatalog/TransitionViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/CustomView.o /Developer/Examples/iPhone/UICatalog/Picker/CustomView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/CustomPickerDataSource.o /Developer/Examples/iPhone/UICatalog/Picker/CustomPickerDataSource.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/UICatalog normal armv6
+cGenerateDSYMFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app.dSYM /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/UICatalog
+cProcessProductPackaging "/Users/reshma/Library/MobileDevice/Provisioning Profiles/49A47C8C-3179-4B17-945D-B1FB64C812AA.mobileprovision" /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/embedded.mobileprovision
+cTouch /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog.xcent
+cCodeSign /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app
+
+N/Developer/Examples/iPhone/UICatalog/AlertsViewController.h
+c000000004BA3EA7D0000000000000AE8
+t1269033597
+s2792
+i<UIKit/UIKit.h>
+
+N/Developer/Examples/iPhone/UICatalog/AlertsViewController.m
+c000000004BA3EA7D0000000000002A78
+t1269033597
+s10872
+i"AlertsViewController.h"
+
+N/Developer/Examples/iPhone/UICatalog/AppDelegate.h
+c000000004BA3EA7D0000000000000AFF
+t1269033597
+s2815
+i<UIKit/UIKit.h>
+
+N/Developer/Examples/iPhone/UICatalog/AppDelegate.m
+c000000004BA3EA7D0000000000000F71
+t1269033597
+s3953
+i"AppDelegate.h"
+i"MainViewController.h"
+
+N/Developer/Examples/iPhone/UICatalog/ButtonsViewController.h
+c000000004BA3EA7D0000000000000D4B
+t1269033597
+s3403
+i<UIKit/UIKit.h>
+
+N/Developer/Examples/iPhone/UICatalog/ButtonsViewController.m
+c000000004BA3EA7D00000000000040F3
+t1269033597
+s16627
+i"ButtonsViewController.h"
+i"Constants.h"
+
+N/Developer/Examples/iPhone/UICatalog/Constants.h
+c000000004BA3EA7D0000000000000ADD
+t1269033597
+s2781
+
+N/Developer/Examples/iPhone/UICatalog/ControlsViewController.h
+c000000004BA3EA7D0000000000000CD0
+t1269033597
+s3280
+i<UIKit/UIKit.h>
+
+N/Developer/Examples/iPhone/UICatalog/ControlsViewController.m
+c000000004BA3EA7D0000000000003668
+t1269033597
+s13928
+i"ControlsViewController.h"
+i"Constants.h"
+
+N/Developer/Examples/iPhone/UICatalog/ImagesViewController.h
+c000000004BA3EA7D0000000000000AF6
+t1269033597
+s2806
+i<UIKit/UIKit.h>
+
+N/Developer/Examples/iPhone/UICatalog/ImagesViewController.m
+c000000004BA3EA7D00000000000013DE
+t1269033597
+s5086
+i"ImagesViewController.h"
+i"Constants.h"
+
+N/Developer/Examples/iPhone/UICatalog/MainViewController.h
+c000000004BA3EA7D0000000000000A68
+t1269033597
+s2664
+i<UIKit/UIKit.h>
+
+N/Developer/Examples/iPhone/UICatalog/MainViewController.m
+c000000004BA3EA7D00000000000029E5
+t1269033597
+s10725
+i"MainViewController.h"
+i"ButtonsViewController.h"
+i"ControlsViewController.h"
+i"TextFieldController.h"
+i"SearchBarController.h"
+i"TextViewController.h"
+i"SegmentViewController.h"
+i"ToolbarViewController.h"
+i"PickerViewController.h"
+i"ImagesViewController.h"
+i"WebViewController.h"
+i"AlertsViewController.h"
+i"TransitionViewController.h"
+i"Constants.h"
+
+N/Developer/Examples/iPhone/UICatalog/Picker/CustomPickerDataSource.h
+c000000004BA3EA7D0000000000000A8D
+t1269033597
+s2701
+
+N/Developer/Examples/iPhone/UICatalog/Picker/CustomPickerDataSource.m
+c000000004BA3EA7D00000000000012F9
+t1269033597
+s4857
+i"CustomPickerDataSource.h"
+i"CustomView.h"
+
+N/Developer/Examples/iPhone/UICatalog/Picker/CustomView.h
+c000000004BA3EA7D0000000000000AB2
+t1269033597
+s2738
+i<UIKit/UIKit.h>
+
+N/Developer/Examples/iPhone/UICatalog/Picker/CustomView.m
+c000000004BA3EA7D0000000000000FF2
+t1269033597
+s4082
+i"CustomView.h"
+
+N/Developer/Examples/iPhone/UICatalog/PickerViewController.h
+c000000004BA3EA7D0000000000000F26
+t1269033597
+s3878
+i<UIKit/UIKit.h>
+i"CustomPickerDataSource.h"
+
+N/Developer/Examples/iPhone/UICatalog/PickerViewController.m
+c000000004BA3EA7D00000000000031E7
+t1269033597
+s12775
+i"PickerViewController.h"
+i"CustomView.h"
+i"Constants.h"
+
+N/Developer/Examples/iPhone/UICatalog/Prefix.pch
+c0000000049FA2DB4000000000000005A
+t1241132468
+s90
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Developer/Examples/iPhone/UICatalog/SearchBarController.h
+c000000004BA3EA7D0000000000000A90
+t1269033597
+s2704
+i<UIKit/UIKit.h>
+
+N/Developer/Examples/iPhone/UICatalog/SearchBarController.m
+c000000004BA3EA7D0000000000000F73
+t1269033597
+s3955
+i"SearchBarController.h"
+
+N/Developer/Examples/iPhone/UICatalog/SegmentViewController.h
+c000000004BA3EA7D0000000000000A30
+t1269033597
+s2608
+i<UIKit/UIKit.h>
+
+N/Developer/Examples/iPhone/UICatalog/SegmentViewController.m
+c000000004BA3EA7D0000000000002013
+t1269033597
+s8211
+i"SegmentViewController.h"
+i"Constants.h"
+
+N/Developer/Examples/iPhone/UICatalog/TextFieldController.h
+c000000004BA3EA7D0000000000000C38
+t1269033597
+s3128
+i<UIKit/UIKit.h>
+
+N/Developer/Examples/iPhone/UICatalog/TextFieldController.m
+c000000004BA3EA7D0000000000003260
+t1269033597
+s12896
+i"TextFieldController.h"
+i"Constants.h"
+
+N/Developer/Examples/iPhone/UICatalog/TextViewController.h
+c000000004BA3EA7D0000000000000A83
+t1269033597
+s2691
+i<UIKit/UIKit.h>
+
+N/Developer/Examples/iPhone/UICatalog/TextViewController.m
+c000000004BA3EA7D0000000000001A96
+t1269033597
+s6806
+i"TextViewController.h"
+
+N/Developer/Examples/iPhone/UICatalog/ToolbarViewController.h
+c000000004BA3EA7D0000000000000DB2
+t1269033597
+s3506
+i<UIKit/UIKit.h>
+
+N/Developer/Examples/iPhone/UICatalog/ToolbarViewController.m
+c000000004BA3EA7D0000000000002495
+t1269033597
+s9365
+i"ToolbarViewController.h"
+i"AppDelegate.h"
+i"Constants.h"
+
+N/Developer/Examples/iPhone/UICatalog/TransitionViewController.h
+c000000004BA3EA7D0000000000000B53
+t1269033597
+s2899
+i<UIKit/UIKit.h>
+
+N/Developer/Examples/iPhone/UICatalog/TransitionViewController.m
+c000000004BA3EA7D000000000000196D
+t1269033597
+s6509
+i"TransitionViewController.h"
+i"Constants.h"
+
+N/Developer/Examples/iPhone/UICatalog/WebViewController.h
+c000000004BA3EA7D0000000000000A93
+t1269033597
+s2707
+i<UIKit/UIKit.h>
+
+N/Developer/Examples/iPhone/UICatalog/WebViewController.m
+c000000004BA3EA7D0000000000001A68
+t1269033597
+s6760
+i"WebViewController.h"
+i"Constants.h"
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app
+t1308052034
+s1020
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app.dSYM
+t1308052033
+s102
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/12-6AM.png
+t1308052026
+s1921
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/12-6PM.png
+t1308052027
+s2626
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/6-12AM.png
+t1308052027
+s2439
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/6-12PM.png
+t1308052027
+s2347
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/Default.png
+t1308052026
+s2450
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/Icon.png
+t1308052026
+s4658
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/Info.plist
+t1308052025
+s818
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/PkgInfo
+t1308052025
+s8
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/ResourceRules.plist
+t1308052025
+s485
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/UIButton_custom.png
+t1308052026
+s626
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/UICatalog
+t1308052033
+s161712
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/blueButton.png
+t1308052026
+s1586
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/embedded.mobileprovision
+t1308052033
+s11568
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/AlertsViewController.nib
+t1308052031
+s903
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/ButtonsViewController.nib
+t1308052029
+s943
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/ControlsViewController.nib
+t1308052029
+s943
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/ImagesViewController.nib
+t1308052030
+s1624
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/Localizable.strings
+t1308052026
+s1053
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/MainWindow.nib
+t1308052028
+s1804
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/PickerViewController.nib
+t1308052028
+s2792
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/SearchBarController.nib
+t1308052030
+s795
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/SegmentViewController.nib
+t1308052030
+s795
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/TextFieldController.nib
+t1308052029
+s1027
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/TextViewController.nib
+t1308052029
+s795
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/ToolbarViewController.nib
+t1308052030
+s3249
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/TransitionViewController.nib
+t1308052031
+s1283
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/WebViewController.nib
+t1308052030
+s795
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/orangeslide.png
+t1308052026
+s3134
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/scene1.jpg
+t1308052026
+s47088
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/scene2.jpg
+t1308052026
+s12079
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/scene3.jpg
+t1308052026
+s23859
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/scene4.jpg
+t1308052026
+s15622
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/scene5.jpg
+t1308052026
+s15527
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/segment_check.png
+t1308052026
+s699
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/segment_search.png
+t1308052026
+s3776
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/segment_tools.png
+t1308052026
+s3942
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/slider_ball.png
+t1308052026
+s894
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/whiteButton.png
+t1308052026
+s1603
+
+N/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/yellowslide.png
+t1308052026
+s3139
+
+N/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/AlertsViewController.o
+t1308052032
+s67612
+
+N/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/AppDelegate.o
+t1308052032
+s50124
+
+N/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/ButtonsViewController.o
+t1308052033
+s70620
+
+N/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/ControlsViewController.o
+t1308052032
+s68784
+
+N/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/CustomPickerDataSource.o
+t1308052033
+s48452
+
+N/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/CustomView.o
+t1308052033
+s45472
+
+N/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/ImagesViewController.o
+t1308052032
+s49468
+
+N/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/MainViewController.o
+t1308052032
+s64208
+
+N/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/PickerViewController.o
+t1308052032
+s78736
+
+N/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/SearchBarController.o
+t1308052033
+s45332
+
+N/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/SegmentViewController.o
+t1308052033
+s50556
+
+N/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/TextFieldController.o
+t1308052033
+s65236
+
+N/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/TextViewController.o
+t1308052032
+s55788
+
+N/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/ToolbarViewController.o
+t1308052033
+s67948
+
+N/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/TransitionViewController.o
+t1308052033
+s53944
+
+N/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/UICatalog.LinkFileList
+c000000004DF74A3900000000000008C5
+t1308052025
+s2245
+
+N/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/WebViewController.o
+t1308052032
+s57012
+
+N/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/main.o
+t1308052032
+s6444
+
+N/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog.xcent
+t1308052034
+s424
+
+N/Developer/Examples/iPhone/UICatalog/en.lproj/AlertsViewController.xib
+c0000000049FA2DB40000000000001768
+t1241132468
+s5992
+
+N/Developer/Examples/iPhone/UICatalog/en.lproj/ButtonsViewController.xib
+c0000000049FA2DB400000000000017F8
+t1241132468
+s6136
+
+N/Developer/Examples/iPhone/UICatalog/en.lproj/ControlsViewController.xib
+c0000000049FA2DB400000000000017FB
+t1241132468
+s6139
+
+N/Developer/Examples/iPhone/UICatalog/en.lproj/ImagesViewController.xib
+c0000000049FA2DB40000000000002AA2
+t1241132468
+s10914
+
+N/Developer/Examples/iPhone/UICatalog/en.lproj/Localizable.strings
+c000000004A807EB00000000000000414
+t1249935024
+s1044
+
+N/Developer/Examples/iPhone/UICatalog/en.lproj/MainWindow.xib
+c0000000049FA2DB40000000000003227
+t1241132468
+s12839
+
+N/Developer/Examples/iPhone/UICatalog/en.lproj/PickerViewController.xib
+c0000000049FA2DB4000000000000421A
+t1241132468
+s16922
+
+N/Developer/Examples/iPhone/UICatalog/en.lproj/SearchBarController.xib
+c0000000049FA2DB4000000000000168E
+t1241132468
+s5774
+
+N/Developer/Examples/iPhone/UICatalog/en.lproj/SegmentViewController.xib
+c0000000049FA2DB400000000000016C9
+t1241132468
+s5833
+
+N/Developer/Examples/iPhone/UICatalog/en.lproj/TextFieldController.xib
+c0000000049FA2DB40000000000001B23
+t1241132468
+s6947
+
+N/Developer/Examples/iPhone/UICatalog/en.lproj/TextViewController.xib
+c0000000049FA2DB4000000000000179C
+t1241132468
+s6044
+
+N/Developer/Examples/iPhone/UICatalog/en.lproj/ToolbarViewController.xib
+c0000000049FA2DB40000000000004FD1
+t1241132468
+s20433
+
+N/Developer/Examples/iPhone/UICatalog/en.lproj/TransitionViewController.xib
+c0000000049FA2DB40000000000002906
+t1241132468
+s10502
+
+N/Developer/Examples/iPhone/UICatalog/en.lproj/WebViewController.xib
+c0000000049FA2DB4000000000000167C
+t1241132468
+s5756
+
+N/Developer/Examples/iPhone/UICatalog/images/12-6AM.png
+c0000000049FA2DB400000000000007E9
+t1241132468
+s2025
+
+N/Developer/Examples/iPhone/UICatalog/images/12-6PM.png
+c0000000049FA2DB400000000000009B8
+t1241132468
+s2488
+
+N/Developer/Examples/iPhone/UICatalog/images/6-12AM.png
+c0000000049FA2DB40000000000000947
+t1241132468
+s2375
+
+N/Developer/Examples/iPhone/UICatalog/images/6-12PM.png
+c0000000049FA2DB400000000000008AB
+t1241132468
+s2219
+
+N/Developer/Examples/iPhone/UICatalog/images/Default.png
+c0000000049FA2DB40000000000000848
+t1241132468
+s2120
+
+N/Developer/Examples/iPhone/UICatalog/images/Icon.png
+c0000000049FA2DB40000000000001171
+t1241132468
+s4465
+
+N/Developer/Examples/iPhone/UICatalog/images/UIButton_custom.png
+c0000000049FA2DB4000000000000028F
+t1241132468
+s655
+
+N/Developer/Examples/iPhone/UICatalog/images/blueButton.png
+c0000000049FA2DB400000000000005BC
+t1241132468
+s1468
+
+N/Developer/Examples/iPhone/UICatalog/images/orangeslide.png
+c0000000049FA2DB40000000000000C29
+t1241132468
+s3113
+
+N/Developer/Examples/iPhone/UICatalog/images/scene1.jpg
+c0000000049FA2DB4000000000000B7F0
+t1241132468
+s47088
+
+N/Developer/Examples/iPhone/UICatalog/images/scene2.jpg
+c0000000049FA2DB40000000000002F2F
+t1241132468
+s12079
+
+N/Developer/Examples/iPhone/UICatalog/images/scene3.jpg
+c0000000049FA2DB40000000000005D33
+t1241132468
+s23859
+
+N/Developer/Examples/iPhone/UICatalog/images/scene4.jpg
+c0000000049FA2DB40000000000003D06
+t1241132468
+s15622
+
+N/Developer/Examples/iPhone/UICatalog/images/scene5.jpg
+c0000000049FA2DB40000000000003CA7
+t1241132468
+s15527
+
+N/Developer/Examples/iPhone/UICatalog/images/segment_check.png
+c0000000049FA2DB400000000000001FE
+t1241132468
+s510
+
+N/Developer/Examples/iPhone/UICatalog/images/segment_search.png
+c0000000049FA2DB40000000000000EC1
+t1241132468
+s3777
+
+N/Developer/Examples/iPhone/UICatalog/images/segment_tools.png
+c0000000049FA2DB40000000000000F2C
+t1241132468
+s3884
+
+N/Developer/Examples/iPhone/UICatalog/images/slider_ball.png
+c0000000049FA2DB40000000000000364
+t1241132468
+s868
+
+N/Developer/Examples/iPhone/UICatalog/images/whiteButton.png
+c0000000049FA2DB40000000000000596
+t1241132468
+s1430
+
+N/Developer/Examples/iPhone/UICatalog/images/yellowslide.png
+c0000000049FA2DB40000000000000C26
+t1241132468
+s3110
+
+N/Developer/Examples/iPhone/UICatalog/main.m
+c000000004BA3EA7D0000000000000A81
+t1269033597
+s2689
+i<UIKit/UIKit.h>
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004CC10D9100000000003C3C10
+t1287720337
+s3947536
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/reshma/Library/MobileDevice/Provisioning Profiles/49A47C8C-3179-4B17-945D-B1FB64C812AA.mobileprovision
+c000000004DD38BCE0000000000002D30
+t1305709518
+s11568
+
+N/Users/reshma/Library/MobileDevice/Provisioning Profiles/7536795D-1F9B-4B0F-A63B-C0C6976A094F.mobileprovision
+c000000004D944EB80000000000002838
+t1301565112
+s10296
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bxysoilwspwvxmbbhpvgpyxifpdi/Prefix.pch.gch
+t1308052032
+s9995964
+
+NInfo.plist
+c000000004A8097CF0000000000000389
+t1249941455
+s905
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies329744825#329744825#0(0"0(0#1#0"8671634016#0"0#
+
+CCodeSign /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app
+s329744834.066027
+e329744834.562665
+r1
+xCodeSign
+x/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app
+lSLF07#2@43"CodeSign build/Debug-iphoneos/UICatalog.app329744834#329744834#0(0"0(0#0#71"/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app8674496672#650"    cd /Developer/Examples/iPhone/UICatalog    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Rohit Singal (UGQKS7R3ZE)" --resource-rules=/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/ResourceRules.plist --entitlements /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog.xcent /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app0#
+
+CCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/AlertsViewController.o /Developer/Examples/iPhone/UICatalog/AlertsViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329744832.819319
+e329744832.929538
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/AlertsViewController.o
+x/Developer/Examples/iPhone/UICatalog/AlertsViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Developer/Examples/iPhone/UICatalog/AlertsViewController.m329744832#329744832#0(0"0(0#0#59"/Developer/Examples/iPhone/UICatalog/AlertsViewController.m8671109984#1745"    cd /Developer/Examples/iPhone/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-generated-files.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-own-target-headers.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-project-headers.hmap -F/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos -I/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/include -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources/armv6 -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bxysoilwspwvxmbbhpvgpyxifpdi/Prefix.pch -c /Developer/Examples/iPhone/UICatalog/AlertsViewController.m -o /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/AlertsViewController.o0#
+
+CCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/AppDelegate.o /Developer/Examples/iPhone/UICatalog/AppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329744832.348022
+e329744832.508789
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/AppDelegate.o
+x/Developer/Examples/iPhone/UICatalog/AppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Developer/Examples/iPhone/UICatalog/AppDelegate.m329744832#329744832#0(0"0(0#0#50"/Developer/Examples/iPhone/UICatalog/AppDelegate.m8665553184#1727"    cd /Developer/Examples/iPhone/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-generated-files.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-own-target-headers.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-project-headers.hmap -F/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos -I/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/include -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources/armv6 -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bxysoilwspwvxmbbhpvgpyxifpdi/Prefix.pch -c /Developer/Examples/iPhone/UICatalog/AppDelegate.m -o /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/AppDelegate.o0#
+
+CCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/ButtonsViewController.o /Developer/Examples/iPhone/UICatalog/ButtonsViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329744833.050293
+e329744833.204802
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/ButtonsViewController.o
+x/Developer/Examples/iPhone/UICatalog/ButtonsViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Developer/Examples/iPhone/UICatalog/ButtonsViewController.m329744833#329744833#0(0"0(0#0#60"/Developer/Examples/iPhone/UICatalog/ButtonsViewController.m8674421952#1747"    cd /Developer/Examples/iPhone/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-generated-files.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-own-target-headers.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-project-headers.hmap -F/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos -I/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/include -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources/armv6 -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bxysoilwspwvxmbbhpvgpyxifpdi/Prefix.pch -c /Developer/Examples/iPhone/UICatalog/ButtonsViewController.m -o /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/ButtonsViewController.o0#
+
+CCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/ControlsViewController.o /Developer/Examples/iPhone/UICatalog/ControlsViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329744832.776265
+e329744832.972891
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/ControlsViewController.o
+x/Developer/Examples/iPhone/UICatalog/ControlsViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Developer/Examples/iPhone/UICatalog/ControlsViewController.m329744832#329744832#0(0"0(0#0#61"/Developer/Examples/iPhone/UICatalog/ControlsViewController.m8671273856#1749"    cd /Developer/Examples/iPhone/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-generated-files.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-own-target-headers.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-project-headers.hmap -F/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos -I/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/include -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources/armv6 -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bxysoilwspwvxmbbhpvgpyxifpdi/Prefix.pch -c /Developer/Examples/iPhone/UICatalog/ControlsViewController.m -o /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/ControlsViewController.o0#
+
+CCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/CustomPickerDataSource.o /Developer/Examples/iPhone/UICatalog/Picker/CustomPickerDataSource.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329744833.343514
+e329744833.431654
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/CustomPickerDataSource.o
+x/Developer/Examples/iPhone/UICatalog/Picker/CustomPickerDataSource.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Developer/Examples/iPhone/UICatalog/Picker/CustomPickerDataSource.m329744833#329744833#0(0"0(0#0#68"/Developer/Examples/iPhone/UICatalog/Picker/CustomPickerDataSource.m8667512416#1756"    cd /Developer/Examples/iPhone/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-generated-files.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-own-target-headers.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-project-headers.hmap -F/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos -I/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/include -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources/armv6 -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bxysoilwspwvxmbbhpvgpyxifpdi/Prefix.pch -c /Developer/Examples/iPhone/UICatalog/Picker/CustomPickerDataSource.m -o /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/CustomPickerDataSource.o0#
+
+CCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/CustomView.o /Developer/Examples/iPhone/UICatalog/Picker/CustomView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329744833.299483
+e329744833.389197
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/CustomView.o
+x/Developer/Examples/iPhone/UICatalog/Picker/CustomView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Developer/Examples/iPhone/UICatalog/Picker/CustomView.m329744833#329744833#0(0"0(0#0#56"/Developer/Examples/iPhone/UICatalog/Picker/CustomView.m8668017024#1732"    cd /Developer/Examples/iPhone/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-generated-files.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-own-target-headers.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-project-headers.hmap -F/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos -I/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/include -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources/armv6 -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bxysoilwspwvxmbbhpvgpyxifpdi/Prefix.pch -c /Developer/Examples/iPhone/UICatalog/Picker/CustomView.m -o /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/CustomView.o0#
+
+CCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/ImagesViewController.o /Developer/Examples/iPhone/UICatalog/ImagesViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329744832.736905
+e329744832.819224
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/ImagesViewController.o
+x/Developer/Examples/iPhone/UICatalog/ImagesViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Developer/Examples/iPhone/UICatalog/ImagesViewController.m329744832#329744832#0(0"0(0#0#59"/Developer/Examples/iPhone/UICatalog/ImagesViewController.m8673916640#1745"    cd /Developer/Examples/iPhone/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-generated-files.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-own-target-headers.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-project-headers.hmap -F/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos -I/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/include -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources/armv6 -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bxysoilwspwvxmbbhpvgpyxifpdi/Prefix.pch -c /Developer/Examples/iPhone/UICatalog/ImagesViewController.m -o /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/ImagesViewController.o0#
+
+CCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/MainViewController.o /Developer/Examples/iPhone/UICatalog/MainViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329744832.616822
+e329744832.736806
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/MainViewController.o
+x/Developer/Examples/iPhone/UICatalog/MainViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Developer/Examples/iPhone/UICatalog/MainViewController.m329744832#329744832#0(0"0(0#0#57"/Developer/Examples/iPhone/UICatalog/MainViewController.m8674461664#1741"    cd /Developer/Examples/iPhone/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-generated-files.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-own-target-headers.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-project-headers.hmap -F/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos -I/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/include -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources/armv6 -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bxysoilwspwvxmbbhpvgpyxifpdi/Prefix.pch -c /Developer/Examples/iPhone/UICatalog/MainViewController.m -o /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/MainViewController.o0#
+
+CCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/PickerViewController.o /Developer/Examples/iPhone/UICatalog/PickerViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329744832.609236
+e329744832.776167
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/PickerViewController.o
+x/Developer/Examples/iPhone/UICatalog/PickerViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Developer/Examples/iPhone/UICatalog/PickerViewController.m329744832#329744832#0(0"0(0#0#59"/Developer/Examples/iPhone/UICatalog/PickerViewController.m8674655424#1745"    cd /Developer/Examples/iPhone/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-generated-files.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-own-target-headers.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-project-headers.hmap -F/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos -I/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/include -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources/armv6 -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bxysoilwspwvxmbbhpvgpyxifpdi/Prefix.pch -c /Developer/Examples/iPhone/UICatalog/PickerViewController.m -o /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/PickerViewController.o0#
+
+CCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/SearchBarController.o /Developer/Examples/iPhone/UICatalog/SearchBarController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329744833.204911
+e329744833.299386
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/SearchBarController.o
+x/Developer/Examples/iPhone/UICatalog/SearchBarController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Developer/Examples/iPhone/UICatalog/SearchBarController.m329744833#329744833#0(0"0(0#0#58"/Developer/Examples/iPhone/UICatalog/SearchBarController.m8671197696#1743"    cd /Developer/Examples/iPhone/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-generated-files.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-own-target-headers.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-project-headers.hmap -F/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos -I/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/include -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources/armv6 -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bxysoilwspwvxmbbhpvgpyxifpdi/Prefix.pch -c /Developer/Examples/iPhone/UICatalog/SearchBarController.m -o /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/SearchBarController.o0#
+
+CCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/SegmentViewController.o /Developer/Examples/iPhone/UICatalog/SegmentViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329744832.929643
+e329744833.050202
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/SegmentViewController.o
+x/Developer/Examples/iPhone/UICatalog/SegmentViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Developer/Examples/iPhone/UICatalog/SegmentViewController.m329744832#329744833#0(0"0(0#0#60"/Developer/Examples/iPhone/UICatalog/SegmentViewController.m8667284992#1747"    cd /Developer/Examples/iPhone/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-generated-files.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-own-target-headers.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-project-headers.hmap -F/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos -I/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/include -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources/armv6 -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bxysoilwspwvxmbbhpvgpyxifpdi/Prefix.pch -c /Developer/Examples/iPhone/UICatalog/SegmentViewController.m -o /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/SegmentViewController.o0#
+
+CCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/TextFieldController.o /Developer/Examples/iPhone/UICatalog/TextFieldController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329744832.972988
+e329744833.115275
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/TextFieldController.o
+x/Developer/Examples/iPhone/UICatalog/TextFieldController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Developer/Examples/iPhone/UICatalog/TextFieldController.m329744832#329744833#0(0"0(0#0#58"/Developer/Examples/iPhone/UICatalog/TextFieldController.m8674727904#1743"    cd /Developer/Examples/iPhone/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-generated-files.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-own-target-headers.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-project-headers.hmap -F/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos -I/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/include -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources/armv6 -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bxysoilwspwvxmbbhpvgpyxifpdi/Prefix.pch -c /Developer/Examples/iPhone/UICatalog/TextFieldController.m -o /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/TextFieldController.o0#
+
+CCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/TextViewController.o /Developer/Examples/iPhone/UICatalog/TextViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329744832.508861
+e329744832.616728
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/TextViewController.o
+x/Developer/Examples/iPhone/UICatalog/TextViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Developer/Examples/iPhone/UICatalog/TextViewController.m: In function '-[TextViewController keyboardWillShow:]':
+o/Developer/Examples/iPhone/UICatalog/TextViewController.m:119: warning: 'UIKeyboardBoundsUserInfoKey' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWindow.h:118)
+o/Developer/Examples/iPhone/UICatalog/TextViewController.m: In function '-[TextViewController keyboardWillHide:]':
+o/Developer/Examples/iPhone/UICatalog/TextViewController.m:132: warning: 'UIKeyboardBoundsUserInfoKey' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWindow.h:118)
+lSLF07#2@65"Compile /Developer/Examples/iPhone/UICatalog/TextViewController.m329744832#329744832#0(758"/Developer/Examples/iPhone/UICatalog/TextViewController.m: In function '-[TextViewController keyboardWillShow:]':/Developer/Examples/iPhone/UICatalog/TextViewController.m:119: warning: 'UIKeyboardBoundsUserInfoKey' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWindow.h:118)/Developer/Examples/iPhone/UICatalog/TextViewController.m: In function '-[TextViewController keyboardWillHide:]':/Developer/Examples/iPhone/UICatalog/TextViewController.m:132: warning: 'UIKeyboardBoundsUserInfoKey' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWindow.h:118)2(22@192"'UIKeyboardBoundsUserInfoKey' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWindow.h:118)329744832#114#265#0(6@57"/Developer/Examples/iPhone/UICatalog/TextViewController.m290726397#119#0#119#0#33"'*' is deprecated (declared at *)0(22@192"'UIKeyboardBoundsUserInfoKey' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWindow.h:118)329744832#493#265#0(6@57"/Developer/Examples/iPhone/UICatalog/TextViewController.m290726397#132#0#132#0#33"'*' is deprecated (declared at *)0(0#0#57"/Developer/Examples/iPhone/UICatalog/TextViewController.m8650356192#1741"    cd /Developer/Examples/iPhone/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-generated-files.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-own-target-headers.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-project-headers.hmap -F/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos -I/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/include -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources/armv6 -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bxysoilwspwvxmbbhpvgpyxifpdi/Prefix.pch -c /Developer/Examples/iPhone/UICatalog/TextViewController.m -o /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/TextViewController.o0#
+
+CCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/ToolbarViewController.o /Developer/Examples/iPhone/UICatalog/ToolbarViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329744833.115373
+e329744833.240432
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/ToolbarViewController.o
+x/Developer/Examples/iPhone/UICatalog/ToolbarViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Developer/Examples/iPhone/UICatalog/ToolbarViewController.m329744833#329744833#0(0"0(0#0#60"/Developer/Examples/iPhone/UICatalog/ToolbarViewController.m8671529728#1747"    cd /Developer/Examples/iPhone/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-generated-files.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-own-target-headers.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-project-headers.hmap -F/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos -I/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/include -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources/armv6 -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bxysoilwspwvxmbbhpvgpyxifpdi/Prefix.pch -c /Developer/Examples/iPhone/UICatalog/ToolbarViewController.m -o /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/ToolbarViewController.o0#
+
+CCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/TransitionViewController.o /Developer/Examples/iPhone/UICatalog/TransitionViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329744833.240525
+e329744833.343411
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/TransitionViewController.o
+x/Developer/Examples/iPhone/UICatalog/TransitionViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Developer/Examples/iPhone/UICatalog/TransitionViewController.m329744833#329744833#0(0"0(0#0#63"/Developer/Examples/iPhone/UICatalog/TransitionViewController.m8670911520#1753"    cd /Developer/Examples/iPhone/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-generated-files.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-own-target-headers.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-project-headers.hmap -F/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos -I/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/include -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources/armv6 -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bxysoilwspwvxmbbhpvgpyxifpdi/Prefix.pch -c /Developer/Examples/iPhone/UICatalog/TransitionViewController.m -o /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/TransitionViewController.o0#
+
+CCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/WebViewController.o /Developer/Examples/iPhone/UICatalog/WebViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329744832.507399
+e329744832.609154
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/WebViewController.o
+x/Developer/Examples/iPhone/UICatalog/WebViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Developer/Examples/iPhone/UICatalog/WebViewController.m329744832#329744832#0(0"0(0#0#56"/Developer/Examples/iPhone/UICatalog/WebViewController.m8665142912#1739"    cd /Developer/Examples/iPhone/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-generated-files.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-own-target-headers.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-project-headers.hmap -F/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos -I/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/include -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources/armv6 -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bxysoilwspwvxmbbhpvgpyxifpdi/Prefix.pch -c /Developer/Examples/iPhone/UICatalog/WebViewController.m -o /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/WebViewController.o0#
+
+CCompileC build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/main.o /Developer/Examples/iPhone/UICatalog/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329744832.347021
+e329744832.507274
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/main.o
+x/Developer/Examples/iPhone/UICatalog/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Developer/Examples/iPhone/UICatalog/main.m329744832#329744832#0(0"0(0#0#43"/Developer/Examples/iPhone/UICatalog/main.m8650172928#1713"    cd /Developer/Examples/iPhone/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-generated-files.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-own-target-headers.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-project-headers.hmap -F/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos -I/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/include -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources/armv6 -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bxysoilwspwvxmbbhpvgpyxifpdi/Prefix.pch -c /Developer/Examples/iPhone/UICatalog/main.m -o /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/main.o0#
+
+CCompileXIB /Developer/Examples/iPhone/UICatalog/en.lproj/AlertsViewController.xib
+s329744830.714973
+e329744831.144167
+r1
+xCompileXIB
+x/Developer/Examples/iPhone/UICatalog/en.lproj/AlertsViewController.xib
+lSLF07#2@44"CompileXIB en.lproj/AlertsViewController.xib329744830#329744831#0(0"0(0#0#70"/Developer/Examples/iPhone/UICatalog/en.lproj/AlertsViewController.xib8671657824#576"    cd /Developer/Examples/iPhone/UICatalog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/AlertsViewController.nib /Developer/Examples/iPhone/UICatalog/en.lproj/AlertsViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Developer/Examples/iPhone/UICatalog/en.lproj/ButtonsViewController.xib
+s329744828.635068
+e329744829.166210
+r1
+xCompileXIB
+x/Developer/Examples/iPhone/UICatalog/en.lproj/ButtonsViewController.xib
+lSLF07#2@45"CompileXIB en.lproj/ButtonsViewController.xib329744828#329744829#0(0"0(0#0#71"/Developer/Examples/iPhone/UICatalog/en.lproj/ButtonsViewController.xib8673949088#578"    cd /Developer/Examples/iPhone/UICatalog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/ButtonsViewController.nib /Developer/Examples/iPhone/UICatalog/en.lproj/ButtonsViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Developer/Examples/iPhone/UICatalog/en.lproj/ControlsViewController.xib
+s329744828.822991
+e329744829.229538
+r1
+xCompileXIB
+x/Developer/Examples/iPhone/UICatalog/en.lproj/ControlsViewController.xib
+lSLF07#2@46"CompileXIB en.lproj/ControlsViewController.xib329744828#329744829#0(0"0(0#0#72"/Developer/Examples/iPhone/UICatalog/en.lproj/ControlsViewController.xib8671529408#580"    cd /Developer/Examples/iPhone/UICatalog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/ControlsViewController.nib /Developer/Examples/iPhone/UICatalog/en.lproj/ControlsViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Developer/Examples/iPhone/UICatalog/en.lproj/ImagesViewController.xib
+s329744829.591329
+e329744830.251445
+r1
+xCompileXIB
+x/Developer/Examples/iPhone/UICatalog/en.lproj/ImagesViewController.xib
+lSLF07#2@44"CompileXIB en.lproj/ImagesViewController.xib329744829#329744830#0(0"0(0#0#70"/Developer/Examples/iPhone/UICatalog/en.lproj/ImagesViewController.xib8668094848#576"    cd /Developer/Examples/iPhone/UICatalog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/ImagesViewController.nib /Developer/Examples/iPhone/UICatalog/en.lproj/ImagesViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Developer/Examples/iPhone/UICatalog/en.lproj/MainWindow.xib
+s329744826.551957
+e329744828.634891
+r1
+xCompileXIB
+x/Developer/Examples/iPhone/UICatalog/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib329744826#329744828#0(0"0(0#0#60"/Developer/Examples/iPhone/UICatalog/en.lproj/MainWindow.xib8671064320#556"    cd /Developer/Examples/iPhone/UICatalog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/MainWindow.nib /Developer/Examples/iPhone/UICatalog/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Developer/Examples/iPhone/UICatalog/en.lproj/PickerViewController.xib
+s329744827.090251
+e329744828.822910
+r1
+xCompileXIB
+x/Developer/Examples/iPhone/UICatalog/en.lproj/PickerViewController.xib
+lSLF07#2@44"CompileXIB en.lproj/PickerViewController.xib329744827#329744828#0(0"0(0#0#70"/Developer/Examples/iPhone/UICatalog/en.lproj/PickerViewController.xib8674184672#576"    cd /Developer/Examples/iPhone/UICatalog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/PickerViewController.nib /Developer/Examples/iPhone/UICatalog/en.lproj/PickerViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Developer/Examples/iPhone/UICatalog/en.lproj/SearchBarController.xib
+s329744829.590635
+e329744830.061148
+r1
+xCompileXIB
+x/Developer/Examples/iPhone/UICatalog/en.lproj/SearchBarController.xib
+lSLF07#2@43"CompileXIB en.lproj/SearchBarController.xib329744829#329744830#0(0"0(0#0#69"/Developer/Examples/iPhone/UICatalog/en.lproj/SearchBarController.xib8670717504#574"    cd /Developer/Examples/iPhone/UICatalog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/SearchBarController.nib /Developer/Examples/iPhone/UICatalog/en.lproj/SearchBarController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Developer/Examples/iPhone/UICatalog/en.lproj/SegmentViewController.xib
+s329744830.251620
+e329744830.714892
+r1
+xCompileXIB
+x/Developer/Examples/iPhone/UICatalog/en.lproj/SegmentViewController.xib
+lSLF07#2@45"CompileXIB en.lproj/SegmentViewController.xib329744830#329744830#0(0"0(0#0#71"/Developer/Examples/iPhone/UICatalog/en.lproj/SegmentViewController.xib8674256960#578"    cd /Developer/Examples/iPhone/UICatalog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/SegmentViewController.nib /Developer/Examples/iPhone/UICatalog/en.lproj/SegmentViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Developer/Examples/iPhone/UICatalog/en.lproj/TextFieldController.xib
+s329744829.166295
+e329744829.590419
+r1
+xCompileXIB
+x/Developer/Examples/iPhone/UICatalog/en.lproj/TextFieldController.xib
+lSLF07#2@43"CompileXIB en.lproj/TextFieldController.xib329744829#329744829#0(0"0(0#0#69"/Developer/Examples/iPhone/UICatalog/en.lproj/TextFieldController.xib8671212000#574"    cd /Developer/Examples/iPhone/UICatalog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/TextFieldController.nib /Developer/Examples/iPhone/UICatalog/en.lproj/TextFieldController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Developer/Examples/iPhone/UICatalog/en.lproj/TextViewController.xib
+s329744829.229624
+e329744829.590557
+r1
+xCompileXIB
+x/Developer/Examples/iPhone/UICatalog/en.lproj/TextViewController.xib
+lSLF07#2@42"CompileXIB en.lproj/TextViewController.xib329744829#329744829#0(0"0(0#0#68"/Developer/Examples/iPhone/UICatalog/en.lproj/TextViewController.xib8671124992#572"    cd /Developer/Examples/iPhone/UICatalog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/TextViewController.nib /Developer/Examples/iPhone/UICatalog/en.lproj/TextViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Developer/Examples/iPhone/UICatalog/en.lproj/ToolbarViewController.xib
+s329744830.491822
+e329744831.012201
+r1
+xCompileXIB
+x/Developer/Examples/iPhone/UICatalog/en.lproj/ToolbarViewController.xib
+lSLF07#2@45"CompileXIB en.lproj/ToolbarViewController.xib329744830#329744831#0(0"0(0#0#71"/Developer/Examples/iPhone/UICatalog/en.lproj/ToolbarViewController.xib8674076224#578"    cd /Developer/Examples/iPhone/UICatalog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/ToolbarViewController.nib /Developer/Examples/iPhone/UICatalog/en.lproj/ToolbarViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Developer/Examples/iPhone/UICatalog/en.lproj/TransitionViewController.xib
+s329744831.012287
+e329744831.414138
+r1
+xCompileXIB
+x/Developer/Examples/iPhone/UICatalog/en.lproj/TransitionViewController.xib
+lSLF07#2@48"CompileXIB en.lproj/TransitionViewController.xib329744831#329744831#0(0"0(0#0#74"/Developer/Examples/iPhone/UICatalog/en.lproj/TransitionViewController.xib8671241344#584"    cd /Developer/Examples/iPhone/UICatalog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/TransitionViewController.nib /Developer/Examples/iPhone/UICatalog/en.lproj/TransitionViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Developer/Examples/iPhone/UICatalog/en.lproj/WebViewController.xib
+s329744830.061224
+e329744830.491742
+r1
+xCompileXIB
+x/Developer/Examples/iPhone/UICatalog/en.lproj/WebViewController.xib
+lSLF07#2@41"CompileXIB en.lproj/WebViewController.xib329744830#329744830#0(0"0(0#0#67"/Developer/Examples/iPhone/UICatalog/en.lproj/WebViewController.xib8674509888#570"    cd /Developer/Examples/iPhone/UICatalog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/WebViewController.nib /Developer/Examples/iPhone/UICatalog/en.lproj/WebViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/12-6AM.png images/12-6AM.png
+s329744826.948277
+e329744826.981492
+r1
+xCopyPNGFile
+x/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/12-6AM.png
+ximages/12-6AM.png
+lSLF07#2@75"CopyPNGFile build/Debug-iphoneos/UICatalog.app/12-6AM.png images/12-6AM.png329744826#329744826#0(0"0(0#0#54"/Developer/Examples/iPhone/UICatalog/images/12-6AM.png8667363456#563"    cd /Developer/Examples/iPhone/UICatalog    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Developer/Examples/iPhone/UICatalog/images/12-6AM.png /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/12-6AM.png0#
+
+CCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/12-6PM.png images/12-6PM.png
+s329744827.046052
+e329744827.090169
+r1
+xCopyPNGFile
+x/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/12-6PM.png
+ximages/12-6PM.png
+lSLF07#2@75"CopyPNGFile build/Debug-iphoneos/UICatalog.app/12-6PM.png images/12-6PM.png329744827#329744827#0(0"0(0#0#54"/Developer/Examples/iPhone/UICatalog/images/12-6PM.png8674312544#563"    cd /Developer/Examples/iPhone/UICatalog    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Developer/Examples/iPhone/UICatalog/images/12-6PM.png /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/12-6PM.png0#
+
+CCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/6-12AM.png images/6-12AM.png
+s329744827.004177
+e329744827.045969
+r1
+xCopyPNGFile
+x/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/6-12AM.png
+ximages/6-12AM.png
+lSLF07#2@75"CopyPNGFile build/Debug-iphoneos/UICatalog.app/6-12AM.png images/6-12AM.png329744827#329744827#0(0"0(0#0#54"/Developer/Examples/iPhone/UICatalog/images/6-12AM.png8616705792#563"    cd /Developer/Examples/iPhone/UICatalog    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Developer/Examples/iPhone/UICatalog/images/6-12AM.png /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/6-12AM.png0#
+
+CCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/6-12PM.png images/6-12PM.png
+s329744826.981762
+e329744827.004087
+r1
+xCopyPNGFile
+x/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/6-12PM.png
+ximages/6-12PM.png
+lSLF07#2@75"CopyPNGFile build/Debug-iphoneos/UICatalog.app/6-12PM.png images/6-12PM.png329744826#329744827#0(0"0(0#0#54"/Developer/Examples/iPhone/UICatalog/images/6-12PM.png8665550592#563"    cd /Developer/Examples/iPhone/UICatalog    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Developer/Examples/iPhone/UICatalog/images/6-12PM.png /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/6-12PM.png0#
+
+CCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/Default.png images/Default.png
+s329744826.255978
+e329744826.480276
+r1
+xCopyPNGFile
+x/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/Default.png
+ximages/Default.png
+lSLF07#2@77"CopyPNGFile build/Debug-iphoneos/UICatalog.app/Default.png images/Default.png329744826#329744826#0(0"0(0#0#55"/Developer/Examples/iPhone/UICatalog/images/Default.png8674816416#565"    cd /Developer/Examples/iPhone/UICatalog    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Developer/Examples/iPhone/UICatalog/images/Default.png /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/Default.png0#
+
+CCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/Icon.png images/Icon.png
+s329744826.521828
+e329744826.551879
+r1
+xCopyPNGFile
+x/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/Icon.png
+ximages/Icon.png
+lSLF07#2@71"CopyPNGFile build/Debug-iphoneos/UICatalog.app/Icon.png images/Icon.png329744826#329744826#0(0"0(0#0#52"/Developer/Examples/iPhone/UICatalog/images/Icon.png8671496224#559"    cd /Developer/Examples/iPhone/UICatalog    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Developer/Examples/iPhone/UICatalog/images/Icon.png /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/Icon.png0#
+
+CCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/UIButton_custom.png images/UIButton_custom.png
+s329744826.542022
+e329744826.592070
+r1
+xCopyPNGFile
+x/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/UIButton_custom.png
+ximages/UIButton_custom.png
+lSLF07#2@93"CopyPNGFile build/Debug-iphoneos/UICatalog.app/UIButton_custom.png images/UIButton_custom.png329744826#329744826#0(0"0(0#0#63"/Developer/Examples/iPhone/UICatalog/images/UIButton_custom.png8671238176#581"    cd /Developer/Examples/iPhone/UICatalog    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Developer/Examples/iPhone/UICatalog/images/UIButton_custom.png /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/UIButton_custom.png0#
+
+CCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/blueButton.png images/blueButton.png
+s329744826.889976
+e329744826.948168
+r1
+xCopyPNGFile
+x/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/blueButton.png
+ximages/blueButton.png
+lSLF07#2@83"CopyPNGFile build/Debug-iphoneos/UICatalog.app/blueButton.png images/blueButton.png329744826#329744826#0(0"0(0#0#58"/Developer/Examples/iPhone/UICatalog/images/blueButton.png8671679392#571"    cd /Developer/Examples/iPhone/UICatalog    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Developer/Examples/iPhone/UICatalog/images/blueButton.png /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/blueButton.png0#
+
+CCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/orangeslide.png images/orangeslide.png
+s329744826.520781
+e329744826.541940
+r1
+xCopyPNGFile
+x/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/orangeslide.png
+ximages/orangeslide.png
+lSLF07#2@85"CopyPNGFile build/Debug-iphoneos/UICatalog.app/orangeslide.png images/orangeslide.png329744826#329744826#0(0"0(0#0#59"/Developer/Examples/iPhone/UICatalog/images/orangeslide.png8671657184#573"    cd /Developer/Examples/iPhone/UICatalog    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Developer/Examples/iPhone/UICatalog/images/orangeslide.png /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/orangeslide.png0#
+
+CCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/segment_check.png images/segment_check.png
+s329744826.480352
+e329744826.501352
+r1
+xCopyPNGFile
+x/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/segment_check.png
+ximages/segment_check.png
+lSLF07#2@89"CopyPNGFile build/Debug-iphoneos/UICatalog.app/segment_check.png images/segment_check.png329744826#329744826#0(0"0(0#0#61"/Developer/Examples/iPhone/UICatalog/images/segment_check.png8674381920#577"    cd /Developer/Examples/iPhone/UICatalog    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Developer/Examples/iPhone/UICatalog/images/segment_check.png /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/segment_check.png0#
+
+CCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/segment_search.png images/segment_search.png
+s329744826.474769
+e329744826.497820
+r1
+xCopyPNGFile
+x/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/segment_search.png
+ximages/segment_search.png
+lSLF07#2@91"CopyPNGFile build/Debug-iphoneos/UICatalog.app/segment_search.png images/segment_search.png329744826#329744826#0(0"0(0#0#62"/Developer/Examples/iPhone/UICatalog/images/segment_search.png8674497120#579"    cd /Developer/Examples/iPhone/UICatalog    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Developer/Examples/iPhone/UICatalog/images/segment_search.png /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/segment_search.png0#
+
+CCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/segment_tools.png images/segment_tools.png
+s329744826.452185
+e329744826.474608
+r1
+xCopyPNGFile
+x/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/segment_tools.png
+ximages/segment_tools.png
+lSLF07#2@89"CopyPNGFile build/Debug-iphoneos/UICatalog.app/segment_tools.png images/segment_tools.png329744826#329744826#0(0"0(0#0#61"/Developer/Examples/iPhone/UICatalog/images/segment_tools.png8674659776#577"    cd /Developer/Examples/iPhone/UICatalog    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Developer/Examples/iPhone/UICatalog/images/segment_tools.png /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/segment_tools.png0#
+
+CCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/slider_ball.png images/slider_ball.png
+s329744826.497911
+e329744826.520693
+r1
+xCopyPNGFile
+x/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/slider_ball.png
+ximages/slider_ball.png
+lSLF07#2@85"CopyPNGFile build/Debug-iphoneos/UICatalog.app/slider_ball.png images/slider_ball.png329744826#329744826#0(0"0(0#0#59"/Developer/Examples/iPhone/UICatalog/images/slider_ball.png8674203008#573"    cd /Developer/Examples/iPhone/UICatalog    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Developer/Examples/iPhone/UICatalog/images/slider_ball.png /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/slider_ball.png0#
+
+CCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/whiteButton.png images/whiteButton.png
+s329744825.956909
+e329744826.452095
+r1
+xCopyPNGFile
+x/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/whiteButton.png
+ximages/whiteButton.png
+lSLF07#2@85"CopyPNGFile build/Debug-iphoneos/UICatalog.app/whiteButton.png images/whiteButton.png329744825#329744826#0(0"0(0#0#59"/Developer/Examples/iPhone/UICatalog/images/whiteButton.png8654802528#573"    cd /Developer/Examples/iPhone/UICatalog    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Developer/Examples/iPhone/UICatalog/images/whiteButton.png /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/whiteButton.png0#
+
+CCopyPNGFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/yellowslide.png images/yellowslide.png
+s329744826.501427
+e329744826.521766
+r1
+xCopyPNGFile
+x/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/yellowslide.png
+ximages/yellowslide.png
+lSLF07#2@85"CopyPNGFile build/Debug-iphoneos/UICatalog.app/yellowslide.png images/yellowslide.png329744826#329744826#0(0"0(0#0#59"/Developer/Examples/iPhone/UICatalog/images/yellowslide.png8674072832#573"    cd /Developer/Examples/iPhone/UICatalog    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Developer/Examples/iPhone/UICatalog/images/yellowslide.png /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/yellowslide.png0#
+
+CCopyStringsFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+s329744826.592164
+e329744826.889888
+r1
+xCopyStringsFile
+x/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj/Localizable.strings
+xen.lproj/Localizable.strings
+lSLF07#2@33"Copy en.lproj/Localizable.strings329744826#329744826#0(0"0(0#0#65"/Developer/Examples/iPhone/UICatalog/en.lproj/Localizable.strings8670906496#469"    cd /Developer/Examples/iPhone/UICatalog    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary en.lproj/Localizable.strings --outdir /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/en.lproj0#
+
+CCpResource build/Debug-iphoneos/UICatalog.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s329744825.909413
+e329744825.953566
+r1
+xCpResource
+xbuild/Debug-iphoneos/UICatalog.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist329744825#329744825#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8670718144#492"    cd /Developer/Examples/iPhone/UICatalog    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app0#
+
+CCpResource build/Debug-iphoneos/UICatalog.app/scene1.jpg images/scene1.jpg
+s329744825.954160
+e329744826.187196
+r1
+xCpResource
+xbuild/Debug-iphoneos/UICatalog.app/scene1.jpg
+ximages/scene1.jpg
+lSLF07#2@22"Copy images/scene1.jpg329744825#329744826#0(0"0(0#0#54"/Developer/Examples/iPhone/UICatalog/images/scene1.jpg8667102240#457"    cd /Developer/Examples/iPhone/UICatalog    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Examples/iPhone/UICatalog/images/scene1.jpg /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app0#
+
+CCpResource build/Debug-iphoneos/UICatalog.app/scene2.jpg images/scene2.jpg
+s329744825.954750
+e329744826.226830
+r1
+xCpResource
+xbuild/Debug-iphoneos/UICatalog.app/scene2.jpg
+ximages/scene2.jpg
+lSLF07#2@22"Copy images/scene2.jpg329744825#329744826#0(0"0(0#0#54"/Developer/Examples/iPhone/UICatalog/images/scene2.jpg8666230816#457"    cd /Developer/Examples/iPhone/UICatalog    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Examples/iPhone/UICatalog/images/scene2.jpg /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app0#
+
+CCpResource build/Debug-iphoneos/UICatalog.app/scene3.jpg images/scene3.jpg
+s329744825.955288
+e329744826.240328
+r1
+xCpResource
+xbuild/Debug-iphoneos/UICatalog.app/scene3.jpg
+ximages/scene3.jpg
+lSLF07#2@22"Copy images/scene3.jpg329744825#329744826#0(0"0(0#0#54"/Developer/Examples/iPhone/UICatalog/images/scene3.jpg8665892288#457"    cd /Developer/Examples/iPhone/UICatalog    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Examples/iPhone/UICatalog/images/scene3.jpg /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app0#
+
+CCpResource build/Debug-iphoneos/UICatalog.app/scene4.jpg images/scene4.jpg
+s329744825.955849
+e329744826.222667
+r1
+xCpResource
+xbuild/Debug-iphoneos/UICatalog.app/scene4.jpg
+ximages/scene4.jpg
+lSLF07#2@22"Copy images/scene4.jpg329744825#329744826#0(0"0(0#0#54"/Developer/Examples/iPhone/UICatalog/images/scene4.jpg8665262176#457"    cd /Developer/Examples/iPhone/UICatalog    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Examples/iPhone/UICatalog/images/scene4.jpg /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app0#
+
+CCpResource build/Debug-iphoneos/UICatalog.app/scene5.jpg images/scene5.jpg
+s329744825.956379
+e329744826.255872
+r1
+xCpResource
+xbuild/Debug-iphoneos/UICatalog.app/scene5.jpg
+ximages/scene5.jpg
+lSLF07#2@22"Copy images/scene5.jpg329744825#329744826#0(0"0(0#0#54"/Developer/Examples/iPhone/UICatalog/images/scene5.jpg8664298176#457"    cd /Developer/Examples/iPhone/UICatalog    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Examples/iPhone/UICatalog/images/scene5.jpg /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app0#
+
+CGenerateDSYMFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app.dSYM /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/UICatalog
+s329744833.761171
+e329744833.838091
+r1
+xGenerateDSYMFile
+x/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app.dSYM
+x/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/UICatalog
+lSLF07#2@101"GenerateDSYMFile build/Debug-iphoneos/UICatalog.app.dSYM build/Debug-iphoneos/UICatalog.app/UICatalog329744833#329744833#0(0"0(0#0#81"/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/UICatalog8674218272#362"    cd /Developer/Examples/iPhone/UICatalog    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/UICatalog -o /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app.dSYM0#
+
+CLd /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/UICatalog normal armv6
+s329744833.431733
+e329744833.761079
+r1
+xLd
+x/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/UICatalog
+xnormal
+xarmv6
+lSLF07#2@86"Link /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/UICatalog329744833#329744833#0(0"0(0#0#0"8666238016#848"    cd /Developer/Examples/iPhone/UICatalog    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos -F/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos -filelist /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/Objects-normal/armv6/UICatalog.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework CoreFoundation -framework Foundation -framework UIKit -framework CoreGraphics -o /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/UICatalog0#
+
+CProcessInfoPlistFile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/Info.plist Info.plist
+s329744825.910246
+e329744825.954093
+r1
+xProcessInfoPlistFile
+x/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist329744825#329744825#0(0"0(0#0#47"/Developer/Examples/iPhone/UICatalog/Info.plist8668077152#552"    cd /Developer/Examples/iPhone/UICatalog    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/ResourceRules.plist -o /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/Info.plist0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bxysoilwspwvxmbbhpvgpyxifpdi/Prefix.pch.gch Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329744831.414252
+e329744832.346850
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bxysoilwspwvxmbbhpvgpyxifpdi/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch329744831#329744832#0(0"0(0#0#47"/Developer/Examples/iPhone/UICatalog/Prefix.pch8670991296#1601"    cd /Developer/Examples/iPhone/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-generated-files.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-own-target-headers.hmap -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog-project-headers.hmap -F/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos -I/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/include -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources/armv6 -I/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/DerivedSources -c /Developer/Examples/iPhone/UICatalog/Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bxysoilwspwvxmbbhpvgpyxifpdi/Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/reshma/Library/MobileDevice/Provisioning Profiles/49A47C8C-3179-4B17-945D-B1FB64C812AA.mobileprovision" /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/embedded.mobileprovision
+s329744833.838200
+e329744833.888150
+r1
+xProcessProductPackaging
+x/Users/reshma/Library/MobileDevice/Provisioning Profiles/49A47C8C-3179-4B17-945D-B1FB64C812AA.mobileprovision
+x/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/embedded.mobileprovision
+lSLF07#2@195"ProcessProductPackaging "/Users/reshma/Library/MobileDevice/Provisioning Profiles/49A47C8C-3179-4B17-945D-B1FB64C812AA.mobileprovision" build/Debug-iphoneos/UICatalog.app/embedded.mobileprovision329744833#329744833#0(0"0(0#0#96"/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/embedded.mobileprovision8671454752#422"    cd /Developer/Examples/iPhone/UICatalog    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/reshma/Library/MobileDevice/Provisioning Profiles/49A47C8C-3179-4B17-945D-B1FB64C812AA.mobileprovision" -o /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/embedded.mobileprovision0#
+
+CProcessProductPackaging "/Users/reshma/Library/MobileDevice/Provisioning Profiles/7536795D-1F9B-4B0F-A63B-C0C6976A094F.mobileprovision" /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app/embedded.mobileprovision
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog.xcent
+s329744834.027223
+e329744834.065956
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog.xcent
+lSLF07#2@181"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog.xcent329744834#329744834#0(0"0(0#0#105"/Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog.xcent8666593856#434"    cd /Developer/Examples/iPhone/UICatalog    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Developer/Examples/iPhone/UICatalog/build/UICatalog.build/Debug-iphoneos/UICatalog.build/UICatalog.xcent0#
+
+CTouch /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app
+s329744833.888233
+e329744834.027085
+r1
+xTouch
+x/Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app
+lSLF07#2@77"Touch /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app329744833#329744834#0(0"0(0#0#0"8671180032#262"    cd /Developer/Examples/iPhone/UICatalog    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Developer/Examples/iPhone/UICatalog/build/Debug-iphoneos/UICatalog.app0#
+

@@ -1,0 +1,1006 @@
+TSplashExample
+v7
+r0
+t307266986.082111
+cCheck dependencies
+cProcessInfoPlistFile "/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/Info.plist" Info.plist
+cCpResource "build/Debug-iphonesimulator/UIView Example.app/cheering.caf" cheering.caf
+cCpResource "build/Debug-iphonesimulator/UIView Example.app/Default.png" Default.png
+cCpResource "build/Debug-iphonesimulator/UIView Example.app/Default.png" Default.png
+cCpResource "build/Debug-iphonesimulator/UIView Example.app/splash.png" splash.png
+cCpResource "build/Debug-iphonesimulator/UIView Example.app/wallpaper-clown-fish.jpg" wallpaper-clown-fish.jpg
+cCpResource "build/Debug-iphonesimulator/UIView Example.app/Icon.png" Icon.png
+cCompileXIB /Users/reshma/Downloads/ThemedSliderExample/Settings.xib
+cCpResource "build/Debug-iphonesimulator/UIView Example.app/popup_background.png" popup_background.png
+cCpResource "build/Debug-iphonesimulator/UIView Example.app/metal_screw.png" metal_screw.png
+cCpResource "build/Debug-iphonesimulator/UIView Example.app/white_track.png" white_track.png
+cCpResource "build/Debug-iphonesimulator/UIView Example.app/grey_track.png" grey_track.png
+cCpResource "build/Debug-iphonesimulator/UIView Example.app/phone_loop.wav" phone_loop.wav
+cProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SplashExample_Prefix-dkghyygcohfutjefylajhsbdfegw/SplashExample_Prefix.pch.gch SplashExample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SplashExample_Prefix-dxdiaqpqwvsbsreiwfcbgwavjecl/SplashExample_Prefix.pch.gch SplashExample_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/main.o /Users/reshma/Downloads/ThemedSliderExample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/OGLGameAppDelegate.o /Users/reshma/Downloads/ThemedSliderExample/Classes/OGLGameAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/EAGLView.o /Users/reshma/Downloads/ThemedSliderExample/Classes/EAGLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/Director.o /Users/reshma/Downloads/ThemedSliderExample/Director.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/OGLGameController.o /Users/reshma/Downloads/ThemedSliderExample/Classes/OGLGameController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/ResourceManager.o /Users/reshma/Downloads/ThemedSliderExample/ResourceManager.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/MenuScene.o /Users/reshma/Downloads/ThemedSliderExample/MenuScene.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/AbstractScene.o /Users/reshma/Downloads/ThemedSliderExample/AbstractScene.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/EventTimer.o /Users/reshma/Downloads/ThemedSliderExample/EventTimer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/Transforms.o /Users/reshma/Downloads/ThemedSliderExample/Transforms.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/MyOpenALSupport.o /Users/reshma/Downloads/ThemedSliderExample/MyOpenALSupport.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/SoundManager.o /Users/reshma/Downloads/ThemedSliderExample/SoundManager.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/Texture2D.o /Users/reshma/Downloads/ThemedSliderExample/Texture2D.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/Image.o /Users/reshma/Downloads/ThemedSliderExample/Image.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/SplashScene.o /Users/reshma/Downloads/ThemedSliderExample/SplashScene.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/SettingsViewController.o /Users/reshma/Downloads/ThemedSliderExample/SettingsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/UIView Example" normal i386
+cGenerateDSYMFile "/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app.dSYM" "/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/UIView Example"
+cTouch "/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004A0BB0320000000000010F60
+t1242279986
+s69472
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004A0BB03000000000000000EB
+t1242279984
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004A0DADCB00000000001816A0
+t1242410443
+s1578656
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004A0DADB60000000000000A22
+t1242410422
+s2594
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/ExtendedAudioFile.h
+c000000004A0DADB60000000000004E19
+t1242410422
+s19993
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c000000004A0BAA3E00000000000AADE0
+t1242278462
+s699872
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenAL.framework/Headers/al.h
+c000000004A0BB03100000000000064FD
+t1242279985
+s25853
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenAL.framework/Headers/alc.h
+c000000004A0BB0310000000000001F45
+t1242279985
+s8005
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004A0BB034000000000001DAB0
+t1242279988
+s121520
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004A0BAD67000000000000094F
+t1242279271
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004A0BAD670000000000000A61
+t1242279271
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004A0BAD670000000000009369
+t1242279271
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004A0BAD670000000000002576
+t1242279271
+s9590
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004A0BAD70000000000001F0F0
+t1242279280
+s127216
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A0BADD7000000000000007D
+t1242279383
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A0BAE3400000000000E55E0
+t1242279476
+s939488
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/mach/mach.h
+c00000000476340E90000000000001057
+t1197687017
+s4183
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/mach/mach_time.h
+c000000004763449D0000000000000746
+t1197687965
+s1862
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/math.h
+c000000004748A10600000000000004B7
+t1195942150
+s1207
+
+N/Users/reshma/Downloads/ThemedSliderExample/AbstractScene.h
+c000000004B99595C0000000000000A05
+t1268341084
+s2565
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"Director.h"
+i"ResourceManager.h"
+i"SoundManager.h"
+i"Image.h"
+
+N/Users/reshma/Downloads/ThemedSliderExample/AbstractScene.m
+c000000004B99596300000000000002DB
+t1268341091
+s731
+i"AbstractScene.h"
+
+N/Users/reshma/Downloads/ThemedSliderExample/Classes/EAGLView.h
+c000000004BBA39400000000000000574
+t1270495552
+s1396
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"OGLGameController.h"
+i"SettingsViewController.h"
+
+N/Users/reshma/Downloads/ThemedSliderExample/Classes/EAGLView.m
+c000000004BBA36120000000000001CA9
+t1270494738
+s7337
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGLDrawable.h>
+i<mach/mach.h>
+i<mach/mach_time.h>
+i"EAGLView.h"
+
+N/Users/reshma/Downloads/ThemedSliderExample/Classes/OGLGameAppDelegate.h
+c000000004B99599900000000000000C9
+t1268341145
+s201
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/ThemedSliderExample/Classes/OGLGameAppDelegate.m
+c000000004B99599D000000000000054A
+t1268341149
+s1354
+i"OGLGameAppDelegate.h"
+i"EAGLView.h"
+
+N/Users/reshma/Downloads/ThemedSliderExample/Classes/OGLGameController.h
+c000000004B9959910000000000000463
+t1268341137
+s1123
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"Director.h"
+i"ResourceManager.h"
+i"SoundManager.h"
+i"Image.h"
+i"AbstractScene.h"
+i"MenuScene.h"
+i"SplashScene.h"
+
+N/Users/reshma/Downloads/ThemedSliderExample/Classes/OGLGameController.m
+c000000004B99599500000000000011C8
+t1268341141
+s4552
+i"OGLGameController.h"
+i"Common.h"
+i"EAGLView.h"
+
+N/Users/reshma/Downloads/ThemedSliderExample/Common.h
+c000000004B9958CE0000000000000AD8
+t1268340942
+s2776
+i<OpenGLES/ES1/gl.h>
+
+N/Users/reshma/Downloads/ThemedSliderExample/Default.png
+c000000004B72B623000000000000C05E
+t1265808931
+s49246
+
+N/Users/reshma/Downloads/ThemedSliderExample/Director.h
+c000000004BBA39C400000000000004AA
+t1270495684
+s1194
+i<Foundation/Foundation.h>
+i<OpenGLES/ES1/gl.h>
+i"SynthesizeSingleton.h"
+i"Common.h"
+
+N/Users/reshma/Downloads/ThemedSliderExample/Director.m
+c000000004BBA39CE000000000000066F
+t1270495694
+s1647
+i"Director.h"
+i"AbstractScene.h"
+
+N/Users/reshma/Downloads/ThemedSliderExample/EventTimer.h
+c000000004B9959440000000000000B51
+t1268341060
+s2897
+i<Foundation/Foundation.h>
+
+N/Users/reshma/Downloads/ThemedSliderExample/EventTimer.m
+c000000004B99594B0000000000000BDD
+t1268341067
+s3037
+i"EventTimer.h"
+
+N/Users/reshma/Downloads/ThemedSliderExample/Icon.png
+c000000004B995BCA0000000000001538
+t1268341706
+s5432
+
+N/Users/reshma/Downloads/ThemedSliderExample/Image.h
+c000000004B99592E0000000000001AF2
+t1268341038
+s6898
+i<Foundation/Foundation.h>
+i"Common.h"
+i"Texture2D.h"
+i"Director.h"
+i"ResourceManager.h"
+
+N/Users/reshma/Downloads/ThemedSliderExample/Image.m
+c000000004B99593C0000000000003B67
+t1268341052
+s15207
+i"Image.h"
+
+N/Users/reshma/Downloads/ThemedSliderExample/MenuScene.h
+c000000004B99595100000000000000AC
+t1268341073
+s172
+i<Foundation/Foundation.h>
+i"AbstractScene.h"
+
+N/Users/reshma/Downloads/ThemedSliderExample/MenuScene.m
+c000000004BC835BE0000000000000D29
+t1271412158
+s3369
+i"MenuScene.h"
+
+N/Users/reshma/Downloads/ThemedSliderExample/MyOpenALSupport.c
+c000000004B38F41200000000000018A7
+t1262023698
+s6311
+i"MyOpenALSupport.h"
+
+N/Users/reshma/Downloads/ThemedSliderExample/MyOpenALSupport.h
+c000000004B38F4120000000000000B61
+t1262023698
+s2913
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<AudioToolbox/AudioToolbox.h>
+i<AudioToolbox/ExtendedAudioFile.h>
+
+N/Users/reshma/Downloads/ThemedSliderExample/ResourceManager.h
+c000000004B995912000000000000049B
+t1268341010
+s1179
+i<Foundation/Foundation.h>
+
+N/Users/reshma/Downloads/ThemedSliderExample/ResourceManager.m
+c000000004B99591900000000000009AC
+t1268341017
+s2476
+i"ResourceManager.h"
+i"Common.h"
+i"SynthesizeSingleton.h"
+i"Texture2D.h"
+
+N/Users/reshma/Downloads/ThemedSliderExample/Settings.xib
+c000000004BC82B3B0000000000006833
+t1271409467
+s26675
+
+N/Users/reshma/Downloads/ThemedSliderExample/SettingsViewController.h
+c000000004BF1C24800000000000002A5
+t1274135112
+s677
+i<UIKit/UIKit.h>
+i"Director.h"
+i"SoundManager.h"
+
+N/Users/reshma/Downloads/ThemedSliderExample/SettingsViewController.m
+c000000004BF1C25C0000000000000EF7
+t1274135132
+s3831
+i"SettingsViewController.h"
+
+N/Users/reshma/Downloads/ThemedSliderExample/SoundManager.h
+c000000004B9958E20000000000001D4F
+t1268340962
+s7503
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<AudioToolbox/AudioToolbox.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/reshma/Downloads/ThemedSliderExample/SoundManager.m
+c000000004B9958EE000000000000641B
+t1268340974
+s25627
+i"SoundManager.h"
+i"SynthesizeSingleton.h"
+i"MyOpenALSupport.h"
+
+N/Users/reshma/Downloads/ThemedSliderExample/SplashExample_Prefix.pch
+c000000004B99574600000000000000AF
+t1268340550
+s175
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/ThemedSliderExample/SplashScene.h
+c000000004B99597F0000000000000150
+t1268341119
+s336
+i<Foundation/Foundation.h>
+i"AbstractScene.h"
+
+N/Users/reshma/Downloads/ThemedSliderExample/SplashScene.m
+c000000004B99597C0000000000000E22
+t1268341116
+s3618
+i"SplashScene.h"
+
+N/Users/reshma/Downloads/ThemedSliderExample/SynthesizeSingleton.h
+c0000000049FE5B3E00000000000004FA
+t1241406270
+s1274
+
+N/Users/reshma/Downloads/ThemedSliderExample/Texture2D.h
+c000000004A2BF3A60000000000001016
+t1244394406
+s4118
+i<UIKit/UIKit.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/reshma/Downloads/ThemedSliderExample/Texture2D.m
+c000000004A34BDC000000000000016E8
+t1244970432
+s5864
+i<OpenGLES/ES1/glext.h>
+i"Common.h"
+i"Texture2D.h"
+
+N/Users/reshma/Downloads/ThemedSliderExample/Transforms.m
+c000000004A4331E20000000000000A87
+t1245917666
+s2695
+i<math.h>
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app
+t1285574186
+s544
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app.dSYM
+t1285574186
+s102
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/Default.png
+t1285574181
+s49246
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/Icon.png
+t1285574181
+s5432
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/Info.plist
+t1285574181
+s712
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/PkgInfo
+t1285574181
+s8
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/Settings.nib
+t1285574182
+s3670
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/UIView Example
+t1285574185
+s119072
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/cheering.caf
+t1285574181
+s159746
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/grey_track.png
+t1285574181
+s3619
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/metal_screw.png
+t1285574181
+s3613
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/phone_loop.wav
+t1285574181
+s14102
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/popup_background.png
+t1285574181
+s4554
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/splash.png
+t1285574181
+s52781
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/wallpaper-clown-fish.jpg
+t1285574181
+s114054
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/white_track.png
+t1285574181
+s3568
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/AbstractScene.o
+t1285574184
+s17080
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/Director.o
+t1285574184
+s23868
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/EAGLView.o
+t1285574184
+s48484
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/EventTimer.o
+t1285574185
+s13344
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/Image.o
+t1285574185
+s40524
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/MenuScene.o
+t1285574184
+s23672
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/MyOpenALSupport.o
+t1285574185
+s10612
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/OGLGameAppDelegate.o
+t1285574184
+s42848
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/OGLGameController.o
+t1285574184
+s23028
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/ResourceManager.o
+t1285574184
+s15308
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/SettingsViewController.o
+t1285574185
+s42032
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/SoundManager.o
+t1285574185
+s57136
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/SplashScene.o
+t1285574185
+s20228
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/Texture2D.o
+t1285574185
+s21768
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/Transforms.o
+t1285574185
+s12248
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/UIView Example.LinkFileList
+c000000004CA04E25000000000000092A
+t1285574181
+s2346
+
+N/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/main.o
+t1285574184
+s6132
+
+N/Users/reshma/Downloads/ThemedSliderExample/cheering.caf
+c000000004B7295F30000000000027002
+t1265800691
+s159746
+
+N/Users/reshma/Downloads/ThemedSliderExample/grey_track.png
+c000000004BAD30550000000000000E23
+t1269641301
+s3619
+
+N/Users/reshma/Downloads/ThemedSliderExample/main.m
+c000000004B9959A60000000000000118
+t1268341158
+s280
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/ThemedSliderExample/metal_screw.png
+c000000004BAD2FFC0000000000000E1D
+t1269641212
+s3613
+
+N/Users/reshma/Downloads/ThemedSliderExample/phone_loop.wav
+c00000000381041800000000000003716
+t940589440
+s14102
+
+N/Users/reshma/Downloads/ThemedSliderExample/popup_background.png
+c000000004BA000E100000000000011CA
+t1268777185
+s4554
+
+N/Users/reshma/Downloads/ThemedSliderExample/splash.png
+c000000004B72DD64000000000000CE2D
+t1265818980
+s52781
+
+N/Users/reshma/Downloads/ThemedSliderExample/wallpaper-clown-fish.jpg
+c000000004B99583C000000000001BD86
+t1268340796
+s114054
+
+N/Users/reshma/Downloads/ThemedSliderExample/white_track.png
+c000000004BAD308E0000000000000DF0
+t1269641358
+s3568
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SplashExample_Prefix-dkghyygcohfutjefylajhsbdfegw/SplashExample_Prefix.pch.gch
+t1285574184
+s12952976
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SplashExample_Prefix-dxdiaqpqwvsbsreiwfcbgwavjecl/SplashExample_Prefix.pch.gch
+t1285574182
+s2138480
+
+NInfo.plist
+c000000004B9954A200000000000003C5
+t1268339874
+s965
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies307266981#307266981#0(158"[WARN]Warning: Multiple build commands for output file /Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/Default.png1(22@151"Warning: Multiple build commands for output file /Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/Default.png307266981#18446744073709551615#0#0(1@0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/AbstractScene.o /Users/reshma/Downloads/ThemedSliderExample/AbstractScene.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307266984.893699
+e307266985.001471
+r1
+xCompileC
+xbuild/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/AbstractScene.o
+x/Users/reshma/Downloads/ThemedSliderExample/AbstractScene.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/reshma/Downloads/ThemedSliderExample/AbstractScene.m307266984#307266985#0(0"0(0#0#59"/Users/reshma/Downloads/ThemedSliderExample/AbstractScene.m4300911832#2287"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-generated-files.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-own-target-headers.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-all-target-headers.hmap" -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-project-headers.hmap" -F/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/PrivateFrameworks -I/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources/i386 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SplashExample_Prefix-dkghyygcohfutjefylajhsbdfegw/SplashExample_Prefix.pch -c /Users/reshma/Downloads/ThemedSliderExample/AbstractScene.m -o /Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/AbstractScene.o0#
+
+CCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/Director.o /Users/reshma/Downloads/ThemedSliderExample/Director.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307266984.558698
+e307266984.652519
+r1
+xCompileC
+xbuild/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/Director.o
+x/Users/reshma/Downloads/ThemedSliderExample/Director.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/reshma/Downloads/ThemedSliderExample/Director.m: In function '-[Director setSettingsViewVisible]':
+o/Users/reshma/Downloads/ThemedSliderExample/Director.m:70: warning: 'UIView' may not respond to '-addSettingsView'
+o/Users/reshma/Downloads/ThemedSliderExample/Director.m:70: warning: (Messages without a matching method signature
+o/Users/reshma/Downloads/ThemedSliderExample/Director.m:70: warning: will be assumed to return 'id' and accept
+o/Users/reshma/Downloads/ThemedSliderExample/Director.m:70: warning: '...' as arguments.)
+lSLF07#2@62"Compile /Users/reshma/Downloads/ThemedSliderExample/Director.m307266984#307266984#0(534"/Users/reshma/Downloads/ThemedSliderExample/Director.m: In function '-[Director setSettingsViewVisible]':/Users/reshma/Downloads/ThemedSliderExample/Director.m:70: warning: 'UIView' may not respond to '-addSettingsView'/Users/reshma/Downloads/ThemedSliderExample/Director.m:70: warning: (Messages without a matching method signature/Users/reshma/Downloads/ThemedSliderExample/Director.m:70: warning: will be assumed to return 'id' and accept/Users/reshma/Downloads/ThemedSliderExample/Director.m:70: warning: '...' as arguments.)2(22@46"'UIView' may not respond to '-addSettingsView'307266984#106#115#0(6@54"/Users/reshma/Downloads/ThemedSliderExample/Director.m292188494#70#0#70#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)307266984#221#114#0(6@54"/Users/reshma/Downloads/ThemedSliderExample/Director.m292188494#70#0#70#0#0"0(0#0#54"/Users/reshma/Downloads/ThemedSliderExample/Director.m4300911832#2277"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-generated-files.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-own-target-headers.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-all-target-headers.hmap" -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-project-headers.hmap" -F/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/PrivateFrameworks -I/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources/i386 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SplashExample_Prefix-dkghyygcohfutjefylajhsbdfegw/SplashExample_Prefix.pch -c /Users/reshma/Downloads/ThemedSliderExample/Director.m -o /Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/Director.o0#
+
+CCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/EAGLView.o /Users/reshma/Downloads/ThemedSliderExample/Classes/EAGLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307266984.228495
+e307266984.828615
+r1
+xCompileC
+xbuild/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/EAGLView.o
+x/Users/reshma/Downloads/ThemedSliderExample/Classes/EAGLView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/reshma/Downloads/ThemedSliderExample/Classes/EAGLView.m307266984#307266984#0(0"0(0#0#62"/Users/reshma/Downloads/ThemedSliderExample/Classes/EAGLView.m4300911832#2285"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-generated-files.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-own-target-headers.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-all-target-headers.hmap" -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-project-headers.hmap" -F/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/PrivateFrameworks -I/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources/i386 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SplashExample_Prefix-dkghyygcohfutjefylajhsbdfegw/SplashExample_Prefix.pch -c /Users/reshma/Downloads/ThemedSliderExample/Classes/EAGLView.m -o /Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/EAGLView.o0#
+
+CCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/EventTimer.o /Users/reshma/Downloads/ThemedSliderExample/EventTimer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307266984.938593
+e307266985.039313
+r1
+xCompileC
+xbuild/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/EventTimer.o
+x/Users/reshma/Downloads/ThemedSliderExample/EventTimer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/reshma/Downloads/ThemedSliderExample/EventTimer.m307266984#307266985#0(0"0(0#0#56"/Users/reshma/Downloads/ThemedSliderExample/EventTimer.m4300911832#2281"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-generated-files.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-own-target-headers.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-all-target-headers.hmap" -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-project-headers.hmap" -F/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/PrivateFrameworks -I/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources/i386 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SplashExample_Prefix-dkghyygcohfutjefylajhsbdfegw/SplashExample_Prefix.pch -c /Users/reshma/Downloads/ThemedSliderExample/EventTimer.m -o /Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/EventTimer.o0#
+
+CCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/Image.o /Users/reshma/Downloads/ThemedSliderExample/Image.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307266985.273433
+e307266985.457120
+r1
+xCompileC
+xbuild/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/Image.o
+x/Users/reshma/Downloads/ThemedSliderExample/Image.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/reshma/Downloads/ThemedSliderExample/Image.m307266985#307266985#0(0"0(0#0#51"/Users/reshma/Downloads/ThemedSliderExample/Image.m4300911832#2271"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-generated-files.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-own-target-headers.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-all-target-headers.hmap" -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-project-headers.hmap" -F/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/PrivateFrameworks -I/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources/i386 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SplashExample_Prefix-dkghyygcohfutjefylajhsbdfegw/SplashExample_Prefix.pch -c /Users/reshma/Downloads/ThemedSliderExample/Image.m -o /Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/Image.o0#
+
+CCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/MenuScene.o /Users/reshma/Downloads/ThemedSliderExample/MenuScene.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307266984.828822
+e307266984.938494
+r1
+xCompileC
+xbuild/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/MenuScene.o
+x/Users/reshma/Downloads/ThemedSliderExample/MenuScene.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/reshma/Downloads/ThemedSliderExample/MenuScene.m: In function '-[MenuScene init]':
+o/Users/reshma/Downloads/ThemedSliderExample/MenuScene.m:34: warning: incompatible Objective-C types 'struct NSString *', expected 'struct UIImage *' when passing argument 1 of 'initWithImage:' from distinct Objective-C type
+lSLF07#2@63"Compile /Users/reshma/Downloads/ThemedSliderExample/MenuScene.m307266984#307266984#0(314"/Users/reshma/Downloads/ThemedSliderExample/MenuScene.m: In function '-[MenuScene init]':/Users/reshma/Downloads/ThemedSliderExample/MenuScene.m:34: warning: incompatible Objective-C types 'struct NSString *', expected 'struct UIImage *' when passing argument 1 of 'initWithImage:' from distinct Objective-C type1(22@154"Incompatible Objective-C types 'struct NSString *', expected 'struct UIImage *' when passing argument 1 of 'initWithImage:' from distinct Objective-C type307266984#90#224#0(6@55"/Users/reshma/Downloads/ThemedSliderExample/MenuScene.m293104958#34#0#34#0#0"0(0#0#55"/Users/reshma/Downloads/ThemedSliderExample/MenuScene.m4300911832#2279"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-generated-files.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-own-target-headers.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-all-target-headers.hmap" -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-project-headers.hmap" -F/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/PrivateFrameworks -I/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources/i386 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SplashExample_Prefix-dkghyygcohfutjefylajhsbdfegw/SplashExample_Prefix.pch -c /Users/reshma/Downloads/ThemedSliderExample/MenuScene.m -o /Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/MenuScene.o0#
+
+CCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/MyOpenALSupport.o /Users/reshma/Downloads/ThemedSliderExample/MyOpenALSupport.c normal i386 c com.apple.compilers.gcc.4_2
+s307266985.039437
+e307266985.231861
+r1
+xCompileC
+xbuild/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/MyOpenALSupport.o
+x/Users/reshma/Downloads/ThemedSliderExample/MyOpenALSupport.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/reshma/Downloads/ThemedSliderExample/MyOpenALSupport.c307266985#307266985#0(0"0(0#0#61"/Users/reshma/Downloads/ThemedSliderExample/MyOpenALSupport.c4300911832#2281"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-generated-files.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-own-target-headers.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-all-target-headers.hmap" -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-project-headers.hmap" -F/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/PrivateFrameworks -I/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources/i386 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SplashExample_Prefix-dxdiaqpqwvsbsreiwfcbgwavjecl/SplashExample_Prefix.pch -c /Users/reshma/Downloads/ThemedSliderExample/MyOpenALSupport.c -o /Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/MyOpenALSupport.o0#
+
+CCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/OGLGameAppDelegate.o /Users/reshma/Downloads/ThemedSliderExample/Classes/OGLGameAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307266984.182577
+e307266984.558595
+r1
+xCompileC
+xbuild/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/OGLGameAppDelegate.o
+x/Users/reshma/Downloads/ThemedSliderExample/Classes/OGLGameAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/reshma/Downloads/ThemedSliderExample/Classes/OGLGameAppDelegate.m307266984#307266984#0(0"0(0#0#72"/Users/reshma/Downloads/ThemedSliderExample/Classes/OGLGameAppDelegate.m4300911832#2305"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-generated-files.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-own-target-headers.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-all-target-headers.hmap" -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-project-headers.hmap" -F/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/PrivateFrameworks -I/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources/i386 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SplashExample_Prefix-dkghyygcohfutjefylajhsbdfegw/SplashExample_Prefix.pch -c /Users/reshma/Downloads/ThemedSliderExample/Classes/OGLGameAppDelegate.m -o /Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/OGLGameAppDelegate.o0#
+
+CCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/OGLGameController.o /Users/reshma/Downloads/ThemedSliderExample/Classes/OGLGameController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307266984.652623
+e307266984.766413
+r1
+xCompileC
+xbuild/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/OGLGameController.o
+x/Users/reshma/Downloads/ThemedSliderExample/Classes/OGLGameController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/reshma/Downloads/ThemedSliderExample/Classes/OGLGameController.m307266984#307266984#0(0"0(0#0#71"/Users/reshma/Downloads/ThemedSliderExample/Classes/OGLGameController.m4300911832#2303"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-generated-files.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-own-target-headers.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-all-target-headers.hmap" -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-project-headers.hmap" -F/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/PrivateFrameworks -I/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources/i386 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SplashExample_Prefix-dkghyygcohfutjefylajhsbdfegw/SplashExample_Prefix.pch -c /Users/reshma/Downloads/ThemedSliderExample/Classes/OGLGameController.m -o /Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/OGLGameController.o0#
+
+CCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/ResourceManager.o /Users/reshma/Downloads/ThemedSliderExample/ResourceManager.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307266984.766511
+e307266984.893583
+r1
+xCompileC
+xbuild/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/ResourceManager.o
+x/Users/reshma/Downloads/ThemedSliderExample/ResourceManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/reshma/Downloads/ThemedSliderExample/ResourceManager.m307266984#307266984#0(0"0(0#0#61"/Users/reshma/Downloads/ThemedSliderExample/ResourceManager.m4300911832#2291"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-generated-files.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-own-target-headers.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-all-target-headers.hmap" -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-project-headers.hmap" -F/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/PrivateFrameworks -I/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources/i386 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SplashExample_Prefix-dkghyygcohfutjefylajhsbdfegw/SplashExample_Prefix.pch -c /Users/reshma/Downloads/ThemedSliderExample/ResourceManager.m -o /Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/ResourceManager.o0#
+
+CCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/SettingsViewController.o /Users/reshma/Downloads/ThemedSliderExample/SettingsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307266985.445780
+e307266985.539184
+r1
+xCompileC
+xbuild/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/SettingsViewController.o
+x/Users/reshma/Downloads/ThemedSliderExample/SettingsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/reshma/Downloads/ThemedSliderExample/SettingsViewController.m: In function '-[SettingsViewController wowButtonPressed:]':
+o/Users/reshma/Downloads/ThemedSliderExample/SettingsViewController.m:92: warning: 'UIView' may not respond to '-removeAllSubviews'
+o/Users/reshma/Downloads/ThemedSliderExample/SettingsViewController.m:92: warning: (Messages without a matching method signature
+o/Users/reshma/Downloads/ThemedSliderExample/SettingsViewController.m:92: warning: will be assumed to return 'id' and accept
+o/Users/reshma/Downloads/ThemedSliderExample/SettingsViewController.m:92: warning: '...' as arguments.)
+o/Users/reshma/Downloads/ThemedSliderExample/SettingsViewController.m:94: warning: no '-setSceneState:' method found
+lSLF07#2@76"Compile /Users/reshma/Downloads/ThemedSliderExample/SettingsViewController.m307266985#307266985#0(731"/Users/reshma/Downloads/ThemedSliderExample/SettingsViewController.m: In function '-[SettingsViewController wowButtonPressed:]':/Users/reshma/Downloads/ThemedSliderExample/SettingsViewController.m:92: warning: 'UIView' may not respond to '-removeAllSubviews'/Users/reshma/Downloads/ThemedSliderExample/SettingsViewController.m:92: warning: (Messages without a matching method signature/Users/reshma/Downloads/ThemedSliderExample/SettingsViewController.m:92: warning: will be assumed to return 'id' and accept/Users/reshma/Downloads/ThemedSliderExample/SettingsViewController.m:92: warning: '...' as arguments.)/Users/reshma/Downloads/ThemedSliderExample/SettingsViewController.m:94: warning: no '-setSceneState:' method found3(22@48"'UIView' may not respond to '-removeAllSubviews'307266985#129#131#0(6@68"/Users/reshma/Downloads/ThemedSliderExample/SettingsViewController.m295827932#92#0#92#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)307266985#260#128#0(6@68"/Users/reshma/Downloads/ThemedSliderExample/SettingsViewController.m295827932#92#0#92#0#0"0(22@33"No '-setSceneState:' method found307266985#615#116#0(6@68"/Users/reshma/Downloads/ThemedSliderExample/SettingsViewController.m295827932#94#0#94#0#19"no '*' method found0(0#0#68"/Users/reshma/Downloads/ThemedSliderExample/SettingsViewController.m4300911832#2305"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-generated-files.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-own-target-headers.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-all-target-headers.hmap" -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-project-headers.hmap" -F/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/PrivateFrameworks -I/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources/i386 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SplashExample_Prefix-dkghyygcohfutjefylajhsbdfegw/SplashExample_Prefix.pch -c /Users/reshma/Downloads/ThemedSliderExample/SettingsViewController.m -o /Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/SettingsViewController.o0#
+
+CCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/SoundManager.o /Users/reshma/Downloads/ThemedSliderExample/SoundManager.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307266985.092647
+e307266985.273330
+r1
+xCompileC
+xbuild/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/SoundManager.o
+x/Users/reshma/Downloads/ThemedSliderExample/SoundManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/reshma/Downloads/ThemedSliderExample/SoundManager.m307266985#307266985#0(0"0(0#0#58"/Users/reshma/Downloads/ThemedSliderExample/SoundManager.m4300911832#2285"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-generated-files.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-own-target-headers.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-all-target-headers.hmap" -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-project-headers.hmap" -F/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/PrivateFrameworks -I/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources/i386 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SplashExample_Prefix-dkghyygcohfutjefylajhsbdfegw/SplashExample_Prefix.pch -c /Users/reshma/Downloads/ThemedSliderExample/SoundManager.m -o /Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/SoundManager.o0#
+
+CCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/SplashScene.o /Users/reshma/Downloads/ThemedSliderExample/SplashScene.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307266985.335489
+e307266985.445682
+r1
+xCompileC
+xbuild/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/SplashScene.o
+x/Users/reshma/Downloads/ThemedSliderExample/SplashScene.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/reshma/Downloads/ThemedSliderExample/SplashScene.m: In function '-[SplashScene init]':
+o/Users/reshma/Downloads/ThemedSliderExample/SplashScene.m:34: warning: incompatible Objective-C types 'struct NSString *', expected 'struct UIImage *' when passing argument 1 of 'initWithImage:' from distinct Objective-C type
+lSLF07#2@65"Compile /Users/reshma/Downloads/ThemedSliderExample/SplashScene.m307266985#307266985#0(320"/Users/reshma/Downloads/ThemedSliderExample/SplashScene.m: In function '-[SplashScene init]':/Users/reshma/Downloads/ThemedSliderExample/SplashScene.m:34: warning: incompatible Objective-C types 'struct NSString *', expected 'struct UIImage *' when passing argument 1 of 'initWithImage:' from distinct Objective-C type1(22@154"Incompatible Objective-C types 'struct NSString *', expected 'struct UIImage *' when passing argument 1 of 'initWithImage:' from distinct Objective-C type307266985#94#226#0(6@57"/Users/reshma/Downloads/ThemedSliderExample/SplashScene.m290033916#34#0#34#0#0"0(0#0#57"/Users/reshma/Downloads/ThemedSliderExample/SplashScene.m4300911832#2283"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-generated-files.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-own-target-headers.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-all-target-headers.hmap" -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-project-headers.hmap" -F/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/PrivateFrameworks -I/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources/i386 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SplashExample_Prefix-dkghyygcohfutjefylajhsbdfegw/SplashExample_Prefix.pch -c /Users/reshma/Downloads/ThemedSliderExample/SplashScene.m -o /Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/SplashScene.o0#
+
+CCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/Texture2D.o /Users/reshma/Downloads/ThemedSliderExample/Texture2D.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307266985.231959
+e307266985.335387
+r1
+xCompileC
+xbuild/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/Texture2D.o
+x/Users/reshma/Downloads/ThemedSliderExample/Texture2D.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/reshma/Downloads/ThemedSliderExample/Texture2D.m307266985#307266985#0(0"0(0#0#55"/Users/reshma/Downloads/ThemedSliderExample/Texture2D.m4300911832#2279"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-generated-files.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-own-target-headers.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-all-target-headers.hmap" -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-project-headers.hmap" -F/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/PrivateFrameworks -I/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources/i386 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SplashExample_Prefix-dkghyygcohfutjefylajhsbdfegw/SplashExample_Prefix.pch -c /Users/reshma/Downloads/ThemedSliderExample/Texture2D.m -o /Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/Texture2D.o0#
+
+CCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/Transforms.o /Users/reshma/Downloads/ThemedSliderExample/Transforms.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307266985.001580
+e307266985.092547
+r1
+xCompileC
+xbuild/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/Transforms.o
+x/Users/reshma/Downloads/ThemedSliderExample/Transforms.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/reshma/Downloads/ThemedSliderExample/Transforms.m307266985#307266985#0(0"0(0#0#56"/Users/reshma/Downloads/ThemedSliderExample/Transforms.m4300911832#2281"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-generated-files.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-own-target-headers.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-all-target-headers.hmap" -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-project-headers.hmap" -F/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/PrivateFrameworks -I/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources/i386 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SplashExample_Prefix-dkghyygcohfutjefylajhsbdfegw/SplashExample_Prefix.pch -c /Users/reshma/Downloads/ThemedSliderExample/Transforms.m -o /Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/Transforms.o0#
+
+CCompileC build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/main.o /Users/reshma/Downloads/ThemedSliderExample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307266984.180882
+e307266984.228391
+r1
+xCompileC
+xbuild/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/main.o
+x/Users/reshma/Downloads/ThemedSliderExample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/reshma/Downloads/ThemedSliderExample/main.m307266984#307266984#0(0"0(0#0#50"/Users/reshma/Downloads/ThemedSliderExample/main.m4300911832#2269"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-generated-files.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-own-target-headers.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-all-target-headers.hmap" -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-project-headers.hmap" -F/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/PrivateFrameworks -I/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources/i386 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SplashExample_Prefix-dkghyygcohfutjefylajhsbdfegw/SplashExample_Prefix.pch -c /Users/reshma/Downloads/ThemedSliderExample/main.m -o /Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/reshma/Downloads/ThemedSliderExample/Settings.xib
+s307266981.600059
+e307266982.052227
+r1
+xCompileXIB
+x/Users/reshma/Downloads/ThemedSliderExample/Settings.xib
+lSLF07#2@23"CompileXIB Settings.xib307266981#307266982#0(0"0(0#0#56"/Users/reshma/Downloads/ThemedSliderExample/Settings.xib4300911832#500"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/Settings.nib" /Users/reshma/Downloads/ThemedSliderExample/Settings.xib0#
+
+CCpResource "build/Debug-iphonesimulator/UIView Example.app/Default.png" Default.png
+s307266981.595554
+e307266981.636148
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIView Example.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png307266981#307266981#0(0"0(0#0#55"/Users/reshma/Downloads/ThemedSliderExample/Default.png4300911832#479"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Downloads/ThemedSliderExample/Default.png "/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app"0#
+
+CCpResource "build/Debug-iphonesimulator/UIView Example.app/Icon.png" Icon.png
+s307266981.599227
+e307266981.622929
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIView Example.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png307266981#307266981#0(0"0(0#0#52"/Users/reshma/Downloads/ThemedSliderExample/Icon.png4300911832#476"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Downloads/ThemedSliderExample/Icon.png "/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app"0#
+
+CCpResource "build/Debug-iphonesimulator/UIView Example.app/cheering.caf" cheering.caf
+s307266981.592110
+e307266981.640158
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIView Example.app/cheering.caf
+xcheering.caf
+lSLF07#2@17"Copy cheering.caf307266981#307266981#0(0"0(0#0#56"/Users/reshma/Downloads/ThemedSliderExample/cheering.caf4300911832#480"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Downloads/ThemedSliderExample/cheering.caf "/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app"0#
+
+CCpResource "build/Debug-iphonesimulator/UIView Example.app/grey_track.png" grey_track.png
+s307266981.651345
+e307266981.658535
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIView Example.app/grey_track.png
+xgrey_track.png
+lSLF07#2@19"Copy grey_track.png307266981#307266981#0(0"0(0#0#58"/Users/reshma/Downloads/ThemedSliderExample/grey_track.png4300911832#482"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Downloads/ThemedSliderExample/grey_track.png "/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app"0#
+
+CCpResource "build/Debug-iphonesimulator/UIView Example.app/metal_screw.png" metal_screw.png
+s307266981.646366
+e307266981.655925
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIView Example.app/metal_screw.png
+xmetal_screw.png
+lSLF07#2@20"Copy metal_screw.png307266981#307266981#0(0"0(0#0#59"/Users/reshma/Downloads/ThemedSliderExample/metal_screw.png4300911832#483"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Downloads/ThemedSliderExample/metal_screw.png "/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app"0#
+
+CCpResource "build/Debug-iphonesimulator/UIView Example.app/phone_loop.wav" phone_loop.wav
+s307266981.653808
+e307266981.664826
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIView Example.app/phone_loop.wav
+xphone_loop.wav
+lSLF07#2@19"Copy phone_loop.wav307266981#307266981#0(0"0(0#0#58"/Users/reshma/Downloads/ThemedSliderExample/phone_loop.wav4300911832#482"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Downloads/ThemedSliderExample/phone_loop.wav "/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app"0#
+
+CCpResource "build/Debug-iphonesimulator/UIView Example.app/popup_background.png" popup_background.png
+s307266981.640233
+e307266981.655786
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIView Example.app/popup_background.png
+xpopup_background.png
+lSLF07#2@25"Copy popup_background.png307266981#307266981#0(0"0(0#0#64"/Users/reshma/Downloads/ThemedSliderExample/popup_background.png4300911832#488"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Downloads/ThemedSliderExample/popup_background.png "/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app"0#
+
+CCpResource "build/Debug-iphonesimulator/UIView Example.app/splash.png" splash.png
+s307266981.596922
+e307266981.635737
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIView Example.app/splash.png
+xsplash.png
+lSLF07#2@15"Copy splash.png307266981#307266981#0(0"0(0#0#54"/Users/reshma/Downloads/ThemedSliderExample/splash.png4300911832#478"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Downloads/ThemedSliderExample/splash.png "/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app"0#
+
+CCpResource "build/Debug-iphonesimulator/UIView Example.app/wallpaper-clown-fish.jpg" wallpaper-clown-fish.jpg
+s307266981.598537
+e307266981.638318
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIView Example.app/wallpaper-clown-fish.jpg
+xwallpaper-clown-fish.jpg
+lSLF07#2@29"Copy wallpaper-clown-fish.jpg307266981#307266981#0(0"0(0#0#68"/Users/reshma/Downloads/ThemedSliderExample/wallpaper-clown-fish.jpg4300911832#492"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Downloads/ThemedSliderExample/wallpaper-clown-fish.jpg "/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app"0#
+
+CCpResource "build/Debug-iphonesimulator/UIView Example.app/white_track.png" white_track.png
+s307266981.649715
+e307266981.656049
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIView Example.app/white_track.png
+xwhite_track.png
+lSLF07#2@20"Copy white_track.png307266981#307266981#0(0"0(0#0#59"/Users/reshma/Downloads/ThemedSliderExample/white_track.png4300911832#483"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Downloads/ThemedSliderExample/white_track.png "/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app"0#
+
+CGenerateDSYMFile "/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app.dSYM" "/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/UIView Example"
+s307266986.015309
+e307266986.041905
+r1
+xGenerateDSYMFile
+x/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app.dSYM
+x/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/UIView Example
+lSLF07#2@134"GenerateDSYMFile "build/Debug-iphonesimulator/UIView Example.app.dSYM" "build/Debug-iphonesimulator/UIView Example.app/UIView Example"307266986#307266986#0(0"0(0#0#105"/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/UIView Example4300911832#423"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/UIView Example" -o "/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app.dSYM"0#
+
+CLd "/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/UIView Example" normal i386
+s307266985.539286
+e307266986.015120
+r1
+xLd
+x/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/UIView Example
+xnormal
+xi386
+lSLF07#2@110"Link /Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/UIView Example307266985#307266986#0(0"0(0#0#0"4300911832#1179"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator -F/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/PrivateFrameworks -filelist "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/Objects-normal/i386/UIView Example.LinkFileList" -mmacosx-version-min=10.5 -lxml2 -framework UIKit -framework OpenGLES -framework QuartzCore -framework CoreGraphics -framework AudioToolbox -framework CoreAudio -framework OpenAL -framework AVFoundation -framework Foundation -o "/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/UIView Example"0#
+
+CProcessInfoPlistFile "/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/Info.plist" Info.plist
+s307266981.561414
+e307266981.592027
+r1
+xProcessInfoPlistFile
+x/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist307266981#307266981#0(0"0(0#0#54"/Users/reshma/Downloads/ThemedSliderExample/Info.plist4300911832#504"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo "/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app/Info.plist"0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SplashExample_Prefix-dkghyygcohfutjefylajhsbdfegw/SplashExample_Prefix.pch.gch SplashExample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s307266982.052338
+e307266984.180682
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SplashExample_Prefix-dkghyygcohfutjefylajhsbdfegw/SplashExample_Prefix.pch.gch
+xSplashExample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile SplashExample_Prefix.pch307266982#307266984#0(0"0(0#0#68"/Users/reshma/Downloads/ThemedSliderExample/SplashExample_Prefix.pch4300911832#2150"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-generated-files.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-own-target-headers.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-all-target-headers.hmap" -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-project-headers.hmap" -F/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/PrivateFrameworks -I/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources/i386 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources -c /Users/reshma/Downloads/ThemedSliderExample/SplashExample_Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SplashExample_Prefix-dkghyygcohfutjefylajhsbdfegw/SplashExample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SplashExample_Prefix-dxdiaqpqwvsbsreiwfcbgwavjecl/SplashExample_Prefix.pch.gch SplashExample_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
+s307266982.053201
+e307266982.355637
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SplashExample_Prefix-dxdiaqpqwvsbsreiwfcbgwavjecl/SplashExample_Prefix.pch.gch
+xSplashExample_Prefix.pch
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile SplashExample_Prefix.pch307266982#307266982#0(0"0(0#0#68"/Users/reshma/Downloads/ThemedSliderExample/SplashExample_Prefix.pch4300911832#2140"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-generated-files.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-own-target-headers.hmap" "-I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-all-target-headers.hmap" -iquote "/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/UIView Example-project-headers.hmap" -F/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/PrivateFrameworks -I/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources/i386 -I/Users/reshma/Downloads/ThemedSliderExample/build/SplashExample.build/Debug-iphonesimulator/SplashExample.build/DerivedSources -c /Users/reshma/Downloads/ThemedSliderExample/SplashExample_Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SplashExample_Prefix-dxdiaqpqwvsbsreiwfcbgwavjecl/SplashExample_Prefix.pch.gch0#
+
+CTouch "/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app"
+s307266986.041994
+e307266986.082074
+r1
+xTouch
+x/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app
+lSLF07#2@96"Touch /Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app307266986#307266986#0(0"0(0#0#0"4300911832#297"    cd /Users/reshma/Downloads/ThemedSliderExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/reshma/Downloads/ThemedSliderExample/build/Debug-iphonesimulator/UIView Example.app"0#
+

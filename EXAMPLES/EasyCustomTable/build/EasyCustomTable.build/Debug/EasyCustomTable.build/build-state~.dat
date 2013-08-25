@@ -1,0 +1,212 @@
+TEasyCustomTable
+v7
+r1
+cCheck dependencies
+
+N/Users/reshma/Downloads/EasyCustomTable/EasyCustomTableView.xib
+c0000000049F5B17C000000000000275B
+t1240838524
+s10075
+
+N/Users/reshma/Downloads/EasyCustomTable/Images/bottomRow.png
+c0000000049F5858D00000000000006D3
+t1240827277
+s1747
+
+N/Users/reshma/Downloads/EasyCustomTable/Images/bottomRowSelected.png
+c0000000049F58866000000000000071C
+t1240828006
+s1820
+
+N/Users/reshma/Downloads/EasyCustomTable/Images/gradientBackground.png
+c0000000049F58B2B0000000000002647
+t1240828715
+s9799
+
+N/Users/reshma/Downloads/EasyCustomTable/Images/imageA.png
+c0000000049F59E98000000000000122A
+t1240833688
+s4650
+
+N/Users/reshma/Downloads/EasyCustomTable/Images/imageB.png
+c0000000049F59E8800000000000011F8
+t1240833672
+s4600
+
+N/Users/reshma/Downloads/EasyCustomTable/Images/imageC.png
+c0000000049F59E710000000000001226
+t1240833649
+s4646
+
+N/Users/reshma/Downloads/EasyCustomTable/Images/indicator.png
+c0000000049F5AFE4000000000000049C
+t1240838116
+s1180
+
+N/Users/reshma/Downloads/EasyCustomTable/Images/middleRow.png
+c0000000049F58584000000000000041F
+t1240827268
+s1055
+
+N/Users/reshma/Downloads/EasyCustomTable/Images/middleRowSelected.png
+c0000000049F5887100000000000004C0
+t1240828017
+s1216
+
+N/Users/reshma/Downloads/EasyCustomTable/Images/topAndBottomRow.png
+c0000000049F585A100000000000008E8
+t1240827297
+s2280
+
+N/Users/reshma/Downloads/EasyCustomTable/Images/topAndBottomRowSelected.png
+c0000000049F588480000000000000934
+t1240827976
+s2356
+
+N/Users/reshma/Downloads/EasyCustomTable/Images/topRow.png
+c0000000049F585980000000000000647
+t1240827288
+s1607
+
+N/Users/reshma/Downloads/EasyCustomTable/Images/topRowSelected.png
+c0000000049F5885A00000000000006D3
+t1240827994
+s1747
+
+N/Users/reshma/Downloads/EasyCustomTable/MainWindow.xib
+c0000000049F59630000000000000235E
+t1240831536
+s9054
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug/EasyCustomTable.app
+t2
+s0
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug/EasyCustomTable.app/Contents/Info.plist
+t2
+s0
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug/EasyCustomTable.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug/EasyCustomTable.app/Contents/Resources/EasyCustomTableView.nib
+t2
+s0
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug/EasyCustomTable.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug/EasyCustomTable.app/Contents/Resources/bottomRow.png
+t2
+s0
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug/EasyCustomTable.app/Contents/Resources/bottomRowSelected.png
+t2
+s0
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug/EasyCustomTable.app/Contents/Resources/gradientBackground.png
+t2
+s0
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug/EasyCustomTable.app/Contents/Resources/imageA.png
+t2
+s0
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug/EasyCustomTable.app/Contents/Resources/imageB.png
+t2
+s0
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug/EasyCustomTable.app/Contents/Resources/imageC.png
+t2
+s0
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug/EasyCustomTable.app/Contents/Resources/indicator.png
+t2
+s0
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug/EasyCustomTable.app/Contents/Resources/middleRow.png
+t2
+s0
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug/EasyCustomTable.app/Contents/Resources/middleRowSelected.png
+t2
+s0
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug/EasyCustomTable.app/Contents/Resources/topAndBottomRow.png
+t2
+s0
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug/EasyCustomTable.app/Contents/Resources/topAndBottomRowSelected.png
+t2
+s0
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug/EasyCustomTable.app/Contents/Resources/topRow.png
+t2
+s0
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug/EasyCustomTable.app/Contents/Resources/topRowSelected.png
+t2
+s0
+
+NInfo.plist
+c0000000049F58C360000000000000386
+t1240828982
+s902
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300604304#300604304#0(68"[BEROR]error: There is no SDK with the name or path 'iphoneos2.2.1'1(4@60"error: There is no SDK with the name or path 'iphoneos2.2.1'300604304#18446744073709551615#0#0(1@0"0(0#1#0"28710924367954020#0"0#
+
+CCompileXIB /Users/reshma/Downloads/EasyCustomTable/EasyCustomTableView.xib
+r0
+
+CCompileXIB /Users/reshma/Downloads/EasyCustomTable/MainWindow.xib
+r0
+
+CCpResource build/Debug/EasyCustomTable.app/Contents/Resources/bottomRow.png Images/bottomRow.png
+r0
+
+CCpResource build/Debug/EasyCustomTable.app/Contents/Resources/bottomRowSelected.png Images/bottomRowSelected.png
+r0
+
+CCpResource build/Debug/EasyCustomTable.app/Contents/Resources/gradientBackground.png Images/gradientBackground.png
+r0
+
+CCpResource build/Debug/EasyCustomTable.app/Contents/Resources/imageA.png Images/imageA.png
+r0
+
+CCpResource build/Debug/EasyCustomTable.app/Contents/Resources/imageB.png Images/imageB.png
+r0
+
+CCpResource build/Debug/EasyCustomTable.app/Contents/Resources/imageC.png Images/imageC.png
+r0
+
+CCpResource build/Debug/EasyCustomTable.app/Contents/Resources/indicator.png Images/indicator.png
+r0
+
+CCpResource build/Debug/EasyCustomTable.app/Contents/Resources/middleRow.png Images/middleRow.png
+r0
+
+CCpResource build/Debug/EasyCustomTable.app/Contents/Resources/middleRowSelected.png Images/middleRowSelected.png
+r0
+
+CCpResource build/Debug/EasyCustomTable.app/Contents/Resources/topAndBottomRow.png Images/topAndBottomRow.png
+r0
+
+CCpResource build/Debug/EasyCustomTable.app/Contents/Resources/topAndBottomRowSelected.png Images/topAndBottomRowSelected.png
+r0
+
+CCpResource build/Debug/EasyCustomTable.app/Contents/Resources/topRow.png Images/topRow.png
+r0
+
+CCpResource build/Debug/EasyCustomTable.app/Contents/Resources/topRowSelected.png Images/topRowSelected.png
+r0
+
+CProcessInfoPlistFile /Users/reshma/Downloads/EasyCustomTable/build/Debug/EasyCustomTable.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/reshma/Downloads/EasyCustomTable/build/Debug/EasyCustomTable.app
+r0
+

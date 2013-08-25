@@ -1,0 +1,188 @@
+TTouchCells
+v7
+r1
+cCheck dependencies
+
+N/Users/reshma/Downloads/TouchCells/build/Debug/TouchCells.app
+t2
+s0
+
+N/Users/reshma/Downloads/TouchCells/build/Debug/TouchCells.app/Contents/Info.plist
+t2
+s0
+
+N/Users/reshma/Downloads/TouchCells/build/Debug/TouchCells.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/reshma/Downloads/TouchCells/build/Debug/TouchCells.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/reshma/Downloads/TouchCells/build/Debug/TouchCells.app/Contents/Resources/Icon-72.png
+t2
+s0
+
+N/Users/reshma/Downloads/TouchCells/build/Debug/TouchCells.app/Contents/Resources/Icon-Small-50.png
+t2
+s0
+
+N/Users/reshma/Downloads/TouchCells/build/Debug/TouchCells.app/Contents/Resources/Icon-Small.png
+t2
+s0
+
+N/Users/reshma/Downloads/TouchCells/build/Debug/TouchCells.app/Contents/Resources/Icon-Small@2x.png
+t2
+s0
+
+N/Users/reshma/Downloads/TouchCells/build/Debug/TouchCells.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/reshma/Downloads/TouchCells/build/Debug/TouchCells.app/Contents/Resources/Icon@2x.png
+t2
+s0
+
+N/Users/reshma/Downloads/TouchCells/build/Debug/TouchCells.app/Contents/Resources/checked.png
+t2
+s0
+
+N/Users/reshma/Downloads/TouchCells/build/Debug/TouchCells.app/Contents/Resources/en.lproj/DetailViewController.nib
+t2
+s0
+
+N/Users/reshma/Downloads/TouchCells/build/Debug/TouchCells.app/Contents/Resources/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/reshma/Downloads/TouchCells/build/Debug/TouchCells.app/Contents/Resources/iTunesArtwork
+t2
+s0
+
+N/Users/reshma/Downloads/TouchCells/build/Debug/TouchCells.app/Contents/Resources/tableData.plist
+t2
+s0
+
+N/Users/reshma/Downloads/TouchCells/build/Debug/TouchCells.app/Contents/Resources/unchecked.png
+t2
+s0
+
+N/Users/reshma/Downloads/TouchCells/en.lproj/DetailViewController.xib
+c0000000049F8E0D10000000000002441
+t1241047249
+s9281
+
+N/Users/reshma/Downloads/TouchCells/en.lproj/MainWindow.xib
+c0000000049F8E0D10000000000003A04
+t1241047249
+s14852
+
+N/Users/reshma/Downloads/TouchCells/images/Default.png
+c000000004C21249D00000000000021E2
+t1277240477
+s8674
+
+N/Users/reshma/Downloads/TouchCells/images/Icon-72.png
+c000000004C21249D0000000000000427
+t1277240477
+s1063
+
+N/Users/reshma/Downloads/TouchCells/images/Icon-Small-50.png
+c000000004C21249D00000000000003E0
+t1277240477
+s992
+
+N/Users/reshma/Downloads/TouchCells/images/Icon-Small.png
+c000000004C21249D0000000000000396
+t1277240477
+s918
+
+N/Users/reshma/Downloads/TouchCells/images/Icon-Small@2x.png
+c000000004C21249D00000000000003F2
+t1277240477
+s1010
+
+N/Users/reshma/Downloads/TouchCells/images/Icon.png
+c000000004C21249D00000000000003EF
+t1277240477
+s1007
+
+N/Users/reshma/Downloads/TouchCells/images/Icon@2x.png
+c000000004C21249D00000000000004E4
+t1277240477
+s1252
+
+N/Users/reshma/Downloads/TouchCells/images/checked.png
+c000000004C21249D0000000000000542
+t1277240477
+s1346
+
+N/Users/reshma/Downloads/TouchCells/images/iTunesArtwork
+c000000004C28EDDD0000000000001444
+t1277750749
+s5188
+
+N/Users/reshma/Downloads/TouchCells/images/unchecked.png
+c000000004C21249D0000000000000434
+t1277240477
+s1076
+
+N/Users/reshma/Downloads/TouchCells/tableData.plist
+c00000000493D4D1E0000000000000302
+t1228754206
+s770
+
+NInfo.plist
+c000000004C28EDDD0000000000000448
+t1277750749
+s1096
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306320825#306320825#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.0'1(4@58"error: There is no SDK with the name or path 'iphoneos4.0'306320825#18446744073709551615#0#0(1@0"0(0#1#0"4300911832#0"0#
+
+CCompileXIB /Users/reshma/Downloads/TouchCells/en.lproj/DetailViewController.xib
+r0
+
+CCompileXIB /Users/reshma/Downloads/TouchCells/en.lproj/MainWindow.xib
+r0
+
+CCopyPlistFile /Users/reshma/Downloads/TouchCells/build/Debug/TouchCells.app/Contents/Resources/tableData.plist tableData.plist
+r0
+
+CCpResource build/Debug/TouchCells.app/Contents/Resources/Default.png images/Default.png
+r0
+
+CCpResource build/Debug/TouchCells.app/Contents/Resources/Icon-72.png images/Icon-72.png
+r0
+
+CCpResource build/Debug/TouchCells.app/Contents/Resources/Icon-Small-50.png images/Icon-Small-50.png
+r0
+
+CCpResource build/Debug/TouchCells.app/Contents/Resources/Icon-Small.png images/Icon-Small.png
+r0
+
+CCpResource build/Debug/TouchCells.app/Contents/Resources/Icon-Small@2x.png images/Icon-Small@2x.png
+r0
+
+CCpResource build/Debug/TouchCells.app/Contents/Resources/Icon.png images/Icon.png
+r0
+
+CCpResource build/Debug/TouchCells.app/Contents/Resources/Icon@2x.png images/Icon@2x.png
+r0
+
+CCpResource build/Debug/TouchCells.app/Contents/Resources/checked.png images/checked.png
+r0
+
+CCpResource build/Debug/TouchCells.app/Contents/Resources/iTunesArtwork images/iTunesArtwork
+r0
+
+CCpResource build/Debug/TouchCells.app/Contents/Resources/unchecked.png images/unchecked.png
+r0
+
+CProcessInfoPlistFile /Users/reshma/Downloads/TouchCells/build/Debug/TouchCells.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/reshma/Downloads/TouchCells/build/Debug/TouchCells.app
+r0
+

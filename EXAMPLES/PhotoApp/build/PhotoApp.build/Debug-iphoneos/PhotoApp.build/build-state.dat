@@ -1,0 +1,478 @@
+TPhotoApp
+v7
+r0
+t322980683.474959
+cCheck dependencies
+cCpResource build/Debug-iphoneos/PhotoApp.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/Info.plist PhotoApp-Info.plist
+cCompileXIB /Users/reshma/Downloads/PhotoApp/MainWindow.xib
+cCompileXIB /Users/reshma/Downloads/PhotoApp/PhotoAppViewController.xib
+cProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoApp_Prefix-ckuhvvpfkquvihbrckzeiepuwljz/PhotoApp_Prefix.pch.gch PhotoApp_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoApp_Prefix-fzosbcwyohfhlagoxyvsjalwsdky/PhotoApp_Prefix.pch.gch PhotoApp_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv6/main.o /Users/reshma/Downloads/PhotoApp/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv6/PhotoAppAppDelegate.o /Users/reshma/Downloads/PhotoApp/Classes/PhotoAppAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv6/PhotoAppViewController.o /Users/reshma/Downloads/PhotoApp/Classes/PhotoAppViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv6/PhotoApp normal armv6
+cCompileC build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv7/main.o /Users/reshma/Downloads/PhotoApp/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv7/PhotoAppAppDelegate.o /Users/reshma/Downloads/PhotoApp/Classes/PhotoAppAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv7/PhotoAppViewController.o /Users/reshma/Downloads/PhotoApp/Classes/PhotoAppViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv7/PhotoApp normal armv7
+cCreateUniversalBinary /Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/PhotoApp normal "armv6 armv7"
+cGenerateDSYMFile /Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app.dSYM /Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/PhotoApp
+cProcessProductPackaging "/Users/reshma/Library/MobileDevice/Provisioning Profiles/0BF1A8CA-6449-4B04-B971-F932AAAC770C.mobileprovision" /Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/embedded.mobileprovision
+cTouch /Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp.xcent
+cCodeSign /Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/reshma/Downloads/PhotoApp/Classes/PhotoAppAppDelegate.h
+c000000004A6F490E00000000000001E9
+t1248807182
+s489
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/PhotoApp/Classes/PhotoAppAppDelegate.m
+c000000004A6F49050000000000000270
+t1248807173
+s624
+i"PhotoAppAppDelegate.h"
+i"PhotoAppViewController.h"
+
+N/Users/reshma/Downloads/PhotoApp/Classes/PhotoAppViewController.h
+c000000004A6F49160000000000000268
+t1248807190
+s616
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/PhotoApp/Classes/PhotoAppViewController.m
+c000000004A6F494E0000000000000872
+t1248807246
+s2162
+i"PhotoAppViewController.h"
+
+N/Users/reshma/Downloads/PhotoApp/MainWindow.xib
+c000000004A6F3E9F0000000000002420
+t1248804511
+s9248
+
+N/Users/reshma/Downloads/PhotoApp/PhotoAppViewController.xib
+c000000004A6F49A100000000000030EA
+t1248807329
+s12522
+
+N/Users/reshma/Downloads/PhotoApp/PhotoApp_Prefix.pch
+c000000004A6F3E9F00000000000000B9
+t1248804511
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app
+t1301287883
+s374
+
+N/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app.dSYM
+t1301287876
+s102
+
+N/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/Info.plist
+t1292506384
+s791
+
+N/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/MainWindow.nib
+t1292506386
+s1652
+
+N/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/PhotoApp
+t1301287876
+s51936
+
+N/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/PhotoAppViewController.nib
+t1292506386
+s3577
+
+N/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/PkgInfo
+t1292506384
+s8
+
+N/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/ResourceRules.plist
+t1292506303
+s485
+
+N/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/embedded.mobileprovision
+t1301287876
+s12777
+
+N/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv6/PhotoApp
+t1301287876
+s17356
+
+N/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv6/PhotoApp.LinkFileList
+c000000004D0A14BF0000000000000171
+t1292506303
+s369
+
+N/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv6/PhotoAppAppDelegate.o
+t1301287875
+s48420
+
+N/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv6/PhotoAppViewController.o
+t1301287876
+s48288
+
+N/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv6/main.o
+t1301287875
+s6436
+
+N/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv7/PhotoApp
+t1301287876
+s17356
+
+N/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv7/PhotoApp.LinkFileList
+c000000004D0A14BF0000000000000171
+t1292506303
+s369
+
+N/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv7/PhotoAppAppDelegate.o
+t1301287876
+s48352
+
+N/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv7/PhotoAppViewController.o
+t1301287876
+s48160
+
+N/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv7/main.o
+t1301287876
+s6420
+
+N/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp.xcent
+t1292506387
+s422
+
+N/Users/reshma/Downloads/PhotoApp/main.m
+c000000004A6F3E9F000000000000016B
+t1248804511
+s363
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Library/MobileDevice/Provisioning Profiles/0BF1A8CA-6449-4B04-B971-F932AAAC770C.mobileprovision
+c000000004D6B885800000000000031E9
+t1298892888
+s12777
+
+N/Users/reshma/Library/MobileDevice/Provisioning Profiles/ABDC099A-FC5D-413C-B3B4-B17F4ED9391B.mobileprovision
+c000000004CFCD7EF00000000000031AD
+t1291638767
+s12717
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoApp_Prefix-ckuhvvpfkquvihbrckzeiepuwljz/PhotoApp_Prefix.pch.gch
+t1301287875
+s10000088
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoApp_Prefix-fteqqftvfvryoubpxwqdmskrevsh/PhotoApp_Prefix.pch.gch
+t1292506307
+s9983704
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoApp_Prefix-fzosbcwyohfhlagoxyvsjalwsdky/PhotoApp_Prefix.pch.gch
+t1301287875
+s10467032
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoApp_Prefix-hicugngyqzrwsrfcypwerokxsphk/PhotoApp_Prefix.pch.gch
+t1292506307
+s10446552
+
+NPhotoApp-Info.plist
+c000000004A6F3E9F000000000000038D
+t1248804511
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322980683#322980683#0(0"0(0#1#0"8626259360#0"0#
+
+CCodeSign /Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app
+s322980683.282718
+e322980683.474918
+r1
+xCodeSign
+x/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app
+o/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app: replacing existing signature
+lSLF07#2@42"CodeSign build/Debug-iphoneos/PhotoApp.app322980683#322980683#0(97"/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app: replacing existing signature0(0#0#66"/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app8621378752#629"    cd /Users/reshma/Downloads/PhotoApp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Rohit Singal (UGQKS7R3ZE)" --resource-rules=/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/ResourceRules.plist --entitlements /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp.xcent /Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app0#
+
+CCompileC build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv6/PhotoAppAppDelegate.o /Users/reshma/Downloads/PhotoApp/Classes/PhotoAppAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s322980675.901273
+e322980676.024357
+r1
+xCompileC
+xbuild/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv6/PhotoAppAppDelegate.o
+x/Users/reshma/Downloads/PhotoApp/Classes/PhotoAppAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/reshma/Downloads/PhotoApp/Classes/PhotoAppAppDelegate.m322980675#322980676#0(0"0(0#0#62"/Users/reshma/Downloads/PhotoApp/Classes/PhotoAppAppDelegate.m8619816800#1716"    cd /Users/reshma/Downloads/PhotoApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-generated-files.hmap -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-own-target-headers.hmap -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-all-target-headers.hmap -iquote /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-project-headers.hmap -F/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos -I/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/include -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/DerivedSources/armv6 -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoApp_Prefix-ckuhvvpfkquvihbrckzeiepuwljz/PhotoApp_Prefix.pch -c /Users/reshma/Downloads/PhotoApp/Classes/PhotoAppAppDelegate.m -o /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv6/PhotoAppAppDelegate.o0#
+
+CCompileC build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv6/PhotoAppViewController.o /Users/reshma/Downloads/PhotoApp/Classes/PhotoAppViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s322980676.023264
+e322980676.104964
+r1
+xCompileC
+xbuild/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv6/PhotoAppViewController.o
+x/Users/reshma/Downloads/PhotoApp/Classes/PhotoAppViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/reshma/Downloads/PhotoApp/Classes/PhotoAppViewController.m322980676#322980676#0(0"0(0#0#65"/Users/reshma/Downloads/PhotoApp/Classes/PhotoAppViewController.m8628434752#1722"    cd /Users/reshma/Downloads/PhotoApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-generated-files.hmap -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-own-target-headers.hmap -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-all-target-headers.hmap -iquote /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-project-headers.hmap -F/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos -I/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/include -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/DerivedSources/armv6 -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoApp_Prefix-ckuhvvpfkquvihbrckzeiepuwljz/PhotoApp_Prefix.pch -c /Users/reshma/Downloads/PhotoApp/Classes/PhotoAppViewController.m -o /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv6/PhotoAppViewController.o0#
+
+CCompileC build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv6/main.o /Users/reshma/Downloads/PhotoApp/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s322980675.873303
+e322980676.023163
+r1
+xCompileC
+xbuild/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv6/main.o
+x/Users/reshma/Downloads/PhotoApp/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/reshma/Downloads/PhotoApp/main.m322980675#322980676#0(0"0(0#0#39"/Users/reshma/Downloads/PhotoApp/main.m8625096128#1678"    cd /Users/reshma/Downloads/PhotoApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-generated-files.hmap -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-own-target-headers.hmap -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-all-target-headers.hmap -iquote /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-project-headers.hmap -F/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos -I/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/include -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/DerivedSources/armv6 -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoApp_Prefix-ckuhvvpfkquvihbrckzeiepuwljz/PhotoApp_Prefix.pch -c /Users/reshma/Downloads/PhotoApp/main.m -o /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv7/PhotoAppAppDelegate.o /Users/reshma/Downloads/PhotoApp/Classes/PhotoAppAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s322980676.077105
+e322980676.146176
+r1
+xCompileC
+xbuild/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv7/PhotoAppAppDelegate.o
+x/Users/reshma/Downloads/PhotoApp/Classes/PhotoAppAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/reshma/Downloads/PhotoApp/Classes/PhotoAppAppDelegate.m322980676#322980676#0(0"0(0#0#62"/Users/reshma/Downloads/PhotoApp/Classes/PhotoAppAppDelegate.m8626206560#1716"    cd /Users/reshma/Downloads/PhotoApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-generated-files.hmap -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-own-target-headers.hmap -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-all-target-headers.hmap -iquote /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-project-headers.hmap -F/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos -I/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/include -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/DerivedSources/armv7 -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoApp_Prefix-fzosbcwyohfhlagoxyvsjalwsdky/PhotoApp_Prefix.pch -c /Users/reshma/Downloads/PhotoApp/Classes/PhotoAppAppDelegate.m -o /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv7/PhotoAppAppDelegate.o0#
+
+CCompileC build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv7/PhotoAppViewController.o /Users/reshma/Downloads/PhotoApp/Classes/PhotoAppViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s322980676.146272
+e322980676.259791
+r1
+xCompileC
+xbuild/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv7/PhotoAppViewController.o
+x/Users/reshma/Downloads/PhotoApp/Classes/PhotoAppViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/reshma/Downloads/PhotoApp/Classes/PhotoAppViewController.m322980676#322980676#0(0"0(0#0#65"/Users/reshma/Downloads/PhotoApp/Classes/PhotoAppViewController.m8623067392#1722"    cd /Users/reshma/Downloads/PhotoApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-generated-files.hmap -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-own-target-headers.hmap -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-all-target-headers.hmap -iquote /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-project-headers.hmap -F/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos -I/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/include -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/DerivedSources/armv7 -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoApp_Prefix-fzosbcwyohfhlagoxyvsjalwsdky/PhotoApp_Prefix.pch -c /Users/reshma/Downloads/PhotoApp/Classes/PhotoAppViewController.m -o /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv7/PhotoAppViewController.o0#
+
+CCompileC build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv7/main.o /Users/reshma/Downloads/PhotoApp/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s322980676.024436
+e322980676.076745
+r1
+xCompileC
+xbuild/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv7/main.o
+x/Users/reshma/Downloads/PhotoApp/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/reshma/Downloads/PhotoApp/main.m322980676#322980676#0(0"0(0#0#39"/Users/reshma/Downloads/PhotoApp/main.m8627669888#1678"    cd /Users/reshma/Downloads/PhotoApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-generated-files.hmap -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-own-target-headers.hmap -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-all-target-headers.hmap -iquote /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-project-headers.hmap -F/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos -I/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/include -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/DerivedSources/armv7 -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoApp_Prefix-fzosbcwyohfhlagoxyvsjalwsdky/PhotoApp_Prefix.pch -c /Users/reshma/Downloads/PhotoApp/main.m -o /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/reshma/Downloads/PhotoApp/MainWindow.xib
+s314199184.570530
+e314199186.122825
+r1
+xCompileXIB
+x/Users/reshma/Downloads/PhotoApp/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib314199184#314199186#0(0"0(0#0#47"/Users/reshma/Downloads/PhotoApp/MainWindow.xib8623693088#525"    cd /Users/reshma/Downloads/PhotoApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/MainWindow.nib /Users/reshma/Downloads/PhotoApp/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/reshma/Downloads/PhotoApp/PhotoAppViewController.xib
+s314199184.571451
+e314199186.061257
+r1
+xCompileXIB
+x/Users/reshma/Downloads/PhotoApp/PhotoAppViewController.xib
+lSLF07#2@37"CompileXIB PhotoAppViewController.xib314199184#314199186#0(0"0(0#0#59"/Users/reshma/Downloads/PhotoApp/PhotoAppViewController.xib8611376544#549"    cd /Users/reshma/Downloads/PhotoApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/PhotoAppViewController.nib /Users/reshma/Downloads/PhotoApp/PhotoAppViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCpResource build/Debug-iphoneos/PhotoApp.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s314199103.858511
+e314199103.960252
+r1
+xCpResource
+xbuild/Debug-iphoneos/PhotoApp.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist314199103#314199103#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8623036160#483"    cd /Users/reshma/Downloads/PhotoApp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app0#
+
+CCreateUniversalBinary /Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/PhotoApp normal "armv6 armv7"
+s322980676.601923
+e322980676.650389
+r1
+xCreateUniversalBinary
+x/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/PhotoApp
+xnormal
+xarmv6 armv7
+lSLF07#2@85"CreateUniversalBinary build/Debug-iphoneos/PhotoApp.app/PhotoApp normal "armv6 armv7"322980676#322980676#0(0"0(0#0#44"/Users/reshma/Downloads/PhotoApp/armv6 armv78628943168#502"    cd /Users/reshma/Downloads/PhotoApp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv6/PhotoApp /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv7/PhotoApp -output /Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/PhotoApp0#
+
+CGenerateDSYMFile /Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app.dSYM /Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/PhotoApp
+s322980676.650499
+e322980676.735936
+r1
+xGenerateDSYMFile
+x/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app.dSYM
+x/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/PhotoApp
+lSLF07#2@98"GenerateDSYMFile build/Debug-iphoneos/PhotoApp.app.dSYM build/Debug-iphoneos/PhotoApp.app/PhotoApp322980676#322980676#0(0"0(0#0#75"/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/PhotoApp8628374432#347"    cd /Users/reshma/Downloads/PhotoApp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/PhotoApp -o /Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app.dSYM0#
+
+CLd /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv6/PhotoApp normal armv6
+s322980676.105054
+e322980676.601809
+r1
+xLd
+x/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv6/PhotoApp
+xnormal
+xarmv6
+lSLF07#2@118"Link /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv6/PhotoApp322980676#322980676#0(0"0(0#0#0"8625066240#835"    cd /Users/reshma/Downloads/PhotoApp    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos -F/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos -filelist /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv6/PhotoApp.LinkFileList -dead_strip -miphoneos-version-min=3.0 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv6/PhotoApp0#
+
+CLd /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv7/PhotoApp normal armv7
+s322980676.259879
+e322980676.559025
+r1
+xLd
+x/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv7/PhotoApp
+xnormal
+xarmv7
+lSLF07#2@118"Link /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv7/PhotoApp322980676#322980676#0(0"0(0#0#0"8621802016#835"    cd /Users/reshma/Downloads/PhotoApp    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos -F/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos -filelist /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv7/PhotoApp.LinkFileList -dead_strip -miphoneos-version-min=3.0 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/Objects-normal/armv7/PhotoApp0#
+
+CProcessInfoPlistFile /Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/Info.plist PhotoApp-Info.plist
+s314199184.554522
+e314199184.570443
+r1
+xProcessInfoPlistFile
+x/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/Info.plist
+xPhotoApp-Info.plist
+lSLF07#2@27"Process PhotoApp-Info.plist314199184#314199184#0(0"0(0#0#52"/Users/reshma/Downloads/PhotoApp/PhotoApp-Info.plist8622663552#542"    cd /Users/reshma/Downloads/PhotoApp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility PhotoApp-Info.plist -genpkginfo /Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/ResourceRules.plist -o /Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/Info.plist0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoApp_Prefix-ckuhvvpfkquvihbrckzeiepuwljz/PhotoApp_Prefix.pch.gch PhotoApp_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s322980674.936595
+e322980675.843451
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoApp_Prefix-ckuhvvpfkquvihbrckzeiepuwljz/PhotoApp_Prefix.pch.gch
+xPhotoApp_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile PhotoApp_Prefix.pch322980674#322980675#0(0"0(0#0#52"/Users/reshma/Downloads/PhotoApp/PhotoApp_Prefix.pch8628771712#1581"    cd /Users/reshma/Downloads/PhotoApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-generated-files.hmap -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-own-target-headers.hmap -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-all-target-headers.hmap -iquote /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-project-headers.hmap -F/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos -I/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/include -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/DerivedSources/armv6 -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/DerivedSources -c /Users/reshma/Downloads/PhotoApp/PhotoApp_Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoApp_Prefix-ckuhvvpfkquvihbrckzeiepuwljz/PhotoApp_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoApp_Prefix-fteqqftvfvryoubpxwqdmskrevsh/PhotoApp_Prefix.pch.gch PhotoApp_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s314199106.248192
+e314199107.696391
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoApp_Prefix-fteqqftvfvryoubpxwqdmskrevsh/PhotoApp_Prefix.pch.gch
+xPhotoApp_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile PhotoApp_Prefix.pch314199106#314199107#0(0"0(0#0#52"/Users/reshma/Downloads/PhotoApp/PhotoApp_Prefix.pch8623769152#1581"    cd /Users/reshma/Downloads/PhotoApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-generated-files.hmap -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-own-target-headers.hmap -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-all-target-headers.hmap -iquote /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-project-headers.hmap -F/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos -I/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/include -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/DerivedSources/armv6 -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/DerivedSources -c /Users/reshma/Downloads/PhotoApp/PhotoApp_Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoApp_Prefix-fteqqftvfvryoubpxwqdmskrevsh/PhotoApp_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoApp_Prefix-fzosbcwyohfhlagoxyvsjalwsdky/PhotoApp_Prefix.pch.gch PhotoApp_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s322980674.937493
+e322980675.873214
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoApp_Prefix-fzosbcwyohfhlagoxyvsjalwsdky/PhotoApp_Prefix.pch.gch
+xPhotoApp_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile PhotoApp_Prefix.pch322980674#322980675#0(0"0(0#0#52"/Users/reshma/Downloads/PhotoApp/PhotoApp_Prefix.pch8628495968#1581"    cd /Users/reshma/Downloads/PhotoApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-generated-files.hmap -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-own-target-headers.hmap -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-all-target-headers.hmap -iquote /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-project-headers.hmap -F/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos -I/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/include -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/DerivedSources/armv7 -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/DerivedSources -c /Users/reshma/Downloads/PhotoApp/PhotoApp_Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoApp_Prefix-fzosbcwyohfhlagoxyvsjalwsdky/PhotoApp_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoApp_Prefix-hicugngyqzrwsrfcypwerokxsphk/PhotoApp_Prefix.pch.gch PhotoApp_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s314199106.249110
+e314199107.564116
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoApp_Prefix-hicugngyqzrwsrfcypwerokxsphk/PhotoApp_Prefix.pch.gch
+xPhotoApp_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile PhotoApp_Prefix.pch314199106#314199107#0(0"0(0#0#52"/Users/reshma/Downloads/PhotoApp/PhotoApp_Prefix.pch8621896160#1581"    cd /Users/reshma/Downloads/PhotoApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-generated-files.hmap -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-own-target-headers.hmap -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-all-target-headers.hmap -iquote /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp-project-headers.hmap -F/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos -I/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/include -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/DerivedSources/armv7 -I/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/DerivedSources -c /Users/reshma/Downloads/PhotoApp/PhotoApp_Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoApp_Prefix-hicugngyqzrwsrfcypwerokxsphk/PhotoApp_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/reshma/Library/MobileDevice/Provisioning Profiles/0BF1A8CA-6449-4B04-B971-F932AAAC770C.mobileprovision" /Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/embedded.mobileprovision
+s322980676.736035
+e322980676.788206
+r1
+xProcessProductPackaging
+x/Users/reshma/Library/MobileDevice/Provisioning Profiles/0BF1A8CA-6449-4B04-B971-F932AAAC770C.mobileprovision
+x/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/embedded.mobileprovision
+lSLF07#2@194"ProcessProductPackaging "/Users/reshma/Library/MobileDevice/Provisioning Profiles/0BF1A8CA-6449-4B04-B971-F932AAAC770C.mobileprovision" build/Debug-iphoneos/PhotoApp.app/embedded.mobileprovision322980676#322980676#0(0"0(0#0#91"/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/embedded.mobileprovision8625488352#413"    cd /Users/reshma/Downloads/PhotoApp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/reshma/Library/MobileDevice/Provisioning Profiles/0BF1A8CA-6449-4B04-B971-F932AAAC770C.mobileprovision" -o /Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/embedded.mobileprovision0#
+
+CProcessProductPackaging "/Users/reshma/Library/MobileDevice/Provisioning Profiles/ABDC099A-FC5D-413C-B3B4-B17F4ED9391B.mobileprovision" /Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/embedded.mobileprovision
+s314199108.090508
+e314199108.103065
+r1
+xProcessProductPackaging
+x/Users/reshma/Library/MobileDevice/Provisioning Profiles/ABDC099A-FC5D-413C-B3B4-B17F4ED9391B.mobileprovision
+x/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/embedded.mobileprovision
+lSLF07#2@194"ProcessProductPackaging "/Users/reshma/Library/MobileDevice/Provisioning Profiles/ABDC099A-FC5D-413C-B3B4-B17F4ED9391B.mobileprovision" build/Debug-iphoneos/PhotoApp.app/embedded.mobileprovision314199108#314199108#0(0"0(0#0#91"/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/embedded.mobileprovision8623137696#413"    cd /Users/reshma/Downloads/PhotoApp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/reshma/Library/MobileDevice/Provisioning Profiles/ABDC099A-FC5D-413C-B3B4-B17F4ED9391B.mobileprovision" -o /Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp.xcent
+s314199187.893640
+e314199187.924146
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp.xcent
+lSLF07#2@178"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp.xcent314199187#314199187#0(0"0(0#0#98"/Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp.xcent8622376672#423"    cd /Users/reshma/Downloads/PhotoApp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/reshma/Downloads/PhotoApp/build/PhotoApp.build/Debug-iphoneos/PhotoApp.build/PhotoApp.xcent0#
+
+CTouch /Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app
+s322980676.788290
+e322980676.791397
+r1
+xTouch
+x/Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app
+lSLF07#2@72"Touch /Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app322980676#322980676#0(0"0(0#0#0"8624973664#253"    cd /Users/reshma/Downloads/PhotoApp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/reshma/Downloads/PhotoApp/build/Debug-iphoneos/PhotoApp.app0#
+

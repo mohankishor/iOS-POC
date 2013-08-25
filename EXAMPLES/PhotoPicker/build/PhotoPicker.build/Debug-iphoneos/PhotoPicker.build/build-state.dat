@@ -1,0 +1,498 @@
+TPhotoPicker
+v7
+r0
+t314182726.654903
+cCheck dependencies
+cCpResource build/Debug-iphoneos/PhotoPicker.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Info.plist Info.plist
+cCompileXIB /Users/reshma/Downloads/PhotoPicker/en.lproj/MainWindow.xib
+cCpResource build/Debug-iphoneos/PhotoPicker.app/tick.aiff tick.aiff
+cCompileXIB /Users/reshma/Downloads/PhotoPicker/en.lproj/OverlayViewController.xib
+cCopyPNGFile /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Default.png images/Default.png
+cCopyPNGFile /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Icon-Small.png images/Icon-Small.png
+cCopyPNGFile /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Icon-Small@2x.png images/Icon-Small@2x.png
+cCopyPNGFile /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Icon.png images/Icon.png
+cCopyPNGFile /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Icon@2x.png images/Icon@2x.png
+cCpResource build/Debug-iphoneos/PhotoPicker.app/iTunesArtwork images/iTunesArtwork
+cProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-fbohasvsqgyigxgcupywshyysevg/Prefix.pch.gch Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/Objects-normal/armv6/MyViewController.o /Users/reshma/Downloads/PhotoPicker/MyViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/Objects-normal/armv6/main.o /Users/reshma/Downloads/PhotoPicker/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/Objects-normal/armv6/AppDelegate.o /Users/reshma/Downloads/PhotoPicker/AppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/Objects-normal/armv6/OverlayViewController.o /Users/reshma/Downloads/PhotoPicker/OverlayViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/PhotoPicker normal armv6
+cGenerateDSYMFile /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app.dSYM /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/PhotoPicker
+cProcessProductPackaging "/Users/reshma/Library/MobileDevice/Provisioning Profiles/ABDC099A-FC5D-413C-B3B4-B17F4ED9391B.mobileprovision" /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/embedded.mobileprovision
+cTouch /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/PhotoPicker.xcent
+cCodeSign /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC10EF400000000003B8CB0
+t1287720692
+s3902640
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioServices.h
+c000000004CC10EB60000000000010AAC
+t1287720630
+s68268
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/reshma/Downloads/PhotoPicker/AppDelegate.h
+c000000004C48DCEA0000000000000B20
+t1279843562
+s2848
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/PhotoPicker/AppDelegate.m
+c000000004C48DCEA0000000000000B80
+t1279843562
+s2944
+i"AppDelegate.h"
+
+N/Users/reshma/Downloads/PhotoPicker/MyViewController.h
+c000000004C48DCEA0000000000000D4D
+t1279843562
+s3405
+i<UIKit/UIKit.h>
+i<AudioToolbox/AudioServices.h>
+i"OverlayViewController.h"
+
+N/Users/reshma/Downloads/PhotoPicker/MyViewController.m
+c000000004C48DCEA00000000000016B0
+t1279843562
+s5808
+i"MyViewController.h"
+
+N/Users/reshma/Downloads/PhotoPicker/OverlayViewController.h
+c000000004C48DCEA0000000000000FD3
+t1279843562
+s4051
+i<UIKit/UIKit.h>
+i<AudioToolbox/AudioServices.h>
+
+N/Users/reshma/Downloads/PhotoPicker/OverlayViewController.m
+c000000004C48DCEA0000000000002A3D
+t1279843562
+s10813
+i"OverlayViewController.h"
+
+N/Users/reshma/Downloads/PhotoPicker/Prefix.pch
+c000000004ACCDD410000000000000059
+t1254939969
+s89
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app
+t1292477416
+s578
+
+N/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app.dSYM
+t1292477415
+s102
+
+N/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Default.png
+t1292477413
+s8641
+
+N/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Icon-Small.png
+t1292477412
+s854
+
+N/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Icon-Small@2x.png
+t1292477413
+s893
+
+N/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Icon.png
+t1292477413
+s891
+
+N/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Icon@2x.png
+t1292477413
+s995
+
+N/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Info.plist
+t1292477411
+s986
+
+N/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/PhotoPicker
+t1292477415
+s43536
+
+N/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/PkgInfo
+t1292477411
+s8
+
+N/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/ResourceRules.plist
+t1292477411
+s485
+
+N/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/embedded.mobileprovision
+t1292477415
+s12717
+
+N/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/en.lproj/MainWindow.nib
+t1292477412
+s2310
+
+N/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/en.lproj/OverlayViewController.nib
+t1292477412
+s1437
+
+N/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/iTunesArtwork
+t1292477413
+s5188
+
+N/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/tick.aiff
+t1292477411
+s24030
+
+N/Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/Objects-normal/armv6/AppDelegate.o
+t1292477414
+s49696
+
+N/Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/Objects-normal/armv6/MyViewController.o
+t1292477414
+s54192
+
+N/Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/Objects-normal/armv6/OverlayViewController.o
+t1292477414
+s66328
+
+N/Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/Objects-normal/armv6/PhotoPicker.LinkFileList
+c000000004D09A3E30000000000000208
+t1292477411
+s520
+
+N/Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/Objects-normal/armv6/main.o
+t1292477414
+s6440
+
+N/Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/PhotoPicker.xcent
+t1292477415
+s428
+
+N/Users/reshma/Downloads/PhotoPicker/en.lproj/MainWindow.xib
+c000000004BC895E30000000000007EB8
+t1271436771
+s32440
+
+N/Users/reshma/Downloads/PhotoPicker/en.lproj/OverlayViewController.xib
+c000000004BCCAF9E000000000000666F
+t1271705502
+s26223
+
+N/Users/reshma/Downloads/PhotoPicker/images/Default.png
+c000000004C18FCB400000000000027D3
+t1276705972
+s10195
+
+N/Users/reshma/Downloads/PhotoPicker/images/Icon-Small.png
+c000000004C18FCB40000000000000396
+t1276705972
+s918
+
+N/Users/reshma/Downloads/PhotoPicker/images/Icon-Small@2x.png
+c000000004C18FCB400000000000003F2
+t1276705972
+s1010
+
+N/Users/reshma/Downloads/PhotoPicker/images/Icon.png
+c000000004C18FCB400000000000003EF
+t1276705972
+s1007
+
+N/Users/reshma/Downloads/PhotoPicker/images/Icon@2x.png
+c000000004C18FCB400000000000004E4
+t1276705972
+s1252
+
+N/Users/reshma/Downloads/PhotoPicker/images/iTunesArtwork
+c000000004C221C4F0000000000001444
+t1277303887
+s5188
+
+N/Users/reshma/Downloads/PhotoPicker/main.m
+c000000004C48DCEA0000000000000AB2
+t1279843562
+s2738
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/PhotoPicker/tick.aiff
+c000000004ACCDD410000000000005DDE
+t1254939969
+s24030
+
+N/Users/reshma/Library/MobileDevice/Provisioning Profiles/ABDC099A-FC5D-413C-B3B4-B17F4ED9391B.mobileprovision
+c000000004CFCD7EF00000000000031AD
+t1291638767
+s12717
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-fbohasvsqgyigxgcupywshyysevg/Prefix.pch.gch
+t1292477414
+s10000088
+
+NInfo.plist
+c000000004C221D6600000000000004DF
+t1277304166
+s1247
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies314182726#314182726#0(0"0(0#1#0"8637660672#0"0#
+
+CCodeSign /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app
+s314182726.189001
+e314182726.654857
+r1
+xCodeSign
+x/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app
+o/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app: replacing existing signature
+lSLF07#2@45"CodeSign build/Debug-iphoneos/PhotoPicker.app314182726#314182726#0(103"/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app: replacing existing signature0(0#0#72"/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app8618065984#656"    cd /Users/reshma/Downloads/PhotoPicker    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Rohit Singal (UGQKS7R3ZE)" --resource-rules=/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/ResourceRules.plist --entitlements /Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/PhotoPicker.xcent /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app0#
+
+CCompileC build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/Objects-normal/armv6/AppDelegate.o /Users/reshma/Downloads/PhotoPicker/AppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s314170214.743874
+e314170214.823419
+r1
+xCompileC
+xbuild/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/Objects-normal/armv6/AppDelegate.o
+x/Users/reshma/Downloads/PhotoPicker/AppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/reshma/Downloads/PhotoPicker/AppDelegate.m314170214#314170214#0(0"0(0#0#49"/Users/reshma/Downloads/PhotoPicker/AppDelegate.m8623161600#1761"    cd /Users/reshma/Downloads/PhotoPicker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/PhotoPicker-generated-files.hmap -I/Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/PhotoPicker-own-target-headers.hmap -I/Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/PhotoPicker-all-target-headers.hmap -iquote /Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/PhotoPicker-project-headers.hmap -F/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos -I/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/include -I/Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/DerivedSources/armv6 -I/Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-fbohasvsqgyigxgcupywshyysevg/Prefix.pch -c /Users/reshma/Downloads/PhotoPicker/AppDelegate.m -o /Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/Objects-normal/armv6/AppDelegate.o0#
+
+CCompileC build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/Objects-normal/armv6/MyViewController.o /Users/reshma/Downloads/PhotoPicker/MyViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s314170214.629188
+e314170214.797092
+r1
+xCompileC
+xbuild/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/Objects-normal/armv6/MyViewController.o
+x/Users/reshma/Downloads/PhotoPicker/MyViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/reshma/Downloads/PhotoPicker/MyViewController.m314170214#314170214#0(0"0(0#0#54"/Users/reshma/Downloads/PhotoPicker/MyViewController.m8624724768#1771"    cd /Users/reshma/Downloads/PhotoPicker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/PhotoPicker-generated-files.hmap -I/Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/PhotoPicker-own-target-headers.hmap -I/Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/PhotoPicker-all-target-headers.hmap -iquote /Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/PhotoPicker-project-headers.hmap -F/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos -I/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/include -I/Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/DerivedSources/armv6 -I/Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-fbohasvsqgyigxgcupywshyysevg/Prefix.pch -c /Users/reshma/Downloads/PhotoPicker/MyViewController.m -o /Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/Objects-normal/armv6/MyViewController.o0#
+
+CCompileC build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/Objects-normal/armv6/OverlayViewController.o /Users/reshma/Downloads/PhotoPicker/OverlayViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s314170214.797194
+e314170214.905360
+r1
+xCompileC
+xbuild/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/Objects-normal/armv6/OverlayViewController.o
+x/Users/reshma/Downloads/PhotoPicker/OverlayViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/reshma/Downloads/PhotoPicker/OverlayViewController.m314170214#314170214#0(0"0(0#0#59"/Users/reshma/Downloads/PhotoPicker/OverlayViewController.m8622419136#1781"    cd /Users/reshma/Downloads/PhotoPicker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/PhotoPicker-generated-files.hmap -I/Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/PhotoPicker-own-target-headers.hmap -I/Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/PhotoPicker-all-target-headers.hmap -iquote /Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/PhotoPicker-project-headers.hmap -F/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos -I/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/include -I/Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/DerivedSources/armv6 -I/Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-fbohasvsqgyigxgcupywshyysevg/Prefix.pch -c /Users/reshma/Downloads/PhotoPicker/OverlayViewController.m -o /Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/Objects-normal/armv6/OverlayViewController.o0#
+
+CCompileC build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/Objects-normal/armv6/main.o /Users/reshma/Downloads/PhotoPicker/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s314170214.630469
+e314170214.743785
+r1
+xCompileC
+xbuild/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/Objects-normal/armv6/main.o
+x/Users/reshma/Downloads/PhotoPicker/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/reshma/Downloads/PhotoPicker/main.m314170214#314170214#0(0"0(0#0#42"/Users/reshma/Downloads/PhotoPicker/main.m8623449792#1747"    cd /Users/reshma/Downloads/PhotoPicker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/PhotoPicker-generated-files.hmap -I/Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/PhotoPicker-own-target-headers.hmap -I/Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/PhotoPicker-all-target-headers.hmap -iquote /Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/PhotoPicker-project-headers.hmap -F/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos -I/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/include -I/Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/DerivedSources/armv6 -I/Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-fbohasvsqgyigxgcupywshyysevg/Prefix.pch -c /Users/reshma/Downloads/PhotoPicker/main.m -o /Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/Objects-normal/armv6/main.o0#
+
+CCompileXIB /Users/reshma/Downloads/PhotoPicker/en.lproj/MainWindow.xib
+s314170211.931619
+e314170212.515378
+r1
+xCompileXIB
+x/Users/reshma/Downloads/PhotoPicker/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib314170211#314170212#0(0"0(0#0#59"/Users/reshma/Downloads/PhotoPicker/en.lproj/MainWindow.xib8625119200#555"    cd /Users/reshma/Downloads/PhotoPicker    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/en.lproj/MainWindow.nib /Users/reshma/Downloads/PhotoPicker/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/reshma/Downloads/PhotoPicker/en.lproj/OverlayViewController.xib
+s314170211.936528
+e314170212.347441
+r1
+xCompileXIB
+x/Users/reshma/Downloads/PhotoPicker/en.lproj/OverlayViewController.xib
+lSLF07#2@45"CompileXIB en.lproj/OverlayViewController.xib314170211#314170212#0(0"0(0#0#70"/Users/reshma/Downloads/PhotoPicker/en.lproj/OverlayViewController.xib8624781312#577"    cd /Users/reshma/Downloads/PhotoPicker    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/en.lproj/OverlayViewController.nib /Users/reshma/Downloads/PhotoPicker/en.lproj/OverlayViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCopyPNGFile /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Default.png images/Default.png
+s314170212.347526
+e314170213.043844
+r1
+xCopyPNGFile
+x/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Default.png
+ximages/Default.png
+lSLF07#2@79"CopyPNGFile build/Debug-iphoneos/PhotoPicker.app/Default.png images/Default.png314170212#314170213#0(0"0(0#0#54"/Users/reshma/Downloads/PhotoPicker/images/Default.png8623211616#564"    cd /Users/reshma/Downloads/PhotoPicker    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/reshma/Downloads/PhotoPicker/images/Default.png /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Default.png0#
+
+CCopyPNGFile /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Icon-Small.png images/Icon-Small.png
+s314170212.515464
+e314170213.036448
+r1
+xCopyPNGFile
+x/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Icon-Small.png
+ximages/Icon-Small.png
+lSLF07#2@85"CopyPNGFile build/Debug-iphoneos/PhotoPicker.app/Icon-Small.png images/Icon-Small.png314170212#314170213#0(0"0(0#0#57"/Users/reshma/Downloads/PhotoPicker/images/Icon-Small.png8624851168#570"    cd /Users/reshma/Downloads/PhotoPicker    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/reshma/Downloads/PhotoPicker/images/Icon-Small.png /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Icon-Small.png0#
+
+CCopyPNGFile /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Icon-Small@2x.png images/Icon-Small@2x.png
+s314170213.036538
+e314170213.066206
+r1
+xCopyPNGFile
+x/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Icon-Small@2x.png
+ximages/Icon-Small@2x.png
+lSLF07#2@91"CopyPNGFile build/Debug-iphoneos/PhotoPicker.app/Icon-Small@2x.png images/Icon-Small@2x.png314170213#314170213#0(0"0(0#0#60"/Users/reshma/Downloads/PhotoPicker/images/Icon-Small@2x.png8621062848#576"    cd /Users/reshma/Downloads/PhotoPicker    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/reshma/Downloads/PhotoPicker/images/Icon-Small@2x.png /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Icon-Small@2x.png0#
+
+CCopyPNGFile /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Icon.png images/Icon.png
+s314170213.043928
+e314170213.067262
+r1
+xCopyPNGFile
+x/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Icon.png
+ximages/Icon.png
+lSLF07#2@73"CopyPNGFile build/Debug-iphoneos/PhotoPicker.app/Icon.png images/Icon.png314170213#314170213#0(0"0(0#0#51"/Users/reshma/Downloads/PhotoPicker/images/Icon.png8619193984#558"    cd /Users/reshma/Downloads/PhotoPicker    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/reshma/Downloads/PhotoPicker/images/Icon.png /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Icon.png0#
+
+CCopyPNGFile /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Icon@2x.png images/Icon@2x.png
+s314170213.066296
+e314170213.088073
+r1
+xCopyPNGFile
+x/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Icon@2x.png
+ximages/Icon@2x.png
+lSLF07#2@79"CopyPNGFile build/Debug-iphoneos/PhotoPicker.app/Icon@2x.png images/Icon@2x.png314170213#314170213#0(0"0(0#0#54"/Users/reshma/Downloads/PhotoPicker/images/Icon@2x.png8625123648#564"    cd /Users/reshma/Downloads/PhotoPicker    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/reshma/Downloads/PhotoPicker/images/Icon@2x.png /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Icon@2x.png0#
+
+CCpResource build/Debug-iphoneos/PhotoPicker.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s314170211.912665
+e314170211.931013
+r1
+xCpResource
+xbuild/Debug-iphoneos/PhotoPicker.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist314170211#314170211#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist4923330986020728832#492"    cd /Users/reshma/Downloads/PhotoPicker    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app0#
+
+CCpResource build/Debug-iphoneos/PhotoPicker.app/iTunesArtwork images/iTunesArtwork
+s314170213.067321
+e314170213.071770
+r1
+xCpResource
+xbuild/Debug-iphoneos/PhotoPicker.app/iTunesArtwork
+ximages/iTunesArtwork
+lSLF07#2@25"Copy images/iTunesArtwork314170213#314170213#0(0"0(0#0#56"/Users/reshma/Downloads/PhotoPicker/images/iTunesArtwork8623256352#459"    cd /Users/reshma/Downloads/PhotoPicker    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/PhotoPicker/images/iTunesArtwork /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app0#
+
+CCpResource build/Debug-iphoneos/PhotoPicker.app/tick.aiff tick.aiff
+s314170211.932334
+e314170211.957112
+r1
+xCpResource
+xbuild/Debug-iphoneos/PhotoPicker.app/tick.aiff
+xtick.aiff
+lSLF07#2@14"Copy tick.aiff314170211#314170211#0(0"0(0#0#45"/Users/reshma/Downloads/PhotoPicker/tick.aiff8624886400#448"    cd /Users/reshma/Downloads/PhotoPicker    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/PhotoPicker/tick.aiff /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app0#
+
+CGenerateDSYMFile /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app.dSYM /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/PhotoPicker
+s314170215.479628
+e314170215.498655
+r1
+xGenerateDSYMFile
+x/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app.dSYM
+x/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/PhotoPicker
+lSLF07#2@107"GenerateDSYMFile build/Debug-iphoneos/PhotoPicker.app.dSYM build/Debug-iphoneos/PhotoPicker.app/PhotoPicker314170215#314170215#0(0"0(0#0#84"/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/PhotoPicker8623122656#365"    cd /Users/reshma/Downloads/PhotoPicker    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/PhotoPicker -o /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app.dSYM0#
+
+CLd /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/PhotoPicker normal armv6
+s314170214.905449
+e314170215.479402
+r1
+xLd
+x/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/PhotoPicker
+xnormal
+xarmv6
+lSLF07#2@89"Link /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/PhotoPicker314170214#314170215#0(0"0(0#0#0"8621949248#851"    cd /Users/reshma/Downloads/PhotoPicker    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos -F/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos -filelist /Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/Objects-normal/armv6/PhotoPicker.LinkFileList -dead_strip -miphoneos-version-min=3.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -o /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/PhotoPicker0#
+
+CProcessInfoPlistFile /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Info.plist Info.plist
+s314170211.913550
+e314170211.931551
+r1
+xProcessInfoPlistFile
+x/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist314170211#314170211#0(0"0(0#0#46"/Users/reshma/Downloads/PhotoPicker/Info.plist8623246848#554"    cd /Users/reshma/Downloads/PhotoPicker    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/ResourceRules.plist -o /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/Info.plist0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-fbohasvsqgyigxgcupywshyysevg/Prefix.pch.gch Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s314170213.088183
+e314170214.628974
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-fbohasvsqgyigxgcupywshyysevg/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch314170213#314170214#0(0"0(0#0#46"/Users/reshma/Downloads/PhotoPicker/Prefix.pch8621951616#1632"    cd /Users/reshma/Downloads/PhotoPicker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/PhotoPicker-generated-files.hmap -I/Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/PhotoPicker-own-target-headers.hmap -I/Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/PhotoPicker-all-target-headers.hmap -iquote /Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/PhotoPicker-project-headers.hmap -F/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos -I/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/include -I/Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/DerivedSources/armv6 -I/Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/DerivedSources -c /Users/reshma/Downloads/PhotoPicker/Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-fbohasvsqgyigxgcupywshyysevg/Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/reshma/Library/MobileDevice/Provisioning Profiles/ABDC099A-FC5D-413C-B3B4-B17F4ED9391B.mobileprovision" /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/embedded.mobileprovision
+s314170215.498759
+e314170215.511534
+r1
+xProcessProductPackaging
+x/Users/reshma/Library/MobileDevice/Provisioning Profiles/ABDC099A-FC5D-413C-B3B4-B17F4ED9391B.mobileprovision
+x/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/embedded.mobileprovision
+lSLF07#2@197"ProcessProductPackaging "/Users/reshma/Library/MobileDevice/Provisioning Profiles/ABDC099A-FC5D-413C-B3B4-B17F4ED9391B.mobileprovision" build/Debug-iphoneos/PhotoPicker.app/embedded.mobileprovision314170215#314170215#0(0"0(0#0#97"/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/embedded.mobileprovision8622564864#422"    cd /Users/reshma/Downloads/PhotoPicker    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/reshma/Library/MobileDevice/Provisioning Profiles/ABDC099A-FC5D-413C-B3B4-B17F4ED9391B.mobileprovision" -o /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/PhotoPicker.xcent
+s314170215.515705
+e314170215.539469
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/PhotoPicker.xcent
+lSLF07#2@187"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/PhotoPicker.xcent314170215#314170215#0(0"0(0#0#110"/Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/PhotoPicker.xcent8620007072#438"    cd /Users/reshma/Downloads/PhotoPicker    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/reshma/Downloads/PhotoPicker/build/PhotoPicker.build/Debug-iphoneos/PhotoPicker.build/PhotoPicker.xcent0#
+
+CTouch /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app
+s314170215.511611
+e314170215.515619
+r1
+xTouch
+x/Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app
+lSLF07#2@78"Touch /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app314170215#314170215#0(0"0(0#0#0"8622363840#262"    cd /Users/reshma/Downloads/PhotoPicker    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/reshma/Downloads/PhotoPicker/build/Debug-iphoneos/PhotoPicker.app0#
+

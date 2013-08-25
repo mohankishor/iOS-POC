@@ -1,0 +1,28 @@
+
+a {
+    color: Black !important;
+    text-decoration:none;
+}
+
+a:link, a:visited {
+    text-decoration:none;
+}
+
+a.external.text:after, a.external.autonumber:after {
+    content: " <" attr(href) "> ";
+    text-decoration:none;
+}
+
+span.prefValue { background:none !important;
+    text-decoration:underline;
+ }
+
+/*
+** keep the whitespace in front of the ^=, hides rule from konqueror
+** this is css3, the validator doesn't like it when validating as css2
+*/
+a[href ^="http://"],
+a[href ^="https://"] {
+    background: none !important;
+    padding-right: 0px !important;
+}

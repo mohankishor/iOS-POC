@@ -1,0 +1,51 @@
+TScrollViewExample
+v7
+r1
+
+N/Users/Amrita/Documents/ScrollViewExample/MainWindow.xib
+c000000004BB2EDAD00000000000024BC
+t1270017453
+s9404
+
+N/Users/Amrita/Documents/ScrollViewExample/ScrollViewExampleViewController.xib
+c000000004BE8FDFD0000000000002E98
+t1273560573
+s11928
+
+N/Users/Amrita/Documents/ScrollViewExample/build/Debug/ScrollViewExample.app
+t2
+s0
+
+N/Users/Amrita/Documents/ScrollViewExample/build/Debug/ScrollViewExample.app/Contents/Info.plist
+t2
+s0
+
+N/Users/Amrita/Documents/ScrollViewExample/build/Debug/ScrollViewExample.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/Amrita/Documents/ScrollViewExample/build/Debug/ScrollViewExample.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/Amrita/Documents/ScrollViewExample/build/Debug/ScrollViewExample.app/Contents/Resources/ScrollViewExampleViewController.nib
+t2
+s0
+
+NScrollViewExample-Info.plist
+c000000004BE8F04E000000000000038D
+t1273557070
+s909
+
+CCompileXIB /Users/Amrita/Documents/ScrollViewExample/MainWindow.xib
+r0
+
+CCompileXIB /Users/Amrita/Documents/ScrollViewExample/ScrollViewExampleViewController.xib
+r0
+
+CProcessInfoPlistFile /Users/Amrita/Documents/ScrollViewExample/build/Debug/ScrollViewExample.app/Contents/Info.plist ScrollViewExample-Info.plist
+r0
+
+CTouch /Users/Amrita/Documents/ScrollViewExample/build/Debug/ScrollViewExample.app
+r0
+

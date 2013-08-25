@@ -1,0 +1,92 @@
+TSimpleCalendar
+v7
+r1
+cCheck dependencies
+
+N/Users/reshma/Desktop/GridCalendar/SimpleCalendar/English.lproj/Calendar.nib
+c000000004BA3CB1A00000000000000AA
+t1269025562
+s170
+
+N/Users/reshma/Desktop/GridCalendar/SimpleCalendar/English.lproj/Day.nib
+c000000004BA3CB1A00000000000000AA
+t1269025562
+s170
+
+N/Users/reshma/Desktop/GridCalendar/SimpleCalendar/English.lproj/InfoPlist.strings
+c0000000044BC5CAB00000000000000CA
+t1153195179
+s202
+
+N/Users/reshma/Desktop/GridCalendar/SimpleCalendar/English.lproj/MainMenu.nib
+c000000004BA3CB1A00000000000000AA
+t1269025562
+s170
+
+N/Users/reshma/Desktop/GridCalendar/SimpleCalendar/English.lproj/MyDocument.nib
+c000000004BA3CB1A00000000000000AA
+t1269025562
+s170
+
+N/Users/reshma/Desktop/GridCalendar/SimpleCalendar/build/Debug/SimpleCalendar.app
+t2
+s0
+
+N/Users/reshma/Desktop/GridCalendar/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/Info.plist
+t2
+s0
+
+N/Users/reshma/Desktop/GridCalendar/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/reshma/Desktop/GridCalendar/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/Resources/English.lproj/Calendar.nib
+t2
+s0
+
+N/Users/reshma/Desktop/GridCalendar/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/Resources/English.lproj/Day.nib
+t2
+s0
+
+N/Users/reshma/Desktop/GridCalendar/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/reshma/Desktop/GridCalendar/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/Resources/English.lproj/MainMenu.nib
+t2
+s0
+
+N/Users/reshma/Desktop/GridCalendar/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/Resources/English.lproj/MyDocument.nib
+t2
+s0
+
+NInfo.plist
+c0000000045E738B60000000000000354
+t1172781238
+s852
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies304241963#304241963#0(86"[BEROR]error: There is no SDK with the name or path '/Developer/SDKs/MacOSX10.4u.sdk'1(4@78"error: There is no SDK with the name or path '/Developer/SDKs/MacOSX10.4u.sdk'304241963#18446744073709551615#0#0(1@0"0(0#1#0"9007637348679712#0"0#
+
+CCopyStringsFile /Users/reshma/Desktop/GridCalendar/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CProcessInfoPlistFile /Users/reshma/Desktop/GridCalendar/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/Info.plist Info.plist
+r0
+
+CStripNIB /Users/reshma/Desktop/GridCalendar/SimpleCalendar/English.lproj/Calendar.nib
+r0
+
+CStripNIB /Users/reshma/Desktop/GridCalendar/SimpleCalendar/English.lproj/Day.nib
+r0
+
+CStripNIB /Users/reshma/Desktop/GridCalendar/SimpleCalendar/English.lproj/MainMenu.nib
+r0
+
+CStripNIB /Users/reshma/Desktop/GridCalendar/SimpleCalendar/English.lproj/MyDocument.nib
+r0
+
+CTouch /Users/reshma/Desktop/GridCalendar/SimpleCalendar/build/Debug/SimpleCalendar.app
+r0
+

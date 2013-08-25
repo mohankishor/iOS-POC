@@ -1,0 +1,507 @@
+TEasyCustomTable
+v7
+r0
+t322979948.728480
+cCheck dependencies
+cProcessInfoPlistFile /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/Info.plist Info.plist
+cCompileXIB /Users/reshma/Downloads/EasyCustomTable/MainWindow.xib
+cCompileXIB /Users/reshma/Downloads/EasyCustomTable/EasyCustomTableView.xib
+cCpResource build/Debug-iphonesimulator/EasyCustomTable.app/bottomRow.png Images/bottomRow.png
+cCpResource build/Debug-iphonesimulator/EasyCustomTable.app/topAndBottomRow.png Images/topAndBottomRow.png
+cCpResource build/Debug-iphonesimulator/EasyCustomTable.app/imageC.png Images/imageC.png
+cCpResource build/Debug-iphonesimulator/EasyCustomTable.app/topAndBottomRowSelected.png Images/topAndBottomRowSelected.png
+cCpResource build/Debug-iphonesimulator/EasyCustomTable.app/imageA.png Images/imageA.png
+cCpResource build/Debug-iphonesimulator/EasyCustomTable.app/gradientBackground.png Images/gradientBackground.png
+cCpResource build/Debug-iphonesimulator/EasyCustomTable.app/imageB.png Images/imageB.png
+cCpResource build/Debug-iphonesimulator/EasyCustomTable.app/topRowSelected.png Images/topRowSelected.png
+cCpResource build/Debug-iphonesimulator/EasyCustomTable.app/topRow.png Images/topRow.png
+cCpResource build/Debug-iphonesimulator/EasyCustomTable.app/middleRow.png Images/middleRow.png
+cCpResource build/Debug-iphonesimulator/EasyCustomTable.app/middleRowSelected.png Images/middleRowSelected.png
+cCpResource build/Debug-iphonesimulator/EasyCustomTable.app/bottomRowSelected.png Images/bottomRowSelected.png
+cCpResource build/Debug-iphonesimulator/EasyCustomTable.app/indicator.png Images/indicator.png
+cProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EasyCustomTable_Prefix-gntztjzuaothgudperpsfmqvyurn/EasyCustomTable_Prefix.pch.gch EasyCustomTable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/main.o /Users/reshma/Downloads/EasyCustomTable/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/EasyCustomTableAppDelegate.o /Users/reshma/Downloads/EasyCustomTable/Classes/EasyCustomTableAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/EasyCustomTableController.o /Users/reshma/Downloads/EasyCustomTable/Classes/EasyCustomTableController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/EasyCustomTable normal i386
+cGenerateDSYMFile /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app.dSYM /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/EasyCustomTable
+cTouch /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/reshma/Downloads/EasyCustomTable/Classes/EasyCustomTableAppDelegate.h
+c0000000049FFCFD2000000000000035D
+t1241501650
+s861
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/EasyCustomTable/Classes/EasyCustomTableAppDelegate.m
+c0000000049FFCFD200000000000003E8
+t1241501650
+s1000
+i"EasyCustomTableAppDelegate.h"
+i"EasyCustomTableController.h"
+
+N/Users/reshma/Downloads/EasyCustomTable/Classes/EasyCustomTableController.h
+c0000000049FFCFD20000000000000308
+t1241501650
+s776
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/EasyCustomTable/Classes/EasyCustomTableController.m
+c000000004A0E0C550000000000001C44
+t1242434645
+s7236
+i"EasyCustomTableController.h"
+
+N/Users/reshma/Downloads/EasyCustomTable/EasyCustomTableView.xib
+c0000000049F5B17C000000000000275B
+t1240838524
+s10075
+
+N/Users/reshma/Downloads/EasyCustomTable/EasyCustomTable_Prefix.pch
+c0000000049F58C3600000000000000C7
+t1240828982
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/EasyCustomTable/Images/bottomRow.png
+c0000000049F5858D00000000000006D3
+t1240827277
+s1747
+
+N/Users/reshma/Downloads/EasyCustomTable/Images/bottomRowSelected.png
+c0000000049F58866000000000000071C
+t1240828006
+s1820
+
+N/Users/reshma/Downloads/EasyCustomTable/Images/gradientBackground.png
+c0000000049F58B2B0000000000002647
+t1240828715
+s9799
+
+N/Users/reshma/Downloads/EasyCustomTable/Images/imageA.png
+c0000000049F59E98000000000000122A
+t1240833688
+s4650
+
+N/Users/reshma/Downloads/EasyCustomTable/Images/imageB.png
+c0000000049F59E8800000000000011F8
+t1240833672
+s4600
+
+N/Users/reshma/Downloads/EasyCustomTable/Images/imageC.png
+c0000000049F59E710000000000001226
+t1240833649
+s4646
+
+N/Users/reshma/Downloads/EasyCustomTable/Images/indicator.png
+c0000000049F5AFE4000000000000049C
+t1240838116
+s1180
+
+N/Users/reshma/Downloads/EasyCustomTable/Images/middleRow.png
+c0000000049F58584000000000000041F
+t1240827268
+s1055
+
+N/Users/reshma/Downloads/EasyCustomTable/Images/middleRowSelected.png
+c0000000049F5887100000000000004C0
+t1240828017
+s1216
+
+N/Users/reshma/Downloads/EasyCustomTable/Images/topAndBottomRow.png
+c0000000049F585A100000000000008E8
+t1240827297
+s2280
+
+N/Users/reshma/Downloads/EasyCustomTable/Images/topAndBottomRowSelected.png
+c0000000049F588480000000000000934
+t1240827976
+s2356
+
+N/Users/reshma/Downloads/EasyCustomTable/Images/topRow.png
+c0000000049F585980000000000000647
+t1240827288
+s1607
+
+N/Users/reshma/Downloads/EasyCustomTable/Images/topRowSelected.png
+c0000000049F5885A00000000000006D3
+t1240827994
+s1747
+
+N/Users/reshma/Downloads/EasyCustomTable/MainWindow.xib
+c0000000049F59630000000000000235E
+t1240831536
+s9054
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app
+t1301287148
+s680
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app.dSYM
+t1301287148
+s102
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/EasyCustomTable
+t1301287148
+s26952
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/EasyCustomTableView.nib
+t1301287147
+s1323
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/Info.plist
+t1301287146
+s629
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/MainWindow.nib
+t1301287147
+s1136
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/PkgInfo
+t1301287146
+s8
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/bottomRow.png
+t1301287147
+s1747
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/bottomRowSelected.png
+t1301287147
+s1820
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/gradientBackground.png
+t1301287147
+s9799
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/imageA.png
+t1301287147
+s4650
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/imageB.png
+t1301287147
+s4600
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/imageC.png
+t1301287147
+s4646
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/indicator.png
+t1301287147
+s1180
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/middleRow.png
+t1301287147
+s1055
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/middleRowSelected.png
+t1301287147
+s1216
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/topAndBottomRow.png
+t1301287147
+s2280
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/topAndBottomRowSelected.png
+t1301287147
+s2356
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/topRow.png
+t1301287147
+s1607
+
+N/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/topRowSelected.png
+t1301287147
+s1747
+
+N/Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/EasyCustomTable.LinkFileList
+c000000004D9010EA00000000000001CC
+t1301287146
+s460
+
+N/Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/EasyCustomTableAppDelegate.o
+t1301287148
+s48764
+
+N/Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/EasyCustomTableController.o
+t1301287148
+s56328
+
+N/Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/main.o
+t1301287148
+s6304
+
+N/Users/reshma/Downloads/EasyCustomTable/main.m
+c0000000049FFCFE000000000000002CB
+t1241501664
+s715
+i<UIKit/UIKit.h>
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EasyCustomTable_Prefix-gntztjzuaothgudperpsfmqvyurn/EasyCustomTable_Prefix.pch.gch
+t1301287148
+s15453392
+
+NInfo.plist
+c0000000049F58C360000000000000386
+t1240828982
+s902
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322979946#322979946#0(0"0(0#1#0"8622502656#0"0#
+
+CCompileC build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/EasyCustomTableAppDelegate.o /Users/reshma/Downloads/EasyCustomTable/Classes/EasyCustomTableAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322979948.382210
+e322979948.461628
+r1
+xCompileC
+xbuild/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/EasyCustomTableAppDelegate.o
+x/Users/reshma/Downloads/EasyCustomTable/Classes/EasyCustomTableAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/reshma/Downloads/EasyCustomTable/Classes/EasyCustomTableAppDelegate.m322979948#322979948#0(0"0(0#0#76"/Users/reshma/Downloads/EasyCustomTable/Classes/EasyCustomTableAppDelegate.m8615329920#2137"    cd /Users/reshma/Downloads/EasyCustomTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-generated-files.hmap -I/Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-own-target-headers.hmap -I/Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-all-target-headers.hmap -iquote /Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-project-headers.hmap -F/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator -I/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/include -I/Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/DerivedSources/i386 -I/Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EasyCustomTable_Prefix-gntztjzuaothgudperpsfmqvyurn/EasyCustomTable_Prefix.pch -c /Users/reshma/Downloads/EasyCustomTable/Classes/EasyCustomTableAppDelegate.m -o /Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/EasyCustomTableAppDelegate.o0#
+
+CCompileC build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/EasyCustomTableController.o /Users/reshma/Downloads/EasyCustomTable/Classes/EasyCustomTableController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322979948.441526
+e322979948.553831
+r1
+xCompileC
+xbuild/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/EasyCustomTableController.o
+x/Users/reshma/Downloads/EasyCustomTable/Classes/EasyCustomTableController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/reshma/Downloads/EasyCustomTable/Classes/EasyCustomTableController.m: In function '-[EasyCustomTableController tableView:cellForRowAtIndexPath:]':
+o/Users/reshma/Downloads/EasyCustomTable/Classes/EasyCustomTableController.m:232: warning: 'setImage:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+o/Users/reshma/Downloads/EasyCustomTable/Classes/EasyCustomTableController.m:236: warning: 'setImage:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+o/Users/reshma/Downloads/EasyCustomTable/Classes/EasyCustomTableController.m:240: warning: 'setImage:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+lSLF07#2@83"Compile /Users/reshma/Downloads/EasyCustomTable/Classes/EasyCustomTableController.m322979948#322979948#0(1012"/Users/reshma/Downloads/EasyCustomTable/Classes/EasyCustomTableController.m: In function '-[EasyCustomTableController tableView:cellForRowAtIndexPath:]':/Users/reshma/Downloads/EasyCustomTable/Classes/EasyCustomTableController.m:232: warning: 'setImage:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)/Users/reshma/Downloads/EasyCustomTable/Classes/EasyCustomTableController.m:236: warning: 'setImage:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)/Users/reshma/Downloads/EasyCustomTable/Classes/EasyCustomTableController.m:240: warning: 'setImage:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)3(22@195"'setImage:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)322979948#154#286#0(6@75"/Users/reshma/Downloads/EasyCustomTable/Classes/EasyCustomTableController.m264127445#232#0#232#0#33"'*' is deprecated (declared at *)0(22@195"'setImage:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)322979948#440#286#0(6@75"/Users/reshma/Downloads/EasyCustomTable/Classes/EasyCustomTableController.m264127445#236#0#236#0#33"'*' is deprecated (declared at *)0(22@195"'setImage:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)322979948#726#286#0(6@75"/Users/reshma/Downloads/EasyCustomTable/Classes/EasyCustomTableController.m264127445#240#0#240#0#33"'*' is deprecated (declared at *)0(0#0#75"/Users/reshma/Downloads/EasyCustomTable/Classes/EasyCustomTableController.m8621279392#2135"    cd /Users/reshma/Downloads/EasyCustomTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-generated-files.hmap -I/Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-own-target-headers.hmap -I/Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-all-target-headers.hmap -iquote /Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-project-headers.hmap -F/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator -I/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/include -I/Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/DerivedSources/i386 -I/Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EasyCustomTable_Prefix-gntztjzuaothgudperpsfmqvyurn/EasyCustomTable_Prefix.pch -c /Users/reshma/Downloads/EasyCustomTable/Classes/EasyCustomTableController.m -o /Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/EasyCustomTableController.o0#
+
+CCompileC build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/main.o /Users/reshma/Downloads/EasyCustomTable/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322979948.380917
+e322979948.441425
+r1
+xCompileC
+xbuild/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/main.o
+x/Users/reshma/Downloads/EasyCustomTable/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/reshma/Downloads/EasyCustomTable/main.m322979948#322979948#0(0"0(0#0#46"/Users/reshma/Downloads/EasyCustomTable/main.m8615885824#2085"    cd /Users/reshma/Downloads/EasyCustomTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-generated-files.hmap -I/Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-own-target-headers.hmap -I/Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-all-target-headers.hmap -iquote /Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-project-headers.hmap -F/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator -I/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/include -I/Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/DerivedSources/i386 -I/Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EasyCustomTable_Prefix-gntztjzuaothgudperpsfmqvyurn/EasyCustomTable_Prefix.pch -c /Users/reshma/Downloads/EasyCustomTable/main.m -o /Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/reshma/Downloads/EasyCustomTable/EasyCustomTableView.xib
+s322979946.281738
+e322979947.568177
+r1
+xCompileXIB
+x/Users/reshma/Downloads/EasyCustomTable/EasyCustomTableView.xib
+lSLF07#2@34"CompileXIB EasyCustomTableView.xib322979946#322979947#0(0"0(0#0#63"/Users/reshma/Downloads/EasyCustomTable/EasyCustomTableView.xib8629710176#599"    cd /Users/reshma/Downloads/EasyCustomTable    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/EasyCustomTableView.nib /Users/reshma/Downloads/EasyCustomTable/EasyCustomTableView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/reshma/Downloads/EasyCustomTable/MainWindow.xib
+s322979946.280873
+e322979947.490542
+r1
+xCompileXIB
+x/Users/reshma/Downloads/EasyCustomTable/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib322979946#322979947#0(0"0(0#0#54"/Users/reshma/Downloads/EasyCustomTable/MainWindow.xib8620921184#581"    cd /Users/reshma/Downloads/EasyCustomTable    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/MainWindow.nib /Users/reshma/Downloads/EasyCustomTable/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/EasyCustomTable.app/bottomRow.png Images/bottomRow.png
+s322979947.490633
+e322979947.534036
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EasyCustomTable.app/bottomRow.png
+xImages/bottomRow.png
+lSLF07#2@25"Copy Images/bottomRow.png322979947#322979947#0(0"0(0#0#60"/Users/reshma/Downloads/EasyCustomTable/Images/bottomRow.png8626807872#489"    cd /Users/reshma/Downloads/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/EasyCustomTable/Images/bottomRow.png /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app0#
+
+CCpResource build/Debug-iphonesimulator/EasyCustomTable.app/bottomRowSelected.png Images/bottomRowSelected.png
+s322979947.535516
+e322979947.554359
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EasyCustomTable.app/bottomRowSelected.png
+xImages/bottomRowSelected.png
+lSLF07#2@33"Copy Images/bottomRowSelected.png322979947#322979947#0(0"0(0#0#68"/Users/reshma/Downloads/EasyCustomTable/Images/bottomRowSelected.png8621640640#497"    cd /Users/reshma/Downloads/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/EasyCustomTable/Images/bottomRowSelected.png /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app0#
+
+CCpResource build/Debug-iphonesimulator/EasyCustomTable.app/gradientBackground.png Images/gradientBackground.png
+s322979947.498416
+e322979947.534514
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EasyCustomTable.app/gradientBackground.png
+xImages/gradientBackground.png
+lSLF07#2@34"Copy Images/gradientBackground.png322979947#322979947#0(0"0(0#0#69"/Users/reshma/Downloads/EasyCustomTable/Images/gradientBackground.png8629701280#498"    cd /Users/reshma/Downloads/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/EasyCustomTable/Images/gradientBackground.png /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app0#
+
+CCpResource build/Debug-iphonesimulator/EasyCustomTable.app/imageA.png Images/imageA.png
+s322979947.496744
+e322979947.534400
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EasyCustomTable.app/imageA.png
+xImages/imageA.png
+lSLF07#2@22"Copy Images/imageA.png322979947#322979947#0(0"0(0#0#57"/Users/reshma/Downloads/EasyCustomTable/Images/imageA.png8619396736#486"    cd /Users/reshma/Downloads/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/EasyCustomTable/Images/imageA.png /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app0#
+
+CCpResource build/Debug-iphonesimulator/EasyCustomTable.app/imageB.png Images/imageB.png
+s322979947.500035
+e322979947.534637
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EasyCustomTable.app/imageB.png
+xImages/imageB.png
+lSLF07#2@22"Copy Images/imageB.png322979947#322979947#0(0"0(0#0#57"/Users/reshma/Downloads/EasyCustomTable/Images/imageB.png8629468256#486"    cd /Users/reshma/Downloads/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/EasyCustomTable/Images/imageB.png /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app0#
+
+CCpResource build/Debug-iphonesimulator/EasyCustomTable.app/imageC.png Images/imageC.png
+s322979947.493533
+e322979947.534151
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EasyCustomTable.app/imageC.png
+xImages/imageC.png
+lSLF07#2@22"Copy Images/imageC.png322979947#322979947#0(0"0(0#0#57"/Users/reshma/Downloads/EasyCustomTable/Images/imageC.png8627446720#486"    cd /Users/reshma/Downloads/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/EasyCustomTable/Images/imageC.png /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app0#
+
+CCpResource build/Debug-iphonesimulator/EasyCustomTable.app/indicator.png Images/indicator.png
+s322979947.537066
+e322979947.553857
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EasyCustomTable.app/indicator.png
+xImages/indicator.png
+lSLF07#2@25"Copy Images/indicator.png322979947#322979947#0(0"0(0#0#60"/Users/reshma/Downloads/EasyCustomTable/Images/indicator.png8621182496#489"    cd /Users/reshma/Downloads/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/EasyCustomTable/Images/indicator.png /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app0#
+
+CCpResource build/Debug-iphonesimulator/EasyCustomTable.app/middleRow.png Images/middleRow.png
+s322979947.533311
+e322979947.554541
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EasyCustomTable.app/middleRow.png
+xImages/middleRow.png
+lSLF07#2@25"Copy Images/middleRow.png322979947#322979947#0(0"0(0#0#60"/Users/reshma/Downloads/EasyCustomTable/Images/middleRow.png8626792992#489"    cd /Users/reshma/Downloads/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/EasyCustomTable/Images/middleRow.png /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app0#
+
+CCpResource build/Debug-iphonesimulator/EasyCustomTable.app/middleRowSelected.png Images/middleRowSelected.png
+s322979947.534940
+e322979947.553615
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EasyCustomTable.app/middleRowSelected.png
+xImages/middleRowSelected.png
+lSLF07#2@33"Copy Images/middleRowSelected.png322979947#322979947#0(0"0(0#0#68"/Users/reshma/Downloads/EasyCustomTable/Images/middleRowSelected.png8622111200#497"    cd /Users/reshma/Downloads/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/EasyCustomTable/Images/middleRowSelected.png /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app0#
+
+CCpResource build/Debug-iphonesimulator/EasyCustomTable.app/topAndBottomRow.png Images/topAndBottomRow.png
+s322979947.491856
+e322979947.533228
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EasyCustomTable.app/topAndBottomRow.png
+xImages/topAndBottomRow.png
+lSLF07#2@31"Copy Images/topAndBottomRow.png322979947#322979947#0(0"0(0#0#66"/Users/reshma/Downloads/EasyCustomTable/Images/topAndBottomRow.png8621342752#495"    cd /Users/reshma/Downloads/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/EasyCustomTable/Images/topAndBottomRow.png /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app0#
+
+CCpResource build/Debug-iphonesimulator/EasyCustomTable.app/topAndBottomRowSelected.png Images/topAndBottomRowSelected.png
+s322979947.495134
+e322979947.534264
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EasyCustomTable.app/topAndBottomRowSelected.png
+xImages/topAndBottomRowSelected.png
+lSLF07#2@39"Copy Images/topAndBottomRowSelected.png322979947#322979947#0(0"0(0#0#74"/Users/reshma/Downloads/EasyCustomTable/Images/topAndBottomRowSelected.png8622140160#503"    cd /Users/reshma/Downloads/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/EasyCustomTable/Images/topAndBottomRowSelected.png /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app0#
+
+CCpResource build/Debug-iphonesimulator/EasyCustomTable.app/topRow.png Images/topRow.png
+s322979947.503258
+e322979947.534881
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EasyCustomTable.app/topRow.png
+xImages/topRow.png
+lSLF07#2@22"Copy Images/topRow.png322979947#322979947#0(0"0(0#0#57"/Users/reshma/Downloads/EasyCustomTable/Images/topRow.png8628311520#486"    cd /Users/reshma/Downloads/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/EasyCustomTable/Images/topRow.png /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app0#
+
+CCpResource build/Debug-iphonesimulator/EasyCustomTable.app/topRowSelected.png Images/topRowSelected.png
+s322979947.501651
+e322979947.534752
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EasyCustomTable.app/topRowSelected.png
+xImages/topRowSelected.png
+lSLF07#2@30"Copy Images/topRowSelected.png322979947#322979947#0(0"0(0#0#65"/Users/reshma/Downloads/EasyCustomTable/Images/topRowSelected.png8628971808#494"    cd /Users/reshma/Downloads/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/EasyCustomTable/Images/topRowSelected.png /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app0#
+
+CGenerateDSYMFile /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app.dSYM /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/EasyCustomTable
+s322979948.624939
+e322979948.724681
+r1
+xGenerateDSYMFile
+x/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app.dSYM
+x/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/EasyCustomTable
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/EasyCustomTable.app.dSYM build/Debug-iphonesimulator/EasyCustomTable.app/EasyCustomTable322979948#322979948#0(0"0(0#0#103"/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/EasyCustomTable8628474240#410"    cd /Users/reshma/Downloads/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/EasyCustomTable -o /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app.dSYM0#
+
+CLd /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/EasyCustomTable normal i386
+s322979948.553924
+e322979948.624826
+r1
+xLd
+x/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/EasyCustomTable
+xnormal
+xi386
+lSLF07#2@108"Link /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/EasyCustomTable322979948#322979948#0(0"0(0#0#0"8622781632#945"    cd /Users/reshma/Downloads/EasyCustomTable    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator -F/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator -filelist /Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/EasyCustomTable.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/EasyCustomTable0#
+
+CProcessInfoPlistFile /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/Info.plist Info.plist
+s322979946.265552
+e322979946.280792
+r1
+xProcessInfoPlistFile
+x/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist322979946#322979946#0(0"0(0#0#50"/Users/reshma/Downloads/EasyCustomTable/Info.plist8621290496#490"    cd /Users/reshma/Downloads/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/Info.plist0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EasyCustomTable_Prefix-gntztjzuaothgudperpsfmqvyurn/EasyCustomTable_Prefix.pch.gch EasyCustomTable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322979947.568290
+e322979948.380696
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EasyCustomTable_Prefix-gntztjzuaothgudperpsfmqvyurn/EasyCustomTable_Prefix.pch.gch
+xEasyCustomTable_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile EasyCustomTable_Prefix.pch322979947#322979948#0(0"0(0#0#66"/Users/reshma/Downloads/EasyCustomTable/EasyCustomTable_Prefix.pch8620080576#1968"    cd /Users/reshma/Downloads/EasyCustomTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-generated-files.hmap -I/Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-own-target-headers.hmap -I/Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-all-target-headers.hmap -iquote /Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-project-headers.hmap -F/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator -I/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/include -I/Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/DerivedSources/i386 -I/Users/reshma/Downloads/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/DerivedSources -c /Users/reshma/Downloads/EasyCustomTable/EasyCustomTable_Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EasyCustomTable_Prefix-gntztjzuaothgudperpsfmqvyurn/EasyCustomTable_Prefix.pch.gch0#
+
+CTouch /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app
+s322979948.724770
+e322979948.728328
+r1
+xTouch
+x/Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app
+lSLF07#2@93"Touch /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app322979948#322979948#0(0"0(0#0#0"8621516864#288"    cd /Users/reshma/Downloads/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/reshma/Downloads/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app0#
+

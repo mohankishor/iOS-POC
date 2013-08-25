@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'TabBarSaveState' target in the 'TabBarSaveState' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

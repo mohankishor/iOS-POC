@@ -1,0 +1,279 @@
+body, pre  {
+	font-family: "Lucida Grande", Arial, sans-serif;
+	margin: 2px 12px 12px;	}
+
+#banner      { background-color: #f2f2f2; background-repeat: no-repeat; padding: -2px 6px 10; position: fixed; top: 0; left: 0; width: 100%; height: 1.2em; float: left; border-bottom: 1px solid #bfbfbf; z-index:99 }
+
+#machelp  { font-size:8pt; position: absolute; top: 2px; left: 10px; }
+
+#index        { padding-right: 25px; top: 2px; width: auto; float: right; }
+	
+.leftborder     { font-size: 8pt; padding-top: 24px; padding-bottom: 3px; padding-left: 8px; border-left: 1px solid #bfbfbf; }
+
+div.bordimg img { border: solid 1px #bfbfbf; }
+
+#mainbox {
+	font-size: 9pt;
+	margin-top: 36px;
+	margin-right: 6px;
+	}
+
+
+span.prefValue { background:#FDC; }
+
+h1  {
+	font-size: 11pt;
+	margin-bottom: 0;
+    background: url(g/Media32.png) center left no-repeat;
+    padding-left: 44px;
+    height:32px;
+
+	}
+
+pre {
+	background-color:#eee;
+	border:2px solid #ddd;
+	padding:3px;
+}
+div.related {
+    display:block;
+	margin: 24px -18px 24px -12px;
+	padding: 0px 12px;
+	background-color: #f4f7ff;
+	border-top: solid 1px #bfbfbf;
+	border-bottom: solid 1px #bfbfbf;
+	font-size:80%;
+	line-height:100%;
+	}
+
+div.instructions {
+	clear:left;
+    display:block;
+	background-color: #e6edff;
+	margin: 12px 0;
+	padding: 2px 12px;
+	border: solid 1px #bfbfbf;
+	}
+
+div.warning {
+	color:#c00;
+	clear:left;
+	display:block;
+	background-color: #e6edff;
+	margin: 12px 0;
+	padding: 2px 12px;
+	border: solid 1px #bfbfbf;
+}
+
+h2 {
+	border-top:1px solid #ddd;
+	padding-top:6px;
+    border-bottom:1px solid #ddd;
+	padding-bottom:6px;
+	}
+	
+div.related > h2 {
+    border:none;
+    padding-top:inherit;
+    padding-bottom:inherit;
+    }
+
+h3, h4, h5, h6   {
+	font-weight: bold;
+	}
+
+p	           {
+	max-width:70em;
+	}
+
+dt {
+	font-weight:bold;
+}
+
+ol                     {
+	line-height: 12pt;
+	list-style-position: outside;
+	margin-top: 12px;
+	margin-bottom: 12px;
+	margin-left: -18px;
+	padding-left: 40px;
+	}
+
+
+ol li         {
+	margin-top: 6px;
+	margin-bottom: 6px;
+	}
+
+
+ol p        {
+	margin-top: 6px;
+	margin-bottom: 6px;
+	}
+
+
+ul                     {
+	list-style-image: url(g/orngbullet.gif);
+	}
+
+
+ul li        {
+	margin-top: 0px;
+	margin-bottom: 4px;
+	}
+
+
+ul p        {
+	margin-top: 6px;
+	margin-bottom: 6px;
+	}
+
+
+a         {
+	line-height: 12pt;
+	color: #0000aa;
+	text-decoration: none;
+	}
+
+
+a:hover    {
+	color: #0000ff;
+	text-decoration: underline;
+	}
+
+hr  {
+	text-decoration: none;
+	border: solid 1px #bfbfbf;
+	}
+
+td  {
+	padding: 6px;
+	}
+
+
+
+
+img {
+    border: none;
+    vertical-align: middle;
+}
+p {
+    margin: .4em 0 .5em 0;
+    line-height: 1.5em;
+}
+p img {
+    margin: 0;
+}
+
+hr {
+    height: 1px;
+    color: #aaa;
+    background-color: #aaa;
+    border: 0;
+    margin: .2em 0 .2em 0;
+}
+
+
+/* emulate center */
+.center {
+    width: 100%;
+    text-align: center;
+}
+*.center * {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* images */
+div.floatright, table.floatright {
+    clear: right;
+    float: right;
+    position: relative;
+    background-color: white;
+}
+div.floatright p { font-style: italic; }
+div.floatleft, table.floatleft {
+    float: left;
+    position: relative;
+    margin: 0 .5em .5em 0;
+    border: 0;
+}
+
+div.floatright img {
+}
+
+
+div.floatleft p { font-style: italic; }
+/* thumbnails */
+div.thumb {
+    margin-bottom: .5em;
+    border-style: solid;
+    border-color: white;
+    width: auto;
+    margin:0 0 1em 2em;
+}
+div.thumb div {
+	border: 1px solid #ccc;
+    padding: 3px !important;
+    background-color: white;
+
+    text-align: center;
+    overflow: hidden;
+}
+div.thumb div div.thumbcaption {
+	font-size:90%;
+	border: none;
+    text-align: left;
+    line-height: 1.4em;
+    padding: .3em 0 .1em 0;
+}
+
+div.tright {
+    clear: right;
+    float: right;
+    background-color:white;
+    border-width: .5em 0 .8em 1.4em;
+}
+div.tleft {
+    float: left;
+    margin-right: .5em;
+    border-width: .5em 1.4em .8em 0;
+}
+
+table, td, th
+{
+    border-color: #BBB;
+    border-style: solid;
+}
+
+table
+{
+    border-width: 0 0 1px 1px;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+td, th
+{
+    margin: 0;
+    padding: 4px;
+    border-width: 1px 1px 0 0;
+}
+
+th
+{
+    background-color: #EEE;
+}
+
+
+/*
+** keep the whitespace in front of the ^=, hides rule from konqueror
+** this is css3, the validator doesn't like it when validating as css2
+*/
+a[href ^="http://"],
+a[href ^="https://"] {
+    background: url(g/globe.png) center right no-repeat;
+    padding:3px 18px 3px 3px;
+}
+

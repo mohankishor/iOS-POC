@@ -1,0 +1,195 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* PhotoAppAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1074, 445}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 624}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* PhotoApp */ = {
+		activeExec = 0;
+		executables = (
+			9A4BD62D12BA4B98008EAF1E /* PhotoApp */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* PhotoAppViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1074, 445}}";
+			sepNavSelRange = "{335, 14}";
+			sepNavVisRange = "{0, 616}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* PhotoAppViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1074, 1001}}";
+			sepNavSelRange = "{650, 0}";
+			sepNavVisRange = "{148, 1102}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9A4BD62D12BA4B98008EAF1E /* PhotoApp */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PhotoApp */;
+		codeSenseManager = 9A4BD63C12BA4BAD008EAF1E /* Code sense */;
+		executables = (
+			9A4BD62D12BA4B98008EAF1E /* PhotoApp */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					423,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					896,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1194,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 322980671;
+			PBXWorkspaceStateSaveDate = 322980671;
+		};
+		perUserProjectItems = {
+			9A07769513404B6500652B2E /* PBXTextBookmark */ = 9A07769513404B6500652B2E /* PBXTextBookmark */;
+			9A4BD67B12BA53B4008EAF1E /* PBXTextBookmark */ = 9A4BD67B12BA53B4008EAF1E /* PBXTextBookmark */;
+			9A4BD67C12BA53B4008EAF1E /* PBXTextBookmark */ = 9A4BD67C12BA53B4008EAF1E /* PBXTextBookmark */;
+			9A4BD67E12BA53B4008EAF1E /* PBXTextBookmark */ = 9A4BD67E12BA53B4008EAF1E /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9A4BD63B12BA4BAD008EAF1E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	9A07769513404B6500652B2E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PhotoAppViewController.m */;
+		name = "PhotoAppViewController.m: 25";
+		rLen = 0;
+		rLoc = 650;
+		rType = 0;
+		vrLen = 1102;
+		vrLoc = 148;
+	};
+	9A4BD62D12BA4B98008EAF1E /* PhotoApp */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PhotoApp;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	9A4BD63B12BA4BAD008EAF1E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9A4BD63C12BA4BAD008EAF1E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9A4BD67B12BA53B4008EAF1E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PhotoAppAppDelegate.m */;
+		name = "PhotoAppAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 624;
+		vrLoc = 0;
+	};
+	9A4BD67C12BA53B4008EAF1E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* PhotoAppViewController.h */;
+		name = "PhotoAppViewController.h: 13";
+		rLen = 14;
+		rLoc = 335;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 0;
+	};
+	9A4BD67E12BA53B4008EAF1E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PhotoAppViewController.m */;
+		name = "PhotoAppViewController.m: 25";
+		rLen = 55;
+		rLoc = 616;
+		rType = 0;
+		vrLen = 1105;
+		vrLoc = 148;
+	};
+}

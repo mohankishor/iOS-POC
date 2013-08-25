@@ -1,0 +1,160 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* XMl parser example */ = {
+		activeExec = 0;
+		executables = (
+			9AE6416D128A9BA6000CA3FA /* XMl parser example */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* XMl_parser_exampleViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1078, 361}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 359}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* XMl_parser_exampleViewController.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1078, 2665}}";
+			sepNavSelRange = "{839, 0}";
+			sepNavVisRange = "{610, 924}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9AE6416D128A9BA6000CA3FA /* XMl parser example */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* XMl parser example */;
+		codeSenseManager = 9AE64188128A9BCE000CA3FA /* Code sense */;
+		executables = (
+			9AE6416D128A9BA6000CA3FA /* XMl parser example */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					900,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					860,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 312213863;
+			PBXWorkspaceStateSaveDate = 312213863;
+		};
+		perUserProjectItems = {
+			9ADB34A2129C0181003C2D22 /* PBXTextBookmark */ = 9ADB34A2129C0181003C2D22 /* PBXTextBookmark */;
+			9AE642D9128ABCFF000CA3FA /* PBXTextBookmark */ = 9AE642D9128ABCFF000CA3FA /* PBXTextBookmark */;
+			9AE642DB128ABCFF000CA3FA /* PBXTextBookmark */ = 9AE642DB128ABCFF000CA3FA /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9AE64187128A9BCE000CA3FA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	9ADB34A2129C0181003C2D22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* XMl_parser_exampleViewController.mm */;
+		name = "XMl_parser_exampleViewController.mm: 32";
+		rLen = 0;
+		rLoc = 839;
+		rType = 0;
+		vrLen = 924;
+		vrLoc = 610;
+	};
+	9AE6416D128A9BA6000CA3FA /* XMl parser example */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "XMl parser example";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	9AE64187128A9BCE000CA3FA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9AE64188128A9BCE000CA3FA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9AE642D9128ABCFF000CA3FA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* XMl_parser_exampleViewController.h */;
+		name = "XMl_parser_exampleViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 359;
+		vrLoc = 0;
+	};
+	9AE642DB128ABCFF000CA3FA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* XMl_parser_exampleViewController.mm */;
+		name = "XMl_parser_exampleViewController.mm: 32";
+		rLen = 0;
+		rLoc = 839;
+		rType = 0;
+		vrLen = 932;
+		vrLoc = 602;
+	};
+}

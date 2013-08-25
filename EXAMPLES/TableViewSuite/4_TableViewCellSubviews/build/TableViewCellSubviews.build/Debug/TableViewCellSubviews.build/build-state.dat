@@ -1,0 +1,147 @@
+TTableViewCellSubviews
+v7
+r1
+
+N/Users/reshma/Code/Mine/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/12-6AM.png
+c000000004A21E53E00000000000007E9
+t1243735358
+s2025
+
+N/Users/reshma/Code/Mine/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/12-6PM.png
+c000000004A21E53E00000000000009B8
+t1243735358
+s2488
+
+N/Users/reshma/Code/Mine/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/6-12AM.png
+c000000004A21E53E0000000000000947
+t1243735358
+s2375
+
+N/Users/reshma/Code/Mine/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/6-12PM.png
+c000000004A21E53E00000000000008AB
+t1243735358
+s2219
+
+N/Users/reshma/Code/Mine/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Default.png
+c000000004A21E53E0000000000000965
+t1243735358
+s2405
+
+N/Users/reshma/Code/Mine/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/Icon.png
+c000000004A21E53E0000000000000A1A
+t1243735358
+s2586
+
+N/Users/reshma/Code/Mine/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/MainWindow.xib
+c000000004A21E53E0000000000001CEC
+t1243735358
+s7404
+
+N/Users/reshma/Code/Mine/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug/TableViewCellSubviews.app
+t2
+s0
+
+N/Users/reshma/Code/Mine/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug/TableViewCellSubviews.app/Contents/Info.plist
+t2
+s0
+
+N/Users/reshma/Code/Mine/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug/TableViewCellSubviews.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/reshma/Code/Mine/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug/TableViewCellSubviews.app/Contents/Resources/12-6AM.png
+t2
+s0
+
+N/Users/reshma/Code/Mine/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug/TableViewCellSubviews.app/Contents/Resources/12-6PM.png
+t2
+s0
+
+N/Users/reshma/Code/Mine/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug/TableViewCellSubviews.app/Contents/Resources/6-12AM.png
+t2
+s0
+
+N/Users/reshma/Code/Mine/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug/TableViewCellSubviews.app/Contents/Resources/6-12PM.png
+t2
+s0
+
+N/Users/reshma/Code/Mine/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug/TableViewCellSubviews.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/reshma/Code/Mine/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug/TableViewCellSubviews.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/reshma/Code/Mine/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug/TableViewCellSubviews.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/reshma/Code/Mine/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug/TableViewCellSubviews.app/Contents/Resources/de.lproj/Localizable.strings
+t2
+s0
+
+N/Users/reshma/Code/Mine/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug/TableViewCellSubviews.app/Contents/Resources/en.lproj/Localizable.strings
+t2
+s0
+
+N/Users/reshma/Code/Mine/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug/TableViewCellSubviews.app/Contents/Resources/fr.lproj/Localizable.strings
+t2
+s0
+
+N/Users/reshma/Code/Mine/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/de.lproj/Localizable.strings
+c000000004A21E53E0000000000000044
+t1243735358
+s68
+
+N/Users/reshma/Code/Mine/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/en.lproj/Localizable.strings
+c000000004A21E53E0000000000000090
+t1243735358
+s144
+
+N/Users/reshma/Code/Mine/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/fr.lproj/Localizable.strings
+c000000004A21E53E0000000000000047
+t1243735358
+s71
+
+NInfo.plist
+c000000004A3C30290000000000000387
+t1245458473
+s903
+
+CCompileXIB "/Users/reshma/Code/Mine/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/MainWindow.xib"
+r0
+
+CCopyStringsFile "/Users/reshma/Code/Mine/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug/TableViewCellSubviews.app/Contents/Resources/de.lproj/Localizable.strings" de.lproj/Localizable.strings
+r0
+
+CCopyStringsFile "/Users/reshma/Code/Mine/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug/TableViewCellSubviews.app/Contents/Resources/en.lproj/Localizable.strings" en.lproj/Localizable.strings
+r0
+
+CCopyStringsFile "/Users/reshma/Code/Mine/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug/TableViewCellSubviews.app/Contents/Resources/fr.lproj/Localizable.strings" fr.lproj/Localizable.strings
+r0
+
+CCpResource build/Debug/TableViewCellSubviews.app/Contents/Resources/12-6AM.png 12-6AM.png
+r0
+
+CCpResource build/Debug/TableViewCellSubviews.app/Contents/Resources/12-6PM.png 12-6PM.png
+r0
+
+CCpResource build/Debug/TableViewCellSubviews.app/Contents/Resources/6-12AM.png 6-12AM.png
+r0
+
+CCpResource build/Debug/TableViewCellSubviews.app/Contents/Resources/6-12PM.png 6-12PM.png
+r0
+
+CCpResource build/Debug/TableViewCellSubviews.app/Contents/Resources/Default.png Default.png
+r0
+
+CCpResource build/Debug/TableViewCellSubviews.app/Contents/Resources/Icon.png Icon.png
+r0
+
+CProcessInfoPlistFile "/Users/reshma/Code/Mine/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug/TableViewCellSubviews.app/Contents/Info.plist" Info.plist
+r0
+
+CTouch "/Users/reshma/Code/Mine/Desktop Folder/TableViewSuite/4_TableViewCellSubviews/build/Debug/TableViewCellSubviews.app"
+r0
+

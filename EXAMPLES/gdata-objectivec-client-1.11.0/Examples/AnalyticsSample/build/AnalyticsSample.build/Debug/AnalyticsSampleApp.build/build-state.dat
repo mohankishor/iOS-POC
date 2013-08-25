@@ -1,0 +1,670 @@
+TAnalyticsSampleApp
+v7
+r0
+t321964459.645832
+cCheck dependencies
+cProcessInfoPlistFile /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app/Contents/Info.plist Info.plist
+cPhaseScriptExecution "Copy GData.framework to BUILT_PRODUCTS_DIR" /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Script-4FAB41C50BAA21B600FBBDC9.sh
+cCopyStringsFile /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/English.lproj/AnalyticsSampleWindow.xib
+cCompileXIB /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/English.lproj/MainMenu.xib
+cCompileC build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Objects-normal/i386/main.o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Objects-normal/i386/AnalyticsSampleWindowController.o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/AnalyticsSampleWindowController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Objects-normal/i386/AnalyticsSampleAppController.o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/AnalyticsSampleAppController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app/Contents/MacOS/AnalyticsSample normal i386
+cPBXCp build/Debug/AnalyticsSample.app/Contents/Frameworks/GData.framework /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework
+cPhaseScriptExecution "Strip Headers" /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Script-4FD0F1DB0CBC690400059DC1.sh
+cTouch /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C238B9B00000000000000EE
+t1277397915
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004864A1C900000000000012EE
+t1214554569
+s4846
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/AvailabilityMacros.h
+c000000004817F968000000000000506E
+t1209530728
+s20590
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/TargetConditionals.h
+c000000004817F9680000000000002778
+t1209530728
+s10104
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/AnalyticsSampleAppController.h
+c000000004A60351E00000000000002D0
+t1247819038
+s720
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/AnalyticsSampleAppController.m
+c000000004A60351E00000000000003FD
+t1247819038
+s1021
+i"AnalyticsSampleAppController.h"
+i"AnalyticsSampleWindowController.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/AnalyticsSampleWindowController.h
+c000000004A60351E000000000000079A
+t1247819038
+s1946
+i<Cocoa/Cocoa.h>
+i"GData/GDataAnalytics.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/AnalyticsSampleWindowController.m
+c000000004B0501F4000000000000404A
+t1258619380
+s16458
+i"AnalyticsSampleWindowController.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/English.lproj/AnalyticsSampleWindow.xib
+c000000004ADC351000000000000165D2
+t1255945488
+s91602
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/English.lproj/InfoPlist.strings
+c000000004A60351E000000000000005F
+t1247819038
+s95
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/English.lproj/MainMenu.xib
+c000000004A83D0A000000000000111FD
+t1250152608
+s70141
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Objects-normal/i386/AnalyticsSample.LinkFileList
+c000000004D8092210000000000000225
+t1300271649
+s549
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Objects-normal/i386/AnalyticsSampleAppController.o
+t1300271658
+s22448
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Objects-normal/i386/AnalyticsSampleWindowController.o
+t1300271657
+s67648
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Objects-normal/i386/main.o
+t1300271657
+s4936
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Script-4FAB41C50BAA21B600FBBDC9.sh
+c000000004D809221000000000000001C
+t1300271649
+s28
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Script-4FD0F1DB0CBC690400059DC1.sh
+c000000004D809221000000000000001E
+t1300271649
+s30
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app
+t1300271659
+s102
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app/Contents/Frameworks/GData.framework
+t1300271659
+s170
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app/Contents/Info.plist
+t1300271649
+s789
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app/Contents/MacOS/AnalyticsSample
+t1300271658
+s34084
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app/Contents/PkgInfo
+t1300271649
+s8
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app/Contents/Resources/English.lproj/AnalyticsSampleWindow.nib
+t1300271652
+s24693
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1300271651
+s190
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app/Contents/Resources/English.lproj/MainMenu.nib
+t1300271652
+s15213
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/main.m
+c000000004A60351E00000000000002E0
+t1247819038
+s736
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework
+c000000004D808E5500000000000000CC
+t1300270677
+s204
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/GData
+c000000004D808E5500000000004948A4
+t1300270677
+s4802724
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataAnalytics.h
+c000000004D808E05000000000000042F
+t1300270597
+s1071
+i"GDataElements.h"
+i"GDataAnalyticsConstants.h"
+i"GDataAnalyticsElements.h"
+i"GDataAnalyticsAggregateGroup.h"
+i"GDataAnalyticsDataSource.h"
+i"GDataAnalyticsMetric.h"
+i"GDataEntryAnalyticsAccount.h"
+i"GDataEntryAnalyticsData.h"
+i"GDataFeedAnalyticsAccount.h"
+i"GDataFeedAnalyticsData.h"
+i"GDataQueryAnalytics.h"
+i"GDataServiceGoogleAnalytics.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataAnalyticsAggregateGroup.h
+c000000004D808E0500000000000004E0
+t1300270597
+s1248
+i"GDataObject.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataAnalyticsConstants.h
+c000000004D808E05000000000000090B
+t1300270597
+s2315
+i<Foundation/Foundation.h>
+i"GDataDefines.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataAnalyticsCustomVariable.h
+c000000004D808E050000000000000488
+t1300270597
+s1160
+i"GDataObject.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataAnalyticsDataSource.h
+c000000004D808E05000000000000065B
+t1300270597
+s1627
+i"GDataObject.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataAnalyticsDestination.h
+c000000004D808E05000000000000065F
+t1300270597
+s1631
+i"GDataObject.h"
+i"GDataAnalyticsStep.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataAnalyticsElements.h
+c000000004D808E050000000000000800
+t1300270597
+s2048
+i"GDataObject.h"
+i"GDataValueConstruct.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataAnalyticsEngagement.h
+c000000004D808E0500000000000004B9
+t1300270597
+s1209
+i"GDataObject.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataAnalyticsGoal.h
+c000000004D808E0500000000000006E2
+t1300270597
+s1762
+i"GDataObject.h"
+i"GDataAnalyticsDestination.h"
+i"GDataAnalyticsEngagement.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataAnalyticsMetric.h
+c000000004D808E0500000000000005F8
+t1300270597
+s1528
+i"GDataObject.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataAnalyticsSegment.h
+c000000004D808E050000000000000668
+t1300270597
+s1640
+i"GDataObject.h"
+i"GDataAnalyticsElements.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataAnalyticsStep.h
+c000000004D808E050000000000000498
+t1300270597
+s1176
+i"GDataObject.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataAtomPubControl.h
+c000000004D808E0400000000000003C4
+t1300270596
+s964
+i"GDataObject.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataBatchID.h
+c000000004D808E04000000000000036E
+t1300270596
+s878
+i"GDataObject.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataBatchInterrupted.h
+c000000004D808E0400000000000004F7
+t1300270596
+s1271
+i"GDataObject.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataBatchOperation.h
+c000000004D808E040000000000000572
+t1300270596
+s1394
+i"GDataObject.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataBatchStatus.h
+c000000004D808E040000000000000534
+t1300270596
+s1332
+i"GDataObject.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataCategory.h
+c000000004D808E040000000000000B4D
+t1300270596
+s2893
+i"GDataObject.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataDateTime.h
+c000000004D808E0400000000000007A5
+t1300270596
+s1957
+i<Foundation/Foundation.h>
+i"GDataDefines.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataDefines.h
+c000000004D808E050000000000001A67
+t1300270597
+s6759
+i<TargetConditionals.h>
+i<AvailabilityMacros.h>
+i"GDataTargetNamespace.h"
+i"GDataXMLNode.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataDeleted.h
+c000000004D808E04000000000000033B
+t1300270596
+s827
+i"GDataObject.h"
+i"GDataValueConstruct.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataElements.h
+c000000004D808E040000000000000488
+t1300270596
+s1160
+i"GDataFramework.h"
+i"GDataDateTime.h"
+i"GDataHTTPFetcher.h"
+i"GDataHTTPFetcherLogging.h"
+i"GDataHTTPUploadFetcher.h"
+i"GDataProgressMonitorInputStream.h"
+i"GDataGatherInputStream.h"
+i"GDataMIMEDocument.h"
+i"GDataServerError.h"
+i"GDataObject.h"
+i"GDataEntryBase.h"
+i"GDataFeedBase.h"
+i"GDataServiceBase.h"
+i"GDataServiceGoogle.h"
+i"GDataQuery.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataEntryAnalyticsAccount.h
+c000000004D808E050000000000000631
+t1300270597
+s1585
+i"GDataEntryBase.h"
+i"GDataAnalyticsGoal.h"
+i"GDataAnalyticsCustomVariable.h"
+i"GDataAnalyticsElements.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataEntryAnalyticsData.h
+c000000004D808E05000000000000056C
+t1300270597
+s1388
+i"GDataEntryBase.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataEntryBase.h
+c000000004D808E0400000000000018A3
+t1300270596
+s6307
+i"GDataDateTime.h"
+i"GDataTextConstruct.h"
+i"GDataEntryContent.h"
+i"GDataPerson.h"
+i"GDataCategory.h"
+i"GDataDeleted.h"
+i"GDataBatchOperation.h"
+i"GDataBatchID.h"
+i"GDataBatchStatus.h"
+i"GDataBatchInterrupted.h"
+i"GDataAtomPubControl.h"
+i"GDataLink.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataEntryContent.h
+c000000004D808E040000000000000893
+t1300270596
+s2195
+i"GDataObject.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataFeedAnalyticsAccount.h
+c000000004D808E050000000000000424
+t1300270597
+s1060
+i"GDataFeedBase.h"
+i"GDataAnalyticsSegment.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataFeedAnalyticsData.h
+c000000004D808E050000000000000604
+t1300270597
+s1540
+i"GDataFeedBase.h"
+i"GDataAnalyticsAggregateGroup.h"
+i"GDataAnalyticsDataSource.h"
+i"GDataAnalyticsSegment.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataFeedBase.h
+c000000004D808E040000000000001974
+t1300270596
+s6516
+i"GDataObject.h"
+i"GDataGenerator.h"
+i"GDataTextConstruct.h"
+i"GDataLink.h"
+i"GDataEntryBase.h"
+i"GDataCategory.h"
+i"GDataPerson.h"
+i"GDataBatchOperation.h"
+i"GDataAtomPubControl.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataFramework.h
+c000000004D808E040000000000000709
+t1300270596
+s1801
+i<Foundation/Foundation.h>
+i"GDataDefines.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataGatherInputStream.h
+c000000004D808E040000000000000A01
+t1300270596
+s2561
+i<Foundation/Foundation.h>
+i"GDataDefines.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataGenerator.h
+c000000004D808E040000000000000483
+t1300270596
+s1155
+i"GDataObject.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataHTTPFetcher.h
+c000000004D808E040000000000006B15
+t1300270596
+s27413
+i<Foundation/Foundation.h>
+i"GDataDefines.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataHTTPFetcherLogging.h
+c000000004D808E040000000000000AF8
+t1300270596
+s2808
+i"GDataHTTPFetcher.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataHTTPUploadFetcher.h
+c000000004D808E050000000000001156
+t1300270597
+s4438
+i"GDataHTTPFetcher.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataLink.h
+c000000004D808E040000000000000C28
+t1300270596
+s3112
+i"GDataObject.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataMIMEDocument.h
+c000000004D808E04000000000000082D
+t1300270596
+s2093
+i<Foundation/Foundation.h>
+i"GDataDefines.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataObject.h
+c000000004D808E040000000000005DFA
+t1300270596
+s24058
+i<Foundation/Foundation.h>
+i"GDataDefines.h"
+i"GDataUtilities.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataPerson.h
+c000000004D808E040000000000000451
+t1300270596
+s1105
+i"GDataObject.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataProgressMonitorInputStream.h
+c000000004D808E040000000000000D8D
+t1300270596
+s3469
+i<Foundation/Foundation.h>
+i"GDataDefines.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataQuery.h
+c000000004D808E04000000000000143B
+t1300270596
+s5179
+i"GDataCategory.h"
+i"GDataDateTime.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataQueryAnalytics.h
+c000000004D808E050000000000000697
+t1300270597
+s1687
+i"GDataQuery.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataServerError.h
+c000000004D808E0500000000000008E5
+t1300270597
+s2277
+i<Foundation/Foundation.h>
+i"GDataDefines.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataServiceBase.h
+c000000004D808E0400000000000053EC
+t1300270596
+s21484
+i"GDataHTTPFetcher.h"
+i"GDataEntryBase.h"
+i"GDataFeedBase.h"
+i"GDataQuery.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataServiceGoogle.h
+c000000004D808E040000000000002AFD
+t1300270596
+s11005
+i"GDataServiceBase.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataServiceGoogleAnalytics.h
+c000000004D808E050000000000000C1E
+t1300270597
+s3102
+i"GDataServiceGoogle.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataTargetNamespace.h
+c000000004D808E05000000000000C981
+t1300270597
+s51585
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataTextConstruct.h
+c000000004D808E040000000000000427
+t1300270596
+s1063
+i"GDataObject.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataUtilities.h
+c000000004D808E050000000000000FE8
+t1300270597
+s4072
+i<Foundation/Foundation.h>
+i"GDataDefines.h"
+
+N/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/Headers/GDataValueConstruct.h
+c000000004D808E040000000000000CA7
+t1300270596
+s3239
+i"GDataObject.h"
+i"GDataDateTime.h"
+
+NInfo.plist
+c000000004B0505180000000000000348
+t1258620184
+s840
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321964449#321964449#0(0"0(0#1#0"8633775648#0"0#
+
+CCompileC build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Objects-normal/i386/AnalyticsSampleAppController.o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/AnalyticsSampleAppController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321964457.539402
+e321964458.278597
+r1
+xCompileC
+xbuild/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Objects-normal/i386/AnalyticsSampleAppController.o
+x/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/AnalyticsSampleAppController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/AnalyticsSampleAppController.m321964457#321964458#0(0"0(0#0#110"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/AnalyticsSampleAppController.m8662456032#1507"    cd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/AnalyticsSample.hmap -Wall -Werror -F/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug -F/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/../../Source/build/Debug -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/include -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/DerivedSources/i386 -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/DerivedSources -DDEBUG=1 -c /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/AnalyticsSampleAppController.m -o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Objects-normal/i386/AnalyticsSampleAppController.o0#
+
+CCompileC build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Objects-normal/i386/AnalyticsSampleWindowController.o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/AnalyticsSampleWindowController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321964452.994913
+e321964457.816074
+r1
+xCompileC
+xbuild/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Objects-normal/i386/AnalyticsSampleWindowController.o
+x/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/AnalyticsSampleWindowController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@121"Compile /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/AnalyticsSampleWindowController.m321964452#321964457#0(0"0(0#0#113"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/AnalyticsSampleWindowController.m8633446016#1513"    cd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/AnalyticsSample.hmap -Wall -Werror -F/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug -F/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/../../Source/build/Debug -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/include -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/DerivedSources/i386 -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/DerivedSources -DDEBUG=1 -c /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/AnalyticsSampleWindowController.m -o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Objects-normal/i386/AnalyticsSampleWindowController.o0#
+
+CCompileC build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Objects-normal/i386/main.o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321964452.993883
+e321964457.539263
+r1
+xCompileC
+xbuild/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Objects-normal/i386/main.o
+x/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/main.m321964452#321964457#0(0"0(0#0#86"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/main.m8633584704#1459"    cd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/AnalyticsSample.hmap -Wall -Werror -F/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug -F/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/../../Source/build/Debug -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/include -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/DerivedSources/i386 -I/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/DerivedSources -DDEBUG=1 -c /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/main.m -o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/English.lproj/AnalyticsSampleWindow.xib
+s321964450.705985
+e321964452.993798
+r1
+xCompileXIB
+x/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/English.lproj/AnalyticsSampleWindow.xib
+lSLF07#2@50"CompileXIB English.lproj/AnalyticsSampleWindow.xib321964450#321964452#0(0"0(0#0#119"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/English.lproj/AnalyticsSampleWindow.xib8633324992#521"    cd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app/Contents/Resources/English.lproj/AnalyticsSampleWindow.nib /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/English.lproj/AnalyticsSampleWindow.xib --sdk /Developer/SDKs/MacOSX10.5.sdk0#
+
+CCompileXIB /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/English.lproj/MainMenu.xib
+s321964451.497188
+e321964452.642134
+r1
+xCompileXIB
+x/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib321964451#321964452#0(0"0(0#0#106"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/English.lproj/MainMenu.xib8634606880#495"    cd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app/Contents/Resources/English.lproj/MainMenu.nib /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.5.sdk0#
+
+CCopyStringsFile /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s321964450.705164
+e321964451.496980
+r1
+xCopyStringsFile
+x/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings321964450#321964451#0(0"0(0#0#111"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/English.lproj/InfoPlist.strings8633386816#455"    cd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app/Contents/Resources/English.lproj0#
+
+CLd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app/Contents/MacOS/AnalyticsSample normal i386
+s321964458.278684
+e321964459.007708
+r1
+xLd
+x/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app/Contents/MacOS/AnalyticsSample
+xnormal
+xi386
+lSLF07#2@147"Link /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app/Contents/MacOS/AnalyticsSample321964458#321964459#0(0"0(0#0#0"8633323072#989"    cd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug -F/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug -F/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/../../Source/build/Debug -filelist /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Objects-normal/i386/AnalyticsSample.LinkFileList -mmacosx-version-min=10.5 /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework/GData -framework Cocoa -o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app/Contents/MacOS/AnalyticsSample0#
+
+CPBXCp build/Debug/AnalyticsSample.app/Contents/Frameworks/GData.framework /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework
+s321964459.007801
+e321964459.536863
+r1
+xPBXCp
+xbuild/Debug/AnalyticsSample.app/Contents/Frameworks/GData.framework
+x/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework
+lSLF07#2@94"Copy /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework321964459#321964459#0(0"0(0#0#89"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework8640192960#471"    cd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Source/build/Debug/GData.framework /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app/Contents/Frameworks0#
+
+CPhaseScriptExecution "Copy GData.framework to BUILT_PRODUCTS_DIR" /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Script-4FAB41C50BAA21B600FBBDC9.sh
+s321964449.592294
+e321964450.705075
+r1
+xPhaseScriptExecution
+xCopy GData.framework to BUILT_PRODUCTS_DIR
+x/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Script-4FAB41C50BAA21B600FBBDC9.sh
+o+ '[' -d /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/../../Source/build/Debug/GData.framework ']'
+o+ rm -rf /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/GData.framework
+o+ ditto -v /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/../../Source/build/Debug/GData.framework /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/GData.framework
+oCopying /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/../../Source/build/Debug/GData.framework 
+lSLF07#2@68"Run custom shell script 'Copy GData.framework to BUILT_PRODUCTS_DIR'321964449#321964450#0(621"+ '[' -d /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/../../Source/build/Debug/GData.framework ']'+ rm -rf /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/GData.framework+ ditto -v /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/../../Source/build/Debug/GData.framework /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/GData.frameworkCopying /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/../../Source/build/Debug/GData.framework 4(13@134"+ '[' -d /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/../../Source/build/Debug/GData.framework ']'321964449#0#134#0(1@0"0(13@117"+ rm -rf /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/GData.framework321964449#134#117#0(1@0"0(13@240"+ ditto -v /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/../../Source/build/Debug/GData.framework /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/GData.framework321964449#251#240#0(1@0"0(13@130"Copying /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/../../Source/build/Debug/GData.framework 321964450#491#130#0(1@0"0(0#0#0"8633355904#18886"    cd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER reshma    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_64_BIT "x86_64 i386 ppc"    setenv ARCHS_STANDARD_32_BIT "i386 ppc"    setenv ARCHS_STANDARD_64_BIT x86_64    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build    setenv BUILD_ROOT /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug    setenv CACHE_ROOT /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app    setenv CODE_SIGNING_ALLOWED YES    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug    setenv CONFIGURATION_TEMP_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug    setenv CONTENTS_FOLDER_PATH AnalyticsSample.app/Contents    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH AnalyticsSample.app/Contents/Resources/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/AnalyticsSample.dst    setenv DWARF_DSYM_FILE_NAME AnalyticsSample.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH AnalyticsSample.app/Contents/Executables    setenv EXECUTABLE_FOLDER_PATH AnalyticsSample.app/Contents/MacOS    setenv EXECUTABLE_NAME AnalyticsSample    setenv EXECUTABLE_PATH AnalyticsSample.app/Contents/MacOS/AnalyticsSample    setenv FILE_LIST /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH AnalyticsSample.app/Contents/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug\"  \"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/../../Source/build/Debug/"    setenv FRAMEWORK_SEARCH_PATHS_QUOTED_1 "\"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/../../Source/build/Debug/"    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME AnalyticsSample.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_ENABLE_FIX_AND_CONTINUE YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_MODEL_TUNING G5    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS YES    setenv GCC_VERSION 4.2    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE Info.plist    setenv INFOPLIST_OUTPUT_FORMAT same-as-input    setenv INFOPLIST_PATH AnalyticsSample.app/Contents/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH AnalyticsSample.app/Contents/Resources/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/AnalyticsSample.dst/Users/reshma/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER reshma    setenv INSTALL_PATH /Users/reshma/Applications    setenv INSTALL_ROOT /tmp/AnalyticsSample.dst    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH AnalyticsSample.app/Contents/Resources/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/AnalyticsSample-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Objects-normal/i386/AnalyticsSample.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH AnalyticsSample.app/Contents/Resources/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv MAC_OS_X_VERSION_ACTUAL 1064    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0604    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Objects-normal    setenv OBJROOT /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CFLAGS -DDEBUG=1    setenv OTHER_CPLUSPLUSFLAGS -DDEBUG=1    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH AnalyticsSample.app/Contents/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/PkgInfo    setenv PKGINFO_PATH AnalyticsSample.app/Contents/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/usr    setenv PLATFORM_NAME macosx    setenv PLATFORM_PRODUCT_BUILD_VERSION 10M2423    setenv PLIST_FILE_OUTPUT_FORMAT same-as-input    setenv PLUGINS_FOLDER_PATH AnalyticsSample.app/Contents/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH AnalyticsSample.app/Contents/PrivateHeaders    setenv PRODUCT_NAME AnalyticsSample    setenv PRODUCT_SETTINGS_PATH /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT AnalyticsSample    setenv PROJECT_DERIVED_FILE_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/DerivedSources    setenv PROJECT_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample    setenv PROJECT_FILE_PATH /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/AnalyticsSample.xcodeproj    setenv PROJECT_NAME AnalyticsSample    setenv PROJECT_TEMP_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build    setenv PUBLIC_HEADERS_FOLDER_PATH AnalyticsSample.app/Contents/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH AnalyticsSample.app/Contents/Resources/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/SDKs/MacOSX10.5.sdk    setenv SDK_DIR /Developer/SDKs/MacOSX10.5.sdk    setenv SDK_NAME macosx10.5    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH AnalyticsSample.app/Contents/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH AnalyticsSample.app/Contents/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample    setenv SRCROOT /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING UTF-16    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SYMBOL_REPOSITORY_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/SymbolRepositories    setenv SYMROOT /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETNAME AnalyticsSampleApp    setenv TARGET_BUILD_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug    setenv TARGET_NAME AnalyticsSampleApp    setenv TARGET_TEMP_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build    setenv TEMP_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build    setenv TEMP_FILES_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build    setenv TEMP_FILE_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build    setenv TEMP_ROOT /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH AnalyticsSample.app/Contents/Resources    setenv UNSTRIPPED_PRODUCT NO    setenv USER reshma    setenv USER_APPS_DIR /Users/reshma/Applications    setenv USER_LIBRARY_DIR /Users/reshma/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "i386 ppc ppc64 ppc7400 ppc970 x86_64"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH AnalyticsSample.app/Contents/version.plist    setenv VERSION_INFO_BUILDER reshma    setenv VERSION_INFO_FILE AnalyticsSample_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:AnalyticsSample  PROJECT:AnalyticsSample-\""    setenv WARNING_CFLAGS "-Wall -Werror"    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME AnalyticsSample.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2423    setenv XCODE_VERSION_ACTUAL 0325    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    setenv ZERO_LINK NO    setenv _REAL_SDKROOT macosx10.5    /bin/sh -c /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Script-4FAB41C50BAA21B600FBBDC9.sh0#
+
+CPhaseScriptExecution "Strip Headers" /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Script-4FD0F1DB0CBC690400059DC1.sh
+s321964459.537077
+e321964459.642979
+r1
+xPhaseScriptExecution
+xStrip Headers
+x/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Script-4FD0F1DB0CBC690400059DC1.sh
+lSLF07#2@39"Run custom shell script 'Strip Headers'321964459#321964459#0(0"0(0#0#0"8638896384#18886"    cd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER reshma    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_64_BIT "x86_64 i386 ppc"    setenv ARCHS_STANDARD_32_BIT "i386 ppc"    setenv ARCHS_STANDARD_64_BIT x86_64    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build    setenv BUILD_ROOT /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug    setenv CACHE_ROOT /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app    setenv CODE_SIGNING_ALLOWED YES    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug    setenv CONFIGURATION_TEMP_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug    setenv CONTENTS_FOLDER_PATH AnalyticsSample.app/Contents    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH AnalyticsSample.app/Contents/Resources/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/AnalyticsSample.dst    setenv DWARF_DSYM_FILE_NAME AnalyticsSample.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH AnalyticsSample.app/Contents/Executables    setenv EXECUTABLE_FOLDER_PATH AnalyticsSample.app/Contents/MacOS    setenv EXECUTABLE_NAME AnalyticsSample    setenv EXECUTABLE_PATH AnalyticsSample.app/Contents/MacOS/AnalyticsSample    setenv FILE_LIST /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH AnalyticsSample.app/Contents/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug\"  \"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/../../Source/build/Debug/"    setenv FRAMEWORK_SEARCH_PATHS_QUOTED_1 "\"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/../../Source/build/Debug/"    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME AnalyticsSample.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_ENABLE_FIX_AND_CONTINUE YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_MODEL_TUNING G5    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS YES    setenv GCC_VERSION 4.2    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE Info.plist    setenv INFOPLIST_OUTPUT_FORMAT same-as-input    setenv INFOPLIST_PATH AnalyticsSample.app/Contents/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH AnalyticsSample.app/Contents/Resources/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/AnalyticsSample.dst/Users/reshma/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER reshma    setenv INSTALL_PATH /Users/reshma/Applications    setenv INSTALL_ROOT /tmp/AnalyticsSample.dst    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH AnalyticsSample.app/Contents/Resources/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/AnalyticsSample-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Objects-normal/i386/AnalyticsSample.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH AnalyticsSample.app/Contents/Resources/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv MAC_OS_X_VERSION_ACTUAL 1064    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0604    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Objects-normal    setenv OBJROOT /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CFLAGS -DDEBUG=1    setenv OTHER_CPLUSPLUSFLAGS -DDEBUG=1    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH AnalyticsSample.app/Contents/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/PkgInfo    setenv PKGINFO_PATH AnalyticsSample.app/Contents/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/usr    setenv PLATFORM_NAME macosx    setenv PLATFORM_PRODUCT_BUILD_VERSION 10M2423    setenv PLIST_FILE_OUTPUT_FORMAT same-as-input    setenv PLUGINS_FOLDER_PATH AnalyticsSample.app/Contents/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH AnalyticsSample.app/Contents/PrivateHeaders    setenv PRODUCT_NAME AnalyticsSample    setenv PRODUCT_SETTINGS_PATH /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT AnalyticsSample    setenv PROJECT_DERIVED_FILE_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/DerivedSources    setenv PROJECT_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample    setenv PROJECT_FILE_PATH /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/AnalyticsSample.xcodeproj    setenv PROJECT_NAME AnalyticsSample    setenv PROJECT_TEMP_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build    setenv PUBLIC_HEADERS_FOLDER_PATH AnalyticsSample.app/Contents/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH AnalyticsSample.app/Contents/Resources/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/SDKs/MacOSX10.5.sdk    setenv SDK_DIR /Developer/SDKs/MacOSX10.5.sdk    setenv SDK_NAME macosx10.5    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH AnalyticsSample.app/Contents/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH AnalyticsSample.app/Contents/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample    setenv SRCROOT /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING UTF-16    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SYMBOL_REPOSITORY_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/SymbolRepositories    setenv SYMROOT /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETNAME AnalyticsSampleApp    setenv TARGET_BUILD_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug    setenv TARGET_NAME AnalyticsSampleApp    setenv TARGET_TEMP_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build    setenv TEMP_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build    setenv TEMP_FILES_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build    setenv TEMP_FILE_DIR /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build    setenv TEMP_ROOT /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH AnalyticsSample.app/Contents/Resources    setenv UNSTRIPPED_PRODUCT NO    setenv USER reshma    setenv USER_APPS_DIR /Users/reshma/Applications    setenv USER_LIBRARY_DIR /Users/reshma/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "i386 ppc ppc64 ppc7400 ppc970 x86_64"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH AnalyticsSample.app/Contents/version.plist    setenv VERSION_INFO_BUILDER reshma    setenv VERSION_INFO_FILE AnalyticsSample_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:AnalyticsSample  PROJECT:AnalyticsSample-\""    setenv WARNING_CFLAGS "-Wall -Werror"    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME AnalyticsSample.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2423    setenv XCODE_VERSION_ACTUAL 0325    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    setenv ZERO_LINK NO    setenv _REAL_SDKROOT macosx10.5    /bin/sh -c /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/AnalyticsSample.build/Debug/AnalyticsSampleApp.build/Script-4FD0F1DB0CBC690400059DC1.sh0#
+
+CProcessInfoPlistFile /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app/Contents/Info.plist Info.plist
+s321964449.588978
+e321964449.592209
+r1
+xProcessInfoPlistFile
+x/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist321964449#321964449#0(0"0(0#0#90"/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/Info.plist8633536992#441"    cd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample    builtin-infoPlistUtility Info.plist -genpkginfo /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app/Contents/Info.plist0#
+
+CTouch /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app
+s321964459.643058
+e321964459.645805
+r1
+xTouch
+x/Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app
+lSLF07#2@117"Touch /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app321964459#321964459#0(0"0(0#0#0"8691715040#221"    cd /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample    /usr/bin/touch -c /Users/reshma/Downloads/gdata-objectivec-client-1.11.0/Examples/AnalyticsSample/build/Debug/AnalyticsSample.app0#
+

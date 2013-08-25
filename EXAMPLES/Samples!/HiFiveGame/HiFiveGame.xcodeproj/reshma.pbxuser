@@ -1,0 +1,398 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* HiFiveGameAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {950, 489}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 393}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* HiFiveGameAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {950, 520}}";
+			sepNavSelRange = "{688, 7}";
+			sepNavVisRange = "{31, 833}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9AECD77012703D7800F54114 /* HiFiveGame */;
+		activeTarget = 8D1107260486CEB800E47090 /* HiFiveGame */;
+		breakpoints = (
+			9AECD79212703F5300F54114 /* HFGameController.m:419 */,
+			9AECD7AE12703FED00F54114 /* HFGameController.m:125 */,
+		);
+		codeSenseManager = 9AECD79112703D8600F54114 /* Code sense */;
+		executables = (
+			9AECD77012703D7800F54114 /* HiFiveGame */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					772,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 309345656;
+			PBXWorkspaceStateSaveDate = 309345656;
+		};
+		perUserProjectItems = {
+			9AECD79612703F5B00F54114 /* PBXTextBookmark */ = 9AECD79612703F5B00F54114 /* PBXTextBookmark */;
+			9AECD79712703F5B00F54114 /* PBXTextBookmark */ = 9AECD79712703F5B00F54114 /* PBXTextBookmark */;
+			9AECD79812703F5B00F54114 /* PBXTextBookmark */ = 9AECD79812703F5B00F54114 /* PBXTextBookmark */;
+			9AECD79912703F5B00F54114 /* PBXTextBookmark */ = 9AECD79912703F5B00F54114 /* PBXTextBookmark */;
+			9AECD79A12703F5B00F54114 /* PBXTextBookmark */ = 9AECD79A12703F5B00F54114 /* PBXTextBookmark */;
+			9AECD79B12703F5B00F54114 /* PBXTextBookmark */ = 9AECD79B12703F5B00F54114 /* PBXTextBookmark */;
+			9AECD79C12703F5B00F54114 /* PBXTextBookmark */ = 9AECD79C12703F5B00F54114 /* PBXTextBookmark */;
+			9AECD79D12703F5B00F54114 /* PBXTextBookmark */ = 9AECD79D12703F5B00F54114 /* PBXTextBookmark */;
+			9AECD79E12703F5B00F54114 /* PBXTextBookmark */ = 9AECD79E12703F5B00F54114 /* PBXTextBookmark */;
+			9AECD79F12703F5B00F54114 /* PBXTextBookmark */ = 9AECD79F12703F5B00F54114 /* PBXTextBookmark */;
+			9AECD7A112703F5B00F54114 /* PBXTextBookmark */ = 9AECD7A112703F5B00F54114 /* PBXTextBookmark */;
+			9AECD7A212703F5B00F54114 /* PBXTextBookmark */ = 9AECD7A212703F5B00F54114 /* PBXTextBookmark */;
+			9AECD7BF1270409000F54114 /* PBXTextBookmark */ = 9AECD7BF1270409000F54114 /* PBXTextBookmark */;
+			9AECD7C01270409800F54114 /* PBXTextBookmark */ = 9AECD7C01270409800F54114 /* PBXTextBookmark */;
+			9AECD7C2127041F000F54114 /* PBXTextBookmark */ = 9AECD7C2127041F000F54114 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9AECD79012703D8600F54114 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	737A96A612262310000FC838 /* NSString+FindIndex.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {950, 489}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 286}";
+		};
+	};
+	737A96A712262310000FC838 /* NSString+FindIndex.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {950, 489}}";
+			sepNavSelRange = "{676, 0}";
+			sepNavVisRange = "{0, 676}";
+		};
+	};
+	737A96CE1226276B000FC838 /* HifiveModel.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {950, 489}}";
+			sepNavSelRange = "{275, 0}";
+			sepNavVisRange = "{0, 1046}";
+		};
+	};
+	737A96CF1226276B000FC838 /* HifiveModel.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1258, 3523}}";
+			sepNavSelRange = "{1586, 22}";
+			sepNavVisRange = "{910, 2112}";
+		};
+	};
+	73813F9C122760000059259B /* HFGameController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {950, 975}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 895}";
+		};
+	};
+	73813F9D122760000059259B /* HFGameController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1284, 8645}}";
+			sepNavSelRange = "{15827, 0}";
+			sepNavVisRange = "{6470, 446}";
+		};
+	};
+	7381416B122785160059259B /* ColorButton.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {950, 489}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 273}";
+		};
+	};
+	7381416C122785160059259B /* ColorButton.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1284, 793}}";
+			sepNavSelRange = "{190, 0}";
+			sepNavVisRange = "{3, 374}";
+		};
+	};
+	7381431F1227DFEE0059259B /* BoredredButton.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {950, 489}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 347}";
+		};
+	};
+	738143201227DFEE0059259B /* BoredredButton.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {950, 1313}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 508}";
+		};
+	};
+	73855449122E891000F74491 /* PlayerInformation.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {950, 489}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 438}";
+		};
+	};
+	7385544A122E891000F74491 /* PlayerInformation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {950, 533}}";
+			sepNavSelRange = "{477, 0}";
+			sepNavVisRange = "{27, 843}";
+		};
+	};
+	8D1107260486CEB800E47090 /* HiFiveGame */ = {
+		activeExec = 0;
+		executables = (
+			9AECD77012703D7800F54114 /* HiFiveGame */,
+		);
+	};
+	9AECD77012703D7800F54114 /* HiFiveGame */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = HiFiveGame;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	9AECD79012703D8600F54114 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9AECD79112703D8600F54114 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9AECD79212703F5300F54114 /* HFGameController.m:419 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 73813F9D122760000059259B /* HFGameController.m */;
+		functionName = "-findRowAndColumn";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 419;
+		location = HiFiveGame;
+		modificationTime = 309346561.7332;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	9AECD79612703F5B00F54114 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* HiFiveGameAppDelegate.h */;
+		name = "HiFiveGameAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 393;
+		vrLoc = 0;
+	};
+	9AECD79712703F5B00F54114 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* HiFiveGameAppDelegate.m */;
+		name = "HiFiveGameAppDelegate.m: 28";
+		rLen = 7;
+		rLoc = 688;
+		rType = 0;
+		vrLen = 833;
+		vrLoc = 31;
+	};
+	9AECD79812703F5B00F54114 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 737A96A612262310000FC838 /* NSString+FindIndex.h */;
+		name = "NSString+FindIndex.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 286;
+		vrLoc = 0;
+	};
+	9AECD79912703F5B00F54114 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 73813F9C122760000059259B /* HFGameController.h */;
+		name = "HFGameController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 895;
+		vrLoc = 0;
+	};
+	9AECD79A12703F5B00F54114 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7381431F1227DFEE0059259B /* BoredredButton.h */;
+		name = "BoredredButton.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 347;
+		vrLoc = 0;
+	};
+	9AECD79B12703F5B00F54114 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 738143201227DFEE0059259B /* BoredredButton.m */;
+		name = "BoredredButton.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 508;
+		vrLoc = 0;
+	};
+	9AECD79C12703F5B00F54114 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7381416C122785160059259B /* ColorButton.m */;
+		name = "ColorButton.m: 29";
+		rLen = 22;
+		rLoc = 623;
+		rType = 0;
+		vrLen = 1129;
+		vrLoc = 190;
+	};
+	9AECD79D12703F5B00F54114 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7381416B122785160059259B /* ColorButton.h */;
+		name = "ColorButton.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 273;
+		vrLoc = 0;
+	};
+	9AECD79E12703F5B00F54114 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7385544A122E891000F74491 /* PlayerInformation.m */;
+		name = "PlayerInformation.m: 23";
+		rLen = 0;
+		rLoc = 477;
+		rType = 0;
+		vrLen = 843;
+		vrLoc = 27;
+	};
+	9AECD79F12703F5B00F54114 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 73855449122E891000F74491 /* PlayerInformation.h */;
+		name = "PlayerInformation.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 438;
+		vrLoc = 0;
+	};
+	9AECD7A112703F5B00F54114 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 737A96CE1226276B000FC838 /* HifiveModel.h */;
+		name = "HifiveModel.h: 16";
+		rLen = 0;
+		rLoc = 275;
+		rType = 0;
+		vrLen = 1046;
+		vrLoc = 0;
+	};
+	9AECD7A212703F5B00F54114 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 737A96A712262310000FC838 /* NSString+FindIndex.m */;
+		name = "NSString+FindIndex.m: 31";
+		rLen = 0;
+		rLoc = 676;
+		rType = 0;
+		vrLen = 676;
+		vrLoc = 0;
+	};
+	9AECD7AE12703FED00F54114 /* HFGameController.m:125 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 73813F9D122760000059259B /* HFGameController.m */;
+		functionName = "-userClicked:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 125;
+		location = HiFiveGame;
+		modificationTime = 309346381.283254;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	9AECD7BF1270409000F54114 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 737A96CF1226276B000FC838 /* HifiveModel.m */;
+		name = "HifiveModel.m: 52";
+		rLen = 0;
+		rLoc = 1667;
+		rType = 0;
+		vrLen = 1305;
+		vrLoc = 1215;
+	};
+	9AECD7C01270409800F54114 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 73813F9D122760000059259B /* HFGameController.m */;
+		name = "HFGameController.m: 135";
+		rLen = 13;
+		rLoc = 3835;
+		rType = 0;
+		vrLen = 1086;
+		vrLoc = 3377;
+	};
+	9AECD7C2127041F000F54114 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 737A96CF1226276B000FC838 /* HifiveModel.m */;
+		name = "HifiveModel.m: 49";
+		rLen = 22;
+		rLoc = 1586;
+		rType = 0;
+		vrLen = 2112;
+		vrLoc = 910;
+	};
+}

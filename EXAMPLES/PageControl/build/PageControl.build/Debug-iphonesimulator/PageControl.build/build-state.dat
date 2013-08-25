@@ -1,0 +1,436 @@
+TPageControl
+v7
+r0
+t312295402.971899
+cCheck dependencies
+cProcessInfoPlistFile /Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app/Info.plist PageControl-Info.plist
+cCompileXIB /Users/reshma/Desktop/PageControl/MainWindow.xib
+cCompileXIB /Users/reshma/Desktop/PageControl/PageControlViewController.xib
+cProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PageControl_Prefix-bpravbitxtmmzwgcvudxfcyxtotx/PageControl_Prefix.pch.gch PageControl_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/main.o /Users/reshma/Desktop/PageControl/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/PageControlAppDelegate.o /Users/reshma/Desktop/PageControl/Classes/PageControlAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/PageControlViewController.o /Users/reshma/Desktop/PageControl/Classes/PageControlViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/ZZPageControl.o /Users/reshma/Desktop/PageControl/Classes/ZZPageControl.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl normal i386
+cGenerateDSYMFile /Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app.dSYM /Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl
+cTouch /Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app
+
+N/Developer/Examples/iPhone/PageControl/Classes/PageControlAppDelegate.h
+c000000004CED0148000000000000015D
+t1290600776
+s349
+i<UIKit/UIKit.h>
+
+N/Developer/Examples/iPhone/PageControl/Classes/PageControlAppDelegate.m
+c000000004CED014800000000000009FC
+t1290600776
+s2556
+i"PageControlAppDelegate.h"
+i"PageControlViewController.h"
+
+N/Developer/Examples/iPhone/PageControl/Classes/PageControlViewController.h
+c000000004CED0148000000000000009D
+t1290600776
+s157
+i<UIKit/UIKit.h>
+i"ZZPageControl.h"
+
+N/Developer/Examples/iPhone/PageControl/Classes/PageControlViewController.m
+c000000004CED02F90000000000000296
+t1290601209
+s662
+i"PageControlViewController.h"
+
+N/Developer/Examples/iPhone/PageControl/Classes/ZZPageControl.h
+c000000004CED014800000000000004B4
+t1290600776
+s1204
+i<UIKit/UIKit.h>
+
+N/Developer/Examples/iPhone/PageControl/Classes/ZZPageControl.m
+c000000004CED086A0000000000000F6D
+t1290602602
+s3949
+i"ZZPageControl.h"
+
+N/Developer/Examples/iPhone/PageControl/MainWindow.xib
+c000000004CED01480000000000004E59
+t1290600776
+s20057
+
+N/Developer/Examples/iPhone/PageControl/PageControlViewController.xib
+c000000004CED0148000000000000446C
+t1290600776
+s17516
+
+N/Developer/Examples/iPhone/PageControl/PageControl_Prefix.pch
+c000000004CED014800000000000000BF
+t1290600776
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Developer/Examples/iPhone/PageControl/build/Debug-iphonesimulator/PageControl.app
+t1290602602
+s238
+
+N/Developer/Examples/iPhone/PageControl/build/Debug-iphonesimulator/PageControl.app.dSYM
+t1290602602
+s102
+
+N/Developer/Examples/iPhone/PageControl/build/Debug-iphonesimulator/PageControl.app/Info.plist
+t1290601074
+s607
+
+N/Developer/Examples/iPhone/PageControl/build/Debug-iphonesimulator/PageControl.app/MainWindow.nib
+t1290601076
+s1131
+
+N/Developer/Examples/iPhone/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl
+t1290602602
+s25704
+
+N/Developer/Examples/iPhone/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControlViewController.nib
+t1290601076
+s1031
+
+N/Developer/Examples/iPhone/PageControl/build/Debug-iphonesimulator/PageControl.app/PkgInfo
+t1290601074
+s8
+
+N/Developer/Examples/iPhone/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/PageControl.LinkFileList
+c000000004CED02720000000000000224
+t1290601074
+s548
+
+N/Developer/Examples/iPhone/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/PageControlAppDelegate.o
+t1290601077
+s51372
+
+N/Developer/Examples/iPhone/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/PageControlViewController.o
+t1290601210
+s40188
+
+N/Developer/Examples/iPhone/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/ZZPageControl.o
+t1290602602
+s56348
+
+N/Developer/Examples/iPhone/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/main.o
+t1290601077
+s6292
+
+N/Developer/Examples/iPhone/PageControl/main.m
+c000000004CED0148000000000000016C
+t1290600776
+s364
+i<UIKit/UIKit.h>
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/reshma/Desktop/PageControl/Classes/PageControlAppDelegate.h
+c000000004CED0148000000000000015D
+t1290600776
+s349
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/PageControl/Classes/PageControlAppDelegate.m
+c000000004CED014800000000000009FC
+t1290600776
+s2556
+i"PageControlAppDelegate.h"
+i"PageControlViewController.h"
+
+N/Users/reshma/Desktop/PageControl/Classes/PageControlViewController.h
+c000000004CED0148000000000000009D
+t1290600776
+s157
+i<UIKit/UIKit.h>
+i"ZZPageControl.h"
+
+N/Users/reshma/Desktop/PageControl/Classes/PageControlViewController.m
+c000000004CED02F90000000000000296
+t1290601209
+s662
+i"PageControlViewController.h"
+
+N/Users/reshma/Desktop/PageControl/Classes/ZZPageControl.h
+c000000004CED014800000000000004B4
+t1290600776
+s1204
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/PageControl/Classes/ZZPageControl.m
+c000000004CED086A0000000000000F6D
+t1290602602
+s3949
+i"ZZPageControl.h"
+
+N/Users/reshma/Desktop/PageControl/MainWindow.xib
+c000000004CED01480000000000004E59
+t1290600776
+s20057
+
+N/Users/reshma/Desktop/PageControl/PageControlViewController.xib
+c000000004CED0148000000000000446C
+t1290600776
+s17516
+
+N/Users/reshma/Desktop/PageControl/PageControl_Prefix.pch
+c000000004CED014800000000000000BF
+t1290600776
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app
+t1290602602
+s238
+
+N/Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app.dSYM
+t1290602602
+s102
+
+N/Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app/Info.plist
+t1290601074
+s607
+
+N/Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app/MainWindow.nib
+t1290601076
+s1131
+
+N/Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl
+t1290602602
+s25704
+
+N/Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControlViewController.nib
+t1290601076
+s1031
+
+N/Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app/PkgInfo
+t1290601074
+s8
+
+N/Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/PageControl.LinkFileList
+c000000004CED02720000000000000224
+t1290601074
+s548
+
+N/Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/PageControlAppDelegate.o
+t1290601077
+s51372
+
+N/Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/PageControlViewController.o
+t1290601210
+s40188
+
+N/Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/ZZPageControl.o
+t1290602602
+s56348
+
+N/Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/main.o
+t1290601077
+s6292
+
+N/Users/reshma/Desktop/PageControl/main.m
+c000000004CED0148000000000000016C
+t1290600776
+s364
+i<UIKit/UIKit.h>
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PageControl_Prefix-bpravbitxtmmzwgcvudxfcyxtotx/PageControl_Prefix.pch.gch
+t1290601077
+s15453392
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PageControl_Prefix-gvpdrwdbchmbgfabfyaymormlmht/PageControl_Prefix.pch.gch
+t2
+s0
+
+NPageControl-Info.plist
+c000000004CED0148000000000000038D
+t1290600776
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312295402#312295402#0(0"0(0#1#0"8636633248#0"0#
+
+CCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/PageControlAppDelegate.o /Developer/Examples/iPhone/PageControl/Classes/PageControlAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/PageControlAppDelegate.o /Users/reshma/Desktop/PageControl/Classes/PageControlAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312293877.868386
+e312293877.949188
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/PageControlAppDelegate.o
+x/Users/reshma/Desktop/PageControl/Classes/PageControlAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/reshma/Desktop/PageControl/Classes/PageControlAppDelegate.m312293877#312293877#0(0"0(0#0#66"/Users/reshma/Desktop/PageControl/Classes/PageControlAppDelegate.m8637868224#1983"    cd /Users/reshma/Desktop/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-generated-files.hmap -I/Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-own-target-headers.hmap -I/Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-project-headers.hmap -F/Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator -I/Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources/i386 -I/Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PageControl_Prefix-bpravbitxtmmzwgcvudxfcyxtotx/PageControl_Prefix.pch -c /Users/reshma/Desktop/PageControl/Classes/PageControlAppDelegate.m -o /Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/PageControlAppDelegate.o0#
+
+CCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/PageControlViewController.o /Developer/Examples/iPhone/PageControl/Classes/PageControlViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/PageControlViewController.o /Users/reshma/Desktop/PageControl/Classes/PageControlViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312294009.987243
+e312294010.169929
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/PageControlViewController.o
+x/Users/reshma/Desktop/PageControl/Classes/PageControlViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/reshma/Desktop/PageControl/Classes/PageControlViewController.m: In function '-[PageControlViewController pageDidChange]':
+o/Users/reshma/Desktop/PageControl/Classes/PageControlViewController.m:6: warning: unused variable 'page'
+lSLF07#2@77"Compile /Users/reshma/Desktop/PageControl/Classes/PageControlViewController.m312294009#312294010#0(234"/Users/reshma/Desktop/PageControl/Classes/PageControlViewController.m: In function '-[PageControlViewController pageDidChange]':/Users/reshma/Desktop/PageControl/Classes/PageControlViewController.m:6: warning: unused variable 'page'1(22@22"Unused variable 'page'312294010#129#105#0(6@69"/Users/reshma/Desktop/PageControl/Classes/PageControlViewController.m312294009#6#0#6#0#19"unused variable '*'0(0#0#69"/Users/reshma/Desktop/PageControl/Classes/PageControlViewController.m8642491648#1989"    cd /Users/reshma/Desktop/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-generated-files.hmap -I/Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-own-target-headers.hmap -I/Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-project-headers.hmap -F/Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator -I/Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources/i386 -I/Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PageControl_Prefix-bpravbitxtmmzwgcvudxfcyxtotx/PageControl_Prefix.pch -c /Users/reshma/Desktop/PageControl/Classes/PageControlViewController.m -o /Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/PageControlViewController.o0#
+
+CCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/ZZPageControl.o /Developer/Examples/iPhone/PageControl/Classes/ZZPageControl.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/ZZPageControl.o /Users/reshma/Desktop/PageControl/Classes/ZZPageControl.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312295402.688786
+e312295402.902844
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/ZZPageControl.o
+x/Users/reshma/Desktop/PageControl/Classes/ZZPageControl.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/reshma/Desktop/PageControl/Classes/ZZPageControl.m312295402#312295402#0(0"0(0#0#57"/Users/reshma/Desktop/PageControl/Classes/ZZPageControl.m8636253472#1965"    cd /Users/reshma/Desktop/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-generated-files.hmap -I/Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-own-target-headers.hmap -I/Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-project-headers.hmap -F/Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator -I/Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources/i386 -I/Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PageControl_Prefix-bpravbitxtmmzwgcvudxfcyxtotx/PageControl_Prefix.pch -c /Users/reshma/Desktop/PageControl/Classes/ZZPageControl.m -o /Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/ZZPageControl.o0#
+
+CCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/main.o /Developer/Examples/iPhone/PageControl/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/main.o /Users/reshma/Desktop/PageControl/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312293877.867051
+e312293877.927092
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/main.o
+x/Users/reshma/Desktop/PageControl/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/reshma/Desktop/PageControl/main.m312293877#312293877#0(0"0(0#0#40"/Users/reshma/Desktop/PageControl/main.m8641191584#1939"    cd /Users/reshma/Desktop/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-generated-files.hmap -I/Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-own-target-headers.hmap -I/Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-project-headers.hmap -F/Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator -I/Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources/i386 -I/Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PageControl_Prefix-bpravbitxtmmzwgcvudxfcyxtotx/PageControl_Prefix.pch -c /Users/reshma/Desktop/PageControl/main.m -o /Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Developer/Examples/iPhone/PageControl/MainWindow.xib
+r0
+
+CCompileXIB /Developer/Examples/iPhone/PageControl/PageControlViewController.xib
+r0
+
+CCompileXIB /Users/reshma/Desktop/PageControl/MainWindow.xib
+s312293874.955028
+e312293876.678016
+r1
+xCompileXIB
+x/Users/reshma/Desktop/PageControl/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib312293874#312293876#0(0"0(0#0#48"/Users/reshma/Desktop/PageControl/MainWindow.xib8636445120#559"    cd /Users/reshma/Desktop/PageControl    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app/MainWindow.nib /Users/reshma/Desktop/PageControl/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/reshma/Desktop/PageControl/PageControlViewController.xib
+s312293874.956300
+e312293876.677765
+r1
+xCompileXIB
+x/Users/reshma/Desktop/PageControl/PageControlViewController.xib
+lSLF07#2@40"CompileXIB PageControlViewController.xib312293874#312293876#0(0"0(0#0#63"/Users/reshma/Desktop/PageControl/PageControlViewController.xib8642579232#589"    cd /Users/reshma/Desktop/PageControl    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControlViewController.nib /Users/reshma/Desktop/PageControl/PageControlViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Developer/Examples/iPhone/PageControl/build/Debug-iphonesimulator/PageControl.app.dSYM /Developer/Examples/iPhone/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl
+r0
+
+CGenerateDSYMFile /Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app.dSYM /Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl
+s312295402.951400
+e312295402.969487
+r1
+xGenerateDSYMFile
+x/Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app.dSYM
+x/Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/PageControl.app.dSYM build/Debug-iphonesimulator/PageControl.app/PageControl312295402#312295402#0(0"0(0#0#89"/Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl8631971232#380"    cd /Users/reshma/Desktop/PageControl    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl -o /Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app.dSYM0#
+
+CLd /Developer/Examples/iPhone/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl normal i386
+r0
+
+CLd /Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl normal i386
+s312295402.902925
+e312295402.951306
+r1
+xLd
+x/Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl
+xnormal
+xi386
+lSLF07#2@94"Link /Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl312295402#312295402#0(0"0(0#0#0"8637604032#895"    cd /Users/reshma/Desktop/PageControl    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator -F/Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator -filelist /Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/PageControl.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl0#
+
+CProcessInfoPlistFile /Developer/Examples/iPhone/PageControl/build/Debug-iphonesimulator/PageControl.app/Info.plist PageControl-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app/Info.plist PageControl-Info.plist
+s312293874.950706
+e312293874.954955
+r1
+xProcessInfoPlistFile
+x/Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app/Info.plist
+xPageControl-Info.plist
+lSLF07#2@30"Process PageControl-Info.plist312293874#312293874#0(0"0(0#0#56"/Users/reshma/Desktop/PageControl/PageControl-Info.plist8637395744#476"    cd /Users/reshma/Desktop/PageControl    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility PageControl-Info.plist -genpkginfo /Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app/Info.plist0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PageControl_Prefix-bpravbitxtmmzwgcvudxfcyxtotx/PageControl_Prefix.pch.gch PageControl_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s312293876.678124
+e312293877.866924
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PageControl_Prefix-bpravbitxtmmzwgcvudxfcyxtotx/PageControl_Prefix.pch.gch
+xPageControl_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile PageControl_Prefix.pch312293876#312293877#0(0"0(0#0#56"/Users/reshma/Desktop/PageControl/PageControl_Prefix.pch8642178816#1832"    cd /Users/reshma/Desktop/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-generated-files.hmap -I/Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-own-target-headers.hmap -I/Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-project-headers.hmap -F/Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator -I/Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources/i386 -I/Users/reshma/Desktop/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources -c /Users/reshma/Desktop/PageControl/PageControl_Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PageControl_Prefix-bpravbitxtmmzwgcvudxfcyxtotx/PageControl_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PageControl_Prefix-gvpdrwdbchmbgfabfyaymormlmht/PageControl_Prefix.pch.gch PageControl_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Developer/Examples/iPhone/PageControl/build/Debug-iphonesimulator/PageControl.app
+r0
+
+CTouch /Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app
+s312295402.969565
+e312295402.971872
+r1
+xTouch
+x/Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app
+lSLF07#2@83"Touch /Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app312295402#312295402#0(0"0(0#0#0"8631933152#272"    cd /Users/reshma/Desktop/PageControl    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/reshma/Desktop/PageControl/build/Debug-iphonesimulator/PageControl.app0#
+

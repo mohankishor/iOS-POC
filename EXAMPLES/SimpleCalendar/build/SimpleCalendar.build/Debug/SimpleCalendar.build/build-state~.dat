@@ -1,0 +1,333 @@
+TSimpleCalendar
+v7
+r0
+t303226431.365601
+cCheck dependencies
+cProcessInfoPlistFile /Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/Info.plist Info.plist
+cStripNIB /Users/reshma/Desktop/SimpleCalendar/English.lproj/MainMenu.nib
+cCopyStringsFile /Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cStripNIB /Users/reshma/Desktop/SimpleCalendar/English.lproj/Calendar.nib
+cStripNIB /Users/reshma/Desktop/SimpleCalendar/English.lproj/Day.nib
+cStripNIB /Users/reshma/Desktop/SimpleCalendar/English.lproj/MyDocument.nib
+cCompileC build/SimpleCalendar.build/Debug/SimpleCalendar.build/Objects-normal/i386/main.o /Users/reshma/Desktop/SimpleCalendar/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalendar.build/Debug/SimpleCalendar.build/Objects-normal/i386/AppDelegate.o /Users/reshma/Desktop/SimpleCalendar/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalendar.build/Debug/SimpleCalendar.build/Objects-normal/i386/Calendar.o /Users/reshma/Desktop/SimpleCalendar/Calendar.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalendar.build/Debug/SimpleCalendar.build/Objects-normal/i386/CalendarController.o /Users/reshma/Desktop/SimpleCalendar/CalendarController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalendar.build/Debug/SimpleCalendar.build/Objects-normal/i386/DayController.o /Users/reshma/Desktop/SimpleCalendar/DayController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/MacOS/SimpleCalendar normal i386
+cTouch /Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004B7D589B00000000000000EE
+t1266505883
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/CalendarStore.framework/Headers/CalendarStore.h
+c000000004864D0BB00000000000001CF
+t1214566587
+s463
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/CalendarStore.framework/CalendarStore
+c000000004AD8765E0000000000805F40
+t1255700062
+s8412992
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/reshma/Desktop/SimpleCalendar/AppDelegate.h
+c0000000044C06FB20000000000000A87
+t1153462194
+s2695
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Desktop/SimpleCalendar/AppDelegate.m
+c0000000044C06FB20000000000000DBB
+t1153462194
+s3515
+i"AppDelegate.h"
+i"Calendar.h"
+i"CalendarController.h"
+i<CalendarStore/CalendarStore.h>
+
+N/Users/reshma/Desktop/SimpleCalendar/Calendar.h
+c0000000044C7D3E80000000000000AA6
+t1153946600
+s2726
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Desktop/SimpleCalendar/Calendar.m
+c000000004C629FE2000000000000323C
+t1281531874
+s12860
+i"Calendar.h"
+i<CalendarStore/CalendarStore.h>
+
+N/Users/reshma/Desktop/SimpleCalendar/CalendarController.h
+c0000000044C070AE0000000000000EC1
+t1153462446
+s3777
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Desktop/SimpleCalendar/CalendarController.m
+c0000000044C070AE0000000000005FE4
+t1153462446
+s24548
+i"CalendarController.h"
+i"Calendar.h"
+i"DayController.h"
+i<CalendarStore/CalendarStore.h>
+
+N/Users/reshma/Desktop/SimpleCalendar/DayController.h
+c0000000045E738B60000000000000A6D
+t1172781238
+s2669
+i<Cocoa/Cocoa.h>
+
+N/Users/reshma/Desktop/SimpleCalendar/DayController.m
+c0000000045E738B60000000000000E09
+t1172781238
+s3593
+i"DayController.h"
+
+N/Users/reshma/Desktop/SimpleCalendar/English.lproj/Calendar.nib
+c000000004C62A6AE00000000000000AA
+t1281533614
+s170
+
+N/Users/reshma/Desktop/SimpleCalendar/English.lproj/Day.nib
+c000000004C62A6AE00000000000000AA
+t1281533614
+s170
+
+N/Users/reshma/Desktop/SimpleCalendar/English.lproj/InfoPlist.strings
+c0000000044BC5CAB00000000000000CA
+t1153195179
+s202
+
+N/Users/reshma/Desktop/SimpleCalendar/English.lproj/MainMenu.nib
+c000000004C62A6AE00000000000000AA
+t1281533614
+s170
+
+N/Users/reshma/Desktop/SimpleCalendar/English.lproj/MyDocument.nib
+c000000004C62A6AE00000000000000AA
+t1281533614
+s170
+
+N/Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app
+t1281533631
+s102
+
+N/Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/Info.plist
+t1281533628
+s790
+
+N/Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/MacOS/SimpleCalendar
+t1281533631
+s43492
+
+N/Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/PkgInfo
+t1281533628
+s8
+
+N/Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/Resources/English.lproj/Calendar.nib
+t1281533628
+s9616
+
+N/Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/Resources/English.lproj/Day.nib
+t1281533628
+s10278
+
+N/Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1281533629
+s202
+
+N/Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/Resources/English.lproj/MainMenu.nib
+t1281533628
+s90995
+
+N/Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/Resources/English.lproj/MyDocument.nib
+t1281533629
+s13967
+
+N/Users/reshma/Desktop/SimpleCalendar/build/SimpleCalendar.build/Debug/SimpleCalendar.build/Objects-normal/i386/AppDelegate.o
+t1281533629
+s7912
+
+N/Users/reshma/Desktop/SimpleCalendar/build/SimpleCalendar.build/Debug/SimpleCalendar.build/Objects-normal/i386/Calendar.o
+t1281533630
+s24216
+
+N/Users/reshma/Desktop/SimpleCalendar/build/SimpleCalendar.build/Debug/SimpleCalendar.build/Objects-normal/i386/CalendarController.o
+t1281533630
+s49140
+
+N/Users/reshma/Desktop/SimpleCalendar/build/SimpleCalendar.build/Debug/SimpleCalendar.build/Objects-normal/i386/DayController.o
+t1281533631
+s10244
+
+N/Users/reshma/Desktop/SimpleCalendar/build/SimpleCalendar.build/Debug/SimpleCalendar.build/Objects-normal/i386/SimpleCalendar.LinkFileList
+c000000004C62A6BC0000000000000270
+t1281533628
+s624
+
+N/Users/reshma/Desktop/SimpleCalendar/build/SimpleCalendar.build/Debug/SimpleCalendar.build/Objects-normal/i386/main.o
+t1281533629
+s4852
+
+N/Users/reshma/Desktop/SimpleCalendar/main.m
+c0000000045E738B600000000000009C7
+t1172781238
+s2503
+i<Cocoa/Cocoa.h>
+
+NInfo.plist
+c0000000045E738B60000000000000354
+t1172781238
+s852
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies303226428#303226428#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/SimpleCalendar.build/Debug/SimpleCalendar.build/Objects-normal/i386/AppDelegate.o /Users/reshma/Desktop/SimpleCalendar/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303226429.089780
+e303226429.940983
+r1
+xCompileC
+xbuild/SimpleCalendar.build/Debug/SimpleCalendar.build/Objects-normal/i386/AppDelegate.o
+x/Users/reshma/Desktop/SimpleCalendar/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/reshma/Desktop/SimpleCalendar/AppDelegate.m303226429#303226429#0(0"0(0#0#50"/Users/reshma/Desktop/SimpleCalendar/AppDelegate.m4300911832#960"    cd /Users/reshma/Desktop/SimpleCalendar    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/reshma/Desktop/SimpleCalendar/build/SimpleCalendar.build/Debug/SimpleCalendar.build/SimpleCalendar.hmap -F/Users/reshma/Desktop/SimpleCalendar/build/Debug -I/Users/reshma/Desktop/SimpleCalendar/build/Debug/include -I/Users/reshma/Desktop/SimpleCalendar/build/SimpleCalendar.build/Debug/SimpleCalendar.build/DerivedSources/i386 -I/Users/reshma/Desktop/SimpleCalendar/build/SimpleCalendar.build/Debug/SimpleCalendar.build/DerivedSources -c /Users/reshma/Desktop/SimpleCalendar/AppDelegate.m -o /Users/reshma/Desktop/SimpleCalendar/build/SimpleCalendar.build/Debug/SimpleCalendar.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/SimpleCalendar.build/Debug/SimpleCalendar.build/Objects-normal/i386/Calendar.o /Users/reshma/Desktop/SimpleCalendar/Calendar.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303226429.941201
+e303226430.614219
+r1
+xCompileC
+xbuild/SimpleCalendar.build/Debug/SimpleCalendar.build/Objects-normal/i386/Calendar.o
+x/Users/reshma/Desktop/SimpleCalendar/Calendar.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/reshma/Desktop/SimpleCalendar/Calendar.m303226429#303226430#0(0"0(0#0#47"/Users/reshma/Desktop/SimpleCalendar/Calendar.m4300911832#954"    cd /Users/reshma/Desktop/SimpleCalendar    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/reshma/Desktop/SimpleCalendar/build/SimpleCalendar.build/Debug/SimpleCalendar.build/SimpleCalendar.hmap -F/Users/reshma/Desktop/SimpleCalendar/build/Debug -I/Users/reshma/Desktop/SimpleCalendar/build/Debug/include -I/Users/reshma/Desktop/SimpleCalendar/build/SimpleCalendar.build/Debug/SimpleCalendar.build/DerivedSources/i386 -I/Users/reshma/Desktop/SimpleCalendar/build/SimpleCalendar.build/Debug/SimpleCalendar.build/DerivedSources -c /Users/reshma/Desktop/SimpleCalendar/Calendar.m -o /Users/reshma/Desktop/SimpleCalendar/build/SimpleCalendar.build/Debug/SimpleCalendar.build/Objects-normal/i386/Calendar.o0#
+
+CCompileC build/SimpleCalendar.build/Debug/SimpleCalendar.build/Objects-normal/i386/CalendarController.o /Users/reshma/Desktop/SimpleCalendar/CalendarController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303226429.983485
+e303226430.719982
+r1
+xCompileC
+xbuild/SimpleCalendar.build/Debug/SimpleCalendar.build/Objects-normal/i386/CalendarController.o
+x/Users/reshma/Desktop/SimpleCalendar/CalendarController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/reshma/Desktop/SimpleCalendar/CalendarController.m303226429#303226430#0(0"0(0#0#57"/Users/reshma/Desktop/SimpleCalendar/CalendarController.m4300911832#974"    cd /Users/reshma/Desktop/SimpleCalendar    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/reshma/Desktop/SimpleCalendar/build/SimpleCalendar.build/Debug/SimpleCalendar.build/SimpleCalendar.hmap -F/Users/reshma/Desktop/SimpleCalendar/build/Debug -I/Users/reshma/Desktop/SimpleCalendar/build/Debug/include -I/Users/reshma/Desktop/SimpleCalendar/build/SimpleCalendar.build/Debug/SimpleCalendar.build/DerivedSources/i386 -I/Users/reshma/Desktop/SimpleCalendar/build/SimpleCalendar.build/Debug/SimpleCalendar.build/DerivedSources -c /Users/reshma/Desktop/SimpleCalendar/CalendarController.m -o /Users/reshma/Desktop/SimpleCalendar/build/SimpleCalendar.build/Debug/SimpleCalendar.build/Objects-normal/i386/CalendarController.o0#
+
+CCompileC build/SimpleCalendar.build/Debug/SimpleCalendar.build/Objects-normal/i386/DayController.o /Users/reshma/Desktop/SimpleCalendar/DayController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303226430.614315
+e303226431.277728
+r1
+xCompileC
+xbuild/SimpleCalendar.build/Debug/SimpleCalendar.build/Objects-normal/i386/DayController.o
+x/Users/reshma/Desktop/SimpleCalendar/DayController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/reshma/Desktop/SimpleCalendar/DayController.m303226430#303226431#0(0"0(0#0#52"/Users/reshma/Desktop/SimpleCalendar/DayController.m4300911832#964"    cd /Users/reshma/Desktop/SimpleCalendar    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/reshma/Desktop/SimpleCalendar/build/SimpleCalendar.build/Debug/SimpleCalendar.build/SimpleCalendar.hmap -F/Users/reshma/Desktop/SimpleCalendar/build/Debug -I/Users/reshma/Desktop/SimpleCalendar/build/Debug/include -I/Users/reshma/Desktop/SimpleCalendar/build/SimpleCalendar.build/Debug/SimpleCalendar.build/DerivedSources/i386 -I/Users/reshma/Desktop/SimpleCalendar/build/SimpleCalendar.build/Debug/SimpleCalendar.build/DerivedSources -c /Users/reshma/Desktop/SimpleCalendar/DayController.m -o /Users/reshma/Desktop/SimpleCalendar/build/SimpleCalendar.build/Debug/SimpleCalendar.build/Objects-normal/i386/DayController.o0#
+
+CCompileC build/SimpleCalendar.build/Debug/SimpleCalendar.build/Objects-normal/i386/main.o /Users/reshma/Desktop/SimpleCalendar/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303226429.088826
+e303226429.983348
+r1
+xCompileC
+xbuild/SimpleCalendar.build/Debug/SimpleCalendar.build/Objects-normal/i386/main.o
+x/Users/reshma/Desktop/SimpleCalendar/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/reshma/Desktop/SimpleCalendar/main.m303226429#303226429#0(0"0(0#0#43"/Users/reshma/Desktop/SimpleCalendar/main.m4300911832#946"    cd /Users/reshma/Desktop/SimpleCalendar    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/reshma/Desktop/SimpleCalendar/build/SimpleCalendar.build/Debug/SimpleCalendar.build/SimpleCalendar.hmap -F/Users/reshma/Desktop/SimpleCalendar/build/Debug -I/Users/reshma/Desktop/SimpleCalendar/build/Debug/include -I/Users/reshma/Desktop/SimpleCalendar/build/SimpleCalendar.build/Debug/SimpleCalendar.build/DerivedSources/i386 -I/Users/reshma/Desktop/SimpleCalendar/build/SimpleCalendar.build/Debug/SimpleCalendar.build/DerivedSources -c /Users/reshma/Desktop/SimpleCalendar/main.m -o /Users/reshma/Desktop/SimpleCalendar/build/SimpleCalendar.build/Debug/SimpleCalendar.build/Objects-normal/i386/main.o0#
+
+CCopyStringsFile /Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s303226428.494572
+e303226429.029324
+r1
+xCopyStringsFile
+x/Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings303226428#303226429#0(0"0(0#0#68"/Users/reshma/Desktop/SimpleCalendar/English.lproj/InfoPlist.strings4300911832#369"    cd /Users/reshma/Desktop/SimpleCalendar    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/Resources/English.lproj0#
+
+CLd /Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/MacOS/SimpleCalendar normal i386
+s303226431.277818
+e303226431.362770
+r1
+xLd
+x/Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/MacOS/SimpleCalendar
+xnormal
+xi386
+lSLF07#2@102"Link /Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/MacOS/SimpleCalendar303226431#303226431#0(0"0(0#0#0"4300911832#588"    cd /Users/reshma/Desktop/SimpleCalendar    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/reshma/Desktop/SimpleCalendar/build/Debug -F/Users/reshma/Desktop/SimpleCalendar/build/Debug -filelist /Users/reshma/Desktop/SimpleCalendar/build/SimpleCalendar.build/Debug/SimpleCalendar.build/Objects-normal/i386/SimpleCalendar.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework CalendarStore -o /Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/MacOS/SimpleCalendar0#
+
+CProcessInfoPlistFile /Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/Info.plist Info.plist
+s303226428.482066
+e303226428.490474
+r1
+xProcessInfoPlistFile
+x/Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist303226428#303226428#0(0"0(0#0#47"/Users/reshma/Desktop/SimpleCalendar/Info.plist4300911832#310"    cd /Users/reshma/Desktop/SimpleCalendar    builtin-infoPlistUtility Info.plist -genpkginfo /Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/Info.plist0#
+
+CStripNIB /Users/reshma/Desktop/SimpleCalendar/English.lproj/Calendar.nib
+s303226428.715464
+e303226428.871832
+r1
+xStripNIB
+x/Users/reshma/Desktop/SimpleCalendar/English.lproj/Calendar.nib
+lSLF07#2@35"StripNIB English.lproj/Calendar.nib303226428#303226428#0(0"0(0#0#63"/Users/reshma/Desktop/SimpleCalendar/English.lproj/Calendar.nib4300911832#296"    cd /Users/reshma/Desktop/SimpleCalendar    /Developer/usr/bin/ibtool --strip /Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/Resources/English.lproj/Calendar.nib --output-format human-readable-text /Users/reshma/Desktop/SimpleCalendar/English.lproj/Calendar.nib0#
+
+CStripNIB /Users/reshma/Desktop/SimpleCalendar/English.lproj/Day.nib
+s303226428.871919
+e303226428.983439
+r1
+xStripNIB
+x/Users/reshma/Desktop/SimpleCalendar/English.lproj/Day.nib
+lSLF07#2@30"StripNIB English.lproj/Day.nib303226428#303226428#0(0"0(0#0#58"/Users/reshma/Desktop/SimpleCalendar/English.lproj/Day.nib4300911832#286"    cd /Users/reshma/Desktop/SimpleCalendar    /Developer/usr/bin/ibtool --strip /Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/Resources/English.lproj/Day.nib --output-format human-readable-text /Users/reshma/Desktop/SimpleCalendar/English.lproj/Day.nib0#
+
+CStripNIB /Users/reshma/Desktop/SimpleCalendar/English.lproj/MainMenu.nib
+s303226428.490562
+e303226428.715359
+r1
+xStripNIB
+x/Users/reshma/Desktop/SimpleCalendar/English.lproj/MainMenu.nib
+lSLF07#2@35"StripNIB English.lproj/MainMenu.nib303226428#303226428#0(0"0(0#0#63"/Users/reshma/Desktop/SimpleCalendar/English.lproj/MainMenu.nib4300911832#296"    cd /Users/reshma/Desktop/SimpleCalendar    /Developer/usr/bin/ibtool --strip /Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/Resources/English.lproj/MainMenu.nib --output-format human-readable-text /Users/reshma/Desktop/SimpleCalendar/English.lproj/MainMenu.nib0#
+
+CStripNIB /Users/reshma/Desktop/SimpleCalendar/English.lproj/MyDocument.nib
+s303226428.983520
+e303226429.088740
+r1
+xStripNIB
+x/Users/reshma/Desktop/SimpleCalendar/English.lproj/MyDocument.nib
+lSLF07#2@37"StripNIB English.lproj/MyDocument.nib303226428#303226429#0(0"0(0#0#65"/Users/reshma/Desktop/SimpleCalendar/English.lproj/MyDocument.nib4300911832#300"    cd /Users/reshma/Desktop/SimpleCalendar    /Developer/usr/bin/ibtool --strip /Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app/Contents/Resources/English.lproj/MyDocument.nib --output-format human-readable-text /Users/reshma/Desktop/SimpleCalendar/English.lproj/MyDocument.nib0#
+
+CTouch /Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app
+s303226431.362858
+e303226431.365572
+r1
+xTouch
+x/Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app
+lSLF07#2@73"Touch /Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app303226431#303226431#0(0"0(0#0#0"4300911832#134"    cd /Users/reshma/Desktop/SimpleCalendar    /usr/bin/touch -c /Users/reshma/Desktop/SimpleCalendar/build/Debug/SimpleCalendar.app0#
+

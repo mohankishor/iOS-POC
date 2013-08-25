@@ -1,0 +1,418 @@
+TXMl parser example
+v7
+r0
+t312213877.600300
+cCheck dependencies
+cProcessInfoPlistFile "/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app/Info.plist" XMl_parser_example-Info.plist
+cCompileXIB "/Users/reshma/Desktop/XMl parser example 3/MainWindow.xib"
+cCompileXIB "/Users/reshma/Desktop/XMl parser example 3/XMl_parser_exampleViewController.xib"
+cProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMl_parser_example_Prefix-eqecalzmuzawtxdhpciicxgvwsmh/XMl_parser_example_Prefix.pch.gch XMl_parser_example_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMl_parser_example_Prefix-auqpfpthbcmtkradtwldhemcrpye/XMl_parser_example_Prefix.pch.gch XMl_parser_example_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC "build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/main.o" "/Users/reshma/Desktop/XMl parser example 3/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/XMl_parser_exampleAppDelegate.o" "/Users/reshma/Desktop/XMl parser example 3/Classes/XMl_parser_exampleAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/XMl_parser_exampleViewController.o" "/Users/reshma/Desktop/XMl parser example 3/Classes/XMl_parser_exampleViewController.mm" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC "build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/tinyxml.o" "/Users/reshma/Desktop/XMl parser example 3/Classes/TinyXML/tinyxml.mm" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC "build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/tinyxmlerror.o" "/Users/reshma/Desktop/XMl parser example 3/Classes/TinyXML/tinyxmlerror.mm" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC "build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/tinyxmlparser.o" "/Users/reshma/Desktop/XMl parser example 3/Classes/TinyXML/tinyxmlparser.mm" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cLd "/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app/XMl parser example" normal i386
+cGenerateDSYMFile "/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app.dSYM" "/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app/XMl parser example"
+cTouch "/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C9AD4330000000000000132
+t1285215283
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/assert.h
+c000000004A5C14A60000000000000DCB
+t1247548582
+s3531
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/ctype.h
+c000000004A5C14A60000000000002C18
+t1247548582
+s11288
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004A1198340000000000003197
+t1242667060
+s12695
+
+N/Users/reshma/Desktop/XMl parser example 3/Classes/TinyXML/tinyxml.h
+c000000004A9B615E000000000000FC3E
+t1251696990
+s64574
+i<ctype.h>
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<assert.h>
+i<string>
+i<iostream>
+i<sstream>
+i"tinystr.h"
+
+N/Users/reshma/Desktop/XMl parser example 3/Classes/TinyXML/tinyxml.mm
+c000000004A9B615E0000000000009064
+t1251696990
+s36964
+i<ctype.h>
+i<sstream>
+i<iostream>
+i"tinyxml.h"
+
+N/Users/reshma/Desktop/XMl parser example 3/Classes/TinyXML/tinyxmlerror.mm
+c000000004A9B615E0000000000000712
+t1251696990
+s1810
+i"tinyxml.h"
+
+N/Users/reshma/Desktop/XMl parser example 3/Classes/TinyXML/tinyxmlparser.mm
+c000000004A9B615E00000000000091D7
+t1251696990
+s37335
+i<ctype.h>
+i<stddef.h>
+i"tinyxml.h"
+i<windows.h>
+
+N/Users/reshma/Desktop/XMl parser example 3/Classes/XMl_parser_exampleAppDelegate.h
+c000000004C86012B0000000000000223
+t1283850539
+s547
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/XMl parser example 3/Classes/XMl_parser_exampleAppDelegate.m
+c000000004C85E9C400000000000007E2
+t1283844548
+s2018
+i"XMl_parser_exampleAppDelegate.h"
+i"XMl_parser_exampleViewController.h"
+
+N/Users/reshma/Desktop/XMl parser example 3/Classes/XMl_parser_exampleViewController.h
+c000000004C87236D0000000000000167
+t1283924845
+s359
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/XMl parser example 3/Classes/XMl_parser_exampleViewController.mm
+c000000004CDA857F00000000000017FB
+t1289389439
+s6139
+i"XMl_parser_exampleViewController.h"
+i"tinyXML.h"
+
+N/Users/reshma/Desktop/XMl parser example 3/MainWindow.xib
+c000000004C85E9C40000000000004D77
+t1283844548
+s19831
+
+N/Users/reshma/Desktop/XMl parser example 3/XMl_parser_exampleViewController.xib
+c000000004C85E9C40000000000003F0D
+t1283844548
+s16141
+
+N/Users/reshma/Desktop/XMl parser example 3/XMl_parser_example_Prefix.pch
+c000000004C85E9C400000000000000CD
+t1283844548
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app
+t1290521077
+s238
+
+N/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app.dSYM
+t1290521077
+s102
+
+N/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app/Info.plist
+t1290521073
+s848
+
+N/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app/MainWindow.nib
+t1289380938
+s1145
+
+N/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app/PkgInfo
+t1290521073
+s8
+
+N/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app/XMl parser example
+t1290521077
+s138392
+
+N/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app/XMl_parser_exampleViewController.nib
+t1289380938
+s764
+
+N/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/XMl parser example.LinkFileList
+c000000004CDA644900000000000003C1
+t1289380937
+s961
+
+N/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/XMl_parser_exampleAppDelegate.o
+t1290521075
+s47560
+
+N/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/XMl_parser_exampleViewController.o
+t1290521076
+s140460
+
+N/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/main.o
+t1290521075
+s6312
+
+N/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/tinyxml.o
+t1290521076
+s252276
+
+N/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/tinyxmlerror.o
+t1290521076
+s73884
+
+N/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/tinyxmlparser.o
+t1290521077
+s161956
+
+N/Users/reshma/Desktop/XMl parser example 3/main.m
+c000000004C85E9C40000000000000175
+t1283844548
+s373
+i<UIKit/UIKit.h>
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMl_parser_example_Prefix-auqpfpthbcmtkradtwldhemcrpye/XMl_parser_example_Prefix.pch.gch
+t1290521075
+s16227216
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMl_parser_example_Prefix-eqecalzmuzawtxdhpciicxgvwsmh/XMl_parser_example_Prefix.pch.gch
+t1290521074
+s15211536
+
+NXMl_parser_example-Info.plist
+c000000004C85E9C400000000000004D6
+t1283844548
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312213872#312213873#0(0"0(0#1#0"8643810976#0"0#
+
+CCompileC "build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/XMl_parser_exampleAppDelegate.o" "/Users/reshma/Desktop/XMl parser example 3/Classes/XMl_parser_exampleAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312213875.278553
+e312213875.475230
+r1
+xCompileC
+xbuild/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/XMl_parser_exampleAppDelegate.o
+x/Users/reshma/Desktop/XMl parser example 3/Classes/XMl_parser_exampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@90"Compile /Users/reshma/Desktop/XMl parser example 3/Classes/XMl_parser_exampleAppDelegate.m312213875#312213875#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#82"/Users/reshma/Desktop/XMl parser example 3/Classes/XMl_parser_exampleAppDelegate.m8642606880#2315"    cd "/Users/reshma/Desktop/XMl parser example 3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DTIXML_USE_STL -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-generated-files.hmap" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-own-target-headers.hmap" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-project-headers.hmap" "-F/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator" "-I/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/include" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/DerivedSources/i386" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMl_parser_example_Prefix-eqecalzmuzawtxdhpciicxgvwsmh/XMl_parser_example_Prefix.pch -c "/Users/reshma/Desktop/XMl parser example 3/Classes/XMl_parser_exampleAppDelegate.m" -o "/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/XMl_parser_exampleAppDelegate.o"0#
+
+CCompileC "build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/XMl_parser_exampleViewController.o" "/Users/reshma/Desktop/XMl parser example 3/Classes/XMl_parser_exampleViewController.mm" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s312213875.359946
+e312213876.277372
+r1
+xCompileC
+xbuild/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/XMl_parser_exampleViewController.o
+x/Users/reshma/Desktop/XMl parser example 3/Classes/XMl_parser_exampleViewController.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+o/Users/reshma/Desktop/XMl parser example 3/Classes/XMl_parser_exampleViewController.mm: In function 'NSMutableArray* -[XMl_parser_exampleViewController parseXML:](XMl_parser_exampleViewController*, objc_selector*, NSString*)':
+o/Users/reshma/Desktop/XMl parser example 3/Classes/XMl_parser_exampleViewController.mm:129: warning: 'XMl_parser_exampleViewController' may not respond to '-getTree:'
+o/Users/reshma/Desktop/XMl parser example 3/Classes/XMl_parser_exampleViewController.mm:129: warning: (Messages without a matching method signature
+o/Users/reshma/Desktop/XMl parser example 3/Classes/XMl_parser_exampleViewController.mm:129: warning: will be assumed to return 'id' and accept
+o/Users/reshma/Desktop/XMl parser example 3/Classes/XMl_parser_exampleViewController.mm:129: warning: '...' as arguments.)
+lSLF07#2@94"Compile /Users/reshma/Desktop/XMl parser example 3/Classes/XMl_parser_exampleViewController.mm312213875#312213876#0(949"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition/Users/reshma/Desktop/XMl parser example 3/Classes/XMl_parser_exampleViewController.mm: In function 'NSMutableArray* -[XMl_parser_exampleViewController parseXML:](XMl_parser_exampleViewController*, objc_selector*, NSString*)':/Users/reshma/Desktop/XMl parser example 3/Classes/XMl_parser_exampleViewController.mm:129: warning: 'XMl_parser_exampleViewController' may not respond to '-getTree:'/Users/reshma/Desktop/XMl parser example 3/Classes/XMl_parser_exampleViewController.mm:129: warning: (Messages without a matching method signature/Users/reshma/Desktop/XMl parser example 3/Classes/XMl_parser_exampleViewController.mm:129: warning: will be assumed to return 'id' and accept/Users/reshma/Desktop/XMl parser example 3/Classes/XMl_parser_exampleViewController.mm:129: warning: '...' as arguments.)2(22@65"'XMl_parser_exampleViewController' may not respond to '-getTree:'312213876#370#167#0(6@86"/Users/reshma/Desktop/XMl parser example 3/Classes/XMl_parser_exampleViewController.mm311082239#129#0#129#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)312213876#537#147#0(6@86"/Users/reshma/Desktop/XMl parser example 3/Classes/XMl_parser_exampleViewController.mm311082239#129#0#129#0#0"0(0#0#86"/Users/reshma/Desktop/XMl parser example 3/Classes/XMl_parser_exampleViewController.mm8640816992#2343"    cd "/Users/reshma/Desktop/XMl parser example 3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DTIXML_USE_STL -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-generated-files.hmap" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-own-target-headers.hmap" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-project-headers.hmap" "-F/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator" "-I/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/include" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/DerivedSources/i386" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMl_parser_example_Prefix-auqpfpthbcmtkradtwldhemcrpye/XMl_parser_example_Prefix.pch -c "/Users/reshma/Desktop/XMl parser example 3/Classes/XMl_parser_exampleViewController.mm" -o "/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/XMl_parser_exampleViewController.o"0#
+
+CCompileC "build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/main.o" "/Users/reshma/Desktop/XMl parser example 3/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312213875.277135
+e312213875.359846
+r1
+xCompileC
+xbuild/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/main.o
+x/Users/reshma/Desktop/XMl parser example 3/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@57"Compile /Users/reshma/Desktop/XMl parser example 3/main.m312213875#312213875#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#49"/Users/reshma/Desktop/XMl parser example 3/main.m8620990496#2257"    cd "/Users/reshma/Desktop/XMl parser example 3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DTIXML_USE_STL -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-generated-files.hmap" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-own-target-headers.hmap" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-project-headers.hmap" "-F/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator" "-I/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/include" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/DerivedSources/i386" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMl_parser_example_Prefix-eqecalzmuzawtxdhpciicxgvwsmh/XMl_parser_example_Prefix.pch -c "/Users/reshma/Desktop/XMl parser example 3/main.m" -o "/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/tinyxml.o" "/Users/reshma/Desktop/XMl parser example 3/Classes/TinyXML/tinyxml.mm" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s312213875.475799
+e312213876.495310
+r1
+xCompileC
+xbuild/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/tinyxml.o
+x/Users/reshma/Desktop/XMl parser example 3/Classes/TinyXML/tinyxml.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@77"Compile /Users/reshma/Desktop/XMl parser example 3/Classes/TinyXML/tinyxml.mm312213875#312213876#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#69"/Users/reshma/Desktop/XMl parser example 3/Classes/TinyXML/tinyxml.mm8630602944#2301"    cd "/Users/reshma/Desktop/XMl parser example 3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DTIXML_USE_STL -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-generated-files.hmap" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-own-target-headers.hmap" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-project-headers.hmap" "-F/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator" "-I/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/include" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/DerivedSources/i386" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMl_parser_example_Prefix-auqpfpthbcmtkradtwldhemcrpye/XMl_parser_example_Prefix.pch -c "/Users/reshma/Desktop/XMl parser example 3/Classes/TinyXML/tinyxml.mm" -o "/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/tinyxml.o"0#
+
+CCompileC "build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/tinyxmlerror.o" "/Users/reshma/Desktop/XMl parser example 3/Classes/TinyXML/tinyxmlerror.mm" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s312213876.277474
+e312213876.797780
+r1
+xCompileC
+xbuild/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/tinyxmlerror.o
+x/Users/reshma/Desktop/XMl parser example 3/Classes/TinyXML/tinyxmlerror.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@82"Compile /Users/reshma/Desktop/XMl parser example 3/Classes/TinyXML/tinyxmlerror.mm312213876#312213876#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#74"/Users/reshma/Desktop/XMl parser example 3/Classes/TinyXML/tinyxmlerror.mm8639076032#2311"    cd "/Users/reshma/Desktop/XMl parser example 3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DTIXML_USE_STL -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-generated-files.hmap" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-own-target-headers.hmap" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-project-headers.hmap" "-F/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator" "-I/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/include" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/DerivedSources/i386" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMl_parser_example_Prefix-auqpfpthbcmtkradtwldhemcrpye/XMl_parser_example_Prefix.pch -c "/Users/reshma/Desktop/XMl parser example 3/Classes/TinyXML/tinyxmlerror.mm" -o "/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/tinyxmlerror.o"0#
+
+CCompileC "build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/tinyxmlparser.o" "/Users/reshma/Desktop/XMl parser example 3/Classes/TinyXML/tinyxmlparser.mm" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s312213876.495424
+e312213877.051752
+r1
+xCompileC
+xbuild/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/tinyxmlparser.o
+x/Users/reshma/Desktop/XMl parser example 3/Classes/TinyXML/tinyxmlparser.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@83"Compile /Users/reshma/Desktop/XMl parser example 3/Classes/TinyXML/tinyxmlparser.mm312213876#312213877#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#75"/Users/reshma/Desktop/XMl parser example 3/Classes/TinyXML/tinyxmlparser.mm8624011776#2313"    cd "/Users/reshma/Desktop/XMl parser example 3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DTIXML_USE_STL -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-generated-files.hmap" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-own-target-headers.hmap" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-project-headers.hmap" "-F/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator" "-I/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/include" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/DerivedSources/i386" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/DerivedSources" -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMl_parser_example_Prefix-auqpfpthbcmtkradtwldhemcrpye/XMl_parser_example_Prefix.pch -c "/Users/reshma/Desktop/XMl parser example 3/Classes/TinyXML/tinyxmlparser.mm" -o "/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/tinyxmlparser.o"0#
+
+CCompileXIB "/Users/reshma/Desktop/XMl parser example 3/MainWindow.xib"
+s311073737.650524
+e311073738.415449
+r1
+xCompileXIB
+x/Users/reshma/Desktop/XMl parser example 3/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib311073737#311073738#0(0"0(0#0#57"/Users/reshma/Desktop/XMl parser example 3/MainWindow.xib8634902784#599"    cd "/Users/reshma/Desktop/XMl parser example 3"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app/MainWindow.nib" "/Users/reshma/Desktop/XMl parser example 3/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/reshma/Desktop/XMl parser example 3/XMl_parser_exampleViewController.xib"
+s311073737.651493
+e311073738.402517
+r1
+xCompileXIB
+x/Users/reshma/Desktop/XMl parser example 3/XMl_parser_exampleViewController.xib
+lSLF07#2@47"CompileXIB XMl_parser_exampleViewController.xib311073737#311073738#0(0"0(0#0#79"/Users/reshma/Desktop/XMl parser example 3/XMl_parser_exampleViewController.xib8634456480#643"    cd "/Users/reshma/Desktop/XMl parser example 3"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app/XMl_parser_exampleViewController.nib" "/Users/reshma/Desktop/XMl parser example 3/XMl_parser_exampleViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile "/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app.dSYM" "/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app/XMl parser example"
+s312213877.434011
+e312213877.565820
+r1
+xGenerateDSYMFile
+x/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app.dSYM
+x/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app/XMl parser example
+lSLF07#2@146"GenerateDSYMFile "build/Debug-iphonesimulator/XMl parser example.app.dSYM" "build/Debug-iphonesimulator/XMl parser example.app/XMl parser example"312213877#312213877#0(0"0(0#0#112"/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app/XMl parser example8622047488#434"    cd "/Users/reshma/Desktop/XMl parser example 3"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app/XMl parser example" -o "/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app.dSYM"0#
+
+CLd "/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app/XMl parser example" normal i386
+s312213877.051841
+e312213877.433883
+r1
+xLd
+x/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app/XMl parser example
+xnormal
+xi386
+lSLF07#2@117"Link /Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app/XMl parser example312213877#312213877#0(0"0(0#0#0"8639883712#985"    cd "/Users/reshma/Desktop/XMl parser example 3"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator" "-F/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator" -filelist "/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/Objects-normal/i386/XMl parser example.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app/XMl parser example"0#
+
+CProcessInfoPlistFile "/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app/Info.plist" XMl_parser_example-Info.plist
+s312213873.099282
+e312213873.127596
+r1
+xProcessInfoPlistFile
+x/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app/Info.plist
+xXMl_parser_example-Info.plist
+lSLF07#2@37"Process XMl_parser_example-Info.plist312213873#312213873#0(0"0(0#0#72"/Users/reshma/Desktop/XMl parser example 3/XMl_parser_example-Info.plist8643199936#530"    cd "/Users/reshma/Desktop/XMl parser example 3"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility XMl_parser_example-Info.plist -genpkginfo "/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app/Info.plist"0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMl_parser_example_Prefix-eqecalzmuzawtxdhpciicxgvwsmh/XMl_parser_example_Prefix.pch.gch XMl_parser_example_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s312213873.127836
+e312213875.129383
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMl_parser_example_Prefix-eqecalzmuzawtxdhpciicxgvwsmh/XMl_parser_example_Prefix.pch.gch
+xXMl_parser_example_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@40"Precompile XMl_parser_example_Prefix.pch312213873#312213875#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#72"/Users/reshma/Desktop/XMl parser example 3/XMl_parser_example_Prefix.pch8640630240#2132"    cd "/Users/reshma/Desktop/XMl parser example 3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DTIXML_USE_STL -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-generated-files.hmap" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-own-target-headers.hmap" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-project-headers.hmap" "-F/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator" "-I/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/include" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/DerivedSources/i386" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/DerivedSources" -c "/Users/reshma/Desktop/XMl parser example 3/XMl_parser_example_Prefix.pch" -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMl_parser_example_Prefix-eqecalzmuzawtxdhpciicxgvwsmh/XMl_parser_example_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMl_parser_example_Prefix-auqpfpthbcmtkradtwldhemcrpye/XMl_parser_example_Prefix.pch.gch XMl_parser_example_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s312213873.128795
+e312213875.276993
+r1
+xProcessPCH++
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMl_parser_example_Prefix-auqpfpthbcmtkradtwldhemcrpye/XMl_parser_example_Prefix.pch.gch
+xXMl_parser_example_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@40"Precompile XMl_parser_example_Prefix.pch312213873#312213875#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#72"/Users/reshma/Desktop/XMl parser example 3/XMl_parser_example_Prefix.pch8639442112#2153"    cd "/Users/reshma/Desktop/XMl parser example 3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DTIXML_USE_STL -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-generated-files.hmap" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-own-target-headers.hmap" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-all-target-headers.hmap" -iquote "/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/XMl parser example-project-headers.hmap" "-F/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator" "-I/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/include" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/DerivedSources/i386" "-I/Users/reshma/Desktop/XMl parser example 3/build/XMl parser example.build/Debug-iphonesimulator/XMl parser example.build/DerivedSources" -c "/Users/reshma/Desktop/XMl parser example 3/XMl_parser_example_Prefix.pch" -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMl_parser_example_Prefix-auqpfpthbcmtkradtwldhemcrpye/XMl_parser_example_Prefix.pch.gch0#
+
+CTouch "/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app"
+s312213877.565926
+e312213877.600260
+r1
+xTouch
+x/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app
+lSLF07#2@99"Touch /Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app312213877#312213877#0(0"0(0#0#0"8615255200#301"    cd "/Users/reshma/Desktop/XMl parser example 3"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/reshma/Desktop/XMl parser example 3/build/Debug-iphonesimulator/XMl parser example.app"0#
+

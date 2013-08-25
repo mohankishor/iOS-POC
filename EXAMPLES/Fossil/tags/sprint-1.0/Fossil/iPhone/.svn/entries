@@ -1,0 +1,28 @@
+10
+
+dir
+208
+svn+ssh://192.168.2.99/svn/iphone/fossil/tags/sprint-1.0/Fossil/iPhone
+svn+ssh://192.168.2.99/svn/iphone/fossil
+
+
+
+2010-09-07T08:46:31.444006Z
+8
+ganeshn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6b17547e-88a6-4764-b194-5126e0d3e9e1
+

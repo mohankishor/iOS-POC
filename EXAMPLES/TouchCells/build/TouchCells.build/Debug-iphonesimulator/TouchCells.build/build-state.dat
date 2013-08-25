@@ -1,0 +1,533 @@
+TTouchCells
+v7
+r0
+t306320846.689854
+cCheck dependencies
+cProcessInfoPlistFile /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/Info.plist Info.plist
+cCompileXIB /Users/reshma/Downloads/TouchCells/en.lproj/MainWindow.xib
+cCompileXIB /Users/reshma/Downloads/TouchCells/en.lproj/DetailViewController.xib
+cCopyPlistFile /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/tableData.plist tableData.plist
+cCpResource build/Debug-iphonesimulator/TouchCells.app/checked.png images/checked.png
+cCpResource build/Debug-iphonesimulator/TouchCells.app/Default.png images/Default.png
+cCpResource build/Debug-iphonesimulator/TouchCells.app/Icon-72.png images/Icon-72.png
+cCpResource build/Debug-iphonesimulator/TouchCells.app/Icon-Small-50.png images/Icon-Small-50.png
+cCpResource build/Debug-iphonesimulator/TouchCells.app/Icon-Small.png images/Icon-Small.png
+cCpResource build/Debug-iphonesimulator/TouchCells.app/Icon-Small@2x.png images/Icon-Small@2x.png
+cCpResource build/Debug-iphonesimulator/TouchCells.app/Icon.png images/Icon.png
+cCpResource build/Debug-iphonesimulator/TouchCells.app/Icon@2x.png images/Icon@2x.png
+cCpResource build/Debug-iphonesimulator/TouchCells.app/unchecked.png images/unchecked.png
+cCpResource build/Debug-iphonesimulator/TouchCells.app/iTunesArtwork images/iTunesArtwork
+cProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gygxykwrhmtddrcourjmhyryopbr/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/main.o /Users/reshma/Downloads/TouchCells/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/AppDelegate.o /Users/reshma/Downloads/TouchCells/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/MyTableViewController.o /Users/reshma/Downloads/TouchCells/MyTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/CustomCell.o /Users/reshma/Downloads/TouchCells/CustomCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/DetailViewController.o /Users/reshma/Downloads/TouchCells/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/TouchCells normal i386
+cGenerateDSYMFile /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app.dSYM /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/TouchCells
+cTouch /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BCD3F9E0000000000000110
+t1271742366
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AB3000000000026F020
+t1268791987
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F1DE40000000000289C20
+t1268719076
+s2661408
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F1DD60000000000001355
+t1268719062
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004B9F27B9000000000011BF20
+t1268721593
+s1163040
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BA6CAEC000000000000098F
+t1269222124
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BA6CB31000000000214E400
+t1269222193
+s34923520
+
+N/Users/reshma/Downloads/TouchCells/AppDelegate.h
+c000000004C2A334E0000000000000BAE
+t1277834062
+s2990
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/TouchCells/AppDelegate.m
+c000000004C2A334E0000000000000FDB
+t1277834062
+s4059
+i"AppDelegate.h"
+i"MyTableViewController.h"
+i"DetailViewController.h"
+
+N/Users/reshma/Downloads/TouchCells/CustomCell.h
+c000000004C2A334E0000000000000ABE
+t1277834062
+s2750
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/TouchCells/CustomCell.m
+c000000004C2A334E00000000000012F6
+t1277834062
+s4854
+i"CustomCell.h"
+
+N/Users/reshma/Downloads/TouchCells/DetailViewController.h
+c000000004C2A334E0000000000000ADB
+t1277834062
+s2779
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/TouchCells/DetailViewController.m
+c000000004C2A334E0000000000000AE4
+t1277834062
+s2788
+i"DetailViewController.h"
+
+N/Users/reshma/Downloads/TouchCells/MyTableViewController.h
+c000000004C2A334E0000000000000A2D
+t1277834062
+s2605
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/TouchCells/MyTableViewController.m
+c000000004C2A334E0000000000001637
+t1277834062
+s5687
+i"MyTableViewController.h"
+i"CustomCell.h"
+i"AppDelegate.h"
+
+N/Users/reshma/Downloads/TouchCells/Prefix.pch
+c0000000048DBDF4F0000000000000059
+t1222369103
+s89
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app
+t1284628046
+s578
+
+N/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app.dSYM
+t1284628046
+s102
+
+N/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/Default.png
+t1284628044
+s8674
+
+N/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/Icon-72.png
+t1284628044
+s1063
+
+N/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/Icon-Small-50.png
+t1284628044
+s992
+
+N/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/Icon-Small.png
+t1284628044
+s918
+
+N/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/Icon-Small@2x.png
+t1284628044
+s1010
+
+N/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/Icon.png
+t1284628044
+s1007
+
+N/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/Icon@2x.png
+t1284628044
+s1252
+
+N/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/Info.plist
+t1284628043
+s731
+
+N/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/PkgInfo
+t1284628044
+s8
+
+N/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/TouchCells
+t1284628046
+s28960
+
+N/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/checked.png
+t1284628044
+s1346
+
+N/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/en.lproj/DetailViewController.nib
+t1284628044
+s1367
+
+N/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/en.lproj/MainWindow.nib
+t1284628044
+s1939
+
+N/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/iTunesArtwork
+t1284628044
+s5188
+
+N/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/tableData.plist
+t1284628045
+s171
+
+N/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/unchecked.png
+t1284628044
+s1076
+
+N/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/AppDelegate.o
+t1284628046
+s48240
+
+N/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/CustomCell.o
+t1284628046
+s26464
+
+N/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/DetailViewController.o
+t1284628046
+s35512
+
+N/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/MyTableViewController.o
+t1284628046
+s48864
+
+N/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/TouchCells.LinkFileList
+c000000004C91DE4B000000000000029A
+t1284628043
+s666
+
+N/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/main.o
+t1284628046
+s5936
+
+N/Users/reshma/Downloads/TouchCells/en.lproj/DetailViewController.xib
+c0000000049F8E0D10000000000002441
+t1241047249
+s9281
+
+N/Users/reshma/Downloads/TouchCells/en.lproj/MainWindow.xib
+c0000000049F8E0D10000000000003A04
+t1241047249
+s14852
+
+N/Users/reshma/Downloads/TouchCells/images/Default.png
+c000000004C21249D00000000000021E2
+t1277240477
+s8674
+
+N/Users/reshma/Downloads/TouchCells/images/Icon-72.png
+c000000004C21249D0000000000000427
+t1277240477
+s1063
+
+N/Users/reshma/Downloads/TouchCells/images/Icon-Small-50.png
+c000000004C21249D00000000000003E0
+t1277240477
+s992
+
+N/Users/reshma/Downloads/TouchCells/images/Icon-Small.png
+c000000004C21249D0000000000000396
+t1277240477
+s918
+
+N/Users/reshma/Downloads/TouchCells/images/Icon-Small@2x.png
+c000000004C21249D00000000000003F2
+t1277240477
+s1010
+
+N/Users/reshma/Downloads/TouchCells/images/Icon.png
+c000000004C21249D00000000000003EF
+t1277240477
+s1007
+
+N/Users/reshma/Downloads/TouchCells/images/Icon@2x.png
+c000000004C21249D00000000000004E4
+t1277240477
+s1252
+
+N/Users/reshma/Downloads/TouchCells/images/checked.png
+c000000004C21249D0000000000000542
+t1277240477
+s1346
+
+N/Users/reshma/Downloads/TouchCells/images/iTunesArtwork
+c000000004C28EDDD0000000000001444
+t1277750749
+s5188
+
+N/Users/reshma/Downloads/TouchCells/images/unchecked.png
+c000000004C21249D0000000000000434
+t1277240477
+s1076
+
+N/Users/reshma/Downloads/TouchCells/main.m
+c000000004C2A334E0000000000000A84
+t1277834062
+s2692
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Downloads/TouchCells/tableData.plist
+c00000000493D4D1E0000000000000302
+t1228754206
+s770
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gygxykwrhmtddrcourjmhyryopbr/Prefix.pch.gch
+t1284628045
+s13805456
+
+NInfo.plist
+c000000004C28EDDD0000000000000448
+t1277750749
+s1096
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306320843#306320843#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/AppDelegate.o /Users/reshma/Downloads/TouchCells/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306320846.108033
+e306320846.228455
+r1
+xCompileC
+xbuild/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/AppDelegate.o
+x/Users/reshma/Downloads/TouchCells/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/reshma/Downloads/TouchCells/AppDelegate.m306320846#306320846#0(0"0(0#0#48"/Users/reshma/Downloads/TouchCells/AppDelegate.m4300911832#1865"    cd /Users/reshma/Downloads/TouchCells    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-generated-files.hmap -I/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-own-target-headers.hmap -I/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-all-target-headers.hmap -iquote /Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-project-headers.hmap -F/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator -I/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/include -I/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/DerivedSources/i386 -I/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gygxykwrhmtddrcourjmhyryopbr/Prefix.pch -c /Users/reshma/Downloads/TouchCells/AppDelegate.m -o /Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/CustomCell.o /Users/reshma/Downloads/TouchCells/CustomCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306320846.228565
+e306320846.375651
+r1
+xCompileC
+xbuild/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/CustomCell.o
+x/Users/reshma/Downloads/TouchCells/CustomCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/reshma/Downloads/TouchCells/CustomCell.m306320846#306320846#0(0"0(0#0#47"/Users/reshma/Downloads/TouchCells/CustomCell.m4300911832#1863"    cd /Users/reshma/Downloads/TouchCells    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-generated-files.hmap -I/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-own-target-headers.hmap -I/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-all-target-headers.hmap -iquote /Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-project-headers.hmap -F/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator -I/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/include -I/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/DerivedSources/i386 -I/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gygxykwrhmtddrcourjmhyryopbr/Prefix.pch -c /Users/reshma/Downloads/TouchCells/CustomCell.m -o /Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/CustomCell.o0#
+
+CCompileC build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/DetailViewController.o /Users/reshma/Downloads/TouchCells/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306320846.289529
+e306320846.356078
+r1
+xCompileC
+xbuild/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/DetailViewController.o
+x/Users/reshma/Downloads/TouchCells/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/reshma/Downloads/TouchCells/DetailViewController.m306320846#306320846#0(0"0(0#0#57"/Users/reshma/Downloads/TouchCells/DetailViewController.m4300911832#1883"    cd /Users/reshma/Downloads/TouchCells    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-generated-files.hmap -I/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-own-target-headers.hmap -I/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-all-target-headers.hmap -iquote /Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-project-headers.hmap -F/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator -I/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/include -I/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/DerivedSources/i386 -I/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gygxykwrhmtddrcourjmhyryopbr/Prefix.pch -c /Users/reshma/Downloads/TouchCells/DetailViewController.m -o /Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/MyTableViewController.o /Users/reshma/Downloads/TouchCells/MyTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306320846.184522
+e306320846.289408
+r1
+xCompileC
+xbuild/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/MyTableViewController.o
+x/Users/reshma/Downloads/TouchCells/MyTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/reshma/Downloads/TouchCells/MyTableViewController.m306320846#306320846#0(0"0(0#0#58"/Users/reshma/Downloads/TouchCells/MyTableViewController.m4300911832#1885"    cd /Users/reshma/Downloads/TouchCells    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-generated-files.hmap -I/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-own-target-headers.hmap -I/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-all-target-headers.hmap -iquote /Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-project-headers.hmap -F/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator -I/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/include -I/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/DerivedSources/i386 -I/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gygxykwrhmtddrcourjmhyryopbr/Prefix.pch -c /Users/reshma/Downloads/TouchCells/MyTableViewController.m -o /Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/MyTableViewController.o0#
+
+CCompileC build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/main.o /Users/reshma/Downloads/TouchCells/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306320846.103008
+e306320846.184405
+r1
+xCompileC
+xbuild/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/main.o
+x/Users/reshma/Downloads/TouchCells/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/reshma/Downloads/TouchCells/main.m306320846#306320846#0(0"0(0#0#41"/Users/reshma/Downloads/TouchCells/main.m4300911832#1851"    cd /Users/reshma/Downloads/TouchCells    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-generated-files.hmap -I/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-own-target-headers.hmap -I/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-all-target-headers.hmap -iquote /Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-project-headers.hmap -F/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator -I/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/include -I/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/DerivedSources/i386 -I/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gygxykwrhmtddrcourjmhyryopbr/Prefix.pch -c /Users/reshma/Downloads/TouchCells/main.m -o /Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/reshma/Downloads/TouchCells/en.lproj/DetailViewController.xib
+s306320844.013476
+e306320844.425195
+r1
+xCompileXIB
+x/Users/reshma/Downloads/TouchCells/en.lproj/DetailViewController.xib
+lSLF07#2@44"CompileXIB en.lproj/DetailViewController.xib306320844#306320844#0(0"0(0#0#68"/Users/reshma/Downloads/TouchCells/en.lproj/DetailViewController.xib4300911832#509"    cd /Users/reshma/Downloads/TouchCells    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/en.lproj/DetailViewController.nib /Users/reshma/Downloads/TouchCells/en.lproj/DetailViewController.xib0#
+
+CCompileXIB /Users/reshma/Downloads/TouchCells/en.lproj/MainWindow.xib
+s306320844.003427
+e306320844.439405
+r1
+xCompileXIB
+x/Users/reshma/Downloads/TouchCells/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib306320844#306320844#0(0"0(0#0#58"/Users/reshma/Downloads/TouchCells/en.lproj/MainWindow.xib4300911832#489"    cd /Users/reshma/Downloads/TouchCells    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/en.lproj/MainWindow.nib /Users/reshma/Downloads/TouchCells/en.lproj/MainWindow.xib0#
+
+CCopyPlistFile /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/tableData.plist tableData.plist
+s306320844.425284
+e306320845.247337
+r1
+xCopyPlistFile
+x/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/tableData.plist
+xtableData.plist
+lSLF07#2@20"Copy tableData.plist306320844#306320845#0(0"0(0#0#50"/Users/reshma/Downloads/TouchCells/tableData.plist4300911832#385"    cd /Users/reshma/Downloads/TouchCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 tableData.plist --outdir /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app0#
+
+CCpResource build/Debug-iphonesimulator/TouchCells.app/Default.png images/Default.png
+s306320844.440313
+e306320844.531463
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TouchCells.app/Default.png
+ximages/Default.png
+lSLF07#2@23"Copy images/Default.png306320844#306320844#0(0"0(0#0#53"/Users/reshma/Downloads/TouchCells/images/Default.png4300911832#453"    cd /Users/reshma/Downloads/TouchCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Downloads/TouchCells/images/Default.png /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app0#
+
+CCpResource build/Debug-iphonesimulator/TouchCells.app/Icon-72.png images/Icon-72.png
+s306320844.441092
+e306320844.526004
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TouchCells.app/Icon-72.png
+ximages/Icon-72.png
+lSLF07#2@23"Copy images/Icon-72.png306320844#306320844#0(0"0(0#0#53"/Users/reshma/Downloads/TouchCells/images/Icon-72.png4300911832#453"    cd /Users/reshma/Downloads/TouchCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Downloads/TouchCells/images/Icon-72.png /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app0#
+
+CCpResource build/Debug-iphonesimulator/TouchCells.app/Icon-Small-50.png images/Icon-Small-50.png
+s306320844.441898
+e306320844.526145
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TouchCells.app/Icon-Small-50.png
+ximages/Icon-Small-50.png
+lSLF07#2@29"Copy images/Icon-Small-50.png306320844#306320844#0(0"0(0#0#59"/Users/reshma/Downloads/TouchCells/images/Icon-Small-50.png4300911832#459"    cd /Users/reshma/Downloads/TouchCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Downloads/TouchCells/images/Icon-Small-50.png /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app0#
+
+CCpResource build/Debug-iphonesimulator/TouchCells.app/Icon-Small.png images/Icon-Small.png
+s306320844.443360
+e306320844.530921
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TouchCells.app/Icon-Small.png
+ximages/Icon-Small.png
+lSLF07#2@26"Copy images/Icon-Small.png306320844#306320844#0(0"0(0#0#56"/Users/reshma/Downloads/TouchCells/images/Icon-Small.png4300911832#456"    cd /Users/reshma/Downloads/TouchCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Downloads/TouchCells/images/Icon-Small.png /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app0#
+
+CCpResource build/Debug-iphonesimulator/TouchCells.app/Icon-Small@2x.png images/Icon-Small@2x.png
+s306320844.444755
+e306320844.531051
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TouchCells.app/Icon-Small@2x.png
+ximages/Icon-Small@2x.png
+lSLF07#2@29"Copy images/Icon-Small@2x.png306320844#306320844#0(0"0(0#0#59"/Users/reshma/Downloads/TouchCells/images/Icon-Small@2x.png4300911832#459"    cd /Users/reshma/Downloads/TouchCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Downloads/TouchCells/images/Icon-Small@2x.png /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app0#
+
+CCpResource build/Debug-iphonesimulator/TouchCells.app/Icon.png images/Icon.png
+s306320844.446207
+e306320844.526269
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TouchCells.app/Icon.png
+ximages/Icon.png
+lSLF07#2@20"Copy images/Icon.png306320844#306320844#0(0"0(0#0#50"/Users/reshma/Downloads/TouchCells/images/Icon.png4300911832#450"    cd /Users/reshma/Downloads/TouchCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Downloads/TouchCells/images/Icon.png /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app0#
+
+CCpResource build/Debug-iphonesimulator/TouchCells.app/Icon@2x.png images/Icon@2x.png
+s306320844.447703
+e306320844.526389
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TouchCells.app/Icon@2x.png
+ximages/Icon@2x.png
+lSLF07#2@23"Copy images/Icon@2x.png306320844#306320844#0(0"0(0#0#53"/Users/reshma/Downloads/TouchCells/images/Icon@2x.png4300911832#453"    cd /Users/reshma/Downloads/TouchCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Downloads/TouchCells/images/Icon@2x.png /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app0#
+
+CCpResource build/Debug-iphonesimulator/TouchCells.app/checked.png images/checked.png
+s306320844.439493
+e306320844.531342
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TouchCells.app/checked.png
+ximages/checked.png
+lSLF07#2@23"Copy images/checked.png306320844#306320844#0(0"0(0#0#53"/Users/reshma/Downloads/TouchCells/images/checked.png4300911832#453"    cd /Users/reshma/Downloads/TouchCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Downloads/TouchCells/images/checked.png /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app0#
+
+CCpResource build/Debug-iphonesimulator/TouchCells.app/iTunesArtwork images/iTunesArtwork
+s306320844.526469
+e306320844.543112
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TouchCells.app/iTunesArtwork
+ximages/iTunesArtwork
+lSLF07#2@25"Copy images/iTunesArtwork306320844#306320844#0(0"0(0#0#55"/Users/reshma/Downloads/TouchCells/images/iTunesArtwork4300911832#455"    cd /Users/reshma/Downloads/TouchCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Downloads/TouchCells/images/iTunesArtwork /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app0#
+
+CCpResource build/Debug-iphonesimulator/TouchCells.app/unchecked.png images/unchecked.png
+s306320844.449153
+e306320844.531171
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TouchCells.app/unchecked.png
+ximages/unchecked.png
+lSLF07#2@25"Copy images/unchecked.png306320844#306320844#0(0"0(0#0#55"/Users/reshma/Downloads/TouchCells/images/unchecked.png4300911832#455"    cd /Users/reshma/Downloads/TouchCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Downloads/TouchCells/images/unchecked.png /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app0#
+
+CGenerateDSYMFile /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app.dSYM /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/TouchCells
+s306320846.611938
+e306320846.686321
+r1
+xGenerateDSYMFile
+x/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app.dSYM
+x/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/TouchCells
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/TouchCells.app.dSYM build/Debug-iphonesimulator/TouchCells.app/TouchCells306320846#306320846#0(0"0(0#0#88"/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/TouchCells4300911832#380"    cd /Users/reshma/Downloads/TouchCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/TouchCells -o /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app.dSYM0#
+
+CLd /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/TouchCells normal i386
+s306320846.375738
+e306320846.611848
+r1
+xLd
+x/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/TouchCells
+xnormal
+xi386
+lSLF07#2@93"Link /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/TouchCells306320846#306320846#0(0"0(0#0#0"4300911832#879"    cd /Users/reshma/Downloads/TouchCells    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator -F/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator -filelist /Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/TouchCells.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/TouchCells0#
+
+CProcessInfoPlistFile /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/Info.plist Info.plist
+s306320843.993772
+e306320844.003356
+r1
+xProcessInfoPlistFile
+x/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist306320843#306320844#0(0"0(0#0#45"/Users/reshma/Downloads/TouchCells/Info.plist4300911832#465"    cd /Users/reshma/Downloads/TouchCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app/Info.plist0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gygxykwrhmtddrcourjmhyryopbr/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s306320845.247466
+e306320846.102843
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gygxykwrhmtddrcourjmhyryopbr/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch306320845#306320846#0(0"0(0#0#45"/Users/reshma/Downloads/TouchCells/Prefix.pch4300911832#1733"    cd /Users/reshma/Downloads/TouchCells    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-generated-files.hmap -I/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-own-target-headers.hmap -I/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-all-target-headers.hmap -iquote /Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-project-headers.hmap -F/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator -I/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/include -I/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/DerivedSources/i386 -I/Users/reshma/Downloads/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/DerivedSources -c /Users/reshma/Downloads/TouchCells/Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gygxykwrhmtddrcourjmhyryopbr/Prefix.pch.gch0#
+
+CTouch /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app
+s306320846.686421
+e306320846.689820
+r1
+xTouch
+x/Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app
+lSLF07#2@83"Touch /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app306320846#306320846#0(0"0(0#0#0"4300911832#273"    cd /Users/reshma/Downloads/TouchCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/reshma/Downloads/TouchCells/build/Debug-iphonesimulator/TouchCells.app0#
+

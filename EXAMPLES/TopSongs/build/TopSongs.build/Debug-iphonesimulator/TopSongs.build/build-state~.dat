@@ -1,0 +1,591 @@
+TTopSongs
+v7
+r0
+t311514042.631237
+cCheck dependencies
+cProcessInfoPlistFile /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/Info.plist Info.plist
+cCompileXIB /Users/sanath/Downloads/TopSongs/en.lproj/MainWindow.xib
+cCompileXIB /Users/sanath/Downloads/TopSongs/en.lproj/SongsView.xib
+cCompileXIB /Users/sanath/Downloads/TopSongs/en.lproj/SongDetailsView.xib
+cCopyStringsFile /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+cCpResource build/Debug-iphonesimulator/TopSongs.app/Icon-Small.png Images/Icon-Small.png
+cCpResource build/Debug-iphonesimulator/TopSongs.app/Icon-Small@2x.png Images/Icon-Small@2x.png
+cCpResource build/Debug-iphonesimulator/TopSongs.app/Icon.png Images/Icon.png
+cCpResource build/Debug-iphonesimulator/TopSongs.app/Icon@2x.png Images/Icon@2x.png
+cCpResource build/Debug-iphonesimulator/TopSongs.app/iTunesArtwork.png Images/iTunesArtwork.png
+cProcessPCH /var/folders/nO/nOimcyamGRSUaGlz-0TNhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gccyfkhyopvncydeuylgmvwnlzpa/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelCompile /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/TopSongs.mom /Users/sanath/Downloads/TopSongs/Model/TopSongs.xcdatamodel
+cCompileC build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/main.o /Users/sanath/Downloads/TopSongs/Application/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/AppDelegate.o /Users/sanath/Downloads/TopSongs/Application/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/SongsViewController.o /Users/sanath/Downloads/TopSongs/Controllers/SongsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/iTunesRSSImporter.o /Users/sanath/Downloads/TopSongs/Application/iTunesRSSImporter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/Song.o /Users/sanath/Downloads/TopSongs/Model/Song.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/SongDetailsController.o /Users/sanath/Downloads/TopSongs/Controllers/SongDetailsController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/Category.o /Users/sanath/Downloads/TopSongs/Model/Category.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/CategoryCache.o /Users/sanath/Downloads/TopSongs/Application/CategoryCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/TopSongs normal i386
+cGenerateDSYMFile /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app.dSYM /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/TopSongs
+cTouch /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004C5A4E0B00000000001D2EC0
+t1280986635
+s1912512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004C5A4DED000000000000046B
+t1280986605
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2/libxml/tree.h
+c000000004C5A4D3F0000000000008F14
+t1280986431
+s36628
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/libxml2.dylib
+c000000004C5A4D400000000000122A80
+t1280986432
+s1190528
+
+N/Users/sanath/Downloads/TopSongs/Application/AppDelegate.h
+c000000004C1AB59E0000000000000EB9
+t1276818846
+s3769
+i<UIKit/UIKit.h>
+i"iTunesRSSImporter.h"
+
+N/Users/sanath/Downloads/TopSongs/Application/AppDelegate.m
+c000000004C1AB59E000000000000243B
+t1276818846
+s9275
+i"AppDelegate.h"
+i"SongsViewController.h"
+
+N/Users/sanath/Downloads/TopSongs/Application/CategoryCache.h
+c000000004C1AB59E00000000000010FC
+t1276818846
+s4348
+i<Foundation/Foundation.h>
+
+N/Users/sanath/Downloads/TopSongs/Application/CategoryCache.m
+c000000004C1AB59E000000000000252C
+t1276818846
+s9516
+i"CategoryCache.h"
+i"Category.h"
+
+N/Users/sanath/Downloads/TopSongs/Application/iTunesRSSImporter.h
+c000000004C1AB59E0000000000001557
+t1276818846
+s5463
+i<UIKit/UIKit.h>
+i<libxml/tree.h>
+
+N/Users/sanath/Downloads/TopSongs/Application/iTunesRSSImporter.m
+c000000004C1AB59E00000000000048B9
+t1276818846
+s18617
+i"iTunesRSSImporter.h"
+i"Song.h"
+i"Category.h"
+i"CategoryCache.h"
+i<libxml/tree.h>
+
+N/Users/sanath/Downloads/TopSongs/Application/main.m
+c000000004C1AB59E0000000000000A78
+t1276818846
+s2680
+i<UIKit/UIKit.h>
+
+N/Users/sanath/Downloads/TopSongs/Controllers/SongDetailsController.h
+c000000004C1AB59E0000000000000AC2
+t1276818846
+s2754
+i<UIKit/UIKit.h>
+
+N/Users/sanath/Downloads/TopSongs/Controllers/SongDetailsController.m
+c000000004C1AB59E000000000000125D
+t1276818846
+s4701
+i"SongDetailsController.h"
+i"Song.h"
+i"Category.h"
+
+N/Users/sanath/Downloads/TopSongs/Controllers/SongsViewController.h
+c000000004C1AB59E0000000000000D17
+t1276818846
+s3351
+i<UIKit/UIKit.h>
+
+N/Users/sanath/Downloads/TopSongs/Controllers/SongsViewController.m
+c000000004C1AB59E0000000000002035
+t1276818846
+s8245
+i"SongsViewController.h"
+i"SongDetailsController.h"
+i"Song.h"
+
+N/Users/sanath/Downloads/TopSongs/Images/Icon-Small.png
+c000000004C1A8BB90000000000000396
+t1276808121
+s918
+
+N/Users/sanath/Downloads/TopSongs/Images/Icon-Small@2x.png
+c000000004C1A8BB900000000000003F2
+t1276808121
+s1010
+
+N/Users/sanath/Downloads/TopSongs/Images/Icon.png
+c000000004C1A8BB900000000000003EF
+t1276808121
+s1007
+
+N/Users/sanath/Downloads/TopSongs/Images/Icon@2x.png
+c000000004C1A8BB900000000000004E4
+t1276808121
+s1252
+
+N/Users/sanath/Downloads/TopSongs/Images/iTunesArtwork.png
+c000000004C1A8BB90000000000001444
+t1276808121
+s5188
+
+N/Users/sanath/Downloads/TopSongs/Model/Category.h
+c000000004C1AB59E0000000000000A53
+t1276818846
+s2643
+i<Foundation/Foundation.h>
+
+N/Users/sanath/Downloads/TopSongs/Model/Category.m
+c000000004C1AB59E00000000000009F5
+t1276818846
+s2549
+i"Category.h"
+
+N/Users/sanath/Downloads/TopSongs/Model/Song.h
+c000000004C1AB59E0000000000000B16
+t1276818846
+s2838
+i<UIKit/UIKit.h>
+
+N/Users/sanath/Downloads/TopSongs/Model/Song.m
+c000000004C1AB59E0000000000000A20
+t1276818846
+s2592
+i"Song.h"
+i"Category.h"
+
+N/Users/sanath/Downloads/TopSongs/Model/TopSongs.xcdatamodel
+c000000004C1AB59D0000000000000088
+t1276818845
+s136
+
+N/Users/sanath/Downloads/TopSongs/Prefix.pch
+c000000004A414EDE000000000000007B
+t1245794014
+s123
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app
+t1289821242
+s408
+
+N/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app.dSYM
+t1289821242
+s102
+
+N/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/Icon-Small.png
+t1289821240
+s918
+
+N/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/Icon-Small@2x.png
+t1289821240
+s1010
+
+N/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/Icon.png
+t1289821240
+s1007
+
+N/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/Icon@2x.png
+t1289821240
+s1252
+
+N/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/Info.plist
+t1289821239
+s624
+
+N/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/PkgInfo
+t1289821239
+s8
+
+N/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/TopSongs
+t1289821242
+s78200
+
+N/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/TopSongs.mom
+t1289821242
+s2240
+
+N/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/en.lproj/Localizable.strings
+t1289821241
+s170
+
+N/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/en.lproj/MainWindow.nib
+t1289821240
+s2561
+
+N/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/en.lproj/SongDetailsView.nib
+t1289821240
+s1580
+
+N/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/en.lproj/SongsView.nib
+t1289821240
+s3828
+
+N/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/iTunesArtwork.png
+t1289821240
+s5188
+
+N/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/AppDelegate.o
+t1289821242
+s89280
+
+N/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/Category.o
+t1289821242
+s5232
+
+N/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/CategoryCache.o
+t1289821242
+s36324
+
+N/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/Song.o
+t1289821242
+s5364
+
+N/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/SongDetailsController.o
+t1289821242
+s46900
+
+N/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/SongsViewController.o
+t1289821242
+s66084
+
+N/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/TopSongs.LinkFileList
+c000000004CE11C3700000000000003F1
+t1289821239
+s1009
+
+N/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/iTunesRSSImporter.o
+t1289821242
+s69396
+
+N/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/main.o
+t1289821242
+s6316
+
+N/Users/sanath/Downloads/TopSongs/en.lproj/Localizable.strings
+c000000004A414EDE00000000000003D2
+t1245794014
+s978
+
+N/Users/sanath/Downloads/TopSongs/en.lproj/MainWindow.xib
+c000000004A414EDE0000000000002E8F
+t1245794014
+s11919
+
+N/Users/sanath/Downloads/TopSongs/en.lproj/SongDetailsView.xib
+c000000004C1A6750000000000000415B
+t1276798800
+s16731
+
+N/Users/sanath/Downloads/TopSongs/en.lproj/SongsView.xib
+c000000004A414EDE00000000000037E9
+t1245794014
+s14313
+
+N/var/folders/nO/nOimcyamGRSUaGlz-0TNhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gccyfkhyopvncydeuylgmvwnlzpa/Prefix.pch.gch
+t1289821241
+s16080688
+
+NInfo.plist
+c000000004C1A8BB90000000000000389
+t1276808121
+s905
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311514039#311514039#0(0"0(0#1#0"8631639936#0"0#
+
+CCompileC build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/AppDelegate.o /Users/sanath/Downloads/TopSongs/Application/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311514042.070854
+e311514042.262437
+r1
+xCompileC
+xbuild/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/AppDelegate.o
+x/Users/sanath/Downloads/TopSongs/Application/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/sanath/Downloads/TopSongs/Application/AppDelegate.m311514042#311514042#0(0"0(0#0#58"/Users/sanath/Downloads/TopSongs/Application/AppDelegate.m8642036448#2069"    cd /Users/sanath/Downloads/TopSongs    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-generated-files.hmap -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-own-target-headers.hmap -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-all-target-headers.hmap -iquote /Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-project-headers.hmap -F/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator -I/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk, -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/DerivedSources/i386 -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/DerivedSources -include /var/folders/nO/nOimcyamGRSUaGlz-0TNhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gccyfkhyopvncydeuylgmvwnlzpa/Prefix.pch -c /Users/sanath/Downloads/TopSongs/Application/AppDelegate.m -o /Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/Category.o /Users/sanath/Downloads/TopSongs/Model/Category.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311514042.398979
+e311514042.464597
+r1
+xCompileC
+xbuild/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/Category.o
+x/Users/sanath/Downloads/TopSongs/Model/Category.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/sanath/Downloads/TopSongs/Model/Category.m311514042#311514042#0(0"0(0#0#49"/Users/sanath/Downloads/TopSongs/Model/Category.m8603050688#2057"    cd /Users/sanath/Downloads/TopSongs    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-generated-files.hmap -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-own-target-headers.hmap -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-all-target-headers.hmap -iquote /Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-project-headers.hmap -F/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator -I/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk, -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/DerivedSources/i386 -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/DerivedSources -include /var/folders/nO/nOimcyamGRSUaGlz-0TNhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gccyfkhyopvncydeuylgmvwnlzpa/Prefix.pch -c /Users/sanath/Downloads/TopSongs/Model/Category.m -o /Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/Category.o0#
+
+CCompileC build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/CategoryCache.o /Users/sanath/Downloads/TopSongs/Application/CategoryCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311514042.447814
+e311514042.542101
+r1
+xCompileC
+xbuild/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/CategoryCache.o
+x/Users/sanath/Downloads/TopSongs/Application/CategoryCache.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/sanath/Downloads/TopSongs/Application/CategoryCache.m311514042#311514042#0(0"0(0#0#60"/Users/sanath/Downloads/TopSongs/Application/CategoryCache.m8642202144#2073"    cd /Users/sanath/Downloads/TopSongs    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-generated-files.hmap -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-own-target-headers.hmap -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-all-target-headers.hmap -iquote /Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-project-headers.hmap -F/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator -I/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk, -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/DerivedSources/i386 -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/DerivedSources -include /var/folders/nO/nOimcyamGRSUaGlz-0TNhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gccyfkhyopvncydeuylgmvwnlzpa/Prefix.pch -c /Users/sanath/Downloads/TopSongs/Application/CategoryCache.m -o /Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/CategoryCache.o0#
+
+CCompileC build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/Song.o /Users/sanath/Downloads/TopSongs/Model/Song.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311514042.262524
+e311514042.316325
+r1
+xCompileC
+xbuild/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/Song.o
+x/Users/sanath/Downloads/TopSongs/Model/Song.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/sanath/Downloads/TopSongs/Model/Song.m311514042#311514042#0(0"0(0#0#45"/Users/sanath/Downloads/TopSongs/Model/Song.m8623100768#2049"    cd /Users/sanath/Downloads/TopSongs    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-generated-files.hmap -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-own-target-headers.hmap -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-all-target-headers.hmap -iquote /Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-project-headers.hmap -F/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator -I/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk, -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/DerivedSources/i386 -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/DerivedSources -include /var/folders/nO/nOimcyamGRSUaGlz-0TNhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gccyfkhyopvncydeuylgmvwnlzpa/Prefix.pch -c /Users/sanath/Downloads/TopSongs/Model/Song.m -o /Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/Song.o0#
+
+CCompileC build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/SongDetailsController.o /Users/sanath/Downloads/TopSongs/Controllers/SongDetailsController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311514042.316420
+e311514042.398877
+r1
+xCompileC
+xbuild/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/SongDetailsController.o
+x/Users/sanath/Downloads/TopSongs/Controllers/SongDetailsController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/sanath/Downloads/TopSongs/Controllers/SongDetailsController.m311514042#311514042#0(0"0(0#0#68"/Users/sanath/Downloads/TopSongs/Controllers/SongDetailsController.m8621614592#2089"    cd /Users/sanath/Downloads/TopSongs    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-generated-files.hmap -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-own-target-headers.hmap -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-all-target-headers.hmap -iquote /Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-project-headers.hmap -F/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator -I/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk, -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/DerivedSources/i386 -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/DerivedSources -include /var/folders/nO/nOimcyamGRSUaGlz-0TNhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gccyfkhyopvncydeuylgmvwnlzpa/Prefix.pch -c /Users/sanath/Downloads/TopSongs/Controllers/SongDetailsController.m -o /Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/SongDetailsController.o0#
+
+CCompileC build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/SongsViewController.o /Users/sanath/Downloads/TopSongs/Controllers/SongsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311514042.113523
+e311514042.228148
+r1
+xCompileC
+xbuild/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/SongsViewController.o
+x/Users/sanath/Downloads/TopSongs/Controllers/SongsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/sanath/Downloads/TopSongs/Controllers/SongsViewController.m311514042#311514042#0(0"0(0#0#66"/Users/sanath/Downloads/TopSongs/Controllers/SongsViewController.m8640938528#2085"    cd /Users/sanath/Downloads/TopSongs    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-generated-files.hmap -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-own-target-headers.hmap -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-all-target-headers.hmap -iquote /Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-project-headers.hmap -F/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator -I/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk, -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/DerivedSources/i386 -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/DerivedSources -include /var/folders/nO/nOimcyamGRSUaGlz-0TNhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gccyfkhyopvncydeuylgmvwnlzpa/Prefix.pch -c /Users/sanath/Downloads/TopSongs/Controllers/SongsViewController.m -o /Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/SongsViewController.o0#
+
+CCompileC build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/iTunesRSSImporter.o /Users/sanath/Downloads/TopSongs/Application/iTunesRSSImporter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311514042.228251
+e311514042.447709
+r1
+xCompileC
+xbuild/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/iTunesRSSImporter.o
+x/Users/sanath/Downloads/TopSongs/Application/iTunesRSSImporter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/sanath/Downloads/TopSongs/Application/iTunesRSSImporter.m311514042#311514042#0(0"0(0#0#64"/Users/sanath/Downloads/TopSongs/Application/iTunesRSSImporter.m8638925504#2081"    cd /Users/sanath/Downloads/TopSongs    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-generated-files.hmap -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-own-target-headers.hmap -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-all-target-headers.hmap -iquote /Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-project-headers.hmap -F/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator -I/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk, -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/DerivedSources/i386 -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/DerivedSources -include /var/folders/nO/nOimcyamGRSUaGlz-0TNhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gccyfkhyopvncydeuylgmvwnlzpa/Prefix.pch -c /Users/sanath/Downloads/TopSongs/Application/iTunesRSSImporter.m -o /Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/iTunesRSSImporter.o0#
+
+CCompileC build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/main.o /Users/sanath/Downloads/TopSongs/Application/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311514041.972349
+e311514042.070766
+r1
+xCompileC
+xbuild/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/main.o
+x/Users/sanath/Downloads/TopSongs/Application/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/sanath/Downloads/TopSongs/Application/main.m311514041#311514042#0(0"0(0#0#51"/Users/sanath/Downloads/TopSongs/Application/main.m8600580672#2055"    cd /Users/sanath/Downloads/TopSongs    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-generated-files.hmap -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-own-target-headers.hmap -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-all-target-headers.hmap -iquote /Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-project-headers.hmap -F/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator -I/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk, -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/DerivedSources/i386 -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/DerivedSources -include /var/folders/nO/nOimcyamGRSUaGlz-0TNhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gccyfkhyopvncydeuylgmvwnlzpa/Prefix.pch -c /Users/sanath/Downloads/TopSongs/Application/main.m -o /Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/sanath/Downloads/TopSongs/en.lproj/MainWindow.xib
+s311514039.979587
+e311514040.512525
+r1
+xCompileXIB
+x/Users/sanath/Downloads/TopSongs/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib311514039#311514040#0(0"0(0#0#56"/Users/sanath/Downloads/TopSongs/en.lproj/MainWindow.xib8641061152#571"    cd /Users/sanath/Downloads/TopSongs    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/en.lproj/MainWindow.nib /Users/sanath/Downloads/TopSongs/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/sanath/Downloads/TopSongs/en.lproj/SongDetailsView.xib
+s311514040.498725
+e311514040.927069
+r1
+xCompileXIB
+x/Users/sanath/Downloads/TopSongs/en.lproj/SongDetailsView.xib
+lSLF07#2@39"CompileXIB en.lproj/SongDetailsView.xib311514040#311514040#0(0"0(0#0#61"/Users/sanath/Downloads/TopSongs/en.lproj/SongDetailsView.xib8641654432#581"    cd /Users/sanath/Downloads/TopSongs    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/en.lproj/SongDetailsView.nib /Users/sanath/Downloads/TopSongs/en.lproj/SongDetailsView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/sanath/Downloads/TopSongs/en.lproj/SongsView.xib
+s311514039.980308
+e311514040.498643
+r1
+xCompileXIB
+x/Users/sanath/Downloads/TopSongs/en.lproj/SongsView.xib
+lSLF07#2@33"CompileXIB en.lproj/SongsView.xib311514039#311514040#0(0"0(0#0#55"/Users/sanath/Downloads/TopSongs/en.lproj/SongsView.xib8640955488#569"    cd /Users/sanath/Downloads/TopSongs    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/en.lproj/SongsView.nib /Users/sanath/Downloads/TopSongs/en.lproj/SongsView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCopyStringsFile /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+s311514040.512622
+e311514041.026753
+r1
+xCopyStringsFile
+x/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/en.lproj/Localizable.strings
+xen.lproj/Localizable.strings
+oen.lproj/Localizable.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@33"Copy en.lproj/Localizable.strings311514040#311514041#0(130"en.lproj/Localizable.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#61"/Users/sanath/Downloads/TopSongs/en.lproj/Localizable.strings8641222880#474"    cd /Users/sanath/Downloads/TopSongs    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary en.lproj/Localizable.strings --outdir /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/TopSongs.app/Icon-Small.png Images/Icon-Small.png
+s311514040.927242
+e311514040.998220
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TopSongs.app/Icon-Small.png
+xImages/Icon-Small.png
+lSLF07#2@26"Copy Images/Icon-Small.png311514040#311514040#0(0"0(0#0#54"/Users/sanath/Downloads/TopSongs/Images/Icon-Small.png8622439488#448"    cd /Users/sanath/Downloads/TopSongs    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sanath/Downloads/TopSongs/Images/Icon-Small.png /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app0#
+
+CCpResource build/Debug-iphonesimulator/TopSongs.app/Icon-Small@2x.png Images/Icon-Small@2x.png
+s311514040.927918
+e311514040.999591
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TopSongs.app/Icon-Small@2x.png
+xImages/Icon-Small@2x.png
+lSLF07#2@29"Copy Images/Icon-Small@2x.png311514040#311514040#0(0"0(0#0#57"/Users/sanath/Downloads/TopSongs/Images/Icon-Small@2x.png8621977440#451"    cd /Users/sanath/Downloads/TopSongs    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sanath/Downloads/TopSongs/Images/Icon-Small@2x.png /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app0#
+
+CCpResource build/Debug-iphonesimulator/TopSongs.app/Icon.png Images/Icon.png
+s311514040.928495
+e311514040.999331
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TopSongs.app/Icon.png
+xImages/Icon.png
+lSLF07#2@20"Copy Images/Icon.png311514040#311514040#0(0"0(0#0#48"/Users/sanath/Downloads/TopSongs/Images/Icon.png8621561376#442"    cd /Users/sanath/Downloads/TopSongs    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sanath/Downloads/TopSongs/Images/Icon.png /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app0#
+
+CCpResource build/Debug-iphonesimulator/TopSongs.app/Icon@2x.png Images/Icon@2x.png
+s311514040.929606
+e311514040.998358
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TopSongs.app/Icon@2x.png
+xImages/Icon@2x.png
+lSLF07#2@23"Copy Images/Icon@2x.png311514040#311514040#0(0"0(0#0#51"/Users/sanath/Downloads/TopSongs/Images/Icon@2x.png8621192192#445"    cd /Users/sanath/Downloads/TopSongs    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sanath/Downloads/TopSongs/Images/Icon@2x.png /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app0#
+
+CCpResource build/Debug-iphonesimulator/TopSongs.app/iTunesArtwork.png Images/iTunesArtwork.png
+s311514040.930162
+e311514040.998476
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TopSongs.app/iTunesArtwork.png
+xImages/iTunesArtwork.png
+lSLF07#2@29"Copy Images/iTunesArtwork.png311514040#311514040#0(0"0(0#0#57"/Users/sanath/Downloads/TopSongs/Images/iTunesArtwork.png8603447264#451"    cd /Users/sanath/Downloads/TopSongs    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sanath/Downloads/TopSongs/Images/iTunesArtwork.png /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app0#
+
+CDataModelCompile /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/TopSongs.mom /Users/sanath/Downloads/TopSongs/Model/TopSongs.xcdatamodel
+s311514041.956516
+e311514042.113427
+r1
+xDataModelCompile
+x/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/TopSongs.mom
+x/Users/sanath/Downloads/TopSongs/Model/TopSongs.xcdatamodel
+lSLF07#2@67"Compile /Users/sanath/Downloads/TopSongs/Model/TopSongs.xcdatamodel311514041#311514042#0(0"0(0#0#59"/Users/sanath/Downloads/TopSongs/Model/TopSongs.xcdatamodel8640972768#375"    cd /Users/sanath/Downloads/TopSongs    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/sanath/Downloads/TopSongs/Model/TopSongs.xcdatamodel /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/TopSongs.mom0#
+
+CGenerateDSYMFile /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app.dSYM /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/TopSongs
+s311514042.604728
+e311514042.628160
+r1
+xGenerateDSYMFile
+x/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app.dSYM
+x/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/TopSongs
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/TopSongs.app.dSYM build/Debug-iphonesimulator/TopSongs.app/TopSongs311514042#311514042#0(0"0(0#0#82"/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/TopSongs8638588416#368"    cd /Users/sanath/Downloads/TopSongs    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/TopSongs -o /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app.dSYM0#
+
+CLd /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/TopSongs normal i386
+s311514042.542177
+e311514042.604630
+r1
+xLd
+x/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/TopSongs
+xnormal
+xi386
+lSLF07#2@87"Link /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/TopSongs311514042#311514042#0(0"0(0#0#0"8641081312#902"    cd /Users/sanath/Downloads/TopSongs    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator -F/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator -filelist /Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/Objects-normal/i386/TopSongs.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lxml2 -framework CoreData -o /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/TopSongs0#
+
+CProcessInfoPlistFile /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/Info.plist Info.plist
+s311514039.976163
+e311514039.979517
+r1
+xProcessInfoPlistFile
+x/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist311514039#311514039#0(0"0(0#0#43"/Users/sanath/Downloads/TopSongs/Info.plist8600372512#455"    cd /Users/sanath/Downloads/TopSongs    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app/Info.plist0#
+
+CProcessPCH /var/folders/nO/nOimcyamGRSUaGlz-0TNhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gccyfkhyopvncydeuylgmvwnlzpa/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s311514041.026893
+e311514041.956289
+r1
+xProcessPCH
+x/var/folders/nO/nOimcyamGRSUaGlz-0TNhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gccyfkhyopvncydeuylgmvwnlzpa/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch311514041#311514041#0(0"0(0#0#43"/Users/sanath/Downloads/TopSongs/Prefix.pch8600753344#1931"    cd /Users/sanath/Downloads/TopSongs    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-generated-files.hmap -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-own-target-headers.hmap -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-all-target-headers.hmap -iquote /Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/TopSongs-project-headers.hmap -F/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator -I/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk, -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/DerivedSources/i386 -I/Users/sanath/Downloads/TopSongs/build/TopSongs.build/Debug-iphonesimulator/TopSongs.build/DerivedSources -c /Users/sanath/Downloads/TopSongs/Prefix.pch -o /var/folders/nO/nOimcyamGRSUaGlz-0TNhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gccyfkhyopvncydeuylgmvwnlzpa/Prefix.pch.gch0#
+
+CTouch /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app
+s311514042.628239
+e311514042.631207
+r1
+xTouch
+x/Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app
+lSLF07#2@79"Touch /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app311514042#311514042#0(0"0(0#0#0"8623296672#267"    cd /Users/sanath/Downloads/TopSongs    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sanath/Downloads/TopSongs/build/Debug-iphonesimulator/TopSongs.app0#
+

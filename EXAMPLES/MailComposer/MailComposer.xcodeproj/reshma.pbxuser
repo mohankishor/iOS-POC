@@ -1,0 +1,174 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* MailComposerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {940, 819}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1519, 1279}";
+		};
+	};
+	1D3623250D0F684500981E51 /* MailComposerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {940, 780}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1933}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* MailComposer */ = {
+		activeExec = 0;
+		executables = (
+			9AE16A6312B891D8005A9690 /* MailComposer */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* MailComposerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {940, 845}}";
+			sepNavSelRange = "{2612, 35}";
+			sepNavVisRange = "{1591, 1250}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* MailComposerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1034, 2340}}";
+			sepNavSelRange = "{6167, 21}";
+			sepNavVisRange = "{5514, 792}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9AE16A6312B891D8005A9690 /* MailComposer */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MailComposer */;
+		codeSenseManager = 9AE16A8512B89210005A9690 /* Code sense */;
+		executables = (
+			9AE16A6312B891D8005A9690 /* MailComposer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					762,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 319033287;
+			PBXWorkspaceStateSaveDate = 319033287;
+		};
+		perUserProjectItems = {
+			9A0DCDBE13040FD0008035E4 /* PBXTextBookmark */ = 9A0DCDBE13040FD0008035E4 /* PBXTextBookmark */;
+			9A0DCDC513040FF3008035E4 /* PBXTextBookmark */ = 9A0DCDC513040FF3008035E4 /* PBXTextBookmark */;
+			9A0DCDC613040FF3008035E4 /* PBXTextBookmark */ = 9A0DCDC613040FF3008035E4 /* PBXTextBookmark */;
+			9A0DCDC713040FF3008035E4 /* PBXTextBookmark */ = 9A0DCDC713040FF3008035E4 /* PBXTextBookmark */;
+			9A4BD5C312BA3A71008EAF1E /* PBXTextBookmark */ = 9A4BD5C312BA3A71008EAF1E /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9AE16A8412B89210005A9690 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	9A0DCDBE13040FD0008035E4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MailComposerAppDelegate.m */;
+		name = "MailComposerAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1933;
+		vrLoc = 0;
+	};
+	9A0DCDC513040FF3008035E4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MailComposerAppDelegate.h */;
+		name = "MailComposerAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1279;
+		vrLoc = 1519;
+	};
+	9A0DCDC613040FF3008035E4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MailComposerViewController.h */;
+		name = "MailComposerViewController.h: 52";
+		rLen = 35;
+		rLoc = 2612;
+		rType = 0;
+		vrLen = 1250;
+		vrLoc = 1591;
+	};
+	9A0DCDC713040FF3008035E4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MailComposerViewController.m */;
+		name = "MailComposerViewController.m: 167";
+		rLen = 21;
+		rLoc = 6167;
+		rType = 0;
+		vrLen = 792;
+		vrLoc = 5514;
+	};
+	9A4BD5C312BA3A71008EAF1E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MailComposerViewController.m */;
+		name = "MailComposerViewController.m: 107";
+		rLen = 0;
+		rLoc = 4415;
+		rType = 0;
+		vrLen = 1280;
+		vrLoc = 2083;
+	};
+	9AE16A6312B891D8005A9690 /* MailComposer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MailComposer;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	9AE16A8412B89210005A9690 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9AE16A8512B89210005A9690 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

@@ -1,0 +1,329 @@
+TOpenMail
+v7
+r0
+t314183860.460973
+cCheck dependencies
+cCpResource build/Debug-iphoneos/OpenMail.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/Info.plist Info.plist
+cCompileXIB /Users/reshma/Desktop/OpenMail/MainWindow.xib
+cCpResource build/Debug-iphoneos/OpenMail.app/apple-mail-icon.jpg apple-mail-icon.jpg
+cCopyPNGFile /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/icon.png icon.png
+cProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenMail_Prefix-ewfkzxywfqnfgtcualprwmwegrsg/OpenMail_Prefix.pch.gch OpenMail_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OpenMail.build/Debug-iphoneos/OpenMail.build/Objects-normal/armv6/main.o /Users/reshma/Desktop/OpenMail/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OpenMail.build/Debug-iphoneos/OpenMail.build/Objects-normal/armv6/OpenMailAppDelegate.o /Users/reshma/Desktop/OpenMail/Classes/OpenMailAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/OpenMail normal armv6
+cGenerateDSYMFile /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app.dSYM /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/OpenMail
+cProcessProductPackaging "/Users/reshma/Library/MobileDevice/Provisioning Profiles/ABDC099A-FC5D-413C-B3B4-B17F4ED9391B.mobileprovision" /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/embedded.mobileprovision
+cTouch /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/OpenMail.xcent
+cCodeSign /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/reshma/Desktop/OpenMail/Classes/OpenMailAppDelegate.h
+c00000000499CA3350000000000000354
+t1235002165
+s852
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/OpenMail/Classes/OpenMailAppDelegate.m
+c000000004D08A8AD000000000000055D
+t1292413101
+s1373
+i"OpenMailAppDelegate.h"
+
+N/Users/reshma/Desktop/OpenMail/MainWindow.xib
+c000000004D08AD5E000000000000882A
+t1292414302
+s34858
+
+N/Users/reshma/Desktop/OpenMail/OpenMail_Prefix.pch
+c00000000499C9ADF00000000000000B9
+t1235000031
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/OpenMail/apple-mail-icon.jpg
+c00000000499C9D3F00000000000065B8
+t1235000639
+s26040
+
+N/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app
+t1292420078
+s408
+
+N/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app.dSYM
+t1292420078
+s102
+
+N/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/Info.plist
+t1292420076
+s825
+
+N/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/MainWindow.nib
+t1292420077
+s5927
+
+N/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/OpenMail
+t1292420078
+s22192
+
+N/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/PkgInfo
+t1292420076
+s8
+
+N/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/ResourceRules.plist
+t1292420076
+s485
+
+N/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/apple-mail-icon.jpg
+t1292420076
+s26040
+
+N/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/embedded.mobileprovision
+t1292420078
+s12717
+
+N/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/icon.png
+t1292420076
+s102597
+
+N/Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/Objects-normal/armv6/OpenMail.LinkFileList
+c000000004D08C3EC00000000000000EB
+t1292420076
+s235
+
+N/Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/Objects-normal/armv6/OpenMailAppDelegate.o
+t1292420078
+s56548
+
+N/Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/Objects-normal/armv6/main.o
+t1292420078
+s6432
+
+N/Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/OpenMail.xcent
+t1292420078
+s422
+
+N/Users/reshma/Desktop/OpenMail/icon.png
+c00000000499CA66A0000000000016290
+t1235002986
+s90768
+
+N/Users/reshma/Desktop/OpenMail/main.m
+c00000000499C9ADF0000000000000171
+t1235000031
+s369
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Library/MobileDevice/Provisioning Profiles/ABDC099A-FC5D-413C-B3B4-B17F4ED9391B.mobileprovision
+c000000004CFCD7EF00000000000031AD
+t1291638767
+s12717
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenMail_Prefix-bkrkgtbwrziwnibqoionzzqnbctj/OpenMail_Prefix.pch.gch
+t1292416886
+s9983704
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenMail_Prefix-ewfkzxywfqnfgtcualprwmwegrsg/OpenMail_Prefix.pch.gch
+t1292420078
+s10000088
+
+NInfo.plist
+c00000000499CA67C000000000000038E
+t1235003004
+s910
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies314183859#314183859#0(0"0(0#1#0"8650029024#0"0#
+
+CCodeSign /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app
+s314183859.840005
+e314183860.460927
+r1
+xCodeSign
+x/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app
+o/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app: replacing existing signature
+lSLF07#2@42"CodeSign build/Debug-iphoneos/OpenMail.app314183859#314183860#0(95"/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app: replacing existing signature0(0#0#64"/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app8650715872#621"    cd /Users/reshma/Desktop/OpenMail    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Rohit Singal (UGQKS7R3ZE)" --resource-rules=/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/ResourceRules.plist --entitlements /Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/OpenMail.xcent /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app0#
+
+CCompileC build/OpenMail.build/Debug-iphoneos/OpenMail.build/Objects-normal/armv6/OpenMailAppDelegate.o /Users/reshma/Desktop/OpenMail/Classes/OpenMailAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s314112878.437276
+e314112878.518254
+r1
+xCompileC
+xbuild/OpenMail.build/Debug-iphoneos/OpenMail.build/Objects-normal/armv6/OpenMailAppDelegate.o
+x/Users/reshma/Desktop/OpenMail/Classes/OpenMailAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/reshma/Desktop/OpenMail/Classes/OpenMailAppDelegate.m314112878#314112878#0(0"0(0#0#60"/Users/reshma/Desktop/OpenMail/Classes/OpenMailAppDelegate.m8644999360#1694"    cd /Users/reshma/Desktop/OpenMail    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/OpenMail-generated-files.hmap -I/Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/OpenMail-own-target-headers.hmap -I/Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/OpenMail-all-target-headers.hmap -iquote /Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/OpenMail-project-headers.hmap -F/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos -I/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/include -I/Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/DerivedSources/armv6 -I/Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenMail_Prefix-ewfkzxywfqnfgtcualprwmwegrsg/OpenMail_Prefix.pch -c /Users/reshma/Desktop/OpenMail/Classes/OpenMailAppDelegate.m -o /Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/Objects-normal/armv6/OpenMailAppDelegate.o0#
+
+CCompileC build/OpenMail.build/Debug-iphoneos/OpenMail.build/Objects-normal/armv6/main.o /Users/reshma/Desktop/OpenMail/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s314112878.436299
+e314112878.489732
+r1
+xCompileC
+xbuild/OpenMail.build/Debug-iphoneos/OpenMail.build/Objects-normal/armv6/main.o
+x/Users/reshma/Desktop/OpenMail/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/reshma/Desktop/OpenMail/main.m314112878#314112878#0(0"0(0#0#37"/Users/reshma/Desktop/OpenMail/main.m8629146016#1656"    cd /Users/reshma/Desktop/OpenMail    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/OpenMail-generated-files.hmap -I/Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/OpenMail-own-target-headers.hmap -I/Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/OpenMail-all-target-headers.hmap -iquote /Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/OpenMail-project-headers.hmap -F/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos -I/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/include -I/Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/DerivedSources/armv6 -I/Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenMail_Prefix-ewfkzxywfqnfgtcualprwmwegrsg/OpenMail_Prefix.pch -c /Users/reshma/Desktop/OpenMail/main.m -o /Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/Objects-normal/armv6/main.o0#
+
+CCompileXIB /Users/reshma/Desktop/OpenMail/MainWindow.xib
+s314112876.426236
+e314112877.910024
+r1
+xCompileXIB
+x/Users/reshma/Desktop/OpenMail/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib314112876#314112877#0(0"0(0#0#45"/Users/reshma/Desktop/OpenMail/MainWindow.xib8636033344#519"    cd /Users/reshma/Desktop/OpenMail    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/MainWindow.nib /Users/reshma/Desktop/OpenMail/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCopyPNGFile /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/icon.png icon.png
+s314112876.436524
+e314112876.717533
+r1
+xCopyPNGFile
+x/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/icon.png
+xicon.png
+lSLF07#2@63"CopyPNGFile build/Debug-iphoneos/OpenMail.app/icon.png icon.png314112876#314112876#0(0"0(0#0#39"/Users/reshma/Desktop/OpenMail/icon.png8643960288#533"    cd /Users/reshma/Desktop/OpenMail    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/reshma/Desktop/OpenMail/icon.png /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/icon.png0#
+
+CCpResource build/Debug-iphoneos/OpenMail.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s314112876.401004
+e314112876.406738
+r1
+xCpResource
+xbuild/Debug-iphoneos/OpenMail.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist314112876#314112876#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8644714272#479"    cd /Users/reshma/Desktop/OpenMail    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app0#
+
+CCpResource build/Debug-iphoneos/OpenMail.app/apple-mail-icon.jpg apple-mail-icon.jpg
+s314112876.431693
+e314112876.437519
+r1
+xCpResource
+xbuild/Debug-iphoneos/OpenMail.app/apple-mail-icon.jpg
+xapple-mail-icon.jpg
+lSLF07#2@24"Copy apple-mail-icon.jpg314112876#314112876#0(0"0(0#0#50"/Users/reshma/Desktop/OpenMail/apple-mail-icon.jpg8644783712#440"    cd /Users/reshma/Desktop/OpenMail    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Desktop/OpenMail/apple-mail-icon.jpg /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app0#
+
+CGenerateDSYMFile /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app.dSYM /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/OpenMail
+s314112878.568044
+e314112878.580842
+r1
+xGenerateDSYMFile
+x/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app.dSYM
+x/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/OpenMail
+lSLF07#2@98"GenerateDSYMFile build/Debug-iphoneos/OpenMail.app.dSYM build/Debug-iphoneos/OpenMail.app/OpenMail314112878#314112878#0(0"0(0#0#73"/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/OpenMail8636743520#341"    cd /Users/reshma/Desktop/OpenMail    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/OpenMail -o /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app.dSYM0#
+
+CLd /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/OpenMail normal armv6
+s314112878.518347
+e314112878.567960
+r1
+xLd
+x/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/OpenMail
+xnormal
+xarmv6
+lSLF07#2@78"Link /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/OpenMail314112878#314112878#0(0"0(0#0#0"8638727680#787"    cd /Users/reshma/Desktop/OpenMail    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos -F/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos -filelist /Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/Objects-normal/armv6/OpenMail.LinkFileList -dead_strip -miphoneos-version-min=3.0 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/OpenMail0#
+
+CProcessInfoPlistFile /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/Info.plist Info.plist
+s314112876.401983
+e314112876.426147
+r1
+xProcessInfoPlistFile
+x/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist314112876#314112876#0(0"0(0#0#41"/Users/reshma/Desktop/OpenMail/Info.plist8643958528#525"    cd /Users/reshma/Desktop/OpenMail    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/ResourceRules.plist -o /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/Info.plist0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenMail_Prefix-bkrkgtbwrziwnibqoionzzqnbctj/OpenMail_Prefix.pch.gch OpenMail_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s314109685.386626
+e314109686.943739
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenMail_Prefix-bkrkgtbwrziwnibqoionzzqnbctj/OpenMail_Prefix.pch.gch
+xOpenMail_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile OpenMail_Prefix.pch314109685#314109686#0(0"0(0#0#50"/Users/reshma/Desktop/OpenMail/OpenMail_Prefix.pch8627000032#1561"    cd /Users/reshma/Desktop/OpenMail    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/OpenMail-generated-files.hmap -I/Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/OpenMail-own-target-headers.hmap -I/Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/OpenMail-all-target-headers.hmap -iquote /Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/OpenMail-project-headers.hmap -F/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos -I/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/include -I/Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/DerivedSources/armv6 -I/Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/DerivedSources -c /Users/reshma/Desktop/OpenMail/OpenMail_Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenMail_Prefix-bkrkgtbwrziwnibqoionzzqnbctj/OpenMail_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenMail_Prefix-ewfkzxywfqnfgtcualprwmwegrsg/OpenMail_Prefix.pch.gch OpenMail_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s314112877.910188
+e314112878.436201
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenMail_Prefix-ewfkzxywfqnfgtcualprwmwegrsg/OpenMail_Prefix.pch.gch
+xOpenMail_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile OpenMail_Prefix.pch314112877#314112878#0(0"0(0#0#50"/Users/reshma/Desktop/OpenMail/OpenMail_Prefix.pch8631254016#1561"    cd /Users/reshma/Desktop/OpenMail    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/OpenMail-generated-files.hmap -I/Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/OpenMail-own-target-headers.hmap -I/Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/OpenMail-all-target-headers.hmap -iquote /Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/OpenMail-project-headers.hmap -F/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos -I/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/include -I/Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/DerivedSources/armv6 -I/Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/DerivedSources -c /Users/reshma/Desktop/OpenMail/OpenMail_Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenMail_Prefix-ewfkzxywfqnfgtcualprwmwegrsg/OpenMail_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/reshma/Library/MobileDevice/Provisioning Profiles/ABDC099A-FC5D-413C-B3B4-B17F4ED9391B.mobileprovision" /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/embedded.mobileprovision
+s314112878.580945
+e314112878.582007
+r1
+xProcessProductPackaging
+x/Users/reshma/Library/MobileDevice/Provisioning Profiles/ABDC099A-FC5D-413C-B3B4-B17F4ED9391B.mobileprovision
+x/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/embedded.mobileprovision
+lSLF07#2@194"ProcessProductPackaging "/Users/reshma/Library/MobileDevice/Provisioning Profiles/ABDC099A-FC5D-413C-B3B4-B17F4ED9391B.mobileprovision" build/Debug-iphoneos/OpenMail.app/embedded.mobileprovision314112878#314112878#0(0"0(0#0#89"/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/embedded.mobileprovision8634878752#409"    cd /Users/reshma/Desktop/OpenMail    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/reshma/Library/MobileDevice/Provisioning Profiles/ABDC099A-FC5D-413C-B3B4-B17F4ED9391B.mobileprovision" -o /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/OpenMail.xcent
+s314112878.584899
+e314112878.603925
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/OpenMail.xcent
+lSLF07#2@178"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/OpenMail.build/Debug-iphoneos/OpenMail.build/OpenMail.xcent314112878#314112878#0(0"0(0#0#96"/Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/OpenMail.xcent8631777408#419"    cd /Users/reshma/Desktop/OpenMail    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/reshma/Desktop/OpenMail/build/OpenMail.build/Debug-iphoneos/OpenMail.build/OpenMail.xcent0#
+
+CTouch /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app
+s314112878.582061
+e314112878.584829
+r1
+xTouch
+x/Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app
+lSLF07#2@70"Touch /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app314112878#314112878#0(0"0(0#0#0"8634446528#249"    cd /Users/reshma/Desktop/OpenMail    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/reshma/Desktop/OpenMail/build/Debug-iphoneos/OpenMail.app0#
+

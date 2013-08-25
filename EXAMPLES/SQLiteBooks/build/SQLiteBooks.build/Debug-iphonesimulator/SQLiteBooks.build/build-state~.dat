@@ -1,0 +1,516 @@
+TSQLiteBooks
+v7
+r0
+t322143046.156014
+cCheck dependencies
+cProcessInfoPlistFile /Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app/Info.plist Info.plist
+cCpResource build/Debug-iphonesimulator/SQLiteBooks.app/bookdb.sql bookdb.sql
+cCpResource build/Debug-iphonesimulator/SQLiteBooks.app/Icon.png Icon.png
+cCompileXIB /Users/reshma/Desktop/SQLiteBooks/en.lproj/MainWindow.xib
+cCompileXIB /Users/reshma/Desktop/SQLiteBooks/en.lproj/EditingView.xib
+cCompileXIB /Users/reshma/Desktop/SQLiteBooks/en.lproj/DetailView.xib
+cCpResource build/Debug-iphonesimulator/SQLiteBooks.app/Default.png Default.png
+cProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SQLiteBooks_Prefix-eeskersgqsoygnbhdncqitvppeik/SQLiteBooks_Prefix.pch.gch SQLiteBooks_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/main.o /Users/reshma/Desktop/SQLiteBooks/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/AppDelegate.o /Users/reshma/Desktop/SQLiteBooks/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/Book.o /Users/reshma/Desktop/SQLiteBooks/Classes/Book.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/DetailViewController.o /Users/reshma/Desktop/SQLiteBooks/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/MasterViewController.o /Users/reshma/Desktop/SQLiteBooks/Classes/MasterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/EditingViewController.o /Users/reshma/Desktop/SQLiteBooks/Classes/EditingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app/SQLiteBooks normal i386
+cGenerateDSYMFile /Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app.dSYM /Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app/SQLiteBooks
+cTouch /Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C9AD4330000000000000132
+t1285215283
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sqlite3.h
+c000000004BFDF9FB0000000000041A6F
+t1274935803
+s268911
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/lib/libsqlite3.0.dylib
+c000000004BFDFA0A0000000000079480
+t1274935818
+s496768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sqlite3.h
+c000000004CC109C90000000000042B54
+t1287719369
+s273236
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libsqlite3.0.dylib
+c000000004CC109D90000000000092C20
+t1287719385
+s601120
+
+N/Users/reshma/Desktop/SQLiteBooks/Classes/AppDelegate.h
+c00000000482E267A000000000000110B
+t1210984058
+s4363
+i<UIKit/UIKit.h>
+i<sqlite3.h>
+
+N/Users/reshma/Desktop/SQLiteBooks/Classes/AppDelegate.m
+c00000000482E267A0000000000002BBF
+t1210984058
+s11199
+i"AppDelegate.h"
+i"MasterViewController.h"
+i"Book.h"
+
+N/Users/reshma/Desktop/SQLiteBooks/Classes/Book.h
+c00000000482E267A00000000000013A0
+t1210984058
+s5024
+i<Foundation/Foundation.h>
+i<sqlite3.h>
+
+N/Users/reshma/Desktop/SQLiteBooks/Classes/Book.m
+c00000000482E267A00000000000032A3
+t1210984058
+s12963
+i"Book.h"
+
+N/Users/reshma/Desktop/SQLiteBooks/Classes/DetailViewController.h
+c00000000483C35900000000000000EA8
+t1211905424
+s3752
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/SQLiteBooks/Classes/DetailViewController.m
+c00000000485F90320000000000001EE1
+t1214222386
+s7905
+i"DetailViewController.h"
+i"Book.h"
+i"MasterViewController.h"
+i"EditingViewController.h"
+
+N/Users/reshma/Desktop/SQLiteBooks/Classes/EditingViewController.h
+c00000000482E267A0000000000000FF9
+t1210984058
+s4089
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/SQLiteBooks/Classes/EditingViewController.m
+c00000000482E267A0000000000001664
+t1210984058
+s5732
+i"EditingViewController.h"
+
+N/Users/reshma/Desktop/SQLiteBooks/Classes/MasterViewController.h
+c00000000482E267A0000000000000E2D
+t1210984058
+s3629
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/SQLiteBooks/Classes/MasterViewController.m
+c00000000485F9A180000000000002759
+t1214224920
+s10073
+i"MasterViewController.h"
+i"AppDelegate.h"
+i"DetailViewController.h"
+i"Book.h"
+
+N/Users/reshma/Desktop/SQLiteBooks/Default.png
+c0000000048334AF20000000000002620
+t1211321074
+s9760
+
+N/Users/reshma/Desktop/SQLiteBooks/Icon.png
+c00000000482DF5260000000000001321
+t1210971430
+s4897
+
+N/Users/reshma/Desktop/SQLiteBooks/SQLiteBooks_Prefix.pch
+c00000000482DF52600000000000000BF
+t1210971430
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/SQLiteBooks/bookdb.sql
+c00000000482DF5260000000000000800
+t1210971430
+s2048
+
+N/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app
+t1300450246
+s306
+
+N/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app.dSYM
+t1300450246
+s102
+
+N/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app/Default.png
+t1300450244
+s9760
+
+N/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app/Icon.png
+t1300450243
+s4897
+
+N/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app/Info.plist
+t1300450243
+s636
+
+N/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app/PkgInfo
+t1300450243
+s8
+
+N/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app/SQLiteBooks
+t1300450246
+s61956
+
+N/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app/bookdb.sql
+t1300450243
+s2048
+
+N/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app/en.lproj/DetailView.nib
+t1300450244
+s2006
+
+N/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app/en.lproj/EditingView.nib
+t1300450244
+s3895
+
+N/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app/en.lproj/MainWindow.nib
+t1300450244
+s3790
+
+N/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/AppDelegate.o
+t1300450245
+s60780
+
+N/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/Book.o
+t1300450245
+s25136
+
+N/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/DetailViewController.o
+t1300450245
+s62616
+
+N/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/EditingViewController.o
+t1300450246
+s54264
+
+N/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/MasterViewController.o
+t1300450245
+s61340
+
+N/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/SQLiteBooks.LinkFileList
+c000000004D834BC30000000000000326
+t1300450243
+s806
+
+N/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/main.o
+t1300450245
+s6292
+
+N/Users/reshma/Desktop/SQLiteBooks/en.lproj/DetailView.xib
+c00000000482E267A0000000000001F67
+t1210984058
+s8039
+
+N/Users/reshma/Desktop/SQLiteBooks/en.lproj/EditingView.xib
+c00000000482E267A0000000000003C6F
+t1210984058
+s15471
+
+N/Users/reshma/Desktop/SQLiteBooks/en.lproj/MainWindow.xib
+c00000000485F999A00000000000038D5
+t1214224794
+s14549
+
+N/Users/reshma/Desktop/SQLiteBooks/main.m
+c00000000482E267A0000000000000DA4
+t1210984058
+s3492
+i<UIKit/UIKit.h>
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SQLiteBooks_Prefix-dywnetnlyzjyplanlwxulkgkcket/SQLiteBooks_Prefix.pch.gch
+t1300449278
+s15248368
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SQLiteBooks_Prefix-eeskersgqsoygnbhdncqitvppeik/SQLiteBooks_Prefix.pch.gch
+t1300450245
+s15486128
+
+NInfo.plist
+c000000004845CA6C0000000000000389
+t1212533356
+s905
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322143042#322143043#0(0"0(0#1#0"8639911904#0"0#
+
+CCompileC build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/AppDelegate.o /Users/reshma/Desktop/SQLiteBooks/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322143045.564056
+e322143045.805847
+r1
+xCompileC
+xbuild/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/AppDelegate.o
+x/Users/reshma/Desktop/SQLiteBooks/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/reshma/Desktop/SQLiteBooks/Classes/AppDelegate.m322143045#322143045#0(0"0(0#0#55"/Users/reshma/Desktop/SQLiteBooks/Classes/AppDelegate.m8642501216#1519"    cd /Users/reshma/Desktop/SQLiteBooks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -I/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/SQLiteBooks.hmap -F/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator -I/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/DerivedSources/i386 -I/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SQLiteBooks_Prefix-eeskersgqsoygnbhdncqitvppeik/SQLiteBooks_Prefix.pch -c /Users/reshma/Desktop/SQLiteBooks/Classes/AppDelegate.m -o /Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/Book.o /Users/reshma/Desktop/SQLiteBooks/Classes/Book.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322143045.624717
+e322143045.780626
+r1
+xCompileC
+xbuild/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/Book.o
+x/Users/reshma/Desktop/SQLiteBooks/Classes/Book.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/reshma/Desktop/SQLiteBooks/Classes/Book.m322143045#322143045#0(0"0(0#0#48"/Users/reshma/Desktop/SQLiteBooks/Classes/Book.m8638624000#1505"    cd /Users/reshma/Desktop/SQLiteBooks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -I/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/SQLiteBooks.hmap -F/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator -I/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/DerivedSources/i386 -I/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SQLiteBooks_Prefix-eeskersgqsoygnbhdncqitvppeik/SQLiteBooks_Prefix.pch -c /Users/reshma/Desktop/SQLiteBooks/Classes/Book.m -o /Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/Book.o0#
+
+CCompileC build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/DetailViewController.o /Users/reshma/Desktop/SQLiteBooks/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322143045.780732
+e322143045.928381
+r1
+xCompileC
+xbuild/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/DetailViewController.o
+x/Users/reshma/Desktop/SQLiteBooks/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/reshma/Desktop/SQLiteBooks/Classes/DetailViewController.m: In function '-[DetailViewController tableView:cellForRowAtIndexPath:]':
+o/Users/reshma/Desktop/SQLiteBooks/Classes/DetailViewController.m:141: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+o/Users/reshma/Desktop/SQLiteBooks/Classes/DetailViewController.m:142: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+o/Users/reshma/Desktop/SQLiteBooks/Classes/DetailViewController.m:143: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+lSLF07#2@72"Compile /Users/reshma/Desktop/SQLiteBooks/Classes/DetailViewController.m322143045#322143045#0(960"/Users/reshma/Desktop/SQLiteBooks/Classes/DetailViewController.m: In function '-[DetailViewController tableView:cellForRowAtIndexPath:]':/Users/reshma/Desktop/SQLiteBooks/Classes/DetailViewController.m:141: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)/Users/reshma/Desktop/SQLiteBooks/Classes/DetailViewController.m:142: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)/Users/reshma/Desktop/SQLiteBooks/Classes/DetailViewController.m:143: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)3(22@194"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)322143045#138#274#0(6@64"/Users/reshma/Desktop/SQLiteBooks/Classes/DetailViewController.m235915186#141#0#141#0#33"'*' is deprecated (declared at *)0(22@194"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)322143045#412#274#0(6@64"/Users/reshma/Desktop/SQLiteBooks/Classes/DetailViewController.m235915186#142#0#142#0#33"'*' is deprecated (declared at *)0(22@194"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)322143045#686#274#0(6@64"/Users/reshma/Desktop/SQLiteBooks/Classes/DetailViewController.m235915186#143#0#143#0#33"'*' is deprecated (declared at *)0(0#0#64"/Users/reshma/Desktop/SQLiteBooks/Classes/DetailViewController.m8644252896#1537"    cd /Users/reshma/Desktop/SQLiteBooks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -I/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/SQLiteBooks.hmap -F/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator -I/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/DerivedSources/i386 -I/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SQLiteBooks_Prefix-eeskersgqsoygnbhdncqitvppeik/SQLiteBooks_Prefix.pch -c /Users/reshma/Desktop/SQLiteBooks/Classes/DetailViewController.m -o /Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/EditingViewController.o /Users/reshma/Desktop/SQLiteBooks/Classes/EditingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322143045.928479
+e322143046.032369
+r1
+xCompileC
+xbuild/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/EditingViewController.o
+x/Users/reshma/Desktop/SQLiteBooks/Classes/EditingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/reshma/Desktop/SQLiteBooks/Classes/EditingViewController.m322143045#322143046#0(0"0(0#0#65"/Users/reshma/Desktop/SQLiteBooks/Classes/EditingViewController.m8635525344#1539"    cd /Users/reshma/Desktop/SQLiteBooks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -I/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/SQLiteBooks.hmap -F/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator -I/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/DerivedSources/i386 -I/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SQLiteBooks_Prefix-eeskersgqsoygnbhdncqitvppeik/SQLiteBooks_Prefix.pch -c /Users/reshma/Desktop/SQLiteBooks/Classes/EditingViewController.m -o /Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/EditingViewController.o0#
+
+CCompileC build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/MasterViewController.o /Users/reshma/Desktop/SQLiteBooks/Classes/MasterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322143045.805931
+e322143045.929555
+r1
+xCompileC
+xbuild/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/MasterViewController.o
+x/Users/reshma/Desktop/SQLiteBooks/Classes/MasterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/reshma/Desktop/SQLiteBooks/Classes/MasterViewController.m: In function '-[MasterViewController tableView:cellForRowAtIndexPath:]':
+o/Users/reshma/Desktop/SQLiteBooks/Classes/MasterViewController.m:182: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+lSLF07#2@72"Compile /Users/reshma/Desktop/SQLiteBooks/Classes/MasterViewController.m322143045#322143045#0(412"/Users/reshma/Desktop/SQLiteBooks/Classes/MasterViewController.m: In function '-[MasterViewController tableView:cellForRowAtIndexPath:]':/Users/reshma/Desktop/SQLiteBooks/Classes/MasterViewController.m:182: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)1(22@194"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)322143045#138#274#0(6@64"/Users/reshma/Desktop/SQLiteBooks/Classes/MasterViewController.m235917720#182#0#182#0#33"'*' is deprecated (declared at *)0(0#0#64"/Users/reshma/Desktop/SQLiteBooks/Classes/MasterViewController.m8639199616#1537"    cd /Users/reshma/Desktop/SQLiteBooks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -I/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/SQLiteBooks.hmap -F/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator -I/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/DerivedSources/i386 -I/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SQLiteBooks_Prefix-eeskersgqsoygnbhdncqitvppeik/SQLiteBooks_Prefix.pch -c /Users/reshma/Desktop/SQLiteBooks/Classes/MasterViewController.m -o /Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/MasterViewController.o0#
+
+CCompileC build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/main.o /Users/reshma/Desktop/SQLiteBooks/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322143045.562997
+e322143045.624544
+r1
+xCompileC
+xbuild/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/main.o
+x/Users/reshma/Desktop/SQLiteBooks/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/reshma/Desktop/SQLiteBooks/main.m322143045#322143045#0(0"0(0#0#40"/Users/reshma/Desktop/SQLiteBooks/main.m8645504416#1497"    cd /Users/reshma/Desktop/SQLiteBooks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -I/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/SQLiteBooks.hmap -F/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator -I/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/DerivedSources/i386 -I/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SQLiteBooks_Prefix-eeskersgqsoygnbhdncqitvppeik/SQLiteBooks_Prefix.pch -c /Users/reshma/Desktop/SQLiteBooks/main.m -o /Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/reshma/Desktop/SQLiteBooks/en.lproj/DetailView.xib
+s322143044.050993
+e322143044.477045
+r1
+xCompileXIB
+x/Users/reshma/Desktop/SQLiteBooks/en.lproj/DetailView.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/reshma/Desktop/SQLiteBooks/en.lproj/DetailView.xib:3: warning: UIScrollView's 'Bounce Zoom' option will be ignored on iOS versions prior to 2.1.
+o/* com.apple.ibtool.document.errors */
+o/Users/reshma/Desktop/SQLiteBooks/en.lproj/DetailView.xib:3: error: Pattern colors are not supported by the iPhone SDK for iOS versions prior to 3.0.
+lSLF07#2@34"CompileXIB en.lproj/DetailView.xib322143044#322143044#0(382"/* com.apple.ibtool.document.warnings *//Users/reshma/Desktop/SQLiteBooks/en.lproj/DetailView.xib:3: warning: UIScrollView's 'Bounce Zoom' option will be ignored on iOS versions prior to 2.1./* com.apple.ibtool.document.errors *//Users/reshma/Desktop/SQLiteBooks/en.lproj/DetailView.xib:3: error: Pattern colors are not supported by the iPhone SDK for iOS versions prior to 3.0.2(22@81"UIScrollView's 'Bounce Zoom' option will be ignored on iOS versions prior to 2.1.322143044#18446744073709551615#0#0(6@57"/Users/reshma/Desktop/SQLiteBooks/en.lproj/DetailView.xib232676858#3#0#3#0#0"0(4@81"Pattern colors are not supported by the iPhone SDK for iOS versions prior to 3.0.322143044#18446744073709551615#0#0(6@57"/Users/reshma/Desktop/SQLiteBooks/en.lproj/DetailView.xib232676858#3#0#3#0#0"0(0#0#57"/Users/reshma/Desktop/SQLiteBooks/en.lproj/DetailView.xib8644156320#577"    cd /Users/reshma/Desktop/SQLiteBooks    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app/en.lproj/DetailView.nib /Users/reshma/Desktop/SQLiteBooks/en.lproj/DetailView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/reshma/Desktop/SQLiteBooks/en.lproj/EditingView.xib
+s322143043.111665
+e322143044.104963
+r1
+xCompileXIB
+x/Users/reshma/Desktop/SQLiteBooks/en.lproj/EditingView.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/reshma/Desktop/SQLiteBooks/en.lproj/EditingView.xib:-1: warning: The 'navigationItem' outlet of a UIViewController has been deprecated. Navigation items are required prior to loading a view controller's view. Instead of an outlet, consider embedding the navigation item in the view controller.
+o/Users/reshma/Desktop/SQLiteBooks/en.lproj/EditingView.xib:-1: warning: The 'navigationItem' outlet of 'File's Owner' is connected to 'Navigation Item (Title)' but 'navigationItem' is no longer defined on EditingViewController.
+lSLF07#2@35"CompileXIB en.lproj/EditingView.xib322143043#322143044#0(570"/* com.apple.ibtool.document.warnings *//Users/reshma/Desktop/SQLiteBooks/en.lproj/EditingView.xib:-1: warning: The 'navigationItem' outlet of a UIViewController has been deprecated. Navigation items are required prior to loading a view controller's view. Instead of an outlet, consider embedding the navigation item in the view controller./Users/reshma/Desktop/SQLiteBooks/en.lproj/EditingView.xib:-1: warning: The 'navigationItem' outlet of 'File's Owner' is connected to 'Navigation Item (Title)' but 'navigationItem' is no longer defined on EditingViewController.2(22@228"The 'navigationItem' outlet of a UIViewController has been deprecated. Navigation items are required prior to loading a view controller's view. Instead of an outlet, consider embedding the navigation item in the view controller.322143044#18446744073709551615#0#0(6@58"/Users/reshma/Desktop/SQLiteBooks/en.lproj/EditingView.xib232676858#18446744073709551615#0#18446744073709551615#0#0"0(22@155"The 'navigationItem' outlet of 'File's Owner' is connected to 'Navigation Item (Title)' but 'navigationItem' is no longer defined on EditingViewController.322143044#18446744073709551615#0#0(6@58"/Users/reshma/Desktop/SQLiteBooks/en.lproj/EditingView.xib232676858#18446744073709551615#0#18446744073709551615#0#0"0(0#0#58"/Users/reshma/Desktop/SQLiteBooks/en.lproj/EditingView.xib8653007072#579"    cd /Users/reshma/Desktop/SQLiteBooks    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app/en.lproj/EditingView.nib /Users/reshma/Desktop/SQLiteBooks/en.lproj/EditingView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/reshma/Desktop/SQLiteBooks/en.lproj/MainWindow.xib
+s322143043.085627
+e322143044.050914
+r1
+xCompileXIB
+x/Users/reshma/Desktop/SQLiteBooks/en.lproj/MainWindow.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/reshma/Desktop/SQLiteBooks/en.lproj/MainWindow.xib:40: warning: UIScrollView's 'Bounce Zoom' option will be ignored on iOS versions prior to 2.1.
+o/* com.apple.ibtool.document.errors */
+o/Users/reshma/Desktop/SQLiteBooks/en.lproj/MainWindow.xib:40: error: Pattern colors are not supported by the iPhone SDK for iOS versions prior to 3.0.
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib322143043#322143044#0(384"/* com.apple.ibtool.document.warnings *//Users/reshma/Desktop/SQLiteBooks/en.lproj/MainWindow.xib:40: warning: UIScrollView's 'Bounce Zoom' option will be ignored on iOS versions prior to 2.1./* com.apple.ibtool.document.errors *//Users/reshma/Desktop/SQLiteBooks/en.lproj/MainWindow.xib:40: error: Pattern colors are not supported by the iPhone SDK for iOS versions prior to 3.0.2(22@81"UIScrollView's 'Bounce Zoom' option will be ignored on iOS versions prior to 2.1.322143044#18446744073709551615#0#0(6@57"/Users/reshma/Desktop/SQLiteBooks/en.lproj/MainWindow.xib235917594#40#0#40#0#0"0(4@81"Pattern colors are not supported by the iPhone SDK for iOS versions prior to 3.0.322143044#18446744073709551615#0#0(6@57"/Users/reshma/Desktop/SQLiteBooks/en.lproj/MainWindow.xib235917594#40#0#40#0#0"0(0#0#57"/Users/reshma/Desktop/SQLiteBooks/en.lproj/MainWindow.xib8706784608#577"    cd /Users/reshma/Desktop/SQLiteBooks    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app/en.lproj/MainWindow.nib /Users/reshma/Desktop/SQLiteBooks/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/SQLiteBooks.app/Default.png Default.png
+s322143044.105045
+e322143044.135321
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SQLiteBooks.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png322143044#322143044#0(0"0(0#0#45"/Users/reshma/Desktop/SQLiteBooks/Default.png8643401248#458"    cd /Users/reshma/Desktop/SQLiteBooks    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Desktop/SQLiteBooks/Default.png /Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app0#
+
+CCpResource build/Debug-iphonesimulator/SQLiteBooks.app/Icon.png Icon.png
+s322143043.052662
+e322143043.109481
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SQLiteBooks.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png322143043#322143043#0(0"0(0#0#42"/Users/reshma/Desktop/SQLiteBooks/Icon.png8642188896#455"    cd /Users/reshma/Desktop/SQLiteBooks    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Desktop/SQLiteBooks/Icon.png /Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app0#
+
+CCpResource build/Debug-iphonesimulator/SQLiteBooks.app/bookdb.sql bookdb.sql
+s322143043.051941
+e322143043.111590
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SQLiteBooks.app/bookdb.sql
+xbookdb.sql
+lSLF07#2@15"Copy bookdb.sql322143043#322143043#0(0"0(0#0#44"/Users/reshma/Desktop/SQLiteBooks/bookdb.sql8638681408#457"    cd /Users/reshma/Desktop/SQLiteBooks    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Desktop/SQLiteBooks/bookdb.sql /Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app0#
+
+CGenerateDSYMFile /Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app.dSYM /Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app/SQLiteBooks
+s322143046.096464
+e322143046.152757
+r1
+xGenerateDSYMFile
+x/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app.dSYM
+x/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app/SQLiteBooks
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/SQLiteBooks.app.dSYM build/Debug-iphonesimulator/SQLiteBooks.app/SQLiteBooks322143046#322143046#0(0"0(0#0#89"/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app/SQLiteBooks8647511328#380"    cd /Users/reshma/Desktop/SQLiteBooks    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app/SQLiteBooks -o /Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app.dSYM0#
+
+CLd /Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app/SQLiteBooks normal i386
+s322143046.032454
+e322143046.096375
+r1
+xLd
+x/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app/SQLiteBooks
+xnormal
+xi386
+lSLF07#2@94"Link /Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app/SQLiteBooks322143046#322143046#0(0"0(0#0#0"8703120672#907"    cd /Users/reshma/Desktop/SQLiteBooks    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator -F/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator -filelist /Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/Objects-normal/i386/SQLiteBooks.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -lsqlite3.0 -framework CoreGraphics -o /Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app/SQLiteBooks0#
+
+CProcessInfoPlistFile /Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app/Info.plist Info.plist
+s322143043.026914
+e322143043.051862
+r1
+xProcessInfoPlistFile
+x/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist322143043#322143043#0(0"0(0#0#44"/Users/reshma/Desktop/SQLiteBooks/Info.plist8638590752#464"    cd /Users/reshma/Desktop/SQLiteBooks    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app/Info.plist0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SQLiteBooks_Prefix-dywnetnlyzjyplanlwxulkgkcket/SQLiteBooks_Prefix.pch.gch SQLiteBooks_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322142077.804598
+e322142079.084970
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SQLiteBooks_Prefix-dywnetnlyzjyplanlwxulkgkcket/SQLiteBooks_Prefix.pch.gch
+xSQLiteBooks_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@33"Precompile SQLiteBooks_Prefix.pch322142077#322142079#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#56"/Users/reshma/Desktop/SQLiteBooks/SQLiteBooks_Prefix.pch8621175552#1431"    cd /Users/reshma/Desktop/SQLiteBooks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -I/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/SQLiteBooks.hmap -F/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator -I/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/DerivedSources/i386 -I/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/DerivedSources -c /Users/reshma/Desktop/SQLiteBooks/SQLiteBooks_Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SQLiteBooks_Prefix-dywnetnlyzjyplanlwxulkgkcket/SQLiteBooks_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SQLiteBooks_Prefix-eeskersgqsoygnbhdncqitvppeik/SQLiteBooks_Prefix.pch.gch SQLiteBooks_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322143044.477168
+e322143045.562810
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SQLiteBooks_Prefix-eeskersgqsoygnbhdncqitvppeik/SQLiteBooks_Prefix.pch.gch
+xSQLiteBooks_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile SQLiteBooks_Prefix.pch322143044#322143045#0(0"0(0#0#56"/Users/reshma/Desktop/SQLiteBooks/SQLiteBooks_Prefix.pch8652973120#1390"    cd /Users/reshma/Desktop/SQLiteBooks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -I/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/SQLiteBooks.hmap -F/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator -I/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/DerivedSources/i386 -I/Users/reshma/Desktop/SQLiteBooks/build/SQLiteBooks.build/Debug-iphonesimulator/SQLiteBooks.build/DerivedSources -c /Users/reshma/Desktop/SQLiteBooks/SQLiteBooks_Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SQLiteBooks_Prefix-eeskersgqsoygnbhdncqitvppeik/SQLiteBooks_Prefix.pch.gch0#
+
+CTouch /Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app
+s322143046.152841
+e322143046.155984
+r1
+xTouch
+x/Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app
+lSLF07#2@83"Touch /Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app322143046#322143046#0(0"0(0#0#0"8645716832#272"    cd /Users/reshma/Desktop/SQLiteBooks    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/reshma/Desktop/SQLiteBooks/build/Debug-iphonesimulator/SQLiteBooks.app0#
+

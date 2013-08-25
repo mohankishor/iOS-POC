@@ -1,0 +1,122 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Development;
+		activeExecutable = 9AF842B4121EA5CB00E4B613 /* GridCalendar */;
+		activeTarget = A44C9539082B0226001CE67D /* GridCalendar */;
+		codeSenseManager = 9AF842C5121EA5CC00E4B613 /* Code sense */;
+		executables = (
+			9AF842B4121EA5CB00E4B613 /* GridCalendar */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					364,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 303998411;
+			PBXWorkspaceStateSaveDate = 303998411;
+		};
+		perUserProjectItems = {
+			9AF842CD121EA62100E4B613 /* PBXTextBookmark */ = 9AF842CD121EA62100E4B613 /* PBXTextBookmark */;
+			9AF842CE121EA62100E4B613 /* PBXTextBookmark */ = 9AF842CE121EA62100E4B613 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9AF842C4121EA5CC00E4B613 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	9AF842B4121EA5CB00E4B613 /* GridCalendar */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GridCalendar;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	9AF842C4121EA5CC00E4B613 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9AF842C5121EA5CC00E4B613 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9AF842CD121EA62100E4B613 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A44C95C0082B0A7E001CE67D /* GridCalendarApplicationDelegate.h */;
+		name = "GridCalendarApplicationDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 315;
+		vrLoc = 0;
+	};
+	9AF842CE121EA62100E4B613 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A44C95C0082B0A7E001CE67D /* GridCalendarApplicationDelegate.h */;
+		name = "GridCalendarApplicationDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 315;
+		vrLoc = 0;
+	};
+	A44C9539082B0226001CE67D /* GridCalendar */ = {
+		activeExec = 0;
+		executables = (
+			9AF842B4121EA5CB00E4B613 /* GridCalendar */,
+		);
+	};
+	A44C95C0082B0A7E001CE67D /* GridCalendarApplicationDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 741}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 315}";
+		};
+	};
+}

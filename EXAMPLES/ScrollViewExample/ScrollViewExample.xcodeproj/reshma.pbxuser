@@ -1,0 +1,156 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* ScrollViewExampleAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1009, 531}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 672}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ScrollViewExample */ = {
+		activeExec = 0;
+		executables = (
+			9AFAA75212F6A91A00455391 /* ScrollViewExample */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ScrollViewExampleViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1009, 531}}";
+			sepNavSelRange = "{419, 19}";
+			sepNavVisRange = "{0, 637}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ScrollViewExampleViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1009, 1404}}";
+			sepNavSelRange = "{555, 15}";
+			sepNavVisRange = "{250, 864}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9AFAA75212F6A91A00455391 /* ScrollViewExample */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ScrollViewExample */;
+		codeSenseManager = 9AFAA76C12F6A92B00455391 /* Code sense */;
+		executables = (
+			9AFAA75212F6A91A00455391 /* ScrollViewExample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					831,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 322980625;
+			PBXWorkspaceStateSaveDate = 322980625;
+		};
+		perUserProjectItems = {
+			9A07767B13404B2C00652B2E /* PBXTextBookmark */ = 9A07767B13404B2C00652B2E /* PBXTextBookmark */;
+			9AFAA7F012F6B6EE00455391 /* PBXTextBookmark */ = 9AFAA7F012F6B6EE00455391 /* PBXTextBookmark */;
+			9AFAA7F112F6B6EE00455391 /* PBXTextBookmark */ = 9AFAA7F112F6B6EE00455391 /* PBXTextBookmark */;
+			9AFAA88012F6C22C00455391 /* PBXTextBookmark */ = 9AFAA88012F6C22C00455391 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9AFAA76B12F6A92B00455391 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	9A07767B13404B2C00652B2E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ScrollViewExampleViewController.m */;
+		name = "ScrollViewExampleViewController.m: 26";
+		rLen = 15;
+		rLoc = 555;
+		rType = 0;
+		vrLen = 864;
+		vrLoc = 250;
+	};
+	9AFAA75212F6A91A00455391 /* ScrollViewExample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ScrollViewExample;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	9AFAA76B12F6A92B00455391 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9AFAA76C12F6A92B00455391 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9AFAA7F012F6B6EE00455391 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ScrollViewExampleAppDelegate.m */;
+		name = "ScrollViewExampleAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 672;
+		vrLoc = 0;
+	};
+	9AFAA7F112F6B6EE00455391 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ScrollViewExampleViewController.h */;
+		name = "ScrollViewExampleViewController.h: 19";
+		rLen = 19;
+		rLoc = 419;
+		rType = 0;
+		vrLen = 637;
+		vrLoc = 0;
+	};
+	9AFAA88012F6C22C00455391 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ScrollViewExampleViewController.m */;
+		name = "ScrollViewExampleViewController.m: 21";
+		rLen = 34;
+		rLoc = 435;
+		rType = 0;
+		vrLen = 866;
+		vrLoc = 250;
+	};
+}

@@ -1,0 +1,533 @@
+TCustomTableViewCell
+v7
+r0
+t303026357.781310
+cCheck dependencies
+cProcessInfoPlistFile /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/Info.plist Info.plist
+cCpResource build/Debug-iphonesimulator/CustomTableViewCell.app/12-6PM.png 12-6PM.png
+cCpResource build/Debug-iphonesimulator/CustomTableViewCell.app/6-12AM.png 6-12AM.png
+cCpResource build/Debug-iphonesimulator/CustomTableViewCell.app/6-12PM.png 6-12PM.png
+cCpResource build/Debug-iphonesimulator/CustomTableViewCell.app/12-6AM.png 12-6AM.png
+cCpResource build/Debug-iphonesimulator/CustomTableViewCell.app/Default.png Default.png
+cCompileXIB /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/MainWindow.xib
+cCopyStringsFile /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+cCopyStringsFile /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/fr.lproj/Localizable.strings fr.lproj/Localizable.strings
+cCopyStringsFile /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/de.lproj/Localizable.strings de.lproj/Localizable.strings
+cCpResource build/Debug-iphonesimulator/CustomTableViewCell.app/Icon.png Icon.png
+cProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableViewCell_Prefix-dvqodbcfyvcabdeghnxdppfvazhi/CustomTableViewCell_Prefix.pch.gch CustomTableViewCell_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/main.o /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneCell.o /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/CustomTableViewCellAppDelegate.o /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/CustomTableViewCellAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/RootViewController.o /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneWrapper.o /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneWrapper.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/Region.o /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/Region.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneView.o /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/CustomTableViewCell normal i386
+cGenerateDSYMFile /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app.dSYM /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/CustomTableViewCell
+cTouch /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/12-6AM.png
+c000000004A21E53E00000000000007E9
+t1243735358
+s2025
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/12-6PM.png
+c000000004A21E53E00000000000009B8
+t1243735358
+s2488
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/6-12AM.png
+c000000004A21E53E0000000000000947
+t1243735358
+s2375
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/6-12PM.png
+c000000004A21E53E00000000000008AB
+t1243735358
+s2219
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/CustomTableViewCellAppDelegate.h
+c000000004BA3E7810000000000000BAB
+t1269032833
+s2987
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/CustomTableViewCellAppDelegate.m
+c000000004BA3E78100000000000015FF
+t1269032833
+s5631
+i"CustomTableViewCellAppDelegate.h"
+i"RootViewController.h"
+i"Region.h"
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/Region.h
+c000000004BA3E7810000000000000BC9
+t1269032833
+s3017
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/Region.m
+c000000004BA3E781000000000000115D
+t1269032833
+s4445
+i"Region.h"
+i"TimeZoneWrapper.h"
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/RootViewController.h
+c000000004BA3E7810000000000000B88
+t1269032833
+s2952
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/RootViewController.m
+c000000004BA3E78100000000000022B3
+t1269032833
+s8883
+i"RootViewController.h"
+i"TimeZoneCell.h"
+i"TimeZoneWrapper.h"
+i"Region.h"
+i"CustomTableViewCellAppDelegate.h"
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneCell.h
+c000000004BA3E7810000000000000B6F
+t1269032833
+s2927
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneCell.m
+c000000004BA3E7810000000000000EA7
+t1269032833
+s3751
+i"TimeZoneCell.h"
+i"TimeZoneWrapper.h"
+i"TimeZoneView.h"
+i"CustomTableViewCellAppDelegate.h"
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneView.h
+c000000004BA3E7810000000000000C2F
+t1269032833
+s3119
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneView.m
+c000000004BA3E78100000000000020F8
+t1269032833
+s8440
+i"TimeZoneView.h"
+i"TimeZoneWrapper.h"
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneWrapper.h
+c000000004BA3E7810000000000000CB8
+t1269032833
+s3256
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneWrapper.m
+c000000004BA3E7810000000000001B43
+t1269032833
+s6979
+i"TimeZoneWrapper.h"
+i"CustomTableViewCellAppDelegate.h"
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/CustomTableViewCell_Prefix.pch
+c000000004A21E53E00000000000000CF
+t1243735358
+s207
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Default.png
+c000000004A21E53E0000000000000965
+t1243735358
+s2405
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Icon.png
+c000000004A21E53E0000000000001002
+t1243735358
+s4098
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/MainWindow.xib
+c000000004A21E53E0000000000001D23
+t1243735358
+s7459
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/CustomTableViewCell.LinkFileList
+c000000004C5F993400000000000004CF
+t1281333556
+s1231
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/CustomTableViewCellAppDelegate.o
+t1281333557
+s46404
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/Region.o
+t1281333557
+s16140
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/RootViewController.o
+t1281333557
+s46080
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneCell.o
+t1281333557
+s21464
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneView.o
+t1281333557
+s22120
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneWrapper.o
+t1281333557
+s23092
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/main.o
+t1281333557
+s5984
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app
+t1281333557
+s510
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app.dSYM
+t1281333557
+s102
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/12-6AM.png
+t1281333556
+s2025
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/12-6PM.png
+t1281333556
+s2488
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/6-12AM.png
+t1281333556
+s2375
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/6-12PM.png
+t1281333556
+s2219
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/CustomTableViewCell
+t1281333557
+s48752
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/Default.png
+t1281333556
+s2405
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/Icon.png
+t1281333556
+s4098
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/Info.plist
+t1281333556
+s674
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/MainWindow.nib
+t1281333556
+s1341
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/PkgInfo
+t1281333556
+s8
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/de.lproj/Localizable.strings
+t1281333556
+s100
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/en.lproj/Localizable.strings
+t1281333556
+s76
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/fr.lproj/Localizable.strings
+t1281333556
+s103
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/de.lproj/Localizable.strings
+c000000004A21E53E0000000000000044
+t1243735358
+s68
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/en.lproj/Localizable.strings
+c000000004A21E53E0000000000000090
+t1243735358
+s144
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/fr.lproj/Localizable.strings
+c000000004A21E53E0000000000000047
+t1243735358
+s71
+
+N/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/main.m
+c000000004BA3E7810000000000000A64
+t1269032833
+s2660
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableViewCell_Prefix-dvqodbcfyvcabdeghnxdppfvazhi/CustomTableViewCell_Prefix.pch.gch
+t1281333557
+s12952976
+
+NInfo.plist
+c000000004A3C3029000000000000038D
+t1245458473
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies303026356#303026356#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/CustomTableViewCellAppDelegate.o /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/CustomTableViewCellAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303026357.497237
+e303026357.583249
+r1
+xCompileC
+xbuild/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/CustomTableViewCellAppDelegate.o
+x/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/CustomTableViewCellAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/CustomTableViewCellAppDelegate.m303026357#303026357#0(0"0(0#0#99"/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/CustomTableViewCellAppDelegate.m4300911832#2377"    cd /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-generated-files.hmap -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-own-target-headers.hmap -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-all-target-headers.hmap -iquote /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-project-headers.hmap -F/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources/i386 -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableViewCell_Prefix-dvqodbcfyvcabdeghnxdppfvazhi/CustomTableViewCell_Prefix.pch -c /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/CustomTableViewCellAppDelegate.m -o /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/CustomTableViewCellAppDelegate.o0#
+
+CCompileC build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/Region.o /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/Region.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303026357.624041
+e303026357.687842
+r1
+xCompileC
+xbuild/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/Region.o
+x/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/Region.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/Region.m303026357#303026357#0(0"0(0#0#75"/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/Region.m4300911832#2329"    cd /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-generated-files.hmap -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-own-target-headers.hmap -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-all-target-headers.hmap -iquote /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-project-headers.hmap -F/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources/i386 -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableViewCell_Prefix-dvqodbcfyvcabdeghnxdppfvazhi/CustomTableViewCell_Prefix.pch -c /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/Region.m -o /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/Region.o0#
+
+CCompileC build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/RootViewController.o /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303026357.513650
+e303026357.623940
+r1
+xCompileC
+xbuild/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/RootViewController.o
+x/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/RootViewController.m303026357#303026357#0(0"0(0#0#87"/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/RootViewController.m4300911832#2353"    cd /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-generated-files.hmap -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-own-target-headers.hmap -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-all-target-headers.hmap -iquote /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-project-headers.hmap -F/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources/i386 -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableViewCell_Prefix-dvqodbcfyvcabdeghnxdppfvazhi/CustomTableViewCell_Prefix.pch -c /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/RootViewController.m -o /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneCell.o /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303026357.448323
+e303026357.513553
+r1
+xCompileC
+xbuild/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneCell.o
+x/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneCell.m303026357#303026357#0(0"0(0#0#81"/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneCell.m4300911832#2341"    cd /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-generated-files.hmap -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-own-target-headers.hmap -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-all-target-headers.hmap -iquote /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-project-headers.hmap -F/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources/i386 -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableViewCell_Prefix-dvqodbcfyvcabdeghnxdppfvazhi/CustomTableViewCell_Prefix.pch -c /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneCell.m -o /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneCell.o0#
+
+CCompileC build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneView.o /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303026357.675326
+e303026357.741275
+r1
+xCompileC
+xbuild/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneView.o
+x/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneView.m303026357#303026357#0(0"0(0#0#81"/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneView.m4300911832#2341"    cd /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-generated-files.hmap -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-own-target-headers.hmap -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-all-target-headers.hmap -iquote /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-project-headers.hmap -F/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources/i386 -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableViewCell_Prefix-dvqodbcfyvcabdeghnxdppfvazhi/CustomTableViewCell_Prefix.pch -c /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneView.m -o /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneView.o0#
+
+CCompileC build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneWrapper.o /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneWrapper.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303026357.583359
+e303026357.675213
+r1
+xCompileC
+xbuild/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneWrapper.o
+x/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneWrapper.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneWrapper.m303026357#303026357#0(0"0(0#0#84"/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneWrapper.m4300911832#2347"    cd /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-generated-files.hmap -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-own-target-headers.hmap -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-all-target-headers.hmap -iquote /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-project-headers.hmap -F/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources/i386 -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableViewCell_Prefix-dvqodbcfyvcabdeghnxdppfvazhi/CustomTableViewCell_Prefix.pch -c /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneWrapper.m -o /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneWrapper.o0#
+
+CCompileC build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/main.o /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303026357.447354
+e303026357.497137
+r1
+xCompileC
+xbuild/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/main.o
+x/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/main.m303026357#303026357#0(0"0(0#0#65"/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/main.m4300911832#2317"    cd /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-generated-files.hmap -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-own-target-headers.hmap -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-all-target-headers.hmap -iquote /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-project-headers.hmap -F/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources/i386 -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableViewCell_Prefix-dvqodbcfyvcabdeghnxdppfvazhi/CustomTableViewCell_Prefix.pch -c /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/main.m -o /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/MainWindow.xib
+s303026356.574487
+e303026356.858423
+r1
+xCompileXIB
+x/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib303026356#303026356#0(0"0(0#0#73"/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/MainWindow.xib4300911832#552"    cd /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/MainWindow.nib /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/MainWindow.xib0#
+
+CCopyStringsFile /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/de.lproj/Localizable.strings de.lproj/Localizable.strings
+s303026356.638655
+e303026356.666323
+r1
+xCopyStringsFile
+x/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/de.lproj/Localizable.strings
+xde.lproj/Localizable.strings
+lSLF07#2@33"Copy de.lproj/Localizable.strings303026356#303026356#0(0"0(0#0#87"/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/de.lproj/Localizable.strings4300911832#537"    cd /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary de.lproj/Localizable.strings --outdir /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/de.lproj0#
+
+CCopyStringsFile /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+s303026356.581834
+e303026356.610192
+r1
+xCopyStringsFile
+x/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/en.lproj/Localizable.strings
+xen.lproj/Localizable.strings
+lSLF07#2@33"Copy en.lproj/Localizable.strings303026356#303026356#0(0"0(0#0#87"/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/en.lproj/Localizable.strings4300911832#538"    cd /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding binary en.lproj/Localizable.strings --outdir /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/en.lproj0#
+
+CCopyStringsFile /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/fr.lproj/Localizable.strings fr.lproj/Localizable.strings
+s303026356.610280
+e303026356.638568
+r1
+xCopyStringsFile
+x/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/fr.lproj/Localizable.strings
+xfr.lproj/Localizable.strings
+lSLF07#2@33"Copy fr.lproj/Localizable.strings303026356#303026356#0(0"0(0#0#87"/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/fr.lproj/Localizable.strings4300911832#537"    cd /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary fr.lproj/Localizable.strings --outdir /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/fr.lproj0#
+
+CCpResource build/Debug-iphonesimulator/CustomTableViewCell.app/12-6AM.png 12-6AM.png
+s303026356.571361
+e303026356.581753
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CustomTableViewCell.app/12-6AM.png
+x12-6AM.png
+lSLF07#2@15"Copy 12-6AM.png303026356#303026356#0(0"0(0#0#69"/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/12-6AM.png4300911832#526"    cd /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/12-6AM.png /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app0#
+
+CCpResource build/Debug-iphonesimulator/CustomTableViewCell.app/12-6PM.png 12-6PM.png
+s303026356.568614
+e303026356.576194
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CustomTableViewCell.app/12-6PM.png
+x12-6PM.png
+lSLF07#2@15"Copy 12-6PM.png303026356#303026356#0(0"0(0#0#69"/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/12-6PM.png4300911832#526"    cd /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/12-6PM.png /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app0#
+
+CCpResource build/Debug-iphonesimulator/CustomTableViewCell.app/6-12AM.png 6-12AM.png
+s303026356.569241
+e303026356.576308
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CustomTableViewCell.app/6-12AM.png
+x6-12AM.png
+lSLF07#2@15"Copy 6-12AM.png303026356#303026356#0(0"0(0#0#69"/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/6-12AM.png4300911832#526"    cd /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/6-12AM.png /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app0#
+
+CCpResource build/Debug-iphonesimulator/CustomTableViewCell.app/6-12PM.png 6-12PM.png
+s303026356.569816
+e303026356.578285
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CustomTableViewCell.app/6-12PM.png
+x6-12PM.png
+lSLF07#2@15"Copy 6-12PM.png303026356#303026356#0(0"0(0#0#69"/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/6-12PM.png4300911832#526"    cd /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/6-12PM.png /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app0#
+
+CCpResource build/Debug-iphonesimulator/CustomTableViewCell.app/Default.png Default.png
+s303026356.572928
+e303026356.579986
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CustomTableViewCell.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png303026356#303026356#0(0"0(0#0#70"/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Default.png4300911832#527"    cd /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Default.png /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app0#
+
+CCpResource build/Debug-iphonesimulator/CustomTableViewCell.app/Icon.png Icon.png
+s303026356.666407
+e303026356.670890
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CustomTableViewCell.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png303026356#303026356#0(0"0(0#0#67"/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Icon.png4300911832#524"    cd /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Icon.png /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app0#
+
+CGenerateDSYMFile /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app.dSYM /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/CustomTableViewCell
+s303026357.762694
+e303026357.778303
+r1
+xGenerateDSYMFile
+x/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app.dSYM
+x/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/CustomTableViewCell
+lSLF07#2@145"GenerateDSYMFile build/Debug-iphonesimulator/CustomTableViewCell.app.dSYM build/Debug-iphonesimulator/CustomTableViewCell.app/CustomTableViewCell303026357#303026357#0(0"0(0#0#130"/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/CustomTableViewCell4300911832#479"    cd /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/CustomTableViewCell -o /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app.dSYM0#
+
+CLd /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/CustomTableViewCell normal i386
+s303026357.741368
+e303026357.762597
+r1
+xLd
+x/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/CustomTableViewCell
+xnormal
+xi386
+lSLF07#2@135"Link /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/CustomTableViewCell303026357#303026357#0(0"0(0#0#0"4300911832#1022"    cd /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator -F/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator -filelist /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/CustomTableViewCell.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/CustomTableViewCell0#
+
+CProcessInfoPlistFile /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/Info.plist Info.plist
+s303026356.563358
+e303026356.568537
+r1
+xProcessInfoPlistFile
+x/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist303026356#303026356#0(0"0(0#0#69"/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/Info.plist4300911832#555"    cd /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/Info.plist0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableViewCell_Prefix-dvqodbcfyvcabdeghnxdppfvazhi/CustomTableViewCell_Prefix.pch.gch CustomTableViewCell_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s303026356.858536
+e303026357.447249
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableViewCell_Prefix-dvqodbcfyvcabdeghnxdppfvazhi/CustomTableViewCell_Prefix.pch.gch
+xCustomTableViewCell_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile CustomTableViewCell_Prefix.pch303026356#303026357#0(0"0(0#0#89"/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/CustomTableViewCell_Prefix.pch4300911832#2177"    cd /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-generated-files.hmap -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-own-target-headers.hmap -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-all-target-headers.hmap -iquote /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-project-headers.hmap -F/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources/i386 -I/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources -c /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/CustomTableViewCell_Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableViewCell_Prefix-dvqodbcfyvcabdeghnxdppfvazhi/CustomTableViewCell_Prefix.pch.gch0#
+
+CTouch /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app
+s303026357.778387
+e303026357.781280
+r1
+xTouch
+x/Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app
+lSLF07#2@116"Touch /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app303026357#303026357#0(0"0(0#0#0"4300911832#330"    cd /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/reshma/Desktop/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app0#
+

@@ -1,0 +1,638 @@
+TTableSearch
+v7
+r0
+t328697720.549399
+cCheck dependencies
+cProcessInfoPlistFile /Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app/Info.plist Info.plist
+cCompileXIB /Developer/Examples/iPhone/TableSearch/en.lproj/MainWindow.xib
+cCompileXIB /Developer/Examples/iPhone/TableSearch/en.lproj/MainView.xib
+cCpResource build/Debug-iphonesimulator/TableSearch.app/Icon-Small.png Images/Icon-Small.png
+cCpResource build/Debug-iphonesimulator/TableSearch.app/Icon-Small@2x.png Images/Icon-Small@2x.png
+cCpResource build/Debug-iphonesimulator/TableSearch.app/Icon.png Images/Icon.png
+cCpResource build/Debug-iphonesimulator/TableSearch.app/Icon@2x.png Images/Icon@2x.png
+cCpResource build/Debug-iphonesimulator/TableSearch.app/iTunesArtwork.png Images/iTunesArtwork.png
+cProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-euwlsiphbkxubtdsukiplvvsvfor/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/main.o /Developer/Examples/iPhone/TableSearch/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/AppDelegate.o /Developer/Examples/iPhone/TableSearch/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/MainViewController.o /Developer/Examples/iPhone/TableSearch/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/Product.o /Developer/Examples/iPhone/TableSearch/Product.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app/TableSearch normal i386
+cGenerateDSYMFile /Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app.dSYM /Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app/TableSearch
+cTouch /Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app
+
+N/Developer/Examples/iPhone/TableSearch/AppDelegate.h
+c000000004C1AAE920000000000000ACC
+t1276817042
+s2764
+
+N/Developer/Examples/iPhone/TableSearch/AppDelegate.m
+c000000004C1AAE92000000000000107B
+t1276817042
+s4219
+i"AppDelegate.h"
+i"MainViewController.h"
+i"Product.h"
+
+N/Developer/Examples/iPhone/TableSearch/Images/Icon-Small.png
+c000000004C1A8C3C0000000000000396
+t1276808252
+s918
+
+N/Developer/Examples/iPhone/TableSearch/Images/Icon-Small@2x.png
+c000000004C1A8C3C00000000000003F2
+t1276808252
+s1010
+
+N/Developer/Examples/iPhone/TableSearch/Images/Icon.png
+c000000004C1A8C3C00000000000003EF
+t1276808252
+s1007
+
+N/Developer/Examples/iPhone/TableSearch/Images/Icon@2x.png
+c000000004C1A8C3C00000000000004E4
+t1276808252
+s1252
+
+N/Developer/Examples/iPhone/TableSearch/Images/iTunesArtwork.png
+c000000004C1A8C3C0000000000001444
+t1276808252
+s5188
+
+N/Developer/Examples/iPhone/TableSearch/MainViewController.h
+c000000004C1AAE920000000000000C70
+t1276817042
+s3184
+
+N/Developer/Examples/iPhone/TableSearch/MainViewController.m
+c000000004C1AAE920000000000001F70
+t1276817042
+s8048
+i"MainViewController.h"
+i"Product.h"
+
+N/Developer/Examples/iPhone/TableSearch/Prefix.pch
+c0000000049FA561B0000000000000058
+t1241142811
+s88
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Developer/Examples/iPhone/TableSearch/Product.h
+c000000004C1AAE920000000000000A7B
+t1276817042
+s2683
+
+N/Developer/Examples/iPhone/TableSearch/Product.m
+c000000004C1AAE920000000000000B18
+t1276817042
+s2840
+i"Product.h"
+
+N/Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app
+t1307004920
+s374
+
+N/Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app.dSYM
+t1307004920
+s102
+
+N/Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app/Icon-Small.png
+t1306991647
+s918
+
+N/Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app/Icon-Small@2x.png
+t1306991647
+s1010
+
+N/Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app/Icon.png
+t1306991647
+s1007
+
+N/Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app/Icon@2x.png
+t1306991647
+s1252
+
+N/Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app/Info.plist
+t1306991646
+s636
+
+N/Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app/PkgInfo
+t1306991646
+s8
+
+N/Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app/TableSearch
+t1307004920
+s29264
+
+N/Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app/en.lproj/MainView.nib
+t1306991647
+s1652
+
+N/Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app/en.lproj/MainWindow.nib
+t1306991647
+s964
+
+N/Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app/iTunesArtwork.png
+t1306991647
+s5188
+
+N/Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/AppDelegate.o
+t1307004920
+s53916
+
+N/Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/MainViewController.o
+t1307004920
+s60556
+
+N/Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/Product.o
+t1307004920
+s9680
+
+N/Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/TableSearch.LinkFileList
+c000000004DE74FF50000000000000220
+t1307004917
+s544
+
+N/Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/main.o
+t1307004920
+s6304
+
+N/Developer/Examples/iPhone/TableSearch/en.lproj/MainView.xib
+c0000000049FF55D30000000000002874
+t1241470419
+s10356
+
+N/Developer/Examples/iPhone/TableSearch/en.lproj/MainWindow.xib
+c0000000049FA561B0000000000001DEB
+t1241142811
+s7659
+
+N/Developer/Examples/iPhone/TableSearch/main.m
+c000000004C1AAE920000000000000A79
+t1276817042
+s2681
+i<UIKit/UIKit.h>
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/reshma/Desktop/TableSearch/AppDelegate.h
+c000000004C1AAE920000000000000ACC
+t1276817042
+s2764
+
+N/Users/reshma/Desktop/TableSearch/AppDelegate.m
+c000000004C1AAE92000000000000107B
+t1276817042
+s4219
+i"AppDelegate.h"
+i"MainViewController.h"
+i"Product.h"
+
+N/Users/reshma/Desktop/TableSearch/Images/Icon-Small.png
+c000000004C1A8C3C0000000000000396
+t1276808252
+s918
+
+N/Users/reshma/Desktop/TableSearch/Images/Icon-Small@2x.png
+c000000004C1A8C3C00000000000003F2
+t1276808252
+s1010
+
+N/Users/reshma/Desktop/TableSearch/Images/Icon.png
+c000000004C1A8C3C00000000000003EF
+t1276808252
+s1007
+
+N/Users/reshma/Desktop/TableSearch/Images/Icon@2x.png
+c000000004C1A8C3C00000000000004E4
+t1276808252
+s1252
+
+N/Users/reshma/Desktop/TableSearch/Images/iTunesArtwork.png
+c000000004C1A8C3C0000000000001444
+t1276808252
+s5188
+
+N/Users/reshma/Desktop/TableSearch/MainViewController.h
+c000000004C1AAE920000000000000C70
+t1276817042
+s3184
+
+N/Users/reshma/Desktop/TableSearch/MainViewController.m
+c000000004C1AAE920000000000001F70
+t1276817042
+s8048
+i"MainViewController.h"
+i"Product.h"
+
+N/Users/reshma/Desktop/TableSearch/Prefix.pch
+c0000000049FA561B0000000000000058
+t1241142811
+s88
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/reshma/Desktop/TableSearch/Product.h
+c000000004C1AAE920000000000000A7B
+t1276817042
+s2683
+
+N/Users/reshma/Desktop/TableSearch/Product.m
+c000000004C1AAE920000000000000B18
+t1276817042
+s2840
+i"Product.h"
+
+N/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app
+t1306991648
+s374
+
+N/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app.dSYM
+t1306991648
+s102
+
+N/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app/Icon-Small.png
+t1306991647
+s918
+
+N/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app/Icon-Small@2x.png
+t1306991647
+s1010
+
+N/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app/Icon.png
+t1306991647
+s1007
+
+N/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app/Icon@2x.png
+t1306991647
+s1252
+
+N/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app/Info.plist
+t1306991646
+s636
+
+N/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app/PkgInfo
+t1306991646
+s8
+
+N/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app/TableSearch
+t1306991648
+s29224
+
+N/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app/en.lproj/MainView.nib
+t1306991647
+s1652
+
+N/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app/en.lproj/MainWindow.nib
+t1306991647
+s964
+
+N/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app/iTunesArtwork.png
+t1306991647
+s5188
+
+N/Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/AppDelegate.o
+t1306991648
+s53908
+
+N/Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/MainViewController.o
+t1306991648
+s60548
+
+N/Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/Product.o
+t1306991648
+s9672
+
+N/Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/TableSearch.LinkFileList
+c000000004DE71C1E000000000000020C
+t1306991646
+s524
+
+N/Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/main.o
+t1306991648
+s6292
+
+N/Users/reshma/Desktop/TableSearch/en.lproj/MainView.xib
+c0000000049FF55D30000000000002874
+t1241470419
+s10356
+
+N/Users/reshma/Desktop/TableSearch/en.lproj/MainWindow.xib
+c0000000049FA561B0000000000001DEB
+t1241142811
+s7659
+
+N/Users/reshma/Desktop/TableSearch/main.m
+c000000004C1AAE920000000000000A79
+t1276817042
+s2681
+i<UIKit/UIKit.h>
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-euwlsiphbkxubtdsukiplvvsvfor/Prefix.pch.gch
+t1307004920
+s15465648
+
+N/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gqlofbtzcshijiemochykxtnnqcr/Prefix.pch.gch
+t1306991648
+s15465648
+
+NInfo.plist
+c000000004C1A6CBF0000000000000389
+t1276800191
+s905
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328697717#328697717#0(0"0(0#1#0"8609834112#0"0#
+
+CCompileC build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/AppDelegate.o /Developer/Examples/iPhone/TableSearch/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328697720.218347
+e328697720.325373
+r1
+xCompileC
+xbuild/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/AppDelegate.o
+x/Developer/Examples/iPhone/TableSearch/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Developer/Examples/iPhone/TableSearch/AppDelegate.m328697720#328697720#0(0"0(0#0#52"/Developer/Examples/iPhone/TableSearch/AppDelegate.m8623586304#1975"    cd /Developer/Examples/iPhone/TableSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-generated-files.hmap -I/Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-own-target-headers.hmap -I/Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-all-target-headers.hmap -iquote /Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-project-headers.hmap -F/Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator -I/Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/include -I/Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/DerivedSources/i386 -I/Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-euwlsiphbkxubtdsukiplvvsvfor/Prefix.pch -c /Developer/Examples/iPhone/TableSearch/AppDelegate.m -o /Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/AppDelegate.o /Users/reshma/Desktop/TableSearch/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328684448.284379
+e328684448.368747
+r1
+xCompileC
+xbuild/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/AppDelegate.o
+x/Users/reshma/Desktop/TableSearch/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/reshma/Desktop/TableSearch/AppDelegate.m328684448#328684448#0(0"0(0#0#47"/Users/reshma/Desktop/TableSearch/AppDelegate.m8608119712#1920"    cd /Users/reshma/Desktop/TableSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-generated-files.hmap -I/Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-own-target-headers.hmap -I/Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-all-target-headers.hmap -iquote /Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-project-headers.hmap -F/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator -I/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/DerivedSources/i386 -I/Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gqlofbtzcshijiemochykxtnnqcr/Prefix.pch -c /Users/reshma/Desktop/TableSearch/AppDelegate.m -o /Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/MainViewController.o /Developer/Examples/iPhone/TableSearch/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328697720.289030
+e328697720.393888
+r1
+xCompileC
+xbuild/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/MainViewController.o
+x/Developer/Examples/iPhone/TableSearch/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Developer/Examples/iPhone/TableSearch/MainViewController.m328697720#328697720#0(0"0(0#0#59"/Developer/Examples/iPhone/TableSearch/MainViewController.m8622505472#1989"    cd /Developer/Examples/iPhone/TableSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-generated-files.hmap -I/Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-own-target-headers.hmap -I/Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-all-target-headers.hmap -iquote /Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-project-headers.hmap -F/Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator -I/Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/include -I/Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/DerivedSources/i386 -I/Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-euwlsiphbkxubtdsukiplvvsvfor/Prefix.pch -c /Developer/Examples/iPhone/TableSearch/MainViewController.m -o /Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/MainViewController.o0#
+
+CCompileC build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/MainViewController.o /Users/reshma/Desktop/TableSearch/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328684448.342634
+e328684448.466952
+r1
+xCompileC
+xbuild/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/MainViewController.o
+x/Users/reshma/Desktop/TableSearch/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/reshma/Desktop/TableSearch/MainViewController.m328684448#328684448#0(0"0(0#0#54"/Users/reshma/Desktop/TableSearch/MainViewController.m8607221984#1934"    cd /Users/reshma/Desktop/TableSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-generated-files.hmap -I/Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-own-target-headers.hmap -I/Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-all-target-headers.hmap -iquote /Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-project-headers.hmap -F/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator -I/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/DerivedSources/i386 -I/Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gqlofbtzcshijiemochykxtnnqcr/Prefix.pch -c /Users/reshma/Desktop/TableSearch/MainViewController.m -o /Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/MainViewController.o0#
+
+CCompileC build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/Product.o /Developer/Examples/iPhone/TableSearch/Product.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328697720.325471
+e328697720.388125
+r1
+xCompileC
+xbuild/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/Product.o
+x/Developer/Examples/iPhone/TableSearch/Product.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Developer/Examples/iPhone/TableSearch/Product.m328697720#328697720#0(0"0(0#0#48"/Developer/Examples/iPhone/TableSearch/Product.m8621166816#1967"    cd /Developer/Examples/iPhone/TableSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-generated-files.hmap -I/Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-own-target-headers.hmap -I/Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-all-target-headers.hmap -iquote /Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-project-headers.hmap -F/Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator -I/Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/include -I/Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/DerivedSources/i386 -I/Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-euwlsiphbkxubtdsukiplvvsvfor/Prefix.pch -c /Developer/Examples/iPhone/TableSearch/Product.m -o /Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/Product.o0#
+
+CCompileC build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/Product.o /Users/reshma/Desktop/TableSearch/Product.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328684448.368873
+e328684448.427297
+r1
+xCompileC
+xbuild/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/Product.o
+x/Users/reshma/Desktop/TableSearch/Product.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/reshma/Desktop/TableSearch/Product.m328684448#328684448#0(0"0(0#0#43"/Users/reshma/Desktop/TableSearch/Product.m8606859552#1912"    cd /Users/reshma/Desktop/TableSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-generated-files.hmap -I/Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-own-target-headers.hmap -I/Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-all-target-headers.hmap -iquote /Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-project-headers.hmap -F/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator -I/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/DerivedSources/i386 -I/Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gqlofbtzcshijiemochykxtnnqcr/Prefix.pch -c /Users/reshma/Desktop/TableSearch/Product.m -o /Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/Product.o0#
+
+CCompileC build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/main.o /Developer/Examples/iPhone/TableSearch/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328697720.216957
+e328697720.288926
+r1
+xCompileC
+xbuild/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/main.o
+x/Developer/Examples/iPhone/TableSearch/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Developer/Examples/iPhone/TableSearch/main.m328697720#328697720#0(0"0(0#0#45"/Developer/Examples/iPhone/TableSearch/main.m8623981920#1961"    cd /Developer/Examples/iPhone/TableSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-generated-files.hmap -I/Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-own-target-headers.hmap -I/Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-all-target-headers.hmap -iquote /Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-project-headers.hmap -F/Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator -I/Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/include -I/Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/DerivedSources/i386 -I/Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-euwlsiphbkxubtdsukiplvvsvfor/Prefix.pch -c /Developer/Examples/iPhone/TableSearch/main.m -o /Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/main.o0#
+
+CCompileC build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/main.o /Users/reshma/Desktop/TableSearch/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328684448.283095
+e328684448.342533
+r1
+xCompileC
+xbuild/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/main.o
+x/Users/reshma/Desktop/TableSearch/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/reshma/Desktop/TableSearch/main.m328684448#328684448#0(0"0(0#0#40"/Users/reshma/Desktop/TableSearch/main.m8622707200#1906"    cd /Users/reshma/Desktop/TableSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-generated-files.hmap -I/Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-own-target-headers.hmap -I/Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-all-target-headers.hmap -iquote /Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-project-headers.hmap -F/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator -I/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/DerivedSources/i386 -I/Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/DerivedSources -include /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gqlofbtzcshijiemochykxtnnqcr/Prefix.pch -c /Users/reshma/Desktop/TableSearch/main.m -o /Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Developer/Examples/iPhone/TableSearch/en.lproj/MainView.xib
+r0
+
+CCompileXIB /Developer/Examples/iPhone/TableSearch/en.lproj/MainWindow.xib
+r0
+
+CCompileXIB /Users/reshma/Desktop/TableSearch/en.lproj/MainView.xib
+s328684446.888715
+e328684447.308004
+r1
+xCompileXIB
+x/Users/reshma/Desktop/TableSearch/en.lproj/MainView.xib
+lSLF07#2@32"CompileXIB en.lproj/MainView.xib328684446#328684447#0(0"0(0#0#55"/Users/reshma/Desktop/TableSearch/en.lproj/MainView.xib8620888896#573"    cd /Users/reshma/Desktop/TableSearch    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app/en.lproj/MainView.nib /Users/reshma/Desktop/TableSearch/en.lproj/MainView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/reshma/Desktop/TableSearch/en.lproj/MainWindow.xib
+s328684446.887749
+e328684447.244673
+r1
+xCompileXIB
+x/Users/reshma/Desktop/TableSearch/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib328684446#328684447#0(0"0(0#0#57"/Users/reshma/Desktop/TableSearch/en.lproj/MainWindow.xib8623465344#577"    cd /Users/reshma/Desktop/TableSearch    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app/en.lproj/MainWindow.nib /Users/reshma/Desktop/TableSearch/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/TableSearch.app/Icon-Small.png Images/Icon-Small.png
+s328684447.244754
+e328684447.255020
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TableSearch.app/Icon-Small.png
+xImages/Icon-Small.png
+lSLF07#2@26"Copy Images/Icon-Small.png328684447#328684447#0(0"0(0#0#55"/Users/reshma/Desktop/TableSearch/Images/Icon-Small.png8607024288#468"    cd /Users/reshma/Desktop/TableSearch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Desktop/TableSearch/Images/Icon-Small.png /Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app0#
+
+CCpResource build/Debug-iphonesimulator/TableSearch.app/Icon-Small@2x.png Images/Icon-Small@2x.png
+s328684447.245448
+e328684447.255127
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TableSearch.app/Icon-Small@2x.png
+xImages/Icon-Small@2x.png
+lSLF07#2@29"Copy Images/Icon-Small@2x.png328684447#328684447#0(0"0(0#0#58"/Users/reshma/Desktop/TableSearch/Images/Icon-Small@2x.png8606881728#471"    cd /Users/reshma/Desktop/TableSearch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Desktop/TableSearch/Images/Icon-Small@2x.png /Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app0#
+
+CCpResource build/Debug-iphonesimulator/TableSearch.app/Icon.png Images/Icon.png
+s328684447.249954
+e328684447.255225
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TableSearch.app/Icon.png
+xImages/Icon.png
+lSLF07#2@20"Copy Images/Icon.png328684447#328684447#0(0"0(0#0#49"/Users/reshma/Desktop/TableSearch/Images/Icon.png8604488352#462"    cd /Users/reshma/Desktop/TableSearch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Desktop/TableSearch/Images/Icon.png /Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app0#
+
+CCpResource build/Debug-iphonesimulator/TableSearch.app/Icon@2x.png Images/Icon@2x.png
+s328684447.250600
+e328684447.255325
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TableSearch.app/Icon@2x.png
+xImages/Icon@2x.png
+lSLF07#2@23"Copy Images/Icon@2x.png328684447#328684447#0(0"0(0#0#52"/Users/reshma/Desktop/TableSearch/Images/Icon@2x.png8632006432#465"    cd /Users/reshma/Desktop/TableSearch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Desktop/TableSearch/Images/Icon@2x.png /Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app0#
+
+CCpResource build/Debug-iphonesimulator/TableSearch.app/iTunesArtwork.png Images/iTunesArtwork.png
+s328684447.254154
+e328684447.258282
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TableSearch.app/iTunesArtwork.png
+xImages/iTunesArtwork.png
+lSLF07#2@29"Copy Images/iTunesArtwork.png328684447#328684447#0(0"0(0#0#58"/Users/reshma/Desktop/TableSearch/Images/iTunesArtwork.png8626170816#471"    cd /Users/reshma/Desktop/TableSearch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/reshma/Desktop/TableSearch/Images/iTunesArtwork.png /Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app0#
+
+CGenerateDSYMFile /Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app.dSYM /Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app/TableSearch
+s328697720.458036
+e328697720.530590
+r1
+xGenerateDSYMFile
+x/Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app.dSYM
+x/Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app/TableSearch
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/TableSearch.app.dSYM build/Debug-iphonesimulator/TableSearch.app/TableSearch328697720#328697720#0(0"0(0#0#94"/Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app/TableSearch8608241120#395"    cd /Developer/Examples/iPhone/TableSearch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app/TableSearch -o /Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app.dSYM0#
+
+CGenerateDSYMFile /Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app.dSYM /Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app/TableSearch
+s328684448.492305
+e328684448.530644
+r1
+xGenerateDSYMFile
+x/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app.dSYM
+x/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app/TableSearch
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/TableSearch.app.dSYM build/Debug-iphonesimulator/TableSearch.app/TableSearch328684448#328684448#0(0"0(0#0#89"/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app/TableSearch8608191584#380"    cd /Users/reshma/Desktop/TableSearch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app/TableSearch -o /Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app.dSYM0#
+
+CLd /Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app/TableSearch normal i386
+s328697720.393984
+e328697720.457922
+r1
+xLd
+x/Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app/TableSearch
+xnormal
+xi386
+lSLF07#2@99"Link /Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app/TableSearch328697720#328697720#0(0"0(0#0#0"8610644512#920"    cd /Developer/Examples/iPhone/TableSearch    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator -F/Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator -filelist /Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/TableSearch.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app/TableSearch0#
+
+CLd /Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app/TableSearch normal i386
+s328684448.467068
+e328684448.492206
+r1
+xLd
+x/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app/TableSearch
+xnormal
+xi386
+lSLF07#2@94"Link /Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app/TableSearch328684448#328684448#0(0"0(0#0#0"8620837440#895"    cd /Users/reshma/Desktop/TableSearch    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator -F/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator -filelist /Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/Objects-normal/i386/TableSearch.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app/TableSearch0#
+
+CProcessInfoPlistFile /Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app/Info.plist Info.plist
+r0
+
+CProcessInfoPlistFile /Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app/Info.plist Info.plist
+s328684446.868190
+e328684446.887667
+r1
+xProcessInfoPlistFile
+x/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist328684446#328684446#0(0"0(0#0#44"/Users/reshma/Desktop/TableSearch/Info.plist8604366912#464"    cd /Users/reshma/Desktop/TableSearch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app/Info.plist0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-euwlsiphbkxubtdsukiplvvsvfor/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s328697717.324714
+e328697720.216707
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-euwlsiphbkxubtdsukiplvvsvfor/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch328697717#328697720#0(0"0(0#0#49"/Developer/Examples/iPhone/TableSearch/Prefix.pch8611910848#1837"    cd /Developer/Examples/iPhone/TableSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-generated-files.hmap -I/Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-own-target-headers.hmap -I/Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-all-target-headers.hmap -iquote /Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-project-headers.hmap -F/Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator -I/Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/include -I/Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/DerivedSources/i386 -I/Developer/Examples/iPhone/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/DerivedSources -c /Developer/Examples/iPhone/TableSearch/Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-euwlsiphbkxubtdsukiplvvsvfor/Prefix.pch.gch0#
+
+CProcessPCH /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gqlofbtzcshijiemochykxtnnqcr/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s328684447.308121
+e328684448.282971
+r1
+xProcessPCH
+x/var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gqlofbtzcshijiemochykxtnnqcr/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch328684447#328684448#0(0"0(0#0#44"/Users/reshma/Desktop/TableSearch/Prefix.pch8625650848#1787"    cd /Users/reshma/Desktop/TableSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-generated-files.hmap -I/Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-own-target-headers.hmap -I/Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-all-target-headers.hmap -iquote /Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/TableSearch-project-headers.hmap -F/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator -I/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/include -I/Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/DerivedSources/i386 -I/Users/reshma/Desktop/TableSearch/build/TableSearch.build/Debug-iphonesimulator/TableSearch.build/DerivedSources -c /Users/reshma/Desktop/TableSearch/Prefix.pch -o /var/folders/br/brFYzUzPEbqdon1Q2ZFxpE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gqlofbtzcshijiemochykxtnnqcr/Prefix.pch.gch0#
+
+CTouch /Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app
+s328697720.530669
+e328697720.549347
+r1
+xTouch
+x/Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app
+lSLF07#2@88"Touch /Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app328697720#328697720#0(0"0(0#0#0"8608213952#282"    cd /Developer/Examples/iPhone/TableSearch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Developer/Examples/iPhone/TableSearch/build/Debug-iphonesimulator/TableSearch.app0#
+
+CTouch /Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app
+s328684448.530722
+e328684448.533493
+r1
+xTouch
+x/Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app
+lSLF07#2@83"Touch /Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app328684448#328684448#0(0"0(0#0#0"8604574496#272"    cd /Users/reshma/Desktop/TableSearch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/reshma/Desktop/TableSearch/build/Debug-iphonesimulator/TableSearch.app0#
+

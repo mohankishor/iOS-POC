@@ -1,0 +1,402 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		E909B6291491E3AC004ED597 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E909B6281491E3AC004ED597 /* Foundation.framework */; };
+		E909B6341491E3AD004ED597 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E909B6331491E3AD004ED597 /* UIKit.framework */; };
+		E909B6351491E3AD004ED597 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E909B6281491E3AC004ED597 /* Foundation.framework */; };
+		E909B6371491E3AD004ED597 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E909B6361491E3AD004ED597 /* CoreGraphics.framework */; };
+		E909B63A1491E3AD004ED597 /* libICodeMathUtils.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E909B6251491E3AC004ED597 /* libICodeMathUtils.a */; };
+		E909B6401491E3AD004ED597 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = E909B63E1491E3AD004ED597 /* InfoPlist.strings */; };
+		E909B6431491E3AD004ED597 /* ICodeMathUtilsTests.h in Resources */ = {isa = PBXBuildFile; fileRef = E909B6421491E3AD004ED597 /* ICodeMathUtilsTests.h */; };
+		E909B6451491E3AD004ED597 /* ICodeMathUtilsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E909B6441491E3AD004ED597 /* ICodeMathUtilsTests.m */; };
+		E909B6501491E40F004ED597 /* MathFunctions.h in Headers */ = {isa = PBXBuildFile; fileRef = E909B64E1491E40F004ED597 /* MathFunctions.h */; };
+		E909B6511491E40F004ED597 /* MathFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = E909B64F1491E40F004ED597 /* MathFunctions.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		E909B6381491E3AD004ED597 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E909B61C1491E3AC004ED597 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E909B6241491E3AC004ED597;
+			remoteInfo = ICodeMathUtils;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		E909B6251491E3AC004ED597 /* libICodeMathUtils.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libICodeMathUtils.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		E909B6281491E3AC004ED597 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		E909B62C1491E3AC004ED597 /* ICodeMathUtils-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ICodeMathUtils-Prefix.pch"; sourceTree = "<group>"; };
+		E909B6321491E3AD004ED597 /* ICodeMathUtilsTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ICodeMathUtilsTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E909B6331491E3AD004ED597 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		E909B6361491E3AD004ED597 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		E909B63D1491E3AD004ED597 /* ICodeMathUtilsTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ICodeMathUtilsTests-Info.plist"; sourceTree = "<group>"; };
+		E909B63F1491E3AD004ED597 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		E909B6411491E3AD004ED597 /* ICodeMathUtilsTests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ICodeMathUtilsTests-Prefix.pch"; sourceTree = "<group>"; };
+		E909B6421491E3AD004ED597 /* ICodeMathUtilsTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ICodeMathUtilsTests.h; sourceTree = "<group>"; };
+		E909B6441491E3AD004ED597 /* ICodeMathUtilsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ICodeMathUtilsTests.m; sourceTree = "<group>"; };
+		E909B64E1491E40F004ED597 /* MathFunctions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MathFunctions.h; sourceTree = "<group>"; };
+		E909B64F1491E40F004ED597 /* MathFunctions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MathFunctions.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E909B6221491E3AC004ED597 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E909B6291491E3AC004ED597 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E909B62E1491E3AC004ED597 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E909B6341491E3AD004ED597 /* UIKit.framework in Frameworks */,
+				E909B6351491E3AD004ED597 /* Foundation.framework in Frameworks */,
+				E909B6371491E3AD004ED597 /* CoreGraphics.framework in Frameworks */,
+				E909B63A1491E3AD004ED597 /* libICodeMathUtils.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		E909B61A1491E3AC004ED597 = {
+			isa = PBXGroup;
+			children = (
+				E909B64E1491E40F004ED597 /* MathFunctions.h */,
+				E909B64F1491E40F004ED597 /* MathFunctions.m */,
+				E909B62A1491E3AC004ED597 /* ICodeMathUtils */,
+				E909B63B1491E3AD004ED597 /* ICodeMathUtilsTests */,
+				E909B6271491E3AC004ED597 /* Frameworks */,
+				E909B6261491E3AC004ED597 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		E909B6261491E3AC004ED597 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E909B6251491E3AC004ED597 /* libICodeMathUtils.a */,
+				E909B6321491E3AD004ED597 /* ICodeMathUtilsTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		E909B6271491E3AC004ED597 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E909B6281491E3AC004ED597 /* Foundation.framework */,
+				E909B6331491E3AD004ED597 /* UIKit.framework */,
+				E909B6361491E3AD004ED597 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E909B62A1491E3AC004ED597 /* ICodeMathUtils */ = {
+			isa = PBXGroup;
+			children = (
+				E909B62B1491E3AC004ED597 /* Supporting Files */,
+			);
+			path = ICodeMathUtils;
+			sourceTree = "<group>";
+		};
+		E909B62B1491E3AC004ED597 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				E909B62C1491E3AC004ED597 /* ICodeMathUtils-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		E909B63B1491E3AD004ED597 /* ICodeMathUtilsTests */ = {
+			isa = PBXGroup;
+			children = (
+				E909B6421491E3AD004ED597 /* ICodeMathUtilsTests.h */,
+				E909B6441491E3AD004ED597 /* ICodeMathUtilsTests.m */,
+				E909B63C1491E3AD004ED597 /* Supporting Files */,
+			);
+			path = ICodeMathUtilsTests;
+			sourceTree = "<group>";
+		};
+		E909B63C1491E3AD004ED597 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				E909B63D1491E3AD004ED597 /* ICodeMathUtilsTests-Info.plist */,
+				E909B63E1491E3AD004ED597 /* InfoPlist.strings */,
+				E909B6411491E3AD004ED597 /* ICodeMathUtilsTests-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		E909B6231491E3AC004ED597 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E909B6501491E40F004ED597 /* MathFunctions.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		E909B6241491E3AC004ED597 /* ICodeMathUtils */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E909B6481491E3AD004ED597 /* Build configuration list for PBXNativeTarget "ICodeMathUtils" */;
+			buildPhases = (
+				E909B6211491E3AC004ED597 /* Sources */,
+				E909B6221491E3AC004ED597 /* Frameworks */,
+				E909B6231491E3AC004ED597 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ICodeMathUtils;
+			productName = ICodeMathUtils;
+			productReference = E909B6251491E3AC004ED597 /* libICodeMathUtils.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		E909B6311491E3AC004ED597 /* ICodeMathUtilsTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E909B64B1491E3AD004ED597 /* Build configuration list for PBXNativeTarget "ICodeMathUtilsTests" */;
+			buildPhases = (
+				E909B62D1491E3AC004ED597 /* Sources */,
+				E909B62E1491E3AC004ED597 /* Frameworks */,
+				E909B62F1491E3AC004ED597 /* Resources */,
+				E909B6301491E3AC004ED597 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E909B6391491E3AD004ED597 /* PBXTargetDependency */,
+			);
+			name = ICodeMathUtilsTests;
+			productName = ICodeMathUtilsTests;
+			productReference = E909B6321491E3AD004ED597 /* ICodeMathUtilsTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E909B61C1491E3AC004ED597 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = E909B61F1491E3AC004ED597 /* Build configuration list for PBXProject "ICodeMathUtils" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = E909B61A1491E3AC004ED597;
+			productRefGroup = E909B6261491E3AC004ED597 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E909B6241491E3AC004ED597 /* ICodeMathUtils */,
+				E909B6311491E3AC004ED597 /* ICodeMathUtilsTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		E909B62F1491E3AC004ED597 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E909B6401491E3AD004ED597 /* InfoPlist.strings in Resources */,
+				E909B6431491E3AD004ED597 /* ICodeMathUtilsTests.h in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		E909B6301491E3AC004ED597 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E909B6211491E3AC004ED597 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E909B6511491E40F004ED597 /* MathFunctions.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E909B62D1491E3AC004ED597 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E909B6451491E3AD004ED597 /* ICodeMathUtilsTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		E909B6391491E3AD004ED597 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E909B6241491E3AC004ED597 /* ICodeMathUtils */;
+			targetProxy = E909B6381491E3AD004ED597 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		E909B63E1491E3AD004ED597 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E909B63F1491E3AD004ED597 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		E909B6461491E3AD004ED597 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		E909B6471491E3AD004ED597 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		E909B6491491E3AD004ED597 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				DSTROOT = /tmp/ICodeMathUtils.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ICodeMathUtils/ICodeMathUtils-Prefix.pch";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		E909B64A1491E3AD004ED597 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				DSTROOT = /tmp/ICodeMathUtils.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ICodeMathUtils/ICodeMathUtils-Prefix.pch";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		E909B64C1491E3AD004ED597 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ICodeMathUtilsTests/ICodeMathUtilsTests-Prefix.pch";
+				INFOPLIST_FILE = "ICodeMathUtilsTests/ICodeMathUtilsTests-Info.plist";
+				OTHER_LDFLAGS = (
+					"-framework",
+					SenTestingKit,
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		E909B64D1491E3AD004ED597 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ICodeMathUtilsTests/ICodeMathUtilsTests-Prefix.pch";
+				INFOPLIST_FILE = "ICodeMathUtilsTests/ICodeMathUtilsTests-Info.plist";
+				OTHER_LDFLAGS = (
+					"-framework",
+					SenTestingKit,
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E909B61F1491E3AC004ED597 /* Build configuration list for PBXProject "ICodeMathUtils" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E909B6461491E3AD004ED597 /* Debug */,
+				E909B6471491E3AD004ED597 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E909B6481491E3AD004ED597 /* Build configuration list for PBXNativeTarget "ICodeMathUtils" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E909B6491491E3AD004ED597 /* Debug */,
+				E909B64A1491E3AD004ED597 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		E909B64B1491E3AD004ED597 /* Build configuration list for PBXNativeTarget "ICodeMathUtilsTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E909B64C1491E3AD004ED597 /* Debug */,
+				E909B64D1491E3AD004ED597 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E909B61C1491E3AC004ED597 /* Project object */;
+}

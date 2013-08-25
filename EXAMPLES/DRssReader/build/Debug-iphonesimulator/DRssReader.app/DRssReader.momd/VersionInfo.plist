@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSManagedObjectModel_CurrentVersionName</key>
+	<string>DRssReader</string>
+	<key>NSManagedObjectModel_VersionHashes</key>
+	<dict>
+		<key>DRssReader</key>
+		<dict>
+			<key>CategoryEntity</key>
+			<data>
+			Cf0/QJlffzFO+2BLX21NoKAb++rk764Pu6EOQfuG014=
+			</data>
+			<key>ItemEntity</key>
+			<data>
+			84ChDc8aP8SnaT6tjKaN4ueHjB7Oi/H9WCqBsAb0i44=
+			</data>
+		</dict>
+	</dict>
+</dict>
+</plist>

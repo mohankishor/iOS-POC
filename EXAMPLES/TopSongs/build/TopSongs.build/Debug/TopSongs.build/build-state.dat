@@ -1,0 +1,140 @@
+TTopSongs
+v7
+r1
+cCheck dependencies
+
+N/Users/sanath/Downloads/TopSongs/Images/Icon-Small.png
+c000000004C1A8BB90000000000000396
+t1276808121
+s918
+
+N/Users/sanath/Downloads/TopSongs/Images/Icon-Small@2x.png
+c000000004C1A8BB900000000000003F2
+t1276808121
+s1010
+
+N/Users/sanath/Downloads/TopSongs/Images/Icon.png
+c000000004C1A8BB900000000000003EF
+t1276808121
+s1007
+
+N/Users/sanath/Downloads/TopSongs/Images/Icon@2x.png
+c000000004C1A8BB900000000000004E4
+t1276808121
+s1252
+
+N/Users/sanath/Downloads/TopSongs/Images/iTunesArtwork.png
+c000000004C1A8BB90000000000001444
+t1276808121
+s5188
+
+N/Users/sanath/Downloads/TopSongs/build/Debug/TopSongs.app
+t2
+s0
+
+N/Users/sanath/Downloads/TopSongs/build/Debug/TopSongs.app/Contents/Info.plist
+t2
+s0
+
+N/Users/sanath/Downloads/TopSongs/build/Debug/TopSongs.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/sanath/Downloads/TopSongs/build/Debug/TopSongs.app/Contents/Resources/Icon-Small.png
+t2
+s0
+
+N/Users/sanath/Downloads/TopSongs/build/Debug/TopSongs.app/Contents/Resources/Icon-Small@2x.png
+t2
+s0
+
+N/Users/sanath/Downloads/TopSongs/build/Debug/TopSongs.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/sanath/Downloads/TopSongs/build/Debug/TopSongs.app/Contents/Resources/Icon@2x.png
+t2
+s0
+
+N/Users/sanath/Downloads/TopSongs/build/Debug/TopSongs.app/Contents/Resources/en.lproj/Localizable.strings
+t2
+s0
+
+N/Users/sanath/Downloads/TopSongs/build/Debug/TopSongs.app/Contents/Resources/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/sanath/Downloads/TopSongs/build/Debug/TopSongs.app/Contents/Resources/en.lproj/SongDetailsView.nib
+t2
+s0
+
+N/Users/sanath/Downloads/TopSongs/build/Debug/TopSongs.app/Contents/Resources/en.lproj/SongsView.nib
+t2
+s0
+
+N/Users/sanath/Downloads/TopSongs/build/Debug/TopSongs.app/Contents/Resources/iTunesArtwork.png
+t2
+s0
+
+N/Users/sanath/Downloads/TopSongs/en.lproj/Localizable.strings
+c000000004A414EDE00000000000003D2
+t1245794014
+s978
+
+N/Users/sanath/Downloads/TopSongs/en.lproj/MainWindow.xib
+c000000004A414EDE0000000000002E8F
+t1245794014
+s11919
+
+N/Users/sanath/Downloads/TopSongs/en.lproj/SongDetailsView.xib
+c000000004C1A6750000000000000415B
+t1276798800
+s16731
+
+N/Users/sanath/Downloads/TopSongs/en.lproj/SongsView.xib
+c000000004A414EDE00000000000037E9
+t1245794014
+s14313
+
+NInfo.plist
+c000000004C1A8BB90000000000000389
+t1276808121
+s905
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311514013#311514013#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.0'1(4@58"error: There is no SDK with the name or path 'iphoneos4.0'311514013#18446744073709551615#0#0(1@0"0(0#1#0"8618888224#0"0#
+
+CCompileXIB /Users/sanath/Downloads/TopSongs/en.lproj/MainWindow.xib
+r0
+
+CCompileXIB /Users/sanath/Downloads/TopSongs/en.lproj/SongDetailsView.xib
+r0
+
+CCompileXIB /Users/sanath/Downloads/TopSongs/en.lproj/SongsView.xib
+r0
+
+CCopyStringsFile /Users/sanath/Downloads/TopSongs/build/Debug/TopSongs.app/Contents/Resources/en.lproj/Localizable.strings en.lproj/Localizable.strings
+r0
+
+CCpResource build/Debug/TopSongs.app/Contents/Resources/Icon-Small.png Images/Icon-Small.png
+r0
+
+CCpResource build/Debug/TopSongs.app/Contents/Resources/Icon-Small@2x.png Images/Icon-Small@2x.png
+r0
+
+CCpResource build/Debug/TopSongs.app/Contents/Resources/Icon.png Images/Icon.png
+r0
+
+CCpResource build/Debug/TopSongs.app/Contents/Resources/Icon@2x.png Images/Icon@2x.png
+r0
+
+CCpResource build/Debug/TopSongs.app/Contents/Resources/iTunesArtwork.png Images/iTunesArtwork.png
+r0
+
+CProcessInfoPlistFile /Users/sanath/Downloads/TopSongs/build/Debug/TopSongs.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/sanath/Downloads/TopSongs/build/Debug/TopSongs.app
+r0
+

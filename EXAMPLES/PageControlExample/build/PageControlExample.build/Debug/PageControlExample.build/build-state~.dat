@@ -1,0 +1,56 @@
+TPageControlExample
+v7
+r1
+cCheck dependencies
+
+N/Users/reshma/Downloads/PageControlExample/MainWindow.xib
+c000000004B876A0C0000000000002A6E
+t1267165708
+s10862
+
+N/Users/reshma/Downloads/PageControlExample/PageControllerExample.xib
+c000000004B8766B10000000000001EBA
+t1267164849
+s7866
+
+N/Users/reshma/Downloads/PageControlExample/build/Debug/PageControlExample.app
+t2
+s0
+
+N/Users/reshma/Downloads/PageControlExample/build/Debug/PageControlExample.app/Contents/Info.plist
+t2
+s0
+
+N/Users/reshma/Downloads/PageControlExample/build/Debug/PageControlExample.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/reshma/Downloads/PageControlExample/build/Debug/PageControlExample.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/reshma/Downloads/PageControlExample/build/Debug/PageControlExample.app/Contents/Resources/PageControllerExample.nib
+t2
+s0
+
+NPageControlExample-Info.plist
+c000000004B875C97000000000000038D
+t1267162263
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312182582#312182582#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos3.0'1(4@58"error: There is no SDK with the name or path 'iphoneos3.0'312182582#18446744073709551615#0#0(1@0"0(0#1#0"9007637348679712#0"0#
+
+CCompileXIB /Users/reshma/Downloads/PageControlExample/MainWindow.xib
+r0
+
+CCompileXIB /Users/reshma/Downloads/PageControlExample/PageControllerExample.xib
+r0
+
+CProcessInfoPlistFile /Users/reshma/Downloads/PageControlExample/build/Debug/PageControlExample.app/Contents/Info.plist PageControlExample-Info.plist
+r0
+
+CTouch /Users/reshma/Downloads/PageControlExample/build/Debug/PageControlExample.app
+r0
+
