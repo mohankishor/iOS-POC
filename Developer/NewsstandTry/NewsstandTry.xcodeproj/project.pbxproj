@@ -1,0 +1,312 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5282DD1015E3767100D5CD0C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5282DD0F15E3767100D5CD0C /* UIKit.framework */; };
+		5282DD1215E3767100D5CD0C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5282DD1115E3767100D5CD0C /* Foundation.framework */; };
+		5282DD1415E3767100D5CD0C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5282DD1315E3767100D5CD0C /* CoreGraphics.framework */; };
+		5282DD1A15E3767100D5CD0C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5282DD1815E3767100D5CD0C /* InfoPlist.strings */; };
+		5282DD1C15E3767100D5CD0C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5282DD1B15E3767100D5CD0C /* main.m */; };
+		5282DD2015E3767100D5CD0C /* NSAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5282DD1F15E3767100D5CD0C /* NSAppDelegate.m */; };
+		5282DD2315E3767100D5CD0C /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5282DD2115E3767100D5CD0C /* MainStoryboard.storyboard */; };
+		5282DD2615E3767100D5CD0C /* NSViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5282DD2515E3767100D5CD0C /* NSViewController.m */; };
+		5282DD2D15E3768000D5CD0C /* icon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5282DD2C15E3768000D5CD0C /* icon.jpg */; };
+		5282DD2F15E379AF00D5CD0C /* Newsstand.png in Resources */ = {isa = PBXBuildFile; fileRef = 5282DD2E15E379AF00D5CD0C /* Newsstand.png */; };
+		5282DD3115E379ED00D5CD0C /* NewsstandKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5282DD3015E379ED00D5CD0C /* NewsstandKit.framework */; };
+		52B7547A15E49BFF008DDA02 /* IssueTableCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 52B7547915E49BFF008DDA02 /* IssueTableCell.xib */; };
+		52B8141F15E37BEC0055E2A3 /* issues.plist in Resources */ = {isa = PBXBuildFile; fileRef = 52B8141E15E37BEC0055E2A3 /* issues.plist */; };
+		52B8142215E37ED60055E2A3 /* Publisher.m in Sources */ = {isa = PBXBuildFile; fileRef = 52B8142115E37ED60055E2A3 /* Publisher.m */; };
+		52B8142C15E387150055E2A3 /* QuickLook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52B8142B15E387150055E2A3 /* QuickLook.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		5282DD0B15E3767100D5CD0C /* NewsstandTry.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NewsstandTry.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5282DD0F15E3767100D5CD0C /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		5282DD1115E3767100D5CD0C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		5282DD1315E3767100D5CD0C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		5282DD1715E3767100D5CD0C /* NewsstandTry-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "NewsstandTry-Info.plist"; sourceTree = "<group>"; };
+		5282DD1915E3767100D5CD0C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		5282DD1B15E3767100D5CD0C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		5282DD1D15E3767100D5CD0C /* NewsstandTry-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NewsstandTry-Prefix.pch"; sourceTree = "<group>"; };
+		5282DD1E15E3767100D5CD0C /* NSAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NSAppDelegate.h; sourceTree = "<group>"; };
+		5282DD1F15E3767100D5CD0C /* NSAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NSAppDelegate.m; sourceTree = "<group>"; };
+		5282DD2215E3767100D5CD0C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		5282DD2415E3767100D5CD0C /* NSViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NSViewController.h; sourceTree = "<group>"; };
+		5282DD2515E3767100D5CD0C /* NSViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NSViewController.m; sourceTree = "<group>"; };
+		5282DD2C15E3768000D5CD0C /* icon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = icon.jpg; sourceTree = "<group>"; };
+		5282DD2E15E379AF00D5CD0C /* Newsstand.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Newsstand.png; sourceTree = "<group>"; };
+		5282DD3015E379ED00D5CD0C /* NewsstandKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = NewsstandKit.framework; path = System/Library/Frameworks/NewsstandKit.framework; sourceTree = SDKROOT; };
+		52B7547915E49BFF008DDA02 /* IssueTableCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = IssueTableCell.xib; sourceTree = "<group>"; };
+		52B8141E15E37BEC0055E2A3 /* issues.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = issues.plist; sourceTree = "<group>"; };
+		52B8142015E37ED60055E2A3 /* Publisher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Publisher.h; sourceTree = "<group>"; };
+		52B8142115E37ED60055E2A3 /* Publisher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Publisher.m; sourceTree = "<group>"; };
+		52B8142B15E387150055E2A3 /* QuickLook.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuickLook.framework; path = System/Library/Frameworks/QuickLook.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5282DD0815E3767100D5CD0C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52B8142C15E387150055E2A3 /* QuickLook.framework in Frameworks */,
+				5282DD3115E379ED00D5CD0C /* NewsstandKit.framework in Frameworks */,
+				5282DD1015E3767100D5CD0C /* UIKit.framework in Frameworks */,
+				5282DD1215E3767100D5CD0C /* Foundation.framework in Frameworks */,
+				5282DD1415E3767100D5CD0C /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5282DD0015E3767100D5CD0C = {
+			isa = PBXGroup;
+			children = (
+				52B8142B15E387150055E2A3 /* QuickLook.framework */,
+				5282DD3015E379ED00D5CD0C /* NewsstandKit.framework */,
+				5282DD1515E3767100D5CD0C /* NewsstandTry */,
+				5282DD0E15E3767100D5CD0C /* Frameworks */,
+				5282DD0C15E3767100D5CD0C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5282DD0C15E3767100D5CD0C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5282DD0B15E3767100D5CD0C /* NewsstandTry.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5282DD0E15E3767100D5CD0C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5282DD0F15E3767100D5CD0C /* UIKit.framework */,
+				5282DD1115E3767100D5CD0C /* Foundation.framework */,
+				5282DD1315E3767100D5CD0C /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		5282DD1515E3767100D5CD0C /* NewsstandTry */ = {
+			isa = PBXGroup;
+			children = (
+				5282DD1E15E3767100D5CD0C /* NSAppDelegate.h */,
+				5282DD1F15E3767100D5CD0C /* NSAppDelegate.m */,
+				5282DD2115E3767100D5CD0C /* MainStoryboard.storyboard */,
+				52B8142015E37ED60055E2A3 /* Publisher.h */,
+				52B8142115E37ED60055E2A3 /* Publisher.m */,
+				5282DD2C15E3768000D5CD0C /* icon.jpg */,
+				5282DD2E15E379AF00D5CD0C /* Newsstand.png */,
+				52B8141E15E37BEC0055E2A3 /* issues.plist */,
+				5282DD2415E3767100D5CD0C /* NSViewController.h */,
+				5282DD2515E3767100D5CD0C /* NSViewController.m */,
+				52B7547915E49BFF008DDA02 /* IssueTableCell.xib */,
+				5282DD1615E3767100D5CD0C /* Supporting Files */,
+			);
+			path = NewsstandTry;
+			sourceTree = "<group>";
+		};
+		5282DD1615E3767100D5CD0C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				5282DD1715E3767100D5CD0C /* NewsstandTry-Info.plist */,
+				5282DD1815E3767100D5CD0C /* InfoPlist.strings */,
+				5282DD1B15E3767100D5CD0C /* main.m */,
+				5282DD1D15E3767100D5CD0C /* NewsstandTry-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5282DD0A15E3767100D5CD0C /* NewsstandTry */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5282DD2915E3767100D5CD0C /* Build configuration list for PBXNativeTarget "NewsstandTry" */;
+			buildPhases = (
+				5282DD0715E3767100D5CD0C /* Sources */,
+				5282DD0815E3767100D5CD0C /* Frameworks */,
+				5282DD0915E3767100D5CD0C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = NewsstandTry;
+			productName = NewsstandTry;
+			productReference = 5282DD0B15E3767100D5CD0C /* NewsstandTry.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5282DD0215E3767100D5CD0C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 5282DD0515E3767100D5CD0C /* Build configuration list for PBXProject "NewsstandTry" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 5282DD0015E3767100D5CD0C;
+			productRefGroup = 5282DD0C15E3767100D5CD0C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5282DD0A15E3767100D5CD0C /* NewsstandTry */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5282DD0915E3767100D5CD0C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5282DD1A15E3767100D5CD0C /* InfoPlist.strings in Resources */,
+				5282DD2315E3767100D5CD0C /* MainStoryboard.storyboard in Resources */,
+				5282DD2D15E3768000D5CD0C /* icon.jpg in Resources */,
+				5282DD2F15E379AF00D5CD0C /* Newsstand.png in Resources */,
+				52B8141F15E37BEC0055E2A3 /* issues.plist in Resources */,
+				52B7547A15E49BFF008DDA02 /* IssueTableCell.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5282DD0715E3767100D5CD0C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5282DD1C15E3767100D5CD0C /* main.m in Sources */,
+				5282DD2015E3767100D5CD0C /* NSAppDelegate.m in Sources */,
+				5282DD2615E3767100D5CD0C /* NSViewController.m in Sources */,
+				52B8142215E37ED60055E2A3 /* Publisher.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		5282DD1815E3767100D5CD0C /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5282DD1915E3767100D5CD0C /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		5282DD2115E3767100D5CD0C /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5282DD2215E3767100D5CD0C /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		5282DD2715E3767100D5CD0C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		5282DD2815E3767100D5CD0C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5282DD2A15E3767100D5CD0C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "NewsstandTry/NewsstandTry-Prefix.pch";
+				INFOPLIST_FILE = "NewsstandTry/NewsstandTry-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		5282DD2B15E3767100D5CD0C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "NewsstandTry/NewsstandTry-Prefix.pch";
+				INFOPLIST_FILE = "NewsstandTry/NewsstandTry-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5282DD0515E3767100D5CD0C /* Build configuration list for PBXProject "NewsstandTry" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5282DD2715E3767100D5CD0C /* Debug */,
+				5282DD2815E3767100D5CD0C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5282DD2915E3767100D5CD0C /* Build configuration list for PBXNativeTarget "NewsstandTry" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5282DD2A15E3767100D5CD0C /* Debug */,
+				5282DD2B15E3767100D5CD0C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5282DD0215E3767100D5CD0C /* Project object */;
+}

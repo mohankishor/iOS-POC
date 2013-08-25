@@ -1,0 +1,3617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name><![CDATA[gate_sample]]></name>
+  <open>1</open>
+  <Snippet maxLines="0"><![CDATA[]]></Snippet>
+  <description><![CDATA[Exported from SRP_Gates_LatLong on 8/12/2011]]></description>
+  <Schema name="gate_sample" id="gate_sample_schema">
+    <SimpleField type="int" name="FID">
+      <displayName><![CDATA[FID]]></displayName>
+    </SimpleField>
+    <SimpleField type="string" name="Site">
+      <displayName><![CDATA[Site]]></displayName>
+    </SimpleField>
+    <SimpleField type="string" name="Gate_Name">
+      <displayName><![CDATA[Gate_Name]]></displayName>
+    </SimpleField>
+    <SimpleField type="double" name="Lat">
+      <displayName><![CDATA[Lat]]></displayName>
+    </SimpleField>
+    <SimpleField type="double" name="Long">
+      <displayName><![CDATA[Long]]></displayName>
+    </SimpleField>
+  </Schema>
+  <Style id="FEATURES">
+    <IconStyle>
+      <color>FF00FF00</color>
+      <scale>1.5</scale>
+      <Icon>
+        <href>root://icons/palette-4.png</href>
+        <x>32</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+      </Icon>
+    </IconStyle>
+    <LabelStyle>
+      <color>00FFFFFF</color>
+    </LabelStyle>
+    <BalloonStyle>
+      <text>
+      </text>
+    </BalloonStyle>
+  </Style>
+  <Style id="FEATURES_LABELS">
+    <IconStyle>
+      <color>00000000</color>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+      </Icon>
+    </IconStyle>
+    <LabelStyle>
+      <color>FFFFFFFF</color>
+    </LabelStyle>
+  </Style>
+  <Folder>
+    <name>Features</name>
+    <open>0</open>
+       <Placemark>
+         <name><![CDATA[Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">70</SimpleData>
+             <SimpleData name="Site"><![CDATA[Lampertheim LTA]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Access Point]]></SimpleData>
+             <SimpleData name="Lat">49.5820066659</SimpleData>
+             <SimpleData name="Long">8.50658583428</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             8.50658583400008,49.582006666,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">72</SimpleData>
+             <SimpleData name="Site"><![CDATA[Sullivan Barracks]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Access Point]]></SimpleData>
+             <SimpleData name="Lat">49.5191982683</SimpleData>
+             <SimpleData name="Long">8.53588920954</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             8.53588921000005,49.5191982680001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">73</SimpleData>
+             <SimpleData name="Site"><![CDATA[Benjamin Franklin Village]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Access Point]]></SimpleData>
+             <SimpleData name="Lat">49.520039501</SimpleData>
+             <SimpleData name="Long">8.53355138467</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             8.53355138500007,49.520039501,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">77</SimpleData>
+             <SimpleData name="Site"><![CDATA[Mark Twain Viilage]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Access Point]]></SimpleData>
+             <SimpleData name="Lat">49.3934527718</SimpleData>
+             <SimpleData name="Long">8.68574745977</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             8.68574746000007,49.393452772,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">78</SimpleData>
+             <SimpleData name="Site"><![CDATA[Campbell Barracks]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Access Point]]></SimpleData>
+             <SimpleData name="Lat">49.3868461602</SimpleData>
+             <SimpleData name="Long">8.68621159461</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             8.68621159500009,49.3868461600001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">81</SimpleData>
+             <SimpleData name="Site"><![CDATA[Patrick Henry Village]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Access Point]]></SimpleData>
+             <SimpleData name="Lat">49.3784695208</SimpleData>
+             <SimpleData name="Long">8.63103103634</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             8.63103103600008,49.3784695210001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">82</SimpleData>
+             <SimpleData name="Site"><![CDATA[Patrick Henry Village]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Access Point]]></SimpleData>
+             <SimpleData name="Lat">49.3711354026</SimpleData>
+             <SimpleData name="Long">8.62562346899</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             8.62562346900006,49.371135403,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">83</SimpleData>
+             <SimpleData name="Site"><![CDATA[Schwetzingen LTA]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Access Point]]></SimpleData>
+             <SimpleData name="Lat">49.4179313927</SimpleData>
+             <SimpleData name="Long">8.56611368221</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             8.56611368200009,49.4179313930001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">85</SimpleData>
+             <SimpleData name="Site"><![CDATA[Strassburg Kaserne]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Access Point]]></SimpleData>
+             <SimpleData name="Lat">49.7186784669</SimpleData>
+             <SimpleData name="Long">7.28874322323</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             7.28874322300004,49.7186784670001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">86</SimpleData>
+             <SimpleData name="Site"><![CDATA[Idar Oberstein Family Housing]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Access Point]]></SimpleData>
+             <SimpleData name="Lat">49.7201779947</SimpleData>
+             <SimpleData name="Long">7.28559468573</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             7.28559468600008,49.7201779950001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">94</SimpleData>
+             <SimpleData name="Site"><![CDATA[Dittelbrunn LTA]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Access Point]]></SimpleData>
+             <SimpleData name="Lat">50.0854296317</SimpleData>
+             <SimpleData name="Long">10.2210120012</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.2210120010001,50.0854296320001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">96</SimpleData>
+             <SimpleData name="Site"><![CDATA[Burgebrach LTA]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Access Point]]></SimpleData>
+             <SimpleData name="Lat">49.8322067637</SimpleData>
+             <SimpleData name="Long">10.69380602</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.6938060200001,49.832206764,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">97</SimpleData>
+             <SimpleData name="Site"><![CDATA[Appendorf LTA]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Access Point]]></SimpleData>
+             <SimpleData name="Lat">49.9652870604</SimpleData>
+             <SimpleData name="Long">10.7891475253</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.7891475250001,49.96528706,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">98</SimpleData>
+             <SimpleData name="Site"><![CDATA[Schesslitz LTA]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Access Point]]></SimpleData>
+             <SimpleData name="Lat">49.9658303599</SimpleData>
+             <SimpleData name="Long">11.0476453879</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             11.0476453880001,49.96583036,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">99</SimpleData>
+             <SimpleData name="Site"><![CDATA[Bug LTA]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Access Point]]></SimpleData>
+             <SimpleData name="Lat">49.8590323739</SimpleData>
+             <SimpleData name="Long">10.9168381</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.9168381000001,49.859032374,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">100</SimpleData>
+             <SimpleData name="Site"><![CDATA[South Hauptsmoor LTA]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Access Point]]></SimpleData>
+             <SimpleData name="Lat">49.8902138992</SimpleData>
+             <SimpleData name="Long">10.9648788707</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.9648788710001,49.8902138990001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">105</SimpleData>
+             <SimpleData name="Site"><![CDATA[Kuningundenruh LTA]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Access Point]]></SimpleData>
+             <SimpleData name="Lat">49.9036800727</SimpleData>
+             <SimpleData name="Long">10.9582943055</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.958294305,49.903680073,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">106</SimpleData>
+             <SimpleData name="Site"><![CDATA[Oberdachstetten LTA]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Access Point]]></SimpleData>
+             <SimpleData name="Lat">49.4297216172</SimpleData>
+             <SimpleData name="Long">10.3896762871</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.389676287,49.429721617,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">110</SimpleData>
+             <SimpleData name="Site"><![CDATA[Katterbach Kaserne]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Access Point]]></SimpleData>
+             <SimpleData name="Lat">49.3140126731</SimpleData>
+             <SimpleData name="Long">10.6462667491</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.6462667490001,49.314012673,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Artillary Gate S MIL]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">57</SimpleData>
+             <SimpleData name="Site"><![CDATA[Baumholder LTA]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Artillary Gate S MIL]]></SimpleData>
+             <SimpleData name="Lat">49.6238259385</SimpleData>
+             <SimpleData name="Long">7.33731132385</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             7.33731132400004,49.623825938,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Artillary Gate S POV]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">58</SimpleData>
+             <SimpleData name="Site"><![CDATA[Baumholder LTA]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Artillary Gate S POV]]></SimpleData>
+             <SimpleData name="Lat">49.6233144451</SimpleData>
+             <SimpleData name="Long">7.33746559316</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             7.33746559300005,49.6233144450001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[ASP Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">7</SimpleData>
+             <SimpleData name="Site"><![CDATA[Grafenwoehr Training Area]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[ASP Gate]]></SimpleData>
+             <SimpleData name="Lat">49.6403538273</SimpleData>
+             <SimpleData name="Long">11.829659505</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             11.8296595050001,49.6403538270001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Chicago Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">50</SimpleData>
+             <SimpleData name="Site"><![CDATA[Baumholder LTA]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Chicago Gate]]></SimpleData>
+             <SimpleData name="Lat">49.6306973622</SimpleData>
+             <SimpleData name="Long">7.31876351854</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             7.31876351900007,49.630697362,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Conn East Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">88</SimpleData>
+             <SimpleData name="Site"><![CDATA[Conn Barracks]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Conn East Gate]]></SimpleData>
+             <SimpleData name="Lat">50.0532264403</SimpleData>
+             <SimpleData name="Long">10.1813709054</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.1813709050001,50.0532264400001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Conn Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">90</SimpleData>
+             <SimpleData name="Site"><![CDATA[Conn Barracks]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Conn Main Gate]]></SimpleData>
+             <SimpleData name="Lat">50.0571665479</SimpleData>
+             <SimpleData name="Long">10.1645038528</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.164503853,50.0571665480001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[DLF Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">51</SimpleData>
+             <SimpleData name="Site"><![CDATA[Baumholder LTA]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[DLF Gate]]></SimpleData>
+             <SimpleData name="Lat">49.6258234567</SimpleData>
+             <SimpleData name="Long">7.31438989857</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             7.31438989900005,49.6258234570001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Gate 1]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">3</SimpleData>
+             <SimpleData name="Site"><![CDATA[Grafenwoehr Training Area]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Gate 1]]></SimpleData>
+             <SimpleData name="Lat">49.714347298</SimpleData>
+             <SimpleData name="Long">11.9033042004</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             11.9033042,49.7143472980001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Gate 1]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">10</SimpleData>
+             <SimpleData name="Site"><![CDATA[JMRC Hohenfels]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Gate 1]]></SimpleData>
+             <SimpleData name="Lat">49.2157489026</SimpleData>
+             <SimpleData name="Long">11.8287766989</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             11.8287766990001,49.2157489030001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Gate 20]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">2</SimpleData>
+             <SimpleData name="Site"><![CDATA[Grafenwoehr Training Area]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Gate 20]]></SimpleData>
+             <SimpleData name="Lat">49.7175615967</SimpleData>
+             <SimpleData name="Long">11.8851342884</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             11.8851342880001,49.717561597,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Gate 3]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">5</SimpleData>
+             <SimpleData name="Site"><![CDATA[Grafenwoehr Training Area]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Gate 3]]></SimpleData>
+             <SimpleData name="Lat">49.7154304598</SimpleData>
+             <SimpleData name="Long">11.9159056206</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             11.9159056210001,49.7154304600001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Gate 3]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">9</SimpleData>
+             <SimpleData name="Site"><![CDATA[JMRC Hohenfels]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Gate 3]]></SimpleData>
+             <SimpleData name="Lat">49.2635101526</SimpleData>
+             <SimpleData name="Long">11.9144559165</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             11.9144559160001,49.2635101530001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Gate 4]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">6</SimpleData>
+             <SimpleData name="Site"><![CDATA[Grafenwoehr Training Area]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Gate 4]]></SimpleData>
+             <SimpleData name="Lat">49.6419188549</SimpleData>
+             <SimpleData name="Long">11.9063991979</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             11.9063991980001,49.6419188550001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Gate 5]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">11</SimpleData>
+             <SimpleData name="Site"><![CDATA[JMRC Hohenfels]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Gate 5]]></SimpleData>
+             <SimpleData name="Lat">49.2170527129</SimpleData>
+             <SimpleData name="Long">11.7858145509</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             11.785814551,49.217052713,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Gate 6]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">4</SimpleData>
+             <SimpleData name="Site"><![CDATA[Grafenwoehr Training Area]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Gate 6]]></SimpleData>
+             <SimpleData name="Lat">49.7041224607</SimpleData>
+             <SimpleData name="Long">11.9225941228</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             11.9225941230001,49.7041224610001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Geldersheim Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">89</SimpleData>
+             <SimpleData name="Site"><![CDATA[Conn Barracks]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Geldersheim Gate]]></SimpleData>
+             <SimpleData name="Lat">50.0487347013</SimpleData>
+             <SimpleData name="Long">10.1536329373</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.1536329370001,50.0487347010001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[LTA Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">56</SimpleData>
+             <SimpleData name="Site"><![CDATA[Finthen LTA]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[LTA Access Point]]></SimpleData>
+             <SimpleData name="Lat">49.9639629142</SimpleData>
+             <SimpleData name="Long">8.14996332782</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             8.14996332800007,49.963962914,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[LTA Access point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">59</SimpleData>
+             <SimpleData name="Site"><![CDATA[Griesheim 6910]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[LTA Access point]]></SimpleData>
+             <SimpleData name="Lat">49.8426073306</SimpleData>
+             <SimpleData name="Long">8.58505383702</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             8.58505383700009,49.8426073310001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[LTA Access point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">64</SimpleData>
+             <SimpleData name="Site"><![CDATA[Boeblingen LTA]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[LTA Access point]]></SimpleData>
+             <SimpleData name="Lat">48.6869633925</SimpleData>
+             <SimpleData name="Long">9.05800914504</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             9.05800914500009,48.6869633920001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[LTA Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">53</SimpleData>
+             <SimpleData name="Site"><![CDATA[Breitenwald LTA]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[LTA Gate]]></SimpleData>
+             <SimpleData name="Lat">49.3957579766</SimpleData>
+             <SimpleData name="Long">7.53899843573</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             7.53899843600004,49.3957579770001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">14</SimpleData>
+             <SimpleData name="Site"><![CDATA[Nella Drop Zone]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Access Point]]></SimpleData>
+             <SimpleData name="Lat">43.7889916089</SimpleData>
+             <SimpleData name="Long">10.6451841026</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.6451841030001,43.7889916090001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">15</SimpleData>
+             <SimpleData name="Site"><![CDATA[Foce Fiume Serchio]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Access Point]]></SimpleData>
+             <SimpleData name="Lat">43.7943947218</SimpleData>
+             <SimpleData name="Long">10.268038904</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.268038904,43.7943947220001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">17</SimpleData>
+             <SimpleData name="Site"><![CDATA[Lory Drop Zone]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Access Point]]></SimpleData>
+             <SimpleData name="Lat">44.9452819504</SimpleData>
+             <SimpleData name="Long">11.1782442653</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             11.178244265,44.94528195,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">18</SimpleData>
+             <SimpleData name="Site"><![CDATA[Asiago Drop Zone]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Access Point]]></SimpleData>
+             <SimpleData name="Lat">45.888603701</SimpleData>
+             <SimpleData name="Long">11.5200078011</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             11.5200078010001,45.8886037010001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">21</SimpleData>
+             <SimpleData name="Site"><![CDATA[Clou Neuf Range]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Access Point]]></SimpleData>
+             <SimpleData name="Lat">45.7406524239</SimpleData>
+             <SimpleData name="Long">7.28475262835</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             7.28475262800009,45.7406524240001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">22</SimpleData>
+             <SimpleData name="Site"><![CDATA[Ogere Range]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Access Point]]></SimpleData>
+             <SimpleData name="Lat">45.7167217728</SimpleData>
+             <SimpleData name="Long">6.91455631634</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             6.91455631600007,45.7167217730001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">30</SimpleData>
+             <SimpleData name="Site"><![CDATA[Santa Severa]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Access Point]]></SimpleData>
+             <SimpleData name="Lat">42.0151630579</SimpleData>
+             <SimpleData name="Long">11.9760304731</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             11.976030473,42.015163058,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">34</SimpleData>
+             <SimpleData name="Site"><![CDATA[Rivoli Bianchi Tolmezzo]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Access Point]]></SimpleData>
+             <SimpleData name="Lat">46.4087213278</SimpleData>
+             <SimpleData name="Long">13.0424261459</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             13.0424261460001,46.4087213280001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">36</SimpleData>
+             <SimpleData name="Site"><![CDATA[Ponticello Range]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Access Point]]></SimpleData>
+             <SimpleData name="Lat">46.6723446963</SimpleData>
+             <SimpleData name="Long">12.1463309648</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             12.1463309650001,46.672344696,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">38</SimpleData>
+             <SimpleData name="Site"><![CDATA[Val D'Oten]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Access Point]]></SimpleData>
+             <SimpleData name="Lat">46.4742762524</SimpleData>
+             <SimpleData name="Long">12.3340162925</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             12.3340162920001,46.474276252,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">39</SimpleData>
+             <SimpleData name="Site"><![CDATA[Monte Bivera]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Access Point]]></SimpleData>
+             <SimpleData name="Lat">46.4693803476</SimpleData>
+             <SimpleData name="Long">12.6903705693</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             12.690370569,46.4693803480001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">40</SimpleData>
+             <SimpleData name="Site"><![CDATA[Rivoli Bianchi Venzone]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Access Point]]></SimpleData>
+             <SimpleData name="Lat">46.3124876144</SimpleData>
+             <SimpleData name="Long">13.1325886277</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             13.1325886280001,46.3124876140001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">42</SimpleData>
+             <SimpleData name="Site"><![CDATA[Osoppo LTA]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Access Point]]></SimpleData>
+             <SimpleData name="Lat">46.2466204037</SimpleData>
+             <SimpleData name="Long">13.0881794934</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             13.088179493,46.2466204040001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">43</SimpleData>
+             <SimpleData name="Site"><![CDATA[T-Series LTA]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Access Point]]></SimpleData>
+             <SimpleData name="Lat">45.9640678742</SimpleData>
+             <SimpleData name="Long">12.9098424018</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             12.909842402,45.9640678740001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">44</SimpleData>
+             <SimpleData name="Site"><![CDATA[Cellina Meduna LTA]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Access Point]]></SimpleData>
+             <SimpleData name="Lat">46.0609362283</SimpleData>
+             <SimpleData name="Long">12.7264869277</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             12.726486928,46.0609362280001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">45</SimpleData>
+             <SimpleData name="Site"><![CDATA[P-Series LTA]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Access Point]]></SimpleData>
+             <SimpleData name="Lat">45.7877944226</SimpleData>
+             <SimpleData name="Long">12.2931959232</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             12.293195923,45.787794423,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">0</SimpleData>
+             <SimpleData name="Site"><![CDATA[Chievres Airbase]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">50.5883643128</SimpleData>
+             <SimpleData name="Long">3.82614314375</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             3.82614314400007,50.5883643130001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">1</SimpleData>
+             <SimpleData name="Site"><![CDATA[Caserne Daumerie]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">50.5902676518</SimpleData>
+             <SimpleData name="Long">3.81949054544</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             3.81949054500006,50.5902676520001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">12</SimpleData>
+             <SimpleData name="Site"><![CDATA[Pisa Ammo Storage Area]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">43.6484243119</SimpleData>
+             <SimpleData name="Long">10.3358214087</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.3358214090001,43.6484243120001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">13</SimpleData>
+             <SimpleData name="Site"><![CDATA[Livorno Supply and Maintenance]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">43.6237175401</SimpleData>
+             <SimpleData name="Long">10.3526980414</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.3526980410001,43.6237175400001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">16</SimpleData>
+             <SimpleData name="Site"><![CDATA[Italian Airborne School]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">43.7310032168</SimpleData>
+             <SimpleData name="Long">10.4073915601</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.4073915600001,43.7310032170001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">19</SimpleData>
+             <SimpleData name="Site"><![CDATA[Caserma Ederle]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">45.5456430896</SimpleData>
+             <SimpleData name="Long">11.585087572</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             11.5850875720001,45.5456430900001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">20</SimpleData>
+             <SimpleData name="Site"><![CDATA[Dal Molin]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">45.5689502156</SimpleData>
+             <SimpleData name="Long">11.5243054871</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             11.524305487,45.5689502160001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">23</SimpleData>
+             <SimpleData name="Site"><![CDATA[Longare]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">45.4839842415</SimpleData>
+             <SimpleData name="Long">11.6011742234</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             11.601174223,45.4839842410001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">24</SimpleData>
+             <SimpleData name="Site"><![CDATA[San Giorgio MOUT]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">46.8089790402</SimpleData>
+             <SimpleData name="Long">11.9230741816</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             11.9230741820001,46.8089790400001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">25</SimpleData>
+             <SimpleData name="Site"><![CDATA[Lustrissimi]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">43.5609353141</SimpleData>
+             <SimpleData name="Long">10.3421857489</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.3421857490001,43.5609353140001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">26</SimpleData>
+             <SimpleData name="Site"><![CDATA[Monte Romano]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">42.2913135007</SimpleData>
+             <SimpleData name="Long">11.9116581443</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             11.9116581440001,42.291313501,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">27</SimpleData>
+             <SimpleData name="Site"><![CDATA[Valle Ugione]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">43.5657485085</SimpleData>
+             <SimpleData name="Long">10.3930398024</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.3930398020001,43.5657485080001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">28</SimpleData>
+             <SimpleData name="Site"><![CDATA[Pollien CIED]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">45.7335837257</SimpleData>
+             <SimpleData name="Long">7.35310814717</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             7.35310814700006,45.7335837260001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">29</SimpleData>
+             <SimpleData name="Site"><![CDATA[Camp Darby]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">43.6442144633</SimpleData>
+             <SimpleData name="Long">10.352818957</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.3528189570001,43.6442144630001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">31</SimpleData>
+             <SimpleData name="Site"><![CDATA[Foce Del Reno]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">44.58158368</SimpleData>
+             <SimpleData name="Long">12.281495428</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             12.2814954280001,44.5815836800001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">32</SimpleData>
+             <SimpleData name="Site"><![CDATA[Cao Malnisio]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">46.1264009562</SimpleData>
+             <SimpleData name="Long">12.6225352112</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             12.6225352110001,46.1264009560001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">33</SimpleData>
+             <SimpleData name="Site"><![CDATA[Dandolo MOUT]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">46.1198615077</SimpleData>
+             <SimpleData name="Long">12.7312357185</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             12.731235719,46.119861508,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">35</SimpleData>
+             <SimpleData name="Site"><![CDATA[Villabassa MOUT]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">46.7382689373</SimpleData>
+             <SimpleData name="Long">12.1405787409</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             12.1405787410001,46.738268937,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">37</SimpleData>
+             <SimpleData name="Site"><![CDATA[Dobbiaco Range]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">46.7249104849</SimpleData>
+             <SimpleData name="Long">12.2423397142</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             12.2423397140001,46.7249104850001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">41</SimpleData>
+             <SimpleData name="Site"><![CDATA[Artegna MOUT]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">46.2456461993</SimpleData>
+             <SimpleData name="Long">13.1279548418</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             13.1279548420001,46.2456461990001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">46</SimpleData>
+             <SimpleData name="Site"><![CDATA[Monte Carpegna MTA]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">43.7783444373</SimpleData>
+             <SimpleData name="Long">12.3091455377</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             12.3091455380001,43.778344437,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">47</SimpleData>
+             <SimpleData name="Site"><![CDATA[Rieti DZ, MOUT, and NBC]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">42.4243254097</SimpleData>
+             <SimpleData name="Long">12.8561452744</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             12.8561452740001,42.4243254100001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">49</SimpleData>
+             <SimpleData name="Site"><![CDATA[Baumholder LTA (Smith Barracks)]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">49.6162782895</SimpleData>
+             <SimpleData name="Long">7.32930204279</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             7.32930204300004,49.6162782900001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">54</SimpleData>
+             <SimpleData name="Site"><![CDATA[Mainz Sand Dunes]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">50.0107042953</SimpleData>
+             <SimpleData name="Long">8.20932619189</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             8.20932619200005,50.010704295,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">55</SimpleData>
+             <SimpleData name="Site"><![CDATA[Wackerheim Range]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">49.9604925599</SimpleData>
+             <SimpleData name="Long">8.13524922745</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             8.13524922700009,49.96049256,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">60</SimpleData>
+             <SimpleData name="Site"><![CDATA[ROB]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">49.442015439</SimpleData>
+             <SimpleData name="Long">7.70206311883</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             7.70206311900006,49.442015439,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">61</SimpleData>
+             <SimpleData name="Site"><![CDATA[Coleman Barracks]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">49.5565851566</SimpleData>
+             <SimpleData name="Long">8.46859605399</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             8.46859605400005,49.5565851570001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">63</SimpleData>
+             <SimpleData name="Site"><![CDATA[Panzer Kaserne]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main gate]]></SimpleData>
+             <SimpleData name="Lat">48.6869737518</SimpleData>
+             <SimpleData name="Long">9.04425741436</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             9.04425741400007,48.6869737520001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">66</SimpleData>
+             <SimpleData name="Site"><![CDATA[MWR Training Facility]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">49.4039393148</SimpleData>
+             <SimpleData name="Long">8.56205087718</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             8.56205087700005,49.4039393150001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">67</SimpleData>
+             <SimpleData name="Site"><![CDATA[Kilbourne Kaserne]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">49.4069730153</SimpleData>
+             <SimpleData name="Long">8.56175631699</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             8.56175631700006,49.4069730150001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">68</SimpleData>
+             <SimpleData name="Site"><![CDATA[Tompkins Barracks]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">49.4034703205</SimpleData>
+             <SimpleData name="Long">8.56278598526</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             8.56278598500006,49.403470321,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">69</SimpleData>
+             <SimpleData name="Site"><![CDATA[Heidelberg Golf Course]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">49.3520198543</SimpleData>
+             <SimpleData name="Long">8.60753221528</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             8.60753221500005,49.352019854,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">71</SimpleData>
+             <SimpleData name="Site"><![CDATA[Taylor Barracks]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">49.5151544253</SimpleData>
+             <SimpleData name="Long">8.5497613219</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             8.54976132200005,49.515154425,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">74</SimpleData>
+             <SimpleData name="Site"><![CDATA[Hammond Barracks]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">49.4725572255</SimpleData>
+             <SimpleData name="Long">8.55184408841</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             8.55184408800005,49.472557226,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">75</SimpleData>
+             <SimpleData name="Site"><![CDATA[Patton Barracks]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">49.3964119399</SimpleData>
+             <SimpleData name="Long">8.67170615478</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             8.67170615500004,49.3964119400001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">80</SimpleData>
+             <SimpleData name="Site"><![CDATA[Heidelberg Hospital]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">49.3763885312</SimpleData>
+             <SimpleData name="Long">8.68719885827</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             8.68719885800004,49.376388531,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">84</SimpleData>
+             <SimpleData name="Site"><![CDATA[Landstuhl Hospital]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">49.4008558658</SimpleData>
+             <SimpleData name="Long">7.55519302687</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             7.55519302700009,49.4008558660001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">87</SimpleData>
+             <SimpleData name="Site"><![CDATA[McCully Barracks]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">49.9650928767</SimpleData>
+             <SimpleData name="Long">8.12470759352</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             8.12470759400009,49.9650928770001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">91</SimpleData>
+             <SimpleData name="Site"><![CDATA[Ledward Barracks]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">50.052492748</SimpleData>
+             <SimpleData name="Long">10.2046975407</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.2046975410001,50.0524927480001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">95</SimpleData>
+             <SimpleData name="Site"><![CDATA[Sulzheim LTA]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">49.9496932993</SimpleData>
+             <SimpleData name="Long">10.3662448913</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.3662448910001,49.949693299,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">101</SimpleData>
+             <SimpleData name="Site"><![CDATA[Reese Range Complex]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">49.892195961</SimpleData>
+             <SimpleData name="Long">10.9282384319</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.9282384320001,49.8921959610001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">102</SimpleData>
+             <SimpleData name="Site"><![CDATA[Muna LTA]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">49.8894632471</SimpleData>
+             <SimpleData name="Long">10.9271669642</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.927166964,49.889463247,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">103</SimpleData>
+             <SimpleData name="Site"><![CDATA[Bamberg Army Airfield]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">49.9210760037</SimpleData>
+             <SimpleData name="Long">10.9263772692</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.9263772690001,49.921076004,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">104</SimpleData>
+             <SimpleData name="Site"><![CDATA[Poedeldorf LAT]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">49.9041975362</SimpleData>
+             <SimpleData name="Long">10.9513362651</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.9513362650001,49.9041975360001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">107</SimpleData>
+             <SimpleData name="Site"><![CDATA[FrankenKaserne]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">49.4254667059</SimpleData>
+             <SimpleData name="Long">10.3862358125</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.386235813,49.4254667060001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">108</SimpleData>
+             <SimpleData name="Site"><![CDATA[Shipton Kaserne]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Main Gate]]></SimpleData>
+             <SimpleData name="Lat">49.3143585824</SimpleData>
+             <SimpleData name="Long">10.6137703083</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.6137703080001,49.3143585820001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[North Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">92</SimpleData>
+             <SimpleData name="Site"><![CDATA[Pfaendhausen LTA]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[North Gate]]></SimpleData>
+             <SimpleData name="Lat">50.1475897833</SimpleData>
+             <SimpleData name="Long">10.2288390792</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.2288390790001,50.1475897830001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[North Tank Trl Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">48</SimpleData>
+             <SimpleData name="Site"><![CDATA[Baumholder LTA]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[North Tank Trl Gate]]></SimpleData>
+             <SimpleData name="Lat">49.6337951247</SimpleData>
+             <SimpleData name="Long">7.31648218954</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             7.31648219000004,49.6337951250001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Range Access Point]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">65</SimpleData>
+             <SimpleData name="Site"><![CDATA[Oftersheim Range]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Range Access Point]]></SimpleData>
+             <SimpleData name="Lat">49.349721567</SimpleData>
+             <SimpleData name="Long">8.6036587836</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             8.60365878400006,49.3497215670001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Range Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">52</SimpleData>
+             <SimpleData name="Site"><![CDATA[Breitenwald LTA]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Range Gate]]></SimpleData>
+             <SimpleData name="Lat">49.3968891595</SimpleData>
+             <SimpleData name="Long">7.53701520879</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             7.53701520900006,49.3968891590001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Range Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">62</SimpleData>
+             <SimpleData name="Site"><![CDATA[Boeblingen Range]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Range Gate]]></SimpleData>
+             <SimpleData name="Lat">48.6734751519</SimpleData>
+             <SimpleData name="Long">9.0518805295</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             9.05188053000006,48.673475152,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Rose Barracks Main Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">8</SimpleData>
+             <SimpleData name="Site"><![CDATA[Grafenwoehr Training Area]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Rose Barracks Main Gate]]></SimpleData>
+             <SimpleData name="Lat">49.629565697</SimpleData>
+             <SimpleData name="Long">11.7835263578</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             11.7835263580001,49.629565697,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Secondary Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">76</SimpleData>
+             <SimpleData name="Site"><![CDATA[Patton Barracks]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Secondary Gate]]></SimpleData>
+             <SimpleData name="Lat">49.3945963885</SimpleData>
+             <SimpleData name="Long">8.67656170133</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             8.67656170100008,49.3945963880001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Secondary Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">79</SimpleData>
+             <SimpleData name="Site"><![CDATA[Heidelberg Hospital]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Secondary Gate]]></SimpleData>
+             <SimpleData name="Lat">49.3761454864</SimpleData>
+             <SimpleData name="Long">8.68271347337</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             8.68271347300009,49.376145486,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Secondary Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">109</SimpleData>
+             <SimpleData name="Site"><![CDATA[Shipton Kaserne]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[Secondary Gate]]></SimpleData>
+             <SimpleData name="Lat">49.3200540589</SimpleData>
+             <SimpleData name="Long">10.5930447423</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.5930447420001,49.3200540590001,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[South Gate]]></name>
+         <Snippet maxLines="0"><![CDATA[]]></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <ExtendedData>
+           <SchemaData schemaUrl="#gate_sample_schema">
+             <SimpleData name="FID">93</SimpleData>
+             <SimpleData name="Site"><![CDATA[Pfaendhausen LTA]]></SimpleData>
+             <SimpleData name="Gate_Name"><![CDATA[South Gate]]></SimpleData>
+             <SimpleData name="Lat">50.1054413184</SimpleData>
+             <SimpleData name="Long">10.231835009</SimpleData>
+           </SchemaData>
+         </ExtendedData>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             10.2318350090001,50.105441318,0
+           </coordinates>
+         </Point>
+       </Placemark>
+  </Folder>
+  <Folder>
+    <name>Feature Labels (<![CDATA[Gate_Name]]>)</name>
+    <open>0</open>
+      <Placemark>
+        <name><![CDATA[Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            8.50658583400008,49.582006666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            8.53588921000005,49.5191982680001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            8.53355138500007,49.520039501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            8.68574746000007,49.393452772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            8.68621159500009,49.3868461600001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            8.63103103600008,49.3784695210001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            8.62562346900006,49.371135403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            8.56611368200009,49.4179313930001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            7.28874322300004,49.7186784670001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            7.28559468600008,49.7201779950001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.2210120010001,50.0854296320001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.6938060200001,49.832206764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.7891475250001,49.96528706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            11.0476453880001,49.96583036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.9168381000001,49.859032374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.9648788710001,49.8902138990001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.958294305,49.903680073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.389676287,49.429721617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.6462667490001,49.314012673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Artillary Gate S MIL]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            7.33731132400004,49.623825938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Artillary Gate S POV]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            7.33746559300005,49.6233144450001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[ASP Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            11.8296595050001,49.6403538270001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Chicago Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            7.31876351900007,49.630697362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Conn East Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.1813709050001,50.0532264400001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Conn Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.164503853,50.0571665480001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[DLF Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            7.31438989900005,49.6258234570001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Gate 1]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            11.9033042,49.7143472980001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Gate 1]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            11.8287766990001,49.2157489030001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Gate 20]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            11.8851342880001,49.717561597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Gate 3]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            11.9159056210001,49.7154304600001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Gate 3]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            11.9144559160001,49.2635101530001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Gate 4]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            11.9063991980001,49.6419188550001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Gate 5]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            11.785814551,49.217052713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Gate 6]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            11.9225941230001,49.7041224610001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Geldersheim Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.1536329370001,50.0487347010001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[LTA Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            8.14996332800007,49.963962914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[LTA Access point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            8.58505383700009,49.8426073310001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[LTA Access point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            9.05800914500009,48.6869633920001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[LTA Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            7.53899843600004,49.3957579770001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.6451841030001,43.7889916090001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.268038904,43.7943947220001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            11.178244265,44.94528195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            11.5200078010001,45.8886037010001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            7.28475262800009,45.7406524240001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            6.91455631600007,45.7167217730001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            11.976030473,42.015163058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            13.0424261460001,46.4087213280001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            12.1463309650001,46.672344696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            12.3340162920001,46.474276252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            12.690370569,46.4693803480001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            13.1325886280001,46.3124876140001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            13.088179493,46.2466204040001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            12.909842402,45.9640678740001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            12.726486928,46.0609362280001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            12.293195923,45.787794423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            3.82614314400007,50.5883643130001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            3.81949054500006,50.5902676520001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.3358214090001,43.6484243120001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.3526980410001,43.6237175400001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.4073915600001,43.7310032170001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            11.5850875720001,45.5456430900001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            11.524305487,45.5689502160001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            11.601174223,45.4839842410001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            11.9230741820001,46.8089790400001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.3421857490001,43.5609353140001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            11.9116581440001,42.291313501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.3930398020001,43.5657485080001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            7.35310814700006,45.7335837260001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.3528189570001,43.6442144630001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            12.2814954280001,44.5815836800001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            12.6225352110001,46.1264009560001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            12.731235719,46.119861508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            12.1405787410001,46.738268937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            12.2423397140001,46.7249104850001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            13.1279548420001,46.2456461990001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            12.3091455380001,43.778344437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            12.8561452740001,42.4243254100001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            7.32930204300004,49.6162782900001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            8.20932619200005,50.010704295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            8.13524922700009,49.96049256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            7.70206311900006,49.442015439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            8.46859605400005,49.5565851570001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            9.04425741400007,48.6869737520001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            8.56205087700005,49.4039393150001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            8.56175631700006,49.4069730150001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            8.56278598500006,49.403470321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            8.60753221500005,49.352019854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            8.54976132200005,49.515154425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            8.55184408800005,49.472557226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            8.67170615500004,49.3964119400001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            8.68719885800004,49.376388531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            7.55519302700009,49.4008558660001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            8.12470759400009,49.9650928770001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.2046975410001,50.0524927480001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.3662448910001,49.949693299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.9282384320001,49.8921959610001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.927166964,49.889463247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.9263772690001,49.921076004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.9513362650001,49.9041975360001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.386235813,49.4254667060001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.6137703080001,49.3143585820001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[North Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.2288390790001,50.1475897830001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[North Tank Trl Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            7.31648219000004,49.6337951250001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Range Access Point]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            8.60365878400006,49.3497215670001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Range Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            7.53701520900006,49.3968891590001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Range Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            9.05188053000006,48.673475152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Rose Barracks Main Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            11.7835263580001,49.629565697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Secondary Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            8.67656170100008,49.3945963880001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Secondary Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            8.68271347300009,49.376145486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Secondary Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.5930447420001,49.3200540590001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[South Gate]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            10.2318350090001,50.105441318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+  </Folder>
+</Document>
+</kml>

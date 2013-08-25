@@ -1,0 +1,336 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		52190EA115F7274700DC17DE /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52190EA015F7274700DC17DE /* UIKit.framework */; };
+		52190EA315F7274700DC17DE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52190EA215F7274700DC17DE /* Foundation.framework */; };
+		52190EA515F7274700DC17DE /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52190EA415F7274700DC17DE /* CoreGraphics.framework */; };
+		52190EAB15F7274700DC17DE /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 52190EA915F7274700DC17DE /* InfoPlist.strings */; };
+		52190EAD15F7274800DC17DE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 52190EAC15F7274700DC17DE /* main.m */; };
+		52190EB115F7274800DC17DE /* RDAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 52190EB015F7274800DC17DE /* RDAppDelegate.m */; };
+		52190EB415F7274800DC17DE /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52190EB215F7274800DC17DE /* MainStoryboard.storyboard */; };
+		52190EB715F7274800DC17DE /* RDViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 52190EB615F7274800DC17DE /* RDViewController.m */; };
+		52190ECF15F72A8800DC17DE /* boundary_sample.kml in Resources */ = {isa = PBXBuildFile; fileRef = 52190EC915F72A8800DC17DE /* boundary_sample.kml */; };
+		52190ED015F72A8800DC17DE /* facility_boundaries_generalized.kml in Resources */ = {isa = PBXBuildFile; fileRef = 52190ECA15F72A8800DC17DE /* facility_boundaries_generalized.kml */; };
+		52190ED115F72A8800DC17DE /* gate_sample.kml in Resources */ = {isa = PBXBuildFile; fileRef = 52190ECB15F72A8800DC17DE /* gate_sample.kml */; };
+		52190ED215F72A8800DC17DE /* refuel_points.kml in Resources */ = {isa = PBXBuildFile; fileRef = 52190ECC15F72A8800DC17DE /* refuel_points.kml */; };
+		52190ED315F72A8800DC17DE /* refueling_points_de_5km_road_buffer.kml in Resources */ = {isa = PBXBuildFile; fileRef = 52190ECD15F72A8800DC17DE /* refueling_points_de_5km_road_buffer.kml */; };
+		52190ED415F72A8800DC17DE /* refueling_points_it_5km_road_buffer.kml in Resources */ = {isa = PBXBuildFile; fileRef = 52190ECE15F72A8800DC17DE /* refueling_points_it_5km_road_buffer.kml */; };
+		52190ED715F72DC200DC17DE /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52190ED615F72DC200DC17DE /* CoreLocation.framework */; };
+		52190ED915F72DC700DC17DE /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52190ED815F72DC700DC17DE /* MapKit.framework */; };
+		52190EDC15F7308400DC17DE /* KMLParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 52190EDB15F7308400DC17DE /* KMLParser.m */; };
+		52190EEF15F74F5600DC17DE /* Locations.m in Sources */ = {isa = PBXBuildFile; fileRef = 52190EEE15F74F5600DC17DE /* Locations.m */; };
+		52190EF115F7512800DC17DE /* map_element_4.png in Resources */ = {isa = PBXBuildFile; fileRef = 52190EF015F7512800DC17DE /* map_element_4.png */; };
+		52190EF815F765AA00DC17DE /* InfoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 52190EF715F765A900DC17DE /* InfoViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		52190E9C15F7274700DC17DE /* MainProjectR&D.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MainProjectR&D.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		52190EA015F7274700DC17DE /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		52190EA215F7274700DC17DE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		52190EA415F7274700DC17DE /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		52190EA815F7274700DC17DE /* MainProjectR&D-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MainProjectR&D-Info.plist"; sourceTree = "<group>"; };
+		52190EAA15F7274700DC17DE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		52190EAC15F7274700DC17DE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		52190EAE15F7274800DC17DE /* MainProjectR&D-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MainProjectR&D-Prefix.pch"; sourceTree = "<group>"; };
+		52190EAF15F7274800DC17DE /* RDAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RDAppDelegate.h; sourceTree = "<group>"; };
+		52190EB015F7274800DC17DE /* RDAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RDAppDelegate.m; sourceTree = "<group>"; };
+		52190EB315F7274800DC17DE /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		52190EB515F7274800DC17DE /* RDViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RDViewController.h; sourceTree = "<group>"; };
+		52190EB615F7274800DC17DE /* RDViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RDViewController.m; sourceTree = "<group>"; };
+		52190EC915F72A8800DC17DE /* boundary_sample.kml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = boundary_sample.kml; sourceTree = "<group>"; };
+		52190ECA15F72A8800DC17DE /* facility_boundaries_generalized.kml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = facility_boundaries_generalized.kml; sourceTree = "<group>"; };
+		52190ECB15F72A8800DC17DE /* gate_sample.kml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = gate_sample.kml; sourceTree = "<group>"; };
+		52190ECC15F72A8800DC17DE /* refuel_points.kml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = refuel_points.kml; sourceTree = "<group>"; };
+		52190ECD15F72A8800DC17DE /* refueling_points_de_5km_road_buffer.kml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = refueling_points_de_5km_road_buffer.kml; sourceTree = "<group>"; };
+		52190ECE15F72A8800DC17DE /* refueling_points_it_5km_road_buffer.kml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = refueling_points_it_5km_road_buffer.kml; sourceTree = "<group>"; };
+		52190ED615F72DC200DC17DE /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		52190ED815F72DC700DC17DE /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		52190EDA15F7308300DC17DE /* KMLParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KMLParser.h; sourceTree = "<group>"; };
+		52190EDB15F7308400DC17DE /* KMLParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KMLParser.m; sourceTree = "<group>"; };
+		52190EED15F74F5600DC17DE /* Locations.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Locations.h; sourceTree = "<group>"; };
+		52190EEE15F74F5600DC17DE /* Locations.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Locations.m; sourceTree = "<group>"; };
+		52190EF015F7512800DC17DE /* map_element_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = map_element_4.png; sourceTree = "<group>"; };
+		52190EF615F765A900DC17DE /* InfoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InfoViewController.h; sourceTree = "<group>"; };
+		52190EF715F765A900DC17DE /* InfoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InfoViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		52190E9915F7274700DC17DE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52190ED915F72DC700DC17DE /* MapKit.framework in Frameworks */,
+				52190ED715F72DC200DC17DE /* CoreLocation.framework in Frameworks */,
+				52190EA115F7274700DC17DE /* UIKit.framework in Frameworks */,
+				52190EA315F7274700DC17DE /* Foundation.framework in Frameworks */,
+				52190EA515F7274700DC17DE /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		52190E9115F7274700DC17DE = {
+			isa = PBXGroup;
+			children = (
+				52190ED815F72DC700DC17DE /* MapKit.framework */,
+				52190ED615F72DC200DC17DE /* CoreLocation.framework */,
+				52190EA615F7274700DC17DE /* MainProjectR&D */,
+				52190E9F15F7274700DC17DE /* Frameworks */,
+				52190E9D15F7274700DC17DE /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		52190E9D15F7274700DC17DE /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				52190E9C15F7274700DC17DE /* MainProjectR&D.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		52190E9F15F7274700DC17DE /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				52190EA015F7274700DC17DE /* UIKit.framework */,
+				52190EA215F7274700DC17DE /* Foundation.framework */,
+				52190EA415F7274700DC17DE /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		52190EA615F7274700DC17DE /* MainProjectR&D */ = {
+			isa = PBXGroup;
+			children = (
+				52190EAF15F7274800DC17DE /* RDAppDelegate.h */,
+				52190EB015F7274800DC17DE /* RDAppDelegate.m */,
+				52190EB215F7274800DC17DE /* MainStoryboard.storyboard */,
+				52190EF615F765A900DC17DE /* InfoViewController.h */,
+				52190EF715F765A900DC17DE /* InfoViewController.m */,
+				52190EB515F7274800DC17DE /* RDViewController.h */,
+				52190EB615F7274800DC17DE /* RDViewController.m */,
+				52190EF015F7512800DC17DE /* map_element_4.png */,
+				52190EED15F74F5600DC17DE /* Locations.h */,
+				52190EEE15F74F5600DC17DE /* Locations.m */,
+				52190EDA15F7308300DC17DE /* KMLParser.h */,
+				52190EDB15F7308400DC17DE /* KMLParser.m */,
+				52190EA715F7274700DC17DE /* Supporting Files */,
+			);
+			path = "MainProjectR&D";
+			sourceTree = "<group>";
+		};
+		52190EA715F7274700DC17DE /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				52190EA815F7274700DC17DE /* MainProjectR&D-Info.plist */,
+				52190EA915F7274700DC17DE /* InfoPlist.strings */,
+				52190EC915F72A8800DC17DE /* boundary_sample.kml */,
+				52190ECA15F72A8800DC17DE /* facility_boundaries_generalized.kml */,
+				52190ECB15F72A8800DC17DE /* gate_sample.kml */,
+				52190ECC15F72A8800DC17DE /* refuel_points.kml */,
+				52190ECD15F72A8800DC17DE /* refueling_points_de_5km_road_buffer.kml */,
+				52190ECE15F72A8800DC17DE /* refueling_points_it_5km_road_buffer.kml */,
+				52190EAC15F7274700DC17DE /* main.m */,
+				52190EAE15F7274800DC17DE /* MainProjectR&D-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		52190E9B15F7274700DC17DE /* MainProjectR&D */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 52190EBA15F7274800DC17DE /* Build configuration list for PBXNativeTarget "MainProjectR&D" */;
+			buildPhases = (
+				52190E9815F7274700DC17DE /* Sources */,
+				52190E9915F7274700DC17DE /* Frameworks */,
+				52190E9A15F7274700DC17DE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "MainProjectR&D";
+			productName = "MainProjectR&D";
+			productReference = 52190E9C15F7274700DC17DE /* MainProjectR&D.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		52190E9315F7274700DC17DE /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 52190E9615F7274700DC17DE /* Build configuration list for PBXProject "MainProjectR&D" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 52190E9115F7274700DC17DE;
+			productRefGroup = 52190E9D15F7274700DC17DE /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				52190E9B15F7274700DC17DE /* MainProjectR&D */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		52190E9A15F7274700DC17DE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52190EAB15F7274700DC17DE /* InfoPlist.strings in Resources */,
+				52190EB415F7274800DC17DE /* MainStoryboard.storyboard in Resources */,
+				52190ECF15F72A8800DC17DE /* boundary_sample.kml in Resources */,
+				52190ED015F72A8800DC17DE /* facility_boundaries_generalized.kml in Resources */,
+				52190ED115F72A8800DC17DE /* gate_sample.kml in Resources */,
+				52190ED215F72A8800DC17DE /* refuel_points.kml in Resources */,
+				52190ED315F72A8800DC17DE /* refueling_points_de_5km_road_buffer.kml in Resources */,
+				52190ED415F72A8800DC17DE /* refueling_points_it_5km_road_buffer.kml in Resources */,
+				52190EF115F7512800DC17DE /* map_element_4.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		52190E9815F7274700DC17DE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52190EAD15F7274800DC17DE /* main.m in Sources */,
+				52190EB115F7274800DC17DE /* RDAppDelegate.m in Sources */,
+				52190EB715F7274800DC17DE /* RDViewController.m in Sources */,
+				52190EDC15F7308400DC17DE /* KMLParser.m in Sources */,
+				52190EEF15F74F5600DC17DE /* Locations.m in Sources */,
+				52190EF815F765AA00DC17DE /* InfoViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		52190EA915F7274700DC17DE /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52190EAA15F7274700DC17DE /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		52190EB215F7274800DC17DE /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52190EB315F7274800DC17DE /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		52190EB815F7274800DC17DE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		52190EB915F7274800DC17DE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		52190EBB15F7274800DC17DE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MainProjectR&D/MainProjectR&D-Prefix.pch";
+				INFOPLIST_FILE = "MainProjectR&D/MainProjectR&D-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		52190EBC15F7274800DC17DE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MainProjectR&D/MainProjectR&D-Prefix.pch";
+				INFOPLIST_FILE = "MainProjectR&D/MainProjectR&D-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		52190E9615F7274700DC17DE /* Build configuration list for PBXProject "MainProjectR&D" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52190EB815F7274800DC17DE /* Debug */,
+				52190EB915F7274800DC17DE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		52190EBA15F7274800DC17DE /* Build configuration list for PBXNativeTarget "MainProjectR&D" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52190EBB15F7274800DC17DE /* Debug */,
+				52190EBC15F7274800DC17DE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 52190E9315F7274700DC17DE /* Project object */;
+}

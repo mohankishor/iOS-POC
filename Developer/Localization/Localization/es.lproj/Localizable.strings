@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Localization
+
+  Created by test on 06/08/12.
+  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+*/
+
+"TITLE" = "Hola!";
+"FLAG" = "spanish.jpeg";

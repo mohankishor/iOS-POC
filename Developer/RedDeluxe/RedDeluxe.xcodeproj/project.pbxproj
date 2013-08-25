@@ -1,0 +1,463 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		526F5C4C15EB94C100ED4FB9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 526F5C4B15EB94C100ED4FB9 /* UIKit.framework */; };
+		526F5C4E15EB94C100ED4FB9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 526F5C4D15EB94C100ED4FB9 /* Foundation.framework */; };
+		526F5C5015EB94C100ED4FB9 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 526F5C4F15EB94C100ED4FB9 /* CoreGraphics.framework */; };
+		526F5C5615EB94C100ED4FB9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 526F5C5415EB94C100ED4FB9 /* InfoPlist.strings */; };
+		526F5C5815EB94C100ED4FB9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 526F5C5715EB94C100ED4FB9 /* main.m */; };
+		526F5C5C15EB94C100ED4FB9 /* RDAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 526F5C5B15EB94C100ED4FB9 /* RDAppDelegate.m */; };
+		526F5C5F15EB94C100ED4FB9 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 526F5C5D15EB94C100ED4FB9 /* MainStoryboard.storyboard */; };
+		526F5C6215EB94C100ED4FB9 /* RDViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 526F5C6115EB94C100ED4FB9 /* RDViewController.m */; };
+		526F5C8315EB961C00ED4FB9 /* 480x800_Air_Quality_Alerts_button_deselected.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5C6E15EB961C00ED4FB9 /* 480x800_Air_Quality_Alerts_button_deselected.png */; };
+		526F5C8415EB961C00ED4FB9 /* 480x800_Air_Quality_Background.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5C6F15EB961C00ED4FB9 /* 480x800_Air_Quality_Background.png */; };
+		526F5C8515EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Green.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5C7015EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Green.png */; };
+		526F5C8615EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Maroon.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5C7115EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Maroon.png */; };
+		526F5C8715EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Orange.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5C7215EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Orange.png */; };
+		526F5C8815EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Purple.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5C7315EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Purple.png */; };
+		526F5C8915EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Red.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5C7415EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Red.png */; };
+		526F5C8A15EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Yellow.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5C7515EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Yellow.png */; };
+		526F5C8B15EB961C00ED4FB9 /* 480x800_Air_Quality_FAQ_Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5C7615EB961C00ED4FB9 /* 480x800_Air_Quality_FAQ_Button.png */; };
+		526F5C8C15EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Background.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5C7715EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Background.png */; };
+		526F5C8D15EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Green.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5C7815EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Green.png */; };
+		526F5C8E15EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Maroon.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5C7915EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Maroon.png */; };
+		526F5C8F15EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Orange.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5C7A15EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Orange.png */; };
+		526F5C9015EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Purple.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5C7B15EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Purple.png */; };
+		526F5C9115EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Red.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5C7C15EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Red.png */; };
+		526F5C9215EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Yellow.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5C7D15EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Yellow.png */; };
+		526F5C9315EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Button_Selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5C7E15EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Button_Selected.png */; };
+		526F5C9415EB961C00ED4FB9 /* 480x800_Air_Quality_Share_Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5C7F15EB961C00ED4FB9 /* 480x800_Air_Quality_Share_Button.png */; };
+		526F5C9515EB961C00ED4FB9 /* change_loc_button.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5C8015EB961C00ED4FB9 /* change_loc_button.png */; };
+		526F5C9615EB961C00ED4FB9 /* SOTA_480x800_Air_Quality.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 526F5C8115EB961C00ED4FB9 /* SOTA_480x800_Air_Quality.jpg */; };
+		526F5CA615EB9C6600ED4FB9 /* 480x800_FAQ_Chart.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5CA115EB9C6600ED4FB9 /* 480x800_FAQ_Chart.png */; };
+		526F5CA715EB9C6600ED4FB9 /* 480x800_FAQ_Module.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5CA215EB9C6600ED4FB9 /* 480x800_FAQ_Module.png */; };
+		526F5CA815EB9C6600ED4FB9 /* 480x800_FAQ_X.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5CA315EB9C6600ED4FB9 /* 480x800_FAQ_X.png */; };
+		526F5CA915EB9C6600ED4FB9 /* SOTA_480x800_FAQ.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 526F5CA415EB9C6600ED4FB9 /* SOTA_480x800_FAQ.jpg */; };
+		526F5CC515EBA77400ED4FB9 /* 480x800_Alerts_Alert_Button_Selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5CB915EBA77400ED4FB9 /* 480x800_Alerts_Alert_Button_Selected.png */; };
+		526F5CC615EBA77400ED4FB9 /* 480x800_Alerts_Background.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5CBA15EBA77400ED4FB9 /* 480x800_Alerts_Background.png */; };
+		526F5CC715EBA77400ED4FB9 /* 480x800_Alerts_Change_Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5CBB15EBA77400ED4FB9 /* 480x800_Alerts_Change_Button.png */; };
+		526F5CC815EBA77400ED4FB9 /* 480x800_Alerts_FAQ_Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5CBC15EBA77400ED4FB9 /* 480x800_Alerts_FAQ_Button.png */; };
+		526F5CC915EBA77400ED4FB9 /* 480x800_Alerts_Forcast_Button_Deselected.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5CBD15EBA77400ED4FB9 /* 480x800_Alerts_Forcast_Button_Deselected.png */; };
+		526F5CCA15EBA77400ED4FB9 /* 480x800_Alerts_Module_Maroon.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5CBE15EBA77400ED4FB9 /* 480x800_Alerts_Module_Maroon.png */; };
+		526F5CCB15EBA77400ED4FB9 /* 480x800_Alerts_Module_Orange.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5CBF15EBA77400ED4FB9 /* 480x800_Alerts_Module_Orange.png */; };
+		526F5CCC15EBA77400ED4FB9 /* 480x800_Alerts_Module_Purple.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5CC015EBA77400ED4FB9 /* 480x800_Alerts_Module_Purple.png */; };
+		526F5CCD15EBA77400ED4FB9 /* 480x800_Alerts_Module_Red.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5CC115EBA77400ED4FB9 /* 480x800_Alerts_Module_Red.png */; };
+		526F5CCE15EBA77400ED4FB9 /* 480x800_Alerts_Share_Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 526F5CC215EBA77400ED4FB9 /* 480x800_Alerts_Share_Button.png */; };
+		526F5CCF15EBA77400ED4FB9 /* SOTA_480x800_Air_Quality_Alert.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 526F5CC315EBA77400ED4FB9 /* SOTA_480x800_Air_Quality_Alert.jpg */; };
+		526F5CD015EBA77400ED4FB9 /* Thumbs.db in Resources */ = {isa = PBXBuildFile; fileRef = 526F5CC415EBA77400ED4FB9 /* Thumbs.db */; };
+		526F5CD315EBBB9D00ED4FB9 /* AirQualityAlertsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 526F5CD215EBBB9D00ED4FB9 /* AirQualityAlertsViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		526F5C4715EB94C100ED4FB9 /* RedDeluxe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RedDeluxe.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		526F5C4B15EB94C100ED4FB9 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		526F5C4D15EB94C100ED4FB9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		526F5C4F15EB94C100ED4FB9 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		526F5C5315EB94C100ED4FB9 /* RedDeluxe-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "RedDeluxe-Info.plist"; sourceTree = "<group>"; };
+		526F5C5515EB94C100ED4FB9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		526F5C5715EB94C100ED4FB9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		526F5C5915EB94C100ED4FB9 /* RedDeluxe-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "RedDeluxe-Prefix.pch"; sourceTree = "<group>"; };
+		526F5C5A15EB94C100ED4FB9 /* RDAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RDAppDelegate.h; sourceTree = "<group>"; };
+		526F5C5B15EB94C100ED4FB9 /* RDAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RDAppDelegate.m; sourceTree = "<group>"; };
+		526F5C5E15EB94C100ED4FB9 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		526F5C6015EB94C100ED4FB9 /* RDViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RDViewController.h; sourceTree = "<group>"; };
+		526F5C6115EB94C100ED4FB9 /* RDViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RDViewController.m; sourceTree = "<group>"; };
+		526F5C6E15EB961C00ED4FB9 /* 480x800_Air_Quality_Alerts_button_deselected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_Air_Quality_Alerts_button_deselected.png; sourceTree = "<group>"; };
+		526F5C6F15EB961C00ED4FB9 /* 480x800_Air_Quality_Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_Air_Quality_Background.png; sourceTree = "<group>"; };
+		526F5C7015EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Green.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_Air_Quality_Current_Box_Green.png; sourceTree = "<group>"; };
+		526F5C7115EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Maroon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_Air_Quality_Current_Box_Maroon.png; sourceTree = "<group>"; };
+		526F5C7215EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Orange.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_Air_Quality_Current_Box_Orange.png; sourceTree = "<group>"; };
+		526F5C7315EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Purple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_Air_Quality_Current_Box_Purple.png; sourceTree = "<group>"; };
+		526F5C7415EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_Air_Quality_Current_Box_Red.png; sourceTree = "<group>"; };
+		526F5C7515EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Yellow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_Air_Quality_Current_Box_Yellow.png; sourceTree = "<group>"; };
+		526F5C7615EB961C00ED4FB9 /* 480x800_Air_Quality_FAQ_Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_Air_Quality_FAQ_Button.png; sourceTree = "<group>"; };
+		526F5C7715EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_Air_Quality_Forecast_Background.png; sourceTree = "<group>"; };
+		526F5C7815EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Green.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_Air_Quality_Forecast_Box_Green.png; sourceTree = "<group>"; };
+		526F5C7915EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Maroon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_Air_Quality_Forecast_Box_Maroon.png; sourceTree = "<group>"; };
+		526F5C7A15EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Orange.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_Air_Quality_Forecast_Box_Orange.png; sourceTree = "<group>"; };
+		526F5C7B15EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Purple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_Air_Quality_Forecast_Box_Purple.png; sourceTree = "<group>"; };
+		526F5C7C15EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_Air_Quality_Forecast_Box_Red.png; sourceTree = "<group>"; };
+		526F5C7D15EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Yellow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_Air_Quality_Forecast_Box_Yellow.png; sourceTree = "<group>"; };
+		526F5C7E15EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Button_Selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_Air_Quality_Forecast_Button_Selected.png; sourceTree = "<group>"; };
+		526F5C7F15EB961C00ED4FB9 /* 480x800_Air_Quality_Share_Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_Air_Quality_Share_Button.png; sourceTree = "<group>"; };
+		526F5C8015EB961C00ED4FB9 /* change_loc_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = change_loc_button.png; sourceTree = "<group>"; };
+		526F5C8115EB961C00ED4FB9 /* SOTA_480x800_Air_Quality.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SOTA_480x800_Air_Quality.jpg; sourceTree = "<group>"; };
+		526F5CA115EB9C6600ED4FB9 /* 480x800_FAQ_Chart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_FAQ_Chart.png; sourceTree = "<group>"; };
+		526F5CA215EB9C6600ED4FB9 /* 480x800_FAQ_Module.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_FAQ_Module.png; sourceTree = "<group>"; };
+		526F5CA315EB9C6600ED4FB9 /* 480x800_FAQ_X.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_FAQ_X.png; sourceTree = "<group>"; };
+		526F5CA415EB9C6600ED4FB9 /* SOTA_480x800_FAQ.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SOTA_480x800_FAQ.jpg; sourceTree = "<group>"; };
+		526F5CB915EBA77400ED4FB9 /* 480x800_Alerts_Alert_Button_Selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_Alerts_Alert_Button_Selected.png; sourceTree = "<group>"; };
+		526F5CBA15EBA77400ED4FB9 /* 480x800_Alerts_Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_Alerts_Background.png; sourceTree = "<group>"; };
+		526F5CBB15EBA77400ED4FB9 /* 480x800_Alerts_Change_Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_Alerts_Change_Button.png; sourceTree = "<group>"; };
+		526F5CBC15EBA77400ED4FB9 /* 480x800_Alerts_FAQ_Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_Alerts_FAQ_Button.png; sourceTree = "<group>"; };
+		526F5CBD15EBA77400ED4FB9 /* 480x800_Alerts_Forcast_Button_Deselected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_Alerts_Forcast_Button_Deselected.png; sourceTree = "<group>"; };
+		526F5CBE15EBA77400ED4FB9 /* 480x800_Alerts_Module_Maroon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_Alerts_Module_Maroon.png; sourceTree = "<group>"; };
+		526F5CBF15EBA77400ED4FB9 /* 480x800_Alerts_Module_Orange.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_Alerts_Module_Orange.png; sourceTree = "<group>"; };
+		526F5CC015EBA77400ED4FB9 /* 480x800_Alerts_Module_Purple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_Alerts_Module_Purple.png; sourceTree = "<group>"; };
+		526F5CC115EBA77400ED4FB9 /* 480x800_Alerts_Module_Red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_Alerts_Module_Red.png; sourceTree = "<group>"; };
+		526F5CC215EBA77400ED4FB9 /* 480x800_Alerts_Share_Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 480x800_Alerts_Share_Button.png; sourceTree = "<group>"; };
+		526F5CC315EBA77400ED4FB9 /* SOTA_480x800_Air_Quality_Alert.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SOTA_480x800_Air_Quality_Alert.jpg; sourceTree = "<group>"; };
+		526F5CC415EBA77400ED4FB9 /* Thumbs.db */ = {isa = PBXFileReference; lastKnownFileType = file; path = Thumbs.db; sourceTree = "<group>"; };
+		526F5CD115EBBB9D00ED4FB9 /* AirQualityAlertsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AirQualityAlertsViewController.h; sourceTree = "<group>"; };
+		526F5CD215EBBB9D00ED4FB9 /* AirQualityAlertsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AirQualityAlertsViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		526F5C4415EB94C100ED4FB9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				526F5C4C15EB94C100ED4FB9 /* UIKit.framework in Frameworks */,
+				526F5C4E15EB94C100ED4FB9 /* Foundation.framework in Frameworks */,
+				526F5C5015EB94C100ED4FB9 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		526F5C3C15EB94C100ED4FB9 = {
+			isa = PBXGroup;
+			children = (
+				526F5C5115EB94C100ED4FB9 /* RedDeluxe */,
+				526F5C4A15EB94C100ED4FB9 /* Frameworks */,
+				526F5C4815EB94C100ED4FB9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		526F5C4815EB94C100ED4FB9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				526F5C4715EB94C100ED4FB9 /* RedDeluxe.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		526F5C4A15EB94C100ED4FB9 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				526F5C4B15EB94C100ED4FB9 /* UIKit.framework */,
+				526F5C4D15EB94C100ED4FB9 /* Foundation.framework */,
+				526F5C4F15EB94C100ED4FB9 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		526F5C5115EB94C100ED4FB9 /* RedDeluxe */ = {
+			isa = PBXGroup;
+			children = (
+				526F5C6C15EB960100ED4FB9 /* Resources */,
+				526F5C5A15EB94C100ED4FB9 /* RDAppDelegate.h */,
+				526F5C5B15EB94C100ED4FB9 /* RDAppDelegate.m */,
+				526F5C5D15EB94C100ED4FB9 /* MainStoryboard.storyboard */,
+				526F5CD115EBBB9D00ED4FB9 /* AirQualityAlertsViewController.h */,
+				526F5CD215EBBB9D00ED4FB9 /* AirQualityAlertsViewController.m */,
+				526F5C6015EB94C100ED4FB9 /* RDViewController.h */,
+				526F5C6115EB94C100ED4FB9 /* RDViewController.m */,
+				526F5C5215EB94C100ED4FB9 /* Supporting Files */,
+			);
+			path = RedDeluxe;
+			sourceTree = "<group>";
+		};
+		526F5C5215EB94C100ED4FB9 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				526F5C5315EB94C100ED4FB9 /* RedDeluxe-Info.plist */,
+				526F5C5415EB94C100ED4FB9 /* InfoPlist.strings */,
+				526F5C5715EB94C100ED4FB9 /* main.m */,
+				526F5C5915EB94C100ED4FB9 /* RedDeluxe-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		526F5C6C15EB960100ED4FB9 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				526F5CB815EBA77400ED4FB9 /* 480x800_Alerts */,
+				526F5CA015EB9C6600ED4FB9 /* 480x800_FAQ */,
+				526F5C6D15EB961C00ED4FB9 /* 480x800_Air_Quality */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		526F5C6D15EB961C00ED4FB9 /* 480x800_Air_Quality */ = {
+			isa = PBXGroup;
+			children = (
+				526F5C6E15EB961C00ED4FB9 /* 480x800_Air_Quality_Alerts_button_deselected.png */,
+				526F5C6F15EB961C00ED4FB9 /* 480x800_Air_Quality_Background.png */,
+				526F5C7015EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Green.png */,
+				526F5C7115EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Maroon.png */,
+				526F5C7215EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Orange.png */,
+				526F5C7315EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Purple.png */,
+				526F5C7415EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Red.png */,
+				526F5C7515EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Yellow.png */,
+				526F5C7615EB961C00ED4FB9 /* 480x800_Air_Quality_FAQ_Button.png */,
+				526F5C7715EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Background.png */,
+				526F5C7815EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Green.png */,
+				526F5C7915EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Maroon.png */,
+				526F5C7A15EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Orange.png */,
+				526F5C7B15EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Purple.png */,
+				526F5C7C15EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Red.png */,
+				526F5C7D15EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Yellow.png */,
+				526F5C7E15EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Button_Selected.png */,
+				526F5C7F15EB961C00ED4FB9 /* 480x800_Air_Quality_Share_Button.png */,
+				526F5C8015EB961C00ED4FB9 /* change_loc_button.png */,
+				526F5C8115EB961C00ED4FB9 /* SOTA_480x800_Air_Quality.jpg */,
+			);
+			path = 480x800_Air_Quality;
+			sourceTree = "<group>";
+		};
+		526F5CA015EB9C6600ED4FB9 /* 480x800_FAQ */ = {
+			isa = PBXGroup;
+			children = (
+				526F5CA115EB9C6600ED4FB9 /* 480x800_FAQ_Chart.png */,
+				526F5CA215EB9C6600ED4FB9 /* 480x800_FAQ_Module.png */,
+				526F5CA315EB9C6600ED4FB9 /* 480x800_FAQ_X.png */,
+				526F5CA415EB9C6600ED4FB9 /* SOTA_480x800_FAQ.jpg */,
+			);
+			path = 480x800_FAQ;
+			sourceTree = "<group>";
+		};
+		526F5CB815EBA77400ED4FB9 /* 480x800_Alerts */ = {
+			isa = PBXGroup;
+			children = (
+				526F5CB915EBA77400ED4FB9 /* 480x800_Alerts_Alert_Button_Selected.png */,
+				526F5CBA15EBA77400ED4FB9 /* 480x800_Alerts_Background.png */,
+				526F5CBB15EBA77400ED4FB9 /* 480x800_Alerts_Change_Button.png */,
+				526F5CBC15EBA77400ED4FB9 /* 480x800_Alerts_FAQ_Button.png */,
+				526F5CBD15EBA77400ED4FB9 /* 480x800_Alerts_Forcast_Button_Deselected.png */,
+				526F5CBE15EBA77400ED4FB9 /* 480x800_Alerts_Module_Maroon.png */,
+				526F5CBF15EBA77400ED4FB9 /* 480x800_Alerts_Module_Orange.png */,
+				526F5CC015EBA77400ED4FB9 /* 480x800_Alerts_Module_Purple.png */,
+				526F5CC115EBA77400ED4FB9 /* 480x800_Alerts_Module_Red.png */,
+				526F5CC215EBA77400ED4FB9 /* 480x800_Alerts_Share_Button.png */,
+				526F5CC315EBA77400ED4FB9 /* SOTA_480x800_Air_Quality_Alert.jpg */,
+				526F5CC415EBA77400ED4FB9 /* Thumbs.db */,
+			);
+			path = 480x800_Alerts;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		526F5C4615EB94C100ED4FB9 /* RedDeluxe */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 526F5C6515EB94C100ED4FB9 /* Build configuration list for PBXNativeTarget "RedDeluxe" */;
+			buildPhases = (
+				526F5C4315EB94C100ED4FB9 /* Sources */,
+				526F5C4415EB94C100ED4FB9 /* Frameworks */,
+				526F5C4515EB94C100ED4FB9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = RedDeluxe;
+			productName = RedDeluxe;
+			productReference = 526F5C4715EB94C100ED4FB9 /* RedDeluxe.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		526F5C3E15EB94C100ED4FB9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 526F5C4115EB94C100ED4FB9 /* Build configuration list for PBXProject "RedDeluxe" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 526F5C3C15EB94C100ED4FB9;
+			productRefGroup = 526F5C4815EB94C100ED4FB9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				526F5C4615EB94C100ED4FB9 /* RedDeluxe */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		526F5C4515EB94C100ED4FB9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				526F5C5615EB94C100ED4FB9 /* InfoPlist.strings in Resources */,
+				526F5C5F15EB94C100ED4FB9 /* MainStoryboard.storyboard in Resources */,
+				526F5C8315EB961C00ED4FB9 /* 480x800_Air_Quality_Alerts_button_deselected.png in Resources */,
+				526F5C8415EB961C00ED4FB9 /* 480x800_Air_Quality_Background.png in Resources */,
+				526F5C8515EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Green.png in Resources */,
+				526F5C8615EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Maroon.png in Resources */,
+				526F5C8715EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Orange.png in Resources */,
+				526F5C8815EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Purple.png in Resources */,
+				526F5C8915EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Red.png in Resources */,
+				526F5C8A15EB961C00ED4FB9 /* 480x800_Air_Quality_Current_Box_Yellow.png in Resources */,
+				526F5C8B15EB961C00ED4FB9 /* 480x800_Air_Quality_FAQ_Button.png in Resources */,
+				526F5C8C15EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Background.png in Resources */,
+				526F5C8D15EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Green.png in Resources */,
+				526F5C8E15EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Maroon.png in Resources */,
+				526F5C8F15EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Orange.png in Resources */,
+				526F5C9015EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Purple.png in Resources */,
+				526F5C9115EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Red.png in Resources */,
+				526F5C9215EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Box_Yellow.png in Resources */,
+				526F5C9315EB961C00ED4FB9 /* 480x800_Air_Quality_Forecast_Button_Selected.png in Resources */,
+				526F5C9415EB961C00ED4FB9 /* 480x800_Air_Quality_Share_Button.png in Resources */,
+				526F5C9515EB961C00ED4FB9 /* change_loc_button.png in Resources */,
+				526F5C9615EB961C00ED4FB9 /* SOTA_480x800_Air_Quality.jpg in Resources */,
+				526F5CA615EB9C6600ED4FB9 /* 480x800_FAQ_Chart.png in Resources */,
+				526F5CA715EB9C6600ED4FB9 /* 480x800_FAQ_Module.png in Resources */,
+				526F5CA815EB9C6600ED4FB9 /* 480x800_FAQ_X.png in Resources */,
+				526F5CA915EB9C6600ED4FB9 /* SOTA_480x800_FAQ.jpg in Resources */,
+				526F5CC515EBA77400ED4FB9 /* 480x800_Alerts_Alert_Button_Selected.png in Resources */,
+				526F5CC615EBA77400ED4FB9 /* 480x800_Alerts_Background.png in Resources */,
+				526F5CC715EBA77400ED4FB9 /* 480x800_Alerts_Change_Button.png in Resources */,
+				526F5CC815EBA77400ED4FB9 /* 480x800_Alerts_FAQ_Button.png in Resources */,
+				526F5CC915EBA77400ED4FB9 /* 480x800_Alerts_Forcast_Button_Deselected.png in Resources */,
+				526F5CCA15EBA77400ED4FB9 /* 480x800_Alerts_Module_Maroon.png in Resources */,
+				526F5CCB15EBA77400ED4FB9 /* 480x800_Alerts_Module_Orange.png in Resources */,
+				526F5CCC15EBA77400ED4FB9 /* 480x800_Alerts_Module_Purple.png in Resources */,
+				526F5CCD15EBA77400ED4FB9 /* 480x800_Alerts_Module_Red.png in Resources */,
+				526F5CCE15EBA77400ED4FB9 /* 480x800_Alerts_Share_Button.png in Resources */,
+				526F5CCF15EBA77400ED4FB9 /* SOTA_480x800_Air_Quality_Alert.jpg in Resources */,
+				526F5CD015EBA77400ED4FB9 /* Thumbs.db in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		526F5C4315EB94C100ED4FB9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				526F5C5815EB94C100ED4FB9 /* main.m in Sources */,
+				526F5C5C15EB94C100ED4FB9 /* RDAppDelegate.m in Sources */,
+				526F5C6215EB94C100ED4FB9 /* RDViewController.m in Sources */,
+				526F5CD315EBBB9D00ED4FB9 /* AirQualityAlertsViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		526F5C5415EB94C100ED4FB9 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				526F5C5515EB94C100ED4FB9 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		526F5C5D15EB94C100ED4FB9 /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				526F5C5E15EB94C100ED4FB9 /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		526F5C6315EB94C100ED4FB9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		526F5C6415EB94C100ED4FB9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		526F5C6615EB94C100ED4FB9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "RedDeluxe/RedDeluxe-Prefix.pch";
+				INFOPLIST_FILE = "RedDeluxe/RedDeluxe-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		526F5C6715EB94C100ED4FB9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "RedDeluxe/RedDeluxe-Prefix.pch";
+				INFOPLIST_FILE = "RedDeluxe/RedDeluxe-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		526F5C4115EB94C100ED4FB9 /* Build configuration list for PBXProject "RedDeluxe" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				526F5C6315EB94C100ED4FB9 /* Debug */,
+				526F5C6415EB94C100ED4FB9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		526F5C6515EB94C100ED4FB9 /* Build configuration list for PBXNativeTarget "RedDeluxe" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				526F5C6615EB94C100ED4FB9 /* Debug */,
+				526F5C6715EB94C100ED4FB9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 526F5C3E15EB94C100ED4FB9 /* Project object */;
+}

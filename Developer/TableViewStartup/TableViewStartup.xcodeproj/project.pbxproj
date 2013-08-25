@@ -1,0 +1,302 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5279703615BD5DB400A3CC16 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5279703515BD5DB400A3CC16 /* UIKit.framework */; };
+		5279703815BD5DB400A3CC16 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5279703715BD5DB400A3CC16 /* Foundation.framework */; };
+		5279703A15BD5DB400A3CC16 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5279703915BD5DB400A3CC16 /* CoreGraphics.framework */; };
+		5279704015BD5DB400A3CC16 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5279703E15BD5DB400A3CC16 /* InfoPlist.strings */; };
+		5279704215BD5DB400A3CC16 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5279704115BD5DB400A3CC16 /* main.m */; };
+		5279704615BD5DB400A3CC16 /* TVAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5279704515BD5DB400A3CC16 /* TVAppDelegate.m */; };
+		5279704915BD5DB400A3CC16 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5279704715BD5DB400A3CC16 /* MainStoryboard.storyboard */; };
+		5279704C15BD5DB400A3CC16 /* TVViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5279704B15BD5DB400A3CC16 /* TVViewController.m */; };
+		52C77D2115BE60AF004DA919 /* contacts.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 52C77D2015BE60AF004DA919 /* contacts.jpeg */; };
+		52C77DB715BE983D004DA919 /* shahid.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 52C77DB615BE983D004DA919 /* shahid.jpeg */; };
+		52C77DBA15BE9845004DA919 /* srinivas.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 52C77DB915BE9845004DA919 /* srinivas.jpeg */; };
+		52C77DBC15BE984C004DA919 /* pradeep.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 52C77DBB15BE984C004DA919 /* pradeep.jpeg */; };
+		52C77DBE15BE9853004DA919 /* vivek.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 52C77DBD15BE9853004DA919 /* vivek.jpeg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		5279703115BD5DB400A3CC16 /* TableViewStartup.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TableViewStartup.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5279703515BD5DB400A3CC16 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		5279703715BD5DB400A3CC16 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		5279703915BD5DB400A3CC16 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		5279703D15BD5DB400A3CC16 /* TableViewStartup-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TableViewStartup-Info.plist"; sourceTree = "<group>"; };
+		5279703F15BD5DB400A3CC16 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		5279704115BD5DB400A3CC16 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		5279704315BD5DB400A3CC16 /* TableViewStartup-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TableViewStartup-Prefix.pch"; sourceTree = "<group>"; };
+		5279704415BD5DB400A3CC16 /* TVAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TVAppDelegate.h; sourceTree = "<group>"; };
+		5279704515BD5DB400A3CC16 /* TVAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TVAppDelegate.m; sourceTree = "<group>"; };
+		5279704815BD5DB400A3CC16 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		5279704A15BD5DB400A3CC16 /* TVViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TVViewController.h; sourceTree = "<group>"; };
+		5279704B15BD5DB400A3CC16 /* TVViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TVViewController.m; sourceTree = "<group>"; };
+		52C77D2015BE60AF004DA919 /* contacts.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = contacts.jpeg; sourceTree = "<group>"; };
+		52C77DB615BE983D004DA919 /* shahid.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = shahid.jpeg; sourceTree = "<group>"; };
+		52C77DB915BE9845004DA919 /* srinivas.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = srinivas.jpeg; sourceTree = "<group>"; };
+		52C77DBB15BE984C004DA919 /* pradeep.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pradeep.jpeg; sourceTree = "<group>"; };
+		52C77DBD15BE9853004DA919 /* vivek.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = vivek.jpeg; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5279702E15BD5DB400A3CC16 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5279703615BD5DB400A3CC16 /* UIKit.framework in Frameworks */,
+				5279703815BD5DB400A3CC16 /* Foundation.framework in Frameworks */,
+				5279703A15BD5DB400A3CC16 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5279702615BD5DB400A3CC16 = {
+			isa = PBXGroup;
+			children = (
+				5279703B15BD5DB400A3CC16 /* TableViewStartup */,
+				5279703415BD5DB400A3CC16 /* Frameworks */,
+				5279703215BD5DB400A3CC16 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5279703215BD5DB400A3CC16 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5279703115BD5DB400A3CC16 /* TableViewStartup.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5279703415BD5DB400A3CC16 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5279703515BD5DB400A3CC16 /* UIKit.framework */,
+				5279703715BD5DB400A3CC16 /* Foundation.framework */,
+				5279703915BD5DB400A3CC16 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		5279703B15BD5DB400A3CC16 /* TableViewStartup */ = {
+			isa = PBXGroup;
+			children = (
+				52C77D2015BE60AF004DA919 /* contacts.jpeg */,
+				5279704415BD5DB400A3CC16 /* TVAppDelegate.h */,
+				5279704515BD5DB400A3CC16 /* TVAppDelegate.m */,
+				52C77DB615BE983D004DA919 /* shahid.jpeg */,
+				52C77DB915BE9845004DA919 /* srinivas.jpeg */,
+				52C77DBB15BE984C004DA919 /* pradeep.jpeg */,
+				52C77DBD15BE9853004DA919 /* vivek.jpeg */,
+				5279704715BD5DB400A3CC16 /* MainStoryboard.storyboard */,
+				5279704A15BD5DB400A3CC16 /* TVViewController.h */,
+				5279704B15BD5DB400A3CC16 /* TVViewController.m */,
+				5279703C15BD5DB400A3CC16 /* Supporting Files */,
+			);
+			path = TableViewStartup;
+			sourceTree = "<group>";
+		};
+		5279703C15BD5DB400A3CC16 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				5279703D15BD5DB400A3CC16 /* TableViewStartup-Info.plist */,
+				5279703E15BD5DB400A3CC16 /* InfoPlist.strings */,
+				5279704115BD5DB400A3CC16 /* main.m */,
+				5279704315BD5DB400A3CC16 /* TableViewStartup-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5279703015BD5DB400A3CC16 /* TableViewStartup */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5279704F15BD5DB400A3CC16 /* Build configuration list for PBXNativeTarget "TableViewStartup" */;
+			buildPhases = (
+				5279702D15BD5DB400A3CC16 /* Sources */,
+				5279702E15BD5DB400A3CC16 /* Frameworks */,
+				5279702F15BD5DB400A3CC16 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TableViewStartup;
+			productName = TableViewStartup;
+			productReference = 5279703115BD5DB400A3CC16 /* TableViewStartup.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5279702815BD5DB400A3CC16 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 5279702B15BD5DB400A3CC16 /* Build configuration list for PBXProject "TableViewStartup" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 5279702615BD5DB400A3CC16;
+			productRefGroup = 5279703215BD5DB400A3CC16 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5279703015BD5DB400A3CC16 /* TableViewStartup */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5279702F15BD5DB400A3CC16 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5279704015BD5DB400A3CC16 /* InfoPlist.strings in Resources */,
+				5279704915BD5DB400A3CC16 /* MainStoryboard.storyboard in Resources */,
+				52C77D2115BE60AF004DA919 /* contacts.jpeg in Resources */,
+				52C77DB715BE983D004DA919 /* shahid.jpeg in Resources */,
+				52C77DBA15BE9845004DA919 /* srinivas.jpeg in Resources */,
+				52C77DBC15BE984C004DA919 /* pradeep.jpeg in Resources */,
+				52C77DBE15BE9853004DA919 /* vivek.jpeg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5279702D15BD5DB400A3CC16 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5279704215BD5DB400A3CC16 /* main.m in Sources */,
+				5279704615BD5DB400A3CC16 /* TVAppDelegate.m in Sources */,
+				5279704C15BD5DB400A3CC16 /* TVViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		5279703E15BD5DB400A3CC16 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5279703F15BD5DB400A3CC16 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		5279704715BD5DB400A3CC16 /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5279704815BD5DB400A3CC16 /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		5279704D15BD5DB400A3CC16 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		5279704E15BD5DB400A3CC16 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5279705015BD5DB400A3CC16 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TableViewStartup/TableViewStartup-Prefix.pch";
+				INFOPLIST_FILE = "TableViewStartup/TableViewStartup-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		5279705115BD5DB400A3CC16 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TableViewStartup/TableViewStartup-Prefix.pch";
+				INFOPLIST_FILE = "TableViewStartup/TableViewStartup-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5279702B15BD5DB400A3CC16 /* Build configuration list for PBXProject "TableViewStartup" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5279704D15BD5DB400A3CC16 /* Debug */,
+				5279704E15BD5DB400A3CC16 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5279704F15BD5DB400A3CC16 /* Build configuration list for PBXNativeTarget "TableViewStartup" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5279705015BD5DB400A3CC16 /* Debug */,
+				5279705115BD5DB400A3CC16 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5279702815BD5DB400A3CC16 /* Project object */;
+}

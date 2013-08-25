@@ -1,0 +1,281 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		52CFAD2315C2B99400AF9BDE /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52CFAD2215C2B99300AF9BDE /* UIKit.framework */; };
+		52CFAD2515C2B99400AF9BDE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52CFAD2415C2B99400AF9BDE /* Foundation.framework */; };
+		52CFAD2715C2B99400AF9BDE /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52CFAD2615C2B99400AF9BDE /* CoreGraphics.framework */; };
+		52CFAD2D15C2B99400AF9BDE /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 52CFAD2B15C2B99400AF9BDE /* InfoPlist.strings */; };
+		52CFAD2F15C2B99400AF9BDE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 52CFAD2E15C2B99400AF9BDE /* main.m */; };
+		52CFAD3315C2B99400AF9BDE /* PAAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 52CFAD3215C2B99400AF9BDE /* PAAppDelegate.m */; };
+		52CFAD3615C2B99400AF9BDE /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52CFAD3415C2B99400AF9BDE /* MainStoryboard.storyboard */; };
+		52CFAD3915C2B99400AF9BDE /* PAViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 52CFAD3815C2B99400AF9BDE /* PAViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		52CFAD1E15C2B99300AF9BDE /* PhotoAlbum.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PhotoAlbum.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		52CFAD2215C2B99300AF9BDE /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		52CFAD2415C2B99400AF9BDE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		52CFAD2615C2B99400AF9BDE /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		52CFAD2A15C2B99400AF9BDE /* PhotoAlbum-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PhotoAlbum-Info.plist"; sourceTree = "<group>"; };
+		52CFAD2C15C2B99400AF9BDE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		52CFAD2E15C2B99400AF9BDE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		52CFAD3015C2B99400AF9BDE /* PhotoAlbum-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "PhotoAlbum-Prefix.pch"; sourceTree = "<group>"; };
+		52CFAD3115C2B99400AF9BDE /* PAAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PAAppDelegate.h; sourceTree = "<group>"; };
+		52CFAD3215C2B99400AF9BDE /* PAAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PAAppDelegate.m; sourceTree = "<group>"; };
+		52CFAD3515C2B99400AF9BDE /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		52CFAD3715C2B99400AF9BDE /* PAViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PAViewController.h; sourceTree = "<group>"; };
+		52CFAD3815C2B99400AF9BDE /* PAViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PAViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		52CFAD1B15C2B99300AF9BDE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52CFAD2315C2B99400AF9BDE /* UIKit.framework in Frameworks */,
+				52CFAD2515C2B99400AF9BDE /* Foundation.framework in Frameworks */,
+				52CFAD2715C2B99400AF9BDE /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		52CFAD1315C2B99300AF9BDE = {
+			isa = PBXGroup;
+			children = (
+				52CFAD2815C2B99400AF9BDE /* PhotoAlbum */,
+				52CFAD2115C2B99300AF9BDE /* Frameworks */,
+				52CFAD1F15C2B99300AF9BDE /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		52CFAD1F15C2B99300AF9BDE /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				52CFAD1E15C2B99300AF9BDE /* PhotoAlbum.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		52CFAD2115C2B99300AF9BDE /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				52CFAD2215C2B99300AF9BDE /* UIKit.framework */,
+				52CFAD2415C2B99400AF9BDE /* Foundation.framework */,
+				52CFAD2615C2B99400AF9BDE /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		52CFAD2815C2B99400AF9BDE /* PhotoAlbum */ = {
+			isa = PBXGroup;
+			children = (
+				52CFAD3115C2B99400AF9BDE /* PAAppDelegate.h */,
+				52CFAD3215C2B99400AF9BDE /* PAAppDelegate.m */,
+				52CFAD3415C2B99400AF9BDE /* MainStoryboard.storyboard */,
+				52CFAD3715C2B99400AF9BDE /* PAViewController.h */,
+				52CFAD3815C2B99400AF9BDE /* PAViewController.m */,
+				52CFAD2915C2B99400AF9BDE /* Supporting Files */,
+			);
+			path = PhotoAlbum;
+			sourceTree = "<group>";
+		};
+		52CFAD2915C2B99400AF9BDE /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				52CFAD2A15C2B99400AF9BDE /* PhotoAlbum-Info.plist */,
+				52CFAD2B15C2B99400AF9BDE /* InfoPlist.strings */,
+				52CFAD2E15C2B99400AF9BDE /* main.m */,
+				52CFAD3015C2B99400AF9BDE /* PhotoAlbum-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		52CFAD1D15C2B99300AF9BDE /* PhotoAlbum */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 52CFAD3C15C2B99400AF9BDE /* Build configuration list for PBXNativeTarget "PhotoAlbum" */;
+			buildPhases = (
+				52CFAD1A15C2B99300AF9BDE /* Sources */,
+				52CFAD1B15C2B99300AF9BDE /* Frameworks */,
+				52CFAD1C15C2B99300AF9BDE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PhotoAlbum;
+			productName = PhotoAlbum;
+			productReference = 52CFAD1E15C2B99300AF9BDE /* PhotoAlbum.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		52CFAD1515C2B99300AF9BDE /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 52CFAD1815C2B99300AF9BDE /* Build configuration list for PBXProject "PhotoAlbum" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 52CFAD1315C2B99300AF9BDE;
+			productRefGroup = 52CFAD1F15C2B99300AF9BDE /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				52CFAD1D15C2B99300AF9BDE /* PhotoAlbum */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		52CFAD1C15C2B99300AF9BDE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52CFAD2D15C2B99400AF9BDE /* InfoPlist.strings in Resources */,
+				52CFAD3615C2B99400AF9BDE /* MainStoryboard.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		52CFAD1A15C2B99300AF9BDE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52CFAD2F15C2B99400AF9BDE /* main.m in Sources */,
+				52CFAD3315C2B99400AF9BDE /* PAAppDelegate.m in Sources */,
+				52CFAD3915C2B99400AF9BDE /* PAViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		52CFAD2B15C2B99400AF9BDE /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52CFAD2C15C2B99400AF9BDE /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		52CFAD3415C2B99400AF9BDE /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52CFAD3515C2B99400AF9BDE /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		52CFAD3A15C2B99400AF9BDE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		52CFAD3B15C2B99400AF9BDE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		52CFAD3D15C2B99400AF9BDE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "PhotoAlbum/PhotoAlbum-Prefix.pch";
+				INFOPLIST_FILE = "PhotoAlbum/PhotoAlbum-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		52CFAD3E15C2B99400AF9BDE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "PhotoAlbum/PhotoAlbum-Prefix.pch";
+				INFOPLIST_FILE = "PhotoAlbum/PhotoAlbum-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		52CFAD1815C2B99300AF9BDE /* Build configuration list for PBXProject "PhotoAlbum" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52CFAD3A15C2B99400AF9BDE /* Debug */,
+				52CFAD3B15C2B99400AF9BDE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		52CFAD3C15C2B99400AF9BDE /* Build configuration list for PBXNativeTarget "PhotoAlbum" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52CFAD3D15C2B99400AF9BDE /* Debug */,
+				52CFAD3E15C2B99400AF9BDE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 52CFAD1515C2B99300AF9BDE /* Project object */;
+}

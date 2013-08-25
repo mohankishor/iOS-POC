@@ -1,0 +1,302 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		52A12E0715BFBD4D0028B3DE /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52A12E0615BFBD4D0028B3DE /* UIKit.framework */; };
+		52A12E0915BFBD4D0028B3DE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52A12E0815BFBD4D0028B3DE /* Foundation.framework */; };
+		52A12E0B15BFBD4D0028B3DE /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52A12E0A15BFBD4D0028B3DE /* CoreGraphics.framework */; };
+		52A12E1115BFBD4D0028B3DE /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 52A12E0F15BFBD4D0028B3DE /* InfoPlist.strings */; };
+		52A12E1315BFBD4D0028B3DE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 52A12E1215BFBD4D0028B3DE /* main.m */; };
+		52A12E1715BFBD4D0028B3DE /* TPAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 52A12E1615BFBD4D0028B3DE /* TPAppDelegate.m */; };
+		52A12E1A15BFBD4D0028B3DE /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52A12E1815BFBD4D0028B3DE /* MainStoryboard.storyboard */; };
+		52A12E1D15BFBD4D0028B3DE /* TPViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 52A12E1C15BFBD4D0028B3DE /* TPViewController.m */; };
+		52A12E2A15BFC0660028B3DE /* StatesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 52A12E2815BFC0660028B3DE /* StatesViewController.m */; };
+		52A12E2B15BFC0660028B3DE /* StatesViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 52A12E2915BFC0660028B3DE /* StatesViewController.xib */; };
+		52C4B09C15C10F640082831B /* CitiesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 52C4B09A15C10F640082831B /* CitiesViewController.m */; };
+		52C4B09D15C10F640082831B /* CitiesViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 52C4B09B15C10F640082831B /* CitiesViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		52A12E0215BFBD4D0028B3DE /* UITableViewWithProtocolsAndDelegates.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UITableViewWithProtocolsAndDelegates.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		52A12E0615BFBD4D0028B3DE /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		52A12E0815BFBD4D0028B3DE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		52A12E0A15BFBD4D0028B3DE /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		52A12E0E15BFBD4D0028B3DE /* UITableViewWithProtocolsAndDelegates-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "UITableViewWithProtocolsAndDelegates-Info.plist"; sourceTree = "<group>"; };
+		52A12E1015BFBD4D0028B3DE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		52A12E1215BFBD4D0028B3DE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		52A12E1415BFBD4D0028B3DE /* UITableViewWithProtocolsAndDelegates-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UITableViewWithProtocolsAndDelegates-Prefix.pch"; sourceTree = "<group>"; };
+		52A12E1515BFBD4D0028B3DE /* TPAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TPAppDelegate.h; sourceTree = "<group>"; };
+		52A12E1615BFBD4D0028B3DE /* TPAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TPAppDelegate.m; sourceTree = "<group>"; };
+		52A12E1915BFBD4D0028B3DE /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		52A12E1B15BFBD4D0028B3DE /* TPViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TPViewController.h; sourceTree = "<group>"; };
+		52A12E1C15BFBD4D0028B3DE /* TPViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TPViewController.m; sourceTree = "<group>"; };
+		52A12E2715BFC0660028B3DE /* StatesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StatesViewController.h; sourceTree = "<group>"; };
+		52A12E2815BFC0660028B3DE /* StatesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StatesViewController.m; sourceTree = "<group>"; };
+		52A12E2915BFC0660028B3DE /* StatesViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = StatesViewController.xib; sourceTree = "<group>"; };
+		52C4B09915C10F640082831B /* CitiesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CitiesViewController.h; sourceTree = "<group>"; };
+		52C4B09A15C10F640082831B /* CitiesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CitiesViewController.m; sourceTree = "<group>"; };
+		52C4B09B15C10F640082831B /* CitiesViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CitiesViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		52A12DFF15BFBD4D0028B3DE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52A12E0715BFBD4D0028B3DE /* UIKit.framework in Frameworks */,
+				52A12E0915BFBD4D0028B3DE /* Foundation.framework in Frameworks */,
+				52A12E0B15BFBD4D0028B3DE /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		52A12DF715BFBD4D0028B3DE = {
+			isa = PBXGroup;
+			children = (
+				52A12E0C15BFBD4D0028B3DE /* UITableViewWithProtocolsAndDelegates */,
+				52A12E0515BFBD4D0028B3DE /* Frameworks */,
+				52A12E0315BFBD4D0028B3DE /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		52A12E0315BFBD4D0028B3DE /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				52A12E0215BFBD4D0028B3DE /* UITableViewWithProtocolsAndDelegates.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		52A12E0515BFBD4D0028B3DE /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				52A12E0615BFBD4D0028B3DE /* UIKit.framework */,
+				52A12E0815BFBD4D0028B3DE /* Foundation.framework */,
+				52A12E0A15BFBD4D0028B3DE /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		52A12E0C15BFBD4D0028B3DE /* UITableViewWithProtocolsAndDelegates */ = {
+			isa = PBXGroup;
+			children = (
+				52A12E1515BFBD4D0028B3DE /* TPAppDelegate.h */,
+				52A12E1615BFBD4D0028B3DE /* TPAppDelegate.m */,
+				52A12E1815BFBD4D0028B3DE /* MainStoryboard.storyboard */,
+				52A12E1B15BFBD4D0028B3DE /* TPViewController.h */,
+				52A12E2715BFC0660028B3DE /* StatesViewController.h */,
+				52A12E2815BFC0660028B3DE /* StatesViewController.m */,
+				52C4B09915C10F640082831B /* CitiesViewController.h */,
+				52C4B09A15C10F640082831B /* CitiesViewController.m */,
+				52C4B09B15C10F640082831B /* CitiesViewController.xib */,
+				52A12E2915BFC0660028B3DE /* StatesViewController.xib */,
+				52A12E1C15BFBD4D0028B3DE /* TPViewController.m */,
+				52A12E0D15BFBD4D0028B3DE /* Supporting Files */,
+			);
+			path = UITableViewWithProtocolsAndDelegates;
+			sourceTree = "<group>";
+		};
+		52A12E0D15BFBD4D0028B3DE /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				52A12E0E15BFBD4D0028B3DE /* UITableViewWithProtocolsAndDelegates-Info.plist */,
+				52A12E0F15BFBD4D0028B3DE /* InfoPlist.strings */,
+				52A12E1215BFBD4D0028B3DE /* main.m */,
+				52A12E1415BFBD4D0028B3DE /* UITableViewWithProtocolsAndDelegates-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		52A12E0115BFBD4D0028B3DE /* UITableViewWithProtocolsAndDelegates */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 52A12E2015BFBD4D0028B3DE /* Build configuration list for PBXNativeTarget "UITableViewWithProtocolsAndDelegates" */;
+			buildPhases = (
+				52A12DFE15BFBD4D0028B3DE /* Sources */,
+				52A12DFF15BFBD4D0028B3DE /* Frameworks */,
+				52A12E0015BFBD4D0028B3DE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = UITableViewWithProtocolsAndDelegates;
+			productName = UITableViewWithProtocolsAndDelegates;
+			productReference = 52A12E0215BFBD4D0028B3DE /* UITableViewWithProtocolsAndDelegates.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		52A12DF915BFBD4D0028B3DE /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 52A12DFC15BFBD4D0028B3DE /* Build configuration list for PBXProject "UITableViewWithProtocolsAndDelegates" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 52A12DF715BFBD4D0028B3DE;
+			productRefGroup = 52A12E0315BFBD4D0028B3DE /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				52A12E0115BFBD4D0028B3DE /* UITableViewWithProtocolsAndDelegates */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		52A12E0015BFBD4D0028B3DE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52A12E1115BFBD4D0028B3DE /* InfoPlist.strings in Resources */,
+				52A12E1A15BFBD4D0028B3DE /* MainStoryboard.storyboard in Resources */,
+				52A12E2B15BFC0660028B3DE /* StatesViewController.xib in Resources */,
+				52C4B09D15C10F640082831B /* CitiesViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		52A12DFE15BFBD4D0028B3DE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52A12E1315BFBD4D0028B3DE /* main.m in Sources */,
+				52A12E1715BFBD4D0028B3DE /* TPAppDelegate.m in Sources */,
+				52A12E1D15BFBD4D0028B3DE /* TPViewController.m in Sources */,
+				52A12E2A15BFC0660028B3DE /* StatesViewController.m in Sources */,
+				52C4B09C15C10F640082831B /* CitiesViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		52A12E0F15BFBD4D0028B3DE /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52A12E1015BFBD4D0028B3DE /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		52A12E1815BFBD4D0028B3DE /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52A12E1915BFBD4D0028B3DE /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		52A12E1E15BFBD4D0028B3DE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		52A12E1F15BFBD4D0028B3DE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		52A12E2115BFBD4D0028B3DE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "UITableViewWithProtocolsAndDelegates/UITableViewWithProtocolsAndDelegates-Prefix.pch";
+				INFOPLIST_FILE = "UITableViewWithProtocolsAndDelegates/UITableViewWithProtocolsAndDelegates-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		52A12E2215BFBD4D0028B3DE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "UITableViewWithProtocolsAndDelegates/UITableViewWithProtocolsAndDelegates-Prefix.pch";
+				INFOPLIST_FILE = "UITableViewWithProtocolsAndDelegates/UITableViewWithProtocolsAndDelegates-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		52A12DFC15BFBD4D0028B3DE /* Build configuration list for PBXProject "UITableViewWithProtocolsAndDelegates" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52A12E1E15BFBD4D0028B3DE /* Debug */,
+				52A12E1F15BFBD4D0028B3DE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		52A12E2015BFBD4D0028B3DE /* Build configuration list for PBXNativeTarget "UITableViewWithProtocolsAndDelegates" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52A12E2115BFBD4D0028B3DE /* Debug */,
+				52A12E2215BFBD4D0028B3DE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 52A12DF915BFBD4D0028B3DE /* Project object */;
+}

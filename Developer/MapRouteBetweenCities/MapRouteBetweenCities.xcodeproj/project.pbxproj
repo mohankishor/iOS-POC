@@ -1,0 +1,461 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5253953315E3478A00439981 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5253953215E3478A00439981 /* UIKit.framework */; };
+		5253953515E3478A00439981 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5253953415E3478A00439981 /* Foundation.framework */; };
+		5253953715E3478A00439981 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5253953615E3478A00439981 /* CoreGraphics.framework */; };
+		5253953D15E3478A00439981 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5253953B15E3478A00439981 /* InfoPlist.strings */; };
+		5253953F15E3478A00439981 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5253953E15E3478A00439981 /* main.m */; };
+		5253954315E3478A00439981 /* MRAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5253954215E3478A00439981 /* MRAppDelegate.m */; };
+		5253954615E3478A00439981 /* MRViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5253954515E3478A00439981 /* MRViewController.m */; };
+		5253954915E3478A00439981 /* MRViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5253954715E3478A00439981 /* MRViewController.xib */; };
+		5253955415E347DB00439981 /* NSObject+SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = 5253955215E347DB00439981 /* NSObject+SBJSON.m */; };
+		5253955E15E347EE00439981 /* NSString+SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = 5253955515E347EE00439981 /* NSString+SBJSON.m */; };
+		5253955F15E347EE00439981 /* SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = 5253955715E347EE00439981 /* SBJSON.m */; };
+		5253956015E347EE00439981 /* SBJsonBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 5253955915E347EE00439981 /* SBJsonBase.m */; };
+		5253956115E347EE00439981 /* SBJsonParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 5253955B15E347EE00439981 /* SBJsonParser.m */; };
+		5253956215E347EE00439981 /* SBJsonWriter.m in Sources */ = {isa = PBXBuildFile; fileRef = 5253955D15E347EE00439981 /* SBJsonWriter.m */; };
+		5253957615E3482400439981 /* UICGClientGeocoder.m in Sources */ = {isa = PBXBuildFile; fileRef = 5253956515E3482400439981 /* UICGClientGeocoder.m */; };
+		5253957715E3482400439981 /* UICGDirections.m in Sources */ = {isa = PBXBuildFile; fileRef = 5253956715E3482400439981 /* UICGDirections.m */; };
+		5253957815E3482400439981 /* UICGDirectionsOptions.m in Sources */ = {isa = PBXBuildFile; fileRef = 5253956915E3482400439981 /* UICGDirectionsOptions.m */; };
+		5253957915E3482400439981 /* UICGoogleMapsAPI.m in Sources */ = {isa = PBXBuildFile; fileRef = 5253956B15E3482400439981 /* UICGoogleMapsAPI.m */; };
+		5253957A15E3482400439981 /* UICGPolyline.m in Sources */ = {isa = PBXBuildFile; fileRef = 5253956D15E3482400439981 /* UICGPolyline.m */; };
+		5253957B15E3482400439981 /* UICGRoute.m in Sources */ = {isa = PBXBuildFile; fileRef = 5253956F15E3482400439981 /* UICGRoute.m */; };
+		5253957C15E3482400439981 /* UICGStep.m in Sources */ = {isa = PBXBuildFile; fileRef = 5253957115E3482400439981 /* UICGStep.m */; };
+		5253957D15E3482400439981 /* UICRouteAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = 5253957315E3482400439981 /* UICRouteAnnotation.m */; };
+		5253957E15E3482400439981 /* UICRouteOverlayMapView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5253957515E3482400439981 /* UICRouteOverlayMapView.m */; };
+		5253958D15E348B300439981 /* add.png in Resources */ = {isa = PBXBuildFile; fileRef = 5253958515E348B300439981 /* add.png */; };
+		5253958E15E348B300439981 /* api.html in Resources */ = {isa = PBXBuildFile; fileRef = 5253958615E348B300439981 /* api.html */; };
+		5253958F15E348B300439981 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 5253958715E348B300439981 /* Icon.png */; };
+		5253959115E348B300439981 /* list.png in Resources */ = {isa = PBXBuildFile; fileRef = 5253958915E348B300439981 /* list.png */; };
+		5253959215E348B300439981 /* map_pin.png in Resources */ = {isa = PBXBuildFile; fileRef = 5253958A15E348B300439981 /* map_pin.png */; };
+		5253959315E348B300439981 /* remove.png in Resources */ = {isa = PBXBuildFile; fileRef = 5253958B15E348B300439981 /* remove.png */; };
+		5253959415E348B300439981 /* reticle.png in Resources */ = {isa = PBXBuildFile; fileRef = 5253958C15E348B300439981 /* reticle.png */; };
+		5253959615E3495C00439981 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5253959515E3495C00439981 /* CoreLocation.framework */; };
+		5253959815E3496400439981 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5253959715E3496400439981 /* MapKit.framework */; };
+		5253959A15E3498100439981 /* json2.js in Sources */ = {isa = PBXBuildFile; fileRef = 5253959915E3498100439981 /* json2.js */; };
+		5282DCD915E34E4800D5CD0C /* MapDirectionsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5282DCD815E34E4800D5CD0C /* MapDirectionsViewController.m */; };
+		52BFCA3115E62EA9004CAD85 /* WebViewAboutLocation.m in Sources */ = {isa = PBXBuildFile; fileRef = 52BFCA2F15E62EA9004CAD85 /* WebViewAboutLocation.m */; };
+		52BFCA3215E62EA9004CAD85 /* WebViewAboutLocation.xib in Resources */ = {isa = PBXBuildFile; fileRef = 52BFCA3015E62EA9004CAD85 /* WebViewAboutLocation.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		5253952E15E3478A00439981 /* MapRouteBetweenCities.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MapRouteBetweenCities.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5253953215E3478A00439981 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		5253953415E3478A00439981 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		5253953615E3478A00439981 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		5253953A15E3478A00439981 /* MapRouteBetweenCities-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MapRouteBetweenCities-Info.plist"; sourceTree = "<group>"; };
+		5253953C15E3478A00439981 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		5253953E15E3478A00439981 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		5253954015E3478A00439981 /* MapRouteBetweenCities-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MapRouteBetweenCities-Prefix.pch"; sourceTree = "<group>"; };
+		5253954115E3478A00439981 /* MRAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MRAppDelegate.h; sourceTree = "<group>"; };
+		5253954215E3478A00439981 /* MRAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MRAppDelegate.m; sourceTree = "<group>"; };
+		5253954415E3478A00439981 /* MRViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MRViewController.h; sourceTree = "<group>"; };
+		5253954515E3478A00439981 /* MRViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MRViewController.m; sourceTree = "<group>"; };
+		5253954815E3478A00439981 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MRViewController.xib; sourceTree = "<group>"; };
+		5253955015E347C700439981 /* JSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSON.h; sourceTree = "<group>"; };
+		5253955115E347DB00439981 /* NSObject+SBJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+SBJSON.h"; sourceTree = "<group>"; };
+		5253955215E347DB00439981 /* NSObject+SBJSON.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+SBJSON.m"; sourceTree = "<group>"; };
+		5253955315E347DB00439981 /* NSString+SBJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+SBJSON.h"; sourceTree = "<group>"; };
+		5253955515E347EE00439981 /* NSString+SBJSON.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+SBJSON.m"; sourceTree = "<group>"; };
+		5253955615E347EE00439981 /* SBJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJSON.h; sourceTree = "<group>"; };
+		5253955715E347EE00439981 /* SBJSON.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJSON.m; sourceTree = "<group>"; };
+		5253955815E347EE00439981 /* SBJsonBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonBase.h; sourceTree = "<group>"; };
+		5253955915E347EE00439981 /* SBJsonBase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonBase.m; sourceTree = "<group>"; };
+		5253955A15E347EE00439981 /* SBJsonParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonParser.h; sourceTree = "<group>"; };
+		5253955B15E347EE00439981 /* SBJsonParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonParser.m; sourceTree = "<group>"; };
+		5253955C15E347EE00439981 /* SBJsonWriter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonWriter.h; sourceTree = "<group>"; };
+		5253955D15E347EE00439981 /* SBJsonWriter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonWriter.m; sourceTree = "<group>"; };
+		5253956415E3482400439981 /* UICGClientGeocoder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UICGClientGeocoder.h; sourceTree = "<group>"; };
+		5253956515E3482400439981 /* UICGClientGeocoder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UICGClientGeocoder.m; sourceTree = "<group>"; };
+		5253956615E3482400439981 /* UICGDirections.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UICGDirections.h; sourceTree = "<group>"; };
+		5253956715E3482400439981 /* UICGDirections.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UICGDirections.m; sourceTree = "<group>"; };
+		5253956815E3482400439981 /* UICGDirectionsOptions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UICGDirectionsOptions.h; sourceTree = "<group>"; };
+		5253956915E3482400439981 /* UICGDirectionsOptions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UICGDirectionsOptions.m; sourceTree = "<group>"; };
+		5253956A15E3482400439981 /* UICGoogleMapsAPI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UICGoogleMapsAPI.h; sourceTree = "<group>"; };
+		5253956B15E3482400439981 /* UICGoogleMapsAPI.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UICGoogleMapsAPI.m; sourceTree = "<group>"; };
+		5253956C15E3482400439981 /* UICGPolyline.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UICGPolyline.h; sourceTree = "<group>"; };
+		5253956D15E3482400439981 /* UICGPolyline.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UICGPolyline.m; sourceTree = "<group>"; };
+		5253956E15E3482400439981 /* UICGRoute.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UICGRoute.h; sourceTree = "<group>"; };
+		5253956F15E3482400439981 /* UICGRoute.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UICGRoute.m; sourceTree = "<group>"; };
+		5253957015E3482400439981 /* UICGStep.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UICGStep.h; sourceTree = "<group>"; };
+		5253957115E3482400439981 /* UICGStep.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UICGStep.m; sourceTree = "<group>"; };
+		5253957215E3482400439981 /* UICRouteAnnotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UICRouteAnnotation.h; sourceTree = "<group>"; };
+		5253957315E3482400439981 /* UICRouteAnnotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UICRouteAnnotation.m; sourceTree = "<group>"; };
+		5253957415E3482400439981 /* UICRouteOverlayMapView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UICRouteOverlayMapView.h; sourceTree = "<group>"; };
+		5253957515E3482400439981 /* UICRouteOverlayMapView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UICRouteOverlayMapView.m; sourceTree = "<group>"; };
+		5253958515E348B300439981 /* add.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = add.png; sourceTree = "<group>"; };
+		5253958615E348B300439981 /* api.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = api.html; sourceTree = "<group>"; };
+		5253958715E348B300439981 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		5253958915E348B300439981 /* list.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = list.png; sourceTree = "<group>"; };
+		5253958A15E348B300439981 /* map_pin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = map_pin.png; sourceTree = "<group>"; };
+		5253958B15E348B300439981 /* remove.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = remove.png; sourceTree = "<group>"; };
+		5253958C15E348B300439981 /* reticle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = reticle.png; sourceTree = "<group>"; };
+		5253959515E3495C00439981 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		5253959715E3496400439981 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		5253959915E3498100439981 /* json2.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = json2.js; sourceTree = "<group>"; };
+		5282DCD715E34E4800D5CD0C /* MapDirectionsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapDirectionsViewController.h; sourceTree = "<group>"; };
+		5282DCD815E34E4800D5CD0C /* MapDirectionsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapDirectionsViewController.m; sourceTree = "<group>"; };
+		52BFCA2E15E62EA9004CAD85 /* WebViewAboutLocation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebViewAboutLocation.h; sourceTree = "<group>"; };
+		52BFCA2F15E62EA9004CAD85 /* WebViewAboutLocation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebViewAboutLocation.m; sourceTree = "<group>"; };
+		52BFCA3015E62EA9004CAD85 /* WebViewAboutLocation.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WebViewAboutLocation.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5253952B15E3478A00439981 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5253959815E3496400439981 /* MapKit.framework in Frameworks */,
+				5253959615E3495C00439981 /* CoreLocation.framework in Frameworks */,
+				5253953315E3478A00439981 /* UIKit.framework in Frameworks */,
+				5253953515E3478A00439981 /* Foundation.framework in Frameworks */,
+				5253953715E3478A00439981 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5253952315E3478A00439981 = {
+			isa = PBXGroup;
+			children = (
+				5253959715E3496400439981 /* MapKit.framework */,
+				5253959515E3495C00439981 /* CoreLocation.framework */,
+				5253953815E3478A00439981 /* MapRouteBetweenCities */,
+				5253953115E3478A00439981 /* Frameworks */,
+				5253952F15E3478A00439981 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5253952F15E3478A00439981 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5253952E15E3478A00439981 /* MapRouteBetweenCities.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5253953115E3478A00439981 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5253953215E3478A00439981 /* UIKit.framework */,
+				5253953415E3478A00439981 /* Foundation.framework */,
+				5253953615E3478A00439981 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		5253953815E3478A00439981 /* MapRouteBetweenCities */ = {
+			isa = PBXGroup;
+			children = (
+				5253956315E3481400439981 /* Library */,
+				5253954F15E3479900439981 /* JSON */,
+				5253954115E3478A00439981 /* MRAppDelegate.h */,
+				5253954215E3478A00439981 /* MRAppDelegate.m */,
+				5253954415E3478A00439981 /* MRViewController.h */,
+				5253954515E3478A00439981 /* MRViewController.m */,
+				5282DCD715E34E4800D5CD0C /* MapDirectionsViewController.h */,
+				5282DCD815E34E4800D5CD0C /* MapDirectionsViewController.m */,
+				52BFCA2E15E62EA9004CAD85 /* WebViewAboutLocation.h */,
+				52BFCA2F15E62EA9004CAD85 /* WebViewAboutLocation.m */,
+				52BFCA3015E62EA9004CAD85 /* WebViewAboutLocation.xib */,
+				5253954715E3478A00439981 /* MRViewController.xib */,
+				5253958515E348B300439981 /* add.png */,
+				5253959915E3498100439981 /* json2.js */,
+				5253958615E348B300439981 /* api.html */,
+				5253958715E348B300439981 /* Icon.png */,
+				5253958915E348B300439981 /* list.png */,
+				5253958A15E348B300439981 /* map_pin.png */,
+				5253958B15E348B300439981 /* remove.png */,
+				5253958C15E348B300439981 /* reticle.png */,
+				5253953915E3478A00439981 /* Supporting Files */,
+			);
+			path = MapRouteBetweenCities;
+			sourceTree = "<group>";
+		};
+		5253953915E3478A00439981 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				5253953A15E3478A00439981 /* MapRouteBetweenCities-Info.plist */,
+				5253953B15E3478A00439981 /* InfoPlist.strings */,
+				5253953E15E3478A00439981 /* main.m */,
+				5253954015E3478A00439981 /* MapRouteBetweenCities-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		5253954F15E3479900439981 /* JSON */ = {
+			isa = PBXGroup;
+			children = (
+				5253955515E347EE00439981 /* NSString+SBJSON.m */,
+				5253955615E347EE00439981 /* SBJSON.h */,
+				5253955715E347EE00439981 /* SBJSON.m */,
+				5253955815E347EE00439981 /* SBJsonBase.h */,
+				5253955915E347EE00439981 /* SBJsonBase.m */,
+				5253955A15E347EE00439981 /* SBJsonParser.h */,
+				5253955B15E347EE00439981 /* SBJsonParser.m */,
+				5253955C15E347EE00439981 /* SBJsonWriter.h */,
+				5253955D15E347EE00439981 /* SBJsonWriter.m */,
+				5253955115E347DB00439981 /* NSObject+SBJSON.h */,
+				5253955215E347DB00439981 /* NSObject+SBJSON.m */,
+				5253955315E347DB00439981 /* NSString+SBJSON.h */,
+				5253955015E347C700439981 /* JSON.h */,
+			);
+			name = JSON;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		5253956315E3481400439981 /* Library */ = {
+			isa = PBXGroup;
+			children = (
+				5253958415E3485600439981 /* MapKit Extension */,
+				5253958315E3484800439981 /* Google Maps API */,
+			);
+			name = Library;
+			sourceTree = "<group>";
+		};
+		5253958315E3484800439981 /* Google Maps API */ = {
+			isa = PBXGroup;
+			children = (
+				5253956415E3482400439981 /* UICGClientGeocoder.h */,
+				5253956515E3482400439981 /* UICGClientGeocoder.m */,
+				5253956615E3482400439981 /* UICGDirections.h */,
+				5253956715E3482400439981 /* UICGDirections.m */,
+				5253956815E3482400439981 /* UICGDirectionsOptions.h */,
+				5253956915E3482400439981 /* UICGDirectionsOptions.m */,
+				5253956A15E3482400439981 /* UICGoogleMapsAPI.h */,
+				5253956B15E3482400439981 /* UICGoogleMapsAPI.m */,
+				5253956C15E3482400439981 /* UICGPolyline.h */,
+				5253956D15E3482400439981 /* UICGPolyline.m */,
+				5253956E15E3482400439981 /* UICGRoute.h */,
+				5253956F15E3482400439981 /* UICGRoute.m */,
+				5253957015E3482400439981 /* UICGStep.h */,
+				5253957115E3482400439981 /* UICGStep.m */,
+			);
+			name = "Google Maps API";
+			sourceTree = "<group>";
+		};
+		5253958415E3485600439981 /* MapKit Extension */ = {
+			isa = PBXGroup;
+			children = (
+				5253957215E3482400439981 /* UICRouteAnnotation.h */,
+				5253957315E3482400439981 /* UICRouteAnnotation.m */,
+				5253957415E3482400439981 /* UICRouteOverlayMapView.h */,
+				5253957515E3482400439981 /* UICRouteOverlayMapView.m */,
+			);
+			name = "MapKit Extension";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5253952D15E3478A00439981 /* MapRouteBetweenCities */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5253954C15E3478A00439981 /* Build configuration list for PBXNativeTarget "MapRouteBetweenCities" */;
+			buildPhases = (
+				5253952A15E3478A00439981 /* Sources */,
+				5253952B15E3478A00439981 /* Frameworks */,
+				5253952C15E3478A00439981 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MapRouteBetweenCities;
+			productName = MapRouteBetweenCities;
+			productReference = 5253952E15E3478A00439981 /* MapRouteBetweenCities.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5253952515E3478A00439981 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 5253952815E3478A00439981 /* Build configuration list for PBXProject "MapRouteBetweenCities" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 5253952315E3478A00439981;
+			productRefGroup = 5253952F15E3478A00439981 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5253952D15E3478A00439981 /* MapRouteBetweenCities */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5253952C15E3478A00439981 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5253953D15E3478A00439981 /* InfoPlist.strings in Resources */,
+				5253954915E3478A00439981 /* MRViewController.xib in Resources */,
+				5253958D15E348B300439981 /* add.png in Resources */,
+				5253958E15E348B300439981 /* api.html in Resources */,
+				5253958F15E348B300439981 /* Icon.png in Resources */,
+				5253959115E348B300439981 /* list.png in Resources */,
+				5253959215E348B300439981 /* map_pin.png in Resources */,
+				5253959315E348B300439981 /* remove.png in Resources */,
+				5253959415E348B300439981 /* reticle.png in Resources */,
+				52BFCA3215E62EA9004CAD85 /* WebViewAboutLocation.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5253952A15E3478A00439981 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5253953F15E3478A00439981 /* main.m in Sources */,
+				5253954315E3478A00439981 /* MRAppDelegate.m in Sources */,
+				5253954615E3478A00439981 /* MRViewController.m in Sources */,
+				5253955415E347DB00439981 /* NSObject+SBJSON.m in Sources */,
+				5253955E15E347EE00439981 /* NSString+SBJSON.m in Sources */,
+				5253955F15E347EE00439981 /* SBJSON.m in Sources */,
+				5253956015E347EE00439981 /* SBJsonBase.m in Sources */,
+				5253956115E347EE00439981 /* SBJsonParser.m in Sources */,
+				5253956215E347EE00439981 /* SBJsonWriter.m in Sources */,
+				5253957615E3482400439981 /* UICGClientGeocoder.m in Sources */,
+				5253957715E3482400439981 /* UICGDirections.m in Sources */,
+				5253957815E3482400439981 /* UICGDirectionsOptions.m in Sources */,
+				5253957915E3482400439981 /* UICGoogleMapsAPI.m in Sources */,
+				5253957A15E3482400439981 /* UICGPolyline.m in Sources */,
+				5253957B15E3482400439981 /* UICGRoute.m in Sources */,
+				5253957C15E3482400439981 /* UICGStep.m in Sources */,
+				5253957D15E3482400439981 /* UICRouteAnnotation.m in Sources */,
+				5253957E15E3482400439981 /* UICRouteOverlayMapView.m in Sources */,
+				5253959A15E3498100439981 /* json2.js in Sources */,
+				5282DCD915E34E4800D5CD0C /* MapDirectionsViewController.m in Sources */,
+				52BFCA3115E62EA9004CAD85 /* WebViewAboutLocation.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		5253953B15E3478A00439981 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5253953C15E3478A00439981 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		5253954715E3478A00439981 /* MRViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5253954815E3478A00439981 /* en */,
+			);
+			name = MRViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		5253954A15E3478A00439981 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		5253954B15E3478A00439981 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5253954D15E3478A00439981 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MapRouteBetweenCities/MapRouteBetweenCities-Prefix.pch";
+				INFOPLIST_FILE = "MapRouteBetweenCities/MapRouteBetweenCities-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		5253954E15E3478A00439981 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MapRouteBetweenCities/MapRouteBetweenCities-Prefix.pch";
+				INFOPLIST_FILE = "MapRouteBetweenCities/MapRouteBetweenCities-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5253952815E3478A00439981 /* Build configuration list for PBXProject "MapRouteBetweenCities" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5253954A15E3478A00439981 /* Debug */,
+				5253954B15E3478A00439981 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5253954C15E3478A00439981 /* Build configuration list for PBXNativeTarget "MapRouteBetweenCities" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5253954D15E3478A00439981 /* Debug */,
+				5253954E15E3478A00439981 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5253952515E3478A00439981 /* Project object */;
+}

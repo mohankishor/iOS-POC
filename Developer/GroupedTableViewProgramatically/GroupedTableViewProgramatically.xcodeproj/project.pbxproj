@@ -1,0 +1,282 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		52FBE25715BD7A3F00767587 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52FBE25615BD7A3F00767587 /* UIKit.framework */; };
+		52FBE25915BD7A3F00767587 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52FBE25815BD7A3F00767587 /* Foundation.framework */; };
+		52FBE25B15BD7A3F00767587 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52FBE25A15BD7A3F00767587 /* CoreGraphics.framework */; };
+		52FBE26115BD7A3F00767587 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 52FBE25F15BD7A3F00767587 /* InfoPlist.strings */; };
+		52FBE26315BD7A3F00767587 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 52FBE26215BD7A3F00767587 /* main.m */; };
+		52FBE26715BD7A3F00767587 /* GTAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 52FBE26615BD7A3F00767587 /* GTAppDelegate.m */; };
+		52FBE26A15BD7A3F00767587 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52FBE26815BD7A3F00767587 /* MainStoryboard.storyboard */; };
+		52FBE26D15BD7A3F00767587 /* GTViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 52FBE26C15BD7A3F00767587 /* GTViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		52FBE25215BD7A3F00767587 /* GroupedTableViewProgramatically.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GroupedTableViewProgramatically.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		52FBE25615BD7A3F00767587 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		52FBE25815BD7A3F00767587 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		52FBE25A15BD7A3F00767587 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		52FBE25E15BD7A3F00767587 /* GroupedTableViewProgramatically-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GroupedTableViewProgramatically-Info.plist"; sourceTree = "<group>"; };
+		52FBE26015BD7A3F00767587 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		52FBE26215BD7A3F00767587 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		52FBE26415BD7A3F00767587 /* GroupedTableViewProgramatically-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "GroupedTableViewProgramatically-Prefix.pch"; sourceTree = "<group>"; };
+		52FBE26515BD7A3F00767587 /* GTAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GTAppDelegate.h; sourceTree = "<group>"; };
+		52FBE26615BD7A3F00767587 /* GTAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GTAppDelegate.m; sourceTree = "<group>"; };
+		52FBE26915BD7A3F00767587 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		52FBE26B15BD7A3F00767587 /* GTViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GTViewController.h; sourceTree = "<group>"; };
+		52FBE26C15BD7A3F00767587 /* GTViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GTViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		52FBE24F15BD7A3F00767587 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52FBE25715BD7A3F00767587 /* UIKit.framework in Frameworks */,
+				52FBE25915BD7A3F00767587 /* Foundation.framework in Frameworks */,
+				52FBE25B15BD7A3F00767587 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		52FBE24715BD7A3F00767587 = {
+			isa = PBXGroup;
+			children = (
+				52FBE25C15BD7A3F00767587 /* GroupedTableViewProgramatically */,
+				52FBE25515BD7A3F00767587 /* Frameworks */,
+				52FBE25315BD7A3F00767587 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		52FBE25315BD7A3F00767587 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				52FBE25215BD7A3F00767587 /* GroupedTableViewProgramatically.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		52FBE25515BD7A3F00767587 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				52FBE25615BD7A3F00767587 /* UIKit.framework */,
+				52FBE25815BD7A3F00767587 /* Foundation.framework */,
+				52FBE25A15BD7A3F00767587 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		52FBE25C15BD7A3F00767587 /* GroupedTableViewProgramatically */ = {
+			isa = PBXGroup;
+			children = (
+				52FBE26515BD7A3F00767587 /* GTAppDelegate.h */,
+				52FBE26615BD7A3F00767587 /* GTAppDelegate.m */,
+				52FBE26815BD7A3F00767587 /* MainStoryboard.storyboard */,
+				52FBE26B15BD7A3F00767587 /* GTViewController.h */,
+				52FBE26C15BD7A3F00767587 /* GTViewController.m */,
+				52FBE25D15BD7A3F00767587 /* Supporting Files */,
+			);
+			path = GroupedTableViewProgramatically;
+			sourceTree = "<group>";
+		};
+		52FBE25D15BD7A3F00767587 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				52FBE25E15BD7A3F00767587 /* GroupedTableViewProgramatically-Info.plist */,
+				52FBE25F15BD7A3F00767587 /* InfoPlist.strings */,
+				52FBE26215BD7A3F00767587 /* main.m */,
+				52FBE26415BD7A3F00767587 /* GroupedTableViewProgramatically-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		52FBE25115BD7A3F00767587 /* GroupedTableViewProgramatically */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 52FBE27015BD7A3F00767587 /* Build configuration list for PBXNativeTarget "GroupedTableViewProgramatically" */;
+			buildPhases = (
+				52FBE24E15BD7A3F00767587 /* Sources */,
+				52FBE24F15BD7A3F00767587 /* Frameworks */,
+				52FBE25015BD7A3F00767587 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = GroupedTableViewProgramatically;
+			productName = GroupedTableViewProgramatically;
+			productReference = 52FBE25215BD7A3F00767587 /* GroupedTableViewProgramatically.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		52FBE24915BD7A3F00767587 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 52FBE24C15BD7A3F00767587 /* Build configuration list for PBXProject "GroupedTableViewProgramatically" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 52FBE24715BD7A3F00767587;
+			productRefGroup = 52FBE25315BD7A3F00767587 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				52FBE25115BD7A3F00767587 /* GroupedTableViewProgramatically */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		52FBE25015BD7A3F00767587 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52FBE26115BD7A3F00767587 /* InfoPlist.strings in Resources */,
+				52FBE26A15BD7A3F00767587 /* MainStoryboard.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		52FBE24E15BD7A3F00767587 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52FBE26315BD7A3F00767587 /* main.m in Sources */,
+				52FBE26715BD7A3F00767587 /* GTAppDelegate.m in Sources */,
+				52FBE26D15BD7A3F00767587 /* GTViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		52FBE25F15BD7A3F00767587 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52FBE26015BD7A3F00767587 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		52FBE26815BD7A3F00767587 /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52FBE26915BD7A3F00767587 /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		52FBE26E15BD7A3F00767587 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		52FBE26F15BD7A3F00767587 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		52FBE27115BD7A3F00767587 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "GroupedTableViewProgramatically/GroupedTableViewProgramatically-Prefix.pch";
+				INFOPLIST_FILE = "GroupedTableViewProgramatically/GroupedTableViewProgramatically-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		52FBE27215BD7A3F00767587 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "GroupedTableViewProgramatically/GroupedTableViewProgramatically-Prefix.pch";
+				INFOPLIST_FILE = "GroupedTableViewProgramatically/GroupedTableViewProgramatically-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		52FBE24C15BD7A3F00767587 /* Build configuration list for PBXProject "GroupedTableViewProgramatically" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52FBE26E15BD7A3F00767587 /* Debug */,
+				52FBE26F15BD7A3F00767587 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		52FBE27015BD7A3F00767587 /* Build configuration list for PBXNativeTarget "GroupedTableViewProgramatically" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52FBE27115BD7A3F00767587 /* Debug */,
+				52FBE27215BD7A3F00767587 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 52FBE24915BD7A3F00767587 /* Project object */;
+}

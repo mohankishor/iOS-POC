@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="1.0" toolsVersion="1938" systemVersion="10K549" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" initialViewController="2">
+    <dependencies>
+        <development defaultVersion="4200" identifier="xcode"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="933"/>
+    </dependencies>
+    <scenes>
+        <scene sceneID="5">
+            <objects>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="4" sceneMemberID="firstResponder"/>
+                <viewController id="2" customClass="GHViewController" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="3">
+                        <rect key="frame" x="0.0" y="20" width="320" height="460"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <gestureRecognizers/>
+                        <connections>
+                            <outletCollection property="gestureRecognizers" destination="t4T-ZN-o6l" appends="YES" id="rQQ-eT-mSu"/>
+                            <outletCollection property="gestureRecognizers" destination="xur-9J-isT" appends="YES" id="8Bw-sh-igu"/>
+                            <outletCollection property="gestureRecognizers" destination="FdO-G0-sRb" appends="YES" id="Zmm-wE-8gN"/>
+                        </connections>
+                    </view>
+                </viewController>
+                <tapGestureRecognizer id="t4T-ZN-o6l">
+                    <connections>
+                        <action selector="handleTapGestureRecognizer:" destination="2" id="a4k-rE-0g0"/>
+                    </connections>
+                </tapGestureRecognizer>
+                <swipeGestureRecognizer direction="right" id="xur-9J-isT">
+                    <connections>
+                        <action selector="handleSwipeGestureRecognizer:" destination="2" id="Hpd-DP-iVT"/>
+                    </connections>
+                </swipeGestureRecognizer>
+                <pinchGestureRecognizer id="FdO-G0-sRb">
+                    <connections>
+                        <action selector="handlePinchGestureRecognizer:" destination="2" id="7wj-am-5hS"/>
+                    </connections>
+                </pinchGestureRecognizer>
+            </objects>
+        </scene>
+    </scenes>
+    <classes>
+        <class className="GHViewController" superclassName="UIViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/GHViewController.h"/>
+            <relationships>
+                <relationship kind="action" name="handlePinchGestureRecognizer:" candidateClass="UIPinchGestureRecognizer"/>
+                <relationship kind="action" name="handleSwipeGestureRecognizer:" candidateClass="UISwipeGestureRecognizer"/>
+                <relationship kind="action" name="handleTapGestureRecognizer:" candidateClass="UITapGestureRecognizer"/>
+                <relationship kind="outlet" name="myLabel" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="pinchRecognizer" candidateClass="UIPinchGestureRecognizer"/>
+                <relationship kind="outlet" name="swipeRecognizer" candidateClass="UISwipeGestureRecognizer"/>
+                <relationship kind="outlet" name="tapRecognizer" candidateClass="UITapGestureRecognizer"/>
+            </relationships>
+        </class>
+    </classes>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination"/>
+    </simulatedMetricsContainer>
+</document>

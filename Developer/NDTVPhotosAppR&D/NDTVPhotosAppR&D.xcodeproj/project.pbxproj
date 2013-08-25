@@ -1,0 +1,311 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		52D93CE1161D63AA00E15130 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52D93CE0161D63AA00E15130 /* UIKit.framework */; };
+		52D93CE3161D63AA00E15130 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52D93CE2161D63AA00E15130 /* Foundation.framework */; };
+		52D93CE5161D63AA00E15130 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52D93CE4161D63AA00E15130 /* CoreGraphics.framework */; };
+		52D93CEB161D63AA00E15130 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 52D93CE9161D63AA00E15130 /* InfoPlist.strings */; };
+		52D93CED161D63AA00E15130 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 52D93CEC161D63AA00E15130 /* main.m */; };
+		52D93CF1161D63AA00E15130 /* NPAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 52D93CF0161D63AA00E15130 /* NPAppDelegate.m */; };
+		52D93CF4161D63AA00E15130 /* NPViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 52D93CF3161D63AA00E15130 /* NPViewController.m */; };
+		52D93CF7161D63AA00E15130 /* NPViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 52D93CF5161D63AA00E15130 /* NPViewController.xib */; };
+		52D93D02161D64AE00E15130 /* tiger.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 52D93D01161D64AE00E15130 /* tiger.jpeg */; };
+		52D93D04161D655D00E15130 /* black.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 52D93D03161D655D00E15130 /* black.jpeg */; };
+		52D93D08161D69C300E15130 /* NPPhotoShootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 52D93D06161D69C300E15130 /* NPPhotoShootViewController.m */; };
+		52D93D09161D69C300E15130 /* NPPhotoShootViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 52D93D07161D69C300E15130 /* NPPhotoShootViewController.xib */; };
+		52D93D0B161D6FBE00E15130 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52D93D0A161D6FBE00E15130 /* MobileCoreServices.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		52D93CDC161D63AA00E15130 /* NDTVPhotosAppR&D.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "NDTVPhotosAppR&D.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		52D93CE0161D63AA00E15130 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		52D93CE2161D63AA00E15130 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		52D93CE4161D63AA00E15130 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		52D93CE8161D63AA00E15130 /* NDTVPhotosAppR&D-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "NDTVPhotosAppR&D-Info.plist"; sourceTree = "<group>"; };
+		52D93CEA161D63AA00E15130 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		52D93CEC161D63AA00E15130 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		52D93CEE161D63AA00E15130 /* NDTVPhotosAppR&D-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NDTVPhotosAppR&D-Prefix.pch"; sourceTree = "<group>"; };
+		52D93CEF161D63AA00E15130 /* NPAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NPAppDelegate.h; sourceTree = "<group>"; };
+		52D93CF0161D63AA00E15130 /* NPAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NPAppDelegate.m; sourceTree = "<group>"; };
+		52D93CF2161D63AA00E15130 /* NPViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NPViewController.h; sourceTree = "<group>"; };
+		52D93CF3161D63AA00E15130 /* NPViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NPViewController.m; sourceTree = "<group>"; };
+		52D93CF6161D63AA00E15130 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/NPViewController.xib; sourceTree = "<group>"; };
+		52D93D01161D64AE00E15130 /* tiger.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tiger.jpeg; sourceTree = "<group>"; };
+		52D93D03161D655D00E15130 /* black.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = black.jpeg; sourceTree = "<group>"; };
+		52D93D05161D69C300E15130 /* NPPhotoShootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NPPhotoShootViewController.h; sourceTree = "<group>"; };
+		52D93D06161D69C300E15130 /* NPPhotoShootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NPPhotoShootViewController.m; sourceTree = "<group>"; };
+		52D93D07161D69C300E15130 /* NPPhotoShootViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NPPhotoShootViewController.xib; sourceTree = "<group>"; };
+		52D93D0A161D6FBE00E15130 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		52D93CD9161D63AA00E15130 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52D93D0B161D6FBE00E15130 /* MobileCoreServices.framework in Frameworks */,
+				52D93CE1161D63AA00E15130 /* UIKit.framework in Frameworks */,
+				52D93CE3161D63AA00E15130 /* Foundation.framework in Frameworks */,
+				52D93CE5161D63AA00E15130 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		52D93CD1161D63AA00E15130 = {
+			isa = PBXGroup;
+			children = (
+				52D93CE6161D63AA00E15130 /* NDTVPhotosAppR&D */,
+				52D93CDF161D63AA00E15130 /* Frameworks */,
+				52D93CDD161D63AA00E15130 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		52D93CDD161D63AA00E15130 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				52D93CDC161D63AA00E15130 /* NDTVPhotosAppR&D.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		52D93CDF161D63AA00E15130 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				52D93D0A161D6FBE00E15130 /* MobileCoreServices.framework */,
+				52D93CE0161D63AA00E15130 /* UIKit.framework */,
+				52D93CE2161D63AA00E15130 /* Foundation.framework */,
+				52D93CE4161D63AA00E15130 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		52D93CE6161D63AA00E15130 /* NDTVPhotosAppR&D */ = {
+			isa = PBXGroup;
+			children = (
+				52D93CEF161D63AA00E15130 /* NPAppDelegate.h */,
+				52D93CF0161D63AA00E15130 /* NPAppDelegate.m */,
+				52D93D01161D64AE00E15130 /* tiger.jpeg */,
+				52D93D03161D655D00E15130 /* black.jpeg */,
+				52D93CF2161D63AA00E15130 /* NPViewController.h */,
+				52D93CF3161D63AA00E15130 /* NPViewController.m */,
+				52D93CF5161D63AA00E15130 /* NPViewController.xib */,
+				52D93D05161D69C300E15130 /* NPPhotoShootViewController.h */,
+				52D93D06161D69C300E15130 /* NPPhotoShootViewController.m */,
+				52D93D07161D69C300E15130 /* NPPhotoShootViewController.xib */,
+				52D93CE7161D63AA00E15130 /* Supporting Files */,
+			);
+			path = "NDTVPhotosAppR&D";
+			sourceTree = "<group>";
+		};
+		52D93CE7161D63AA00E15130 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				52D93CE8161D63AA00E15130 /* NDTVPhotosAppR&D-Info.plist */,
+				52D93CE9161D63AA00E15130 /* InfoPlist.strings */,
+				52D93CEC161D63AA00E15130 /* main.m */,
+				52D93CEE161D63AA00E15130 /* NDTVPhotosAppR&D-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		52D93CDB161D63AA00E15130 /* NDTVPhotosAppR&D */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 52D93CFA161D63AA00E15130 /* Build configuration list for PBXNativeTarget "NDTVPhotosAppR&D" */;
+			buildPhases = (
+				52D93CD8161D63AA00E15130 /* Sources */,
+				52D93CD9161D63AA00E15130 /* Frameworks */,
+				52D93CDA161D63AA00E15130 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "NDTVPhotosAppR&D";
+			productName = "NDTVPhotosAppR&D";
+			productReference = 52D93CDC161D63AA00E15130 /* NDTVPhotosAppR&D.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		52D93CD3161D63AA00E15130 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 52D93CD6161D63AA00E15130 /* Build configuration list for PBXProject "NDTVPhotosAppR&D" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 52D93CD1161D63AA00E15130;
+			productRefGroup = 52D93CDD161D63AA00E15130 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				52D93CDB161D63AA00E15130 /* NDTVPhotosAppR&D */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		52D93CDA161D63AA00E15130 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52D93CEB161D63AA00E15130 /* InfoPlist.strings in Resources */,
+				52D93CF7161D63AA00E15130 /* NPViewController.xib in Resources */,
+				52D93D02161D64AE00E15130 /* tiger.jpeg in Resources */,
+				52D93D04161D655D00E15130 /* black.jpeg in Resources */,
+				52D93D09161D69C300E15130 /* NPPhotoShootViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		52D93CD8161D63AA00E15130 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52D93CED161D63AA00E15130 /* main.m in Sources */,
+				52D93CF1161D63AA00E15130 /* NPAppDelegate.m in Sources */,
+				52D93CF4161D63AA00E15130 /* NPViewController.m in Sources */,
+				52D93D08161D69C300E15130 /* NPPhotoShootViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		52D93CE9161D63AA00E15130 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52D93CEA161D63AA00E15130 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		52D93CF5161D63AA00E15130 /* NPViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52D93CF6161D63AA00E15130 /* en */,
+			);
+			name = NPViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		52D93CF8161D63AA00E15130 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		52D93CF9161D63AA00E15130 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		52D93CFB161D63AA00E15130 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Rohit Singal (UGQKS7R3ZE)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Rohit Singal (UGQKS7R3ZE)";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "NDTVPhotosAppR&D/NDTVPhotosAppR&D-Prefix.pch";
+				INFOPLIST_FILE = "NDTVPhotosAppR&D/NDTVPhotosAppR&D-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "0A9812D8-8522-46CA-9E8A-D5CC0B0A1D5E";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "0A9812D8-8522-46CA-9E8A-D5CC0B0A1D5E";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		52D93CFC161D63AA00E15130 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Rohit Singal (UGQKS7R3ZE)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Rohit Singal (UGQKS7R3ZE)";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "NDTVPhotosAppR&D/NDTVPhotosAppR&D-Prefix.pch";
+				INFOPLIST_FILE = "NDTVPhotosAppR&D/NDTVPhotosAppR&D-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "0A9812D8-8522-46CA-9E8A-D5CC0B0A1D5E";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "0A9812D8-8522-46CA-9E8A-D5CC0B0A1D5E";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		52D93CD6161D63AA00E15130 /* Build configuration list for PBXProject "NDTVPhotosAppR&D" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52D93CF8161D63AA00E15130 /* Debug */,
+				52D93CF9161D63AA00E15130 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		52D93CFA161D63AA00E15130 /* Build configuration list for PBXNativeTarget "NDTVPhotosAppR&D" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52D93CFB161D63AA00E15130 /* Debug */,
+				52D93CFC161D63AA00E15130 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 52D93CD3161D63AA00E15130 /* Project object */;
+}

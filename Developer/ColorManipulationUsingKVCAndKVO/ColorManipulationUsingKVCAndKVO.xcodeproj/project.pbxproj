@@ -1,0 +1,282 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		522010B715BFE1880010BA67 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 522010B615BFE1880010BA67 /* UIKit.framework */; };
+		522010B915BFE1880010BA67 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 522010B815BFE1880010BA67 /* Foundation.framework */; };
+		522010BB15BFE1880010BA67 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 522010BA15BFE1880010BA67 /* CoreGraphics.framework */; };
+		522010C115BFE1880010BA67 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 522010BF15BFE1880010BA67 /* InfoPlist.strings */; };
+		522010C315BFE1880010BA67 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 522010C215BFE1880010BA67 /* main.m */; };
+		522010C715BFE1880010BA67 /* CMAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 522010C615BFE1880010BA67 /* CMAppDelegate.m */; };
+		522010CA15BFE1880010BA67 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 522010C815BFE1880010BA67 /* MainStoryboard.storyboard */; };
+		522010CD15BFE1880010BA67 /* CMViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 522010CC15BFE1880010BA67 /* CMViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		522010B215BFE1880010BA67 /* ColorManipulationUsingKVCAndKVO.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ColorManipulationUsingKVCAndKVO.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		522010B615BFE1880010BA67 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		522010B815BFE1880010BA67 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		522010BA15BFE1880010BA67 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		522010BE15BFE1880010BA67 /* ColorManipulationUsingKVCAndKVO-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ColorManipulationUsingKVCAndKVO-Info.plist"; sourceTree = "<group>"; };
+		522010C015BFE1880010BA67 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		522010C215BFE1880010BA67 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		522010C415BFE1880010BA67 /* ColorManipulationUsingKVCAndKVO-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ColorManipulationUsingKVCAndKVO-Prefix.pch"; sourceTree = "<group>"; };
+		522010C515BFE1880010BA67 /* CMAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CMAppDelegate.h; sourceTree = "<group>"; };
+		522010C615BFE1880010BA67 /* CMAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CMAppDelegate.m; sourceTree = "<group>"; };
+		522010C915BFE1880010BA67 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		522010CB15BFE1880010BA67 /* CMViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CMViewController.h; sourceTree = "<group>"; };
+		522010CC15BFE1880010BA67 /* CMViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CMViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		522010AF15BFE1880010BA67 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				522010B715BFE1880010BA67 /* UIKit.framework in Frameworks */,
+				522010B915BFE1880010BA67 /* Foundation.framework in Frameworks */,
+				522010BB15BFE1880010BA67 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		522010A715BFE1880010BA67 = {
+			isa = PBXGroup;
+			children = (
+				522010BC15BFE1880010BA67 /* ColorManipulationUsingKVCAndKVO */,
+				522010B515BFE1880010BA67 /* Frameworks */,
+				522010B315BFE1880010BA67 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		522010B315BFE1880010BA67 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				522010B215BFE1880010BA67 /* ColorManipulationUsingKVCAndKVO.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		522010B515BFE1880010BA67 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				522010B615BFE1880010BA67 /* UIKit.framework */,
+				522010B815BFE1880010BA67 /* Foundation.framework */,
+				522010BA15BFE1880010BA67 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		522010BC15BFE1880010BA67 /* ColorManipulationUsingKVCAndKVO */ = {
+			isa = PBXGroup;
+			children = (
+				522010C515BFE1880010BA67 /* CMAppDelegate.h */,
+				522010C615BFE1880010BA67 /* CMAppDelegate.m */,
+				522010C815BFE1880010BA67 /* MainStoryboard.storyboard */,
+				522010CB15BFE1880010BA67 /* CMViewController.h */,
+				522010CC15BFE1880010BA67 /* CMViewController.m */,
+				522010BD15BFE1880010BA67 /* Supporting Files */,
+			);
+			path = ColorManipulationUsingKVCAndKVO;
+			sourceTree = "<group>";
+		};
+		522010BD15BFE1880010BA67 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				522010BE15BFE1880010BA67 /* ColorManipulationUsingKVCAndKVO-Info.plist */,
+				522010BF15BFE1880010BA67 /* InfoPlist.strings */,
+				522010C215BFE1880010BA67 /* main.m */,
+				522010C415BFE1880010BA67 /* ColorManipulationUsingKVCAndKVO-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		522010B115BFE1880010BA67 /* ColorManipulationUsingKVCAndKVO */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 522010D015BFE1880010BA67 /* Build configuration list for PBXNativeTarget "ColorManipulationUsingKVCAndKVO" */;
+			buildPhases = (
+				522010AE15BFE1880010BA67 /* Sources */,
+				522010AF15BFE1880010BA67 /* Frameworks */,
+				522010B015BFE1880010BA67 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ColorManipulationUsingKVCAndKVO;
+			productName = ColorManipulationUsingKVCAndKVO;
+			productReference = 522010B215BFE1880010BA67 /* ColorManipulationUsingKVCAndKVO.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		522010A915BFE1880010BA67 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 522010AC15BFE1880010BA67 /* Build configuration list for PBXProject "ColorManipulationUsingKVCAndKVO" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 522010A715BFE1880010BA67;
+			productRefGroup = 522010B315BFE1880010BA67 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				522010B115BFE1880010BA67 /* ColorManipulationUsingKVCAndKVO */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		522010B015BFE1880010BA67 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				522010C115BFE1880010BA67 /* InfoPlist.strings in Resources */,
+				522010CA15BFE1880010BA67 /* MainStoryboard.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		522010AE15BFE1880010BA67 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				522010C315BFE1880010BA67 /* main.m in Sources */,
+				522010C715BFE1880010BA67 /* CMAppDelegate.m in Sources */,
+				522010CD15BFE1880010BA67 /* CMViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		522010BF15BFE1880010BA67 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				522010C015BFE1880010BA67 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		522010C815BFE1880010BA67 /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				522010C915BFE1880010BA67 /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		522010CE15BFE1880010BA67 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		522010CF15BFE1880010BA67 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		522010D115BFE1880010BA67 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ColorManipulationUsingKVCAndKVO/ColorManipulationUsingKVCAndKVO-Prefix.pch";
+				INFOPLIST_FILE = "ColorManipulationUsingKVCAndKVO/ColorManipulationUsingKVCAndKVO-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		522010D215BFE1880010BA67 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ColorManipulationUsingKVCAndKVO/ColorManipulationUsingKVCAndKVO-Prefix.pch";
+				INFOPLIST_FILE = "ColorManipulationUsingKVCAndKVO/ColorManipulationUsingKVCAndKVO-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		522010AC15BFE1880010BA67 /* Build configuration list for PBXProject "ColorManipulationUsingKVCAndKVO" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				522010CE15BFE1880010BA67 /* Debug */,
+				522010CF15BFE1880010BA67 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		522010D015BFE1880010BA67 /* Build configuration list for PBXNativeTarget "ColorManipulationUsingKVCAndKVO" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				522010D115BFE1880010BA67 /* Debug */,
+				522010D215BFE1880010BA67 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 522010A915BFE1880010BA67 /* Project object */;
+}

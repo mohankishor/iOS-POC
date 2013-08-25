@@ -1,0 +1,281 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		52CFAD4F15C2C17900AF9BDE /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52CFAD4E15C2C17900AF9BDE /* UIKit.framework */; };
+		52CFAD5115C2C17900AF9BDE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52CFAD5015C2C17900AF9BDE /* Foundation.framework */; };
+		52CFAD5315C2C17900AF9BDE /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52CFAD5215C2C17900AF9BDE /* CoreGraphics.framework */; };
+		52CFAD5915C2C17900AF9BDE /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 52CFAD5715C2C17900AF9BDE /* InfoPlist.strings */; };
+		52CFAD5B15C2C17900AF9BDE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 52CFAD5A15C2C17900AF9BDE /* main.m */; };
+		52CFAD5F15C2C17900AF9BDE /* PickImageAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 52CFAD5E15C2C17900AF9BDE /* PickImageAppDelegate.m */; };
+		52CFAD6215C2C17900AF9BDE /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52CFAD6015C2C17900AF9BDE /* MainStoryboard.storyboard */; };
+		52CFAD6515C2C17900AF9BDE /* PickImageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 52CFAD6415C2C17900AF9BDE /* PickImageViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		52CFAD4A15C2C17900AF9BDE /* PickImage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PickImage.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		52CFAD4E15C2C17900AF9BDE /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		52CFAD5015C2C17900AF9BDE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		52CFAD5215C2C17900AF9BDE /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		52CFAD5615C2C17900AF9BDE /* PickImage-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PickImage-Info.plist"; sourceTree = "<group>"; };
+		52CFAD5815C2C17900AF9BDE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		52CFAD5A15C2C17900AF9BDE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		52CFAD5C15C2C17900AF9BDE /* PickImage-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "PickImage-Prefix.pch"; sourceTree = "<group>"; };
+		52CFAD5D15C2C17900AF9BDE /* PickImageAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PickImageAppDelegate.h; sourceTree = "<group>"; };
+		52CFAD5E15C2C17900AF9BDE /* PickImageAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PickImageAppDelegate.m; sourceTree = "<group>"; };
+		52CFAD6115C2C17900AF9BDE /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		52CFAD6315C2C17900AF9BDE /* PickImageViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PickImageViewController.h; sourceTree = "<group>"; };
+		52CFAD6415C2C17900AF9BDE /* PickImageViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PickImageViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		52CFAD4715C2C17900AF9BDE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52CFAD4F15C2C17900AF9BDE /* UIKit.framework in Frameworks */,
+				52CFAD5115C2C17900AF9BDE /* Foundation.framework in Frameworks */,
+				52CFAD5315C2C17900AF9BDE /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		52CFAD3F15C2C17900AF9BDE = {
+			isa = PBXGroup;
+			children = (
+				52CFAD5415C2C17900AF9BDE /* PickImage */,
+				52CFAD4D15C2C17900AF9BDE /* Frameworks */,
+				52CFAD4B15C2C17900AF9BDE /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		52CFAD4B15C2C17900AF9BDE /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				52CFAD4A15C2C17900AF9BDE /* PickImage.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		52CFAD4D15C2C17900AF9BDE /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				52CFAD4E15C2C17900AF9BDE /* UIKit.framework */,
+				52CFAD5015C2C17900AF9BDE /* Foundation.framework */,
+				52CFAD5215C2C17900AF9BDE /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		52CFAD5415C2C17900AF9BDE /* PickImage */ = {
+			isa = PBXGroup;
+			children = (
+				52CFAD5D15C2C17900AF9BDE /* PickImageAppDelegate.h */,
+				52CFAD5E15C2C17900AF9BDE /* PickImageAppDelegate.m */,
+				52CFAD6015C2C17900AF9BDE /* MainStoryboard.storyboard */,
+				52CFAD6315C2C17900AF9BDE /* PickImageViewController.h */,
+				52CFAD6415C2C17900AF9BDE /* PickImageViewController.m */,
+				52CFAD5515C2C17900AF9BDE /* Supporting Files */,
+			);
+			path = PickImage;
+			sourceTree = "<group>";
+		};
+		52CFAD5515C2C17900AF9BDE /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				52CFAD5615C2C17900AF9BDE /* PickImage-Info.plist */,
+				52CFAD5715C2C17900AF9BDE /* InfoPlist.strings */,
+				52CFAD5A15C2C17900AF9BDE /* main.m */,
+				52CFAD5C15C2C17900AF9BDE /* PickImage-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		52CFAD4915C2C17900AF9BDE /* PickImage */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 52CFAD6815C2C17900AF9BDE /* Build configuration list for PBXNativeTarget "PickImage" */;
+			buildPhases = (
+				52CFAD4615C2C17900AF9BDE /* Sources */,
+				52CFAD4715C2C17900AF9BDE /* Frameworks */,
+				52CFAD4815C2C17900AF9BDE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PickImage;
+			productName = PickImage;
+			productReference = 52CFAD4A15C2C17900AF9BDE /* PickImage.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		52CFAD4115C2C17900AF9BDE /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 52CFAD4415C2C17900AF9BDE /* Build configuration list for PBXProject "PickImage" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 52CFAD3F15C2C17900AF9BDE;
+			productRefGroup = 52CFAD4B15C2C17900AF9BDE /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				52CFAD4915C2C17900AF9BDE /* PickImage */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		52CFAD4815C2C17900AF9BDE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52CFAD5915C2C17900AF9BDE /* InfoPlist.strings in Resources */,
+				52CFAD6215C2C17900AF9BDE /* MainStoryboard.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		52CFAD4615C2C17900AF9BDE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52CFAD5B15C2C17900AF9BDE /* main.m in Sources */,
+				52CFAD5F15C2C17900AF9BDE /* PickImageAppDelegate.m in Sources */,
+				52CFAD6515C2C17900AF9BDE /* PickImageViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		52CFAD5715C2C17900AF9BDE /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52CFAD5815C2C17900AF9BDE /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		52CFAD6015C2C17900AF9BDE /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52CFAD6115C2C17900AF9BDE /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		52CFAD6615C2C17900AF9BDE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		52CFAD6715C2C17900AF9BDE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		52CFAD6915C2C17900AF9BDE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "PickImage/PickImage-Prefix.pch";
+				INFOPLIST_FILE = "PickImage/PickImage-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		52CFAD6A15C2C17900AF9BDE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "PickImage/PickImage-Prefix.pch";
+				INFOPLIST_FILE = "PickImage/PickImage-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		52CFAD4415C2C17900AF9BDE /* Build configuration list for PBXProject "PickImage" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52CFAD6615C2C17900AF9BDE /* Debug */,
+				52CFAD6715C2C17900AF9BDE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		52CFAD6815C2C17900AF9BDE /* Build configuration list for PBXNativeTarget "PickImage" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52CFAD6915C2C17900AF9BDE /* Debug */,
+				52CFAD6A15C2C17900AF9BDE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 52CFAD4115C2C17900AF9BDE /* Project object */;
+}

@@ -1,0 +1,345 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		52BD56F215C79E4300E34134 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52BD56F115C79E4300E34134 /* UIKit.framework */; };
+		52BD56F415C79E4300E34134 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52BD56F315C79E4300E34134 /* Foundation.framework */; };
+		52BD56F615C79E4300E34134 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52BD56F515C79E4300E34134 /* CoreGraphics.framework */; };
+		52BD56FC15C79E4300E34134 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 52BD56FA15C79E4300E34134 /* InfoPlist.strings */; };
+		52BD56FE15C79E4300E34134 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 52BD56FD15C79E4300E34134 /* main.m */; };
+		52BD570215C79E4300E34134 /* GSAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 52BD570115C79E4300E34134 /* GSAppDelegate.m */; };
+		52BD570515C79E4300E34134 /* GSViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 52BD570415C79E4300E34134 /* GSViewController.m */; };
+		52BD570815C79E4300E34134 /* GSViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 52BD570615C79E4300E34134 /* GSViewController.xib */; };
+		52BD571915C79F1F00E34134 /* Rectangle.m in Sources */ = {isa = PBXBuildFile; fileRef = 52BD571715C79F1F00E34134 /* Rectangle.m */; };
+		52BD571A15C79F1F00E34134 /* Rectangle.xib in Resources */ = {isa = PBXBuildFile; fileRef = 52BD571815C79F1F00E34134 /* Rectangle.xib */; };
+		52BD572115C7A1EA00E34134 /* DrawRectangle.m in Sources */ = {isa = PBXBuildFile; fileRef = 52BD572015C7A1EA00E34134 /* DrawRectangle.m */; };
+		52BD574115C7BB2C00E34134 /* Square.m in Sources */ = {isa = PBXBuildFile; fileRef = 52BD573F15C7BB2B00E34134 /* Square.m */; };
+		52BD574215C7BB2C00E34134 /* Square.xib in Resources */ = {isa = PBXBuildFile; fileRef = 52BD574015C7BB2B00E34134 /* Square.xib */; };
+		52BD574515C7BB7300E34134 /* DrawSquare.m in Sources */ = {isa = PBXBuildFile; fileRef = 52BD574415C7BB7300E34134 /* DrawSquare.m */; };
+		52BD574915C7F86D00E34134 /* Circle.m in Sources */ = {isa = PBXBuildFile; fileRef = 52BD574715C7F86C00E34134 /* Circle.m */; };
+		52BD574A15C7F86D00E34134 /* Circle.xib in Resources */ = {isa = PBXBuildFile; fileRef = 52BD574815C7F86C00E34134 /* Circle.xib */; };
+		52BD574E15C7F87D00E34134 /* Triangle.m in Sources */ = {isa = PBXBuildFile; fileRef = 52BD574C15C7F87C00E34134 /* Triangle.m */; };
+		52BD574F15C7F87D00E34134 /* Triangle.xib in Resources */ = {isa = PBXBuildFile; fileRef = 52BD574D15C7F87C00E34134 /* Triangle.xib */; };
+		52BD575215C7F88F00E34134 /* DrawCircle.m in Sources */ = {isa = PBXBuildFile; fileRef = 52BD575115C7F88E00E34134 /* DrawCircle.m */; };
+		52BD575515C7F8A200E34134 /* DrawTriangle.m in Sources */ = {isa = PBXBuildFile; fileRef = 52BD575415C7F8A200E34134 /* DrawTriangle.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		52BD56ED15C79E4300E34134 /* GraphicsStructures.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GraphicsStructures.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		52BD56F115C79E4300E34134 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		52BD56F315C79E4300E34134 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		52BD56F515C79E4300E34134 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		52BD56F915C79E4300E34134 /* GraphicsStructures-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GraphicsStructures-Info.plist"; sourceTree = "<group>"; };
+		52BD56FB15C79E4300E34134 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		52BD56FD15C79E4300E34134 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		52BD56FF15C79E4300E34134 /* GraphicsStructures-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "GraphicsStructures-Prefix.pch"; sourceTree = "<group>"; };
+		52BD570015C79E4300E34134 /* GSAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GSAppDelegate.h; sourceTree = "<group>"; };
+		52BD570115C79E4300E34134 /* GSAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GSAppDelegate.m; sourceTree = "<group>"; };
+		52BD570315C79E4300E34134 /* GSViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GSViewController.h; sourceTree = "<group>"; };
+		52BD570415C79E4300E34134 /* GSViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GSViewController.m; sourceTree = "<group>"; };
+		52BD570715C79E4300E34134 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/GSViewController.xib; sourceTree = "<group>"; };
+		52BD571615C79F1F00E34134 /* Rectangle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Rectangle.h; sourceTree = "<group>"; };
+		52BD571715C79F1F00E34134 /* Rectangle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Rectangle.m; sourceTree = "<group>"; };
+		52BD571815C79F1F00E34134 /* Rectangle.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Rectangle.xib; sourceTree = "<group>"; };
+		52BD571F15C7A1EA00E34134 /* DrawRectangle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DrawRectangle.h; sourceTree = "<group>"; };
+		52BD572015C7A1EA00E34134 /* DrawRectangle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DrawRectangle.m; sourceTree = "<group>"; };
+		52BD573E15C7BB2B00E34134 /* Square.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Square.h; sourceTree = "<group>"; };
+		52BD573F15C7BB2B00E34134 /* Square.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Square.m; sourceTree = "<group>"; };
+		52BD574015C7BB2B00E34134 /* Square.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Square.xib; sourceTree = "<group>"; };
+		52BD574315C7BB7300E34134 /* DrawSquare.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DrawSquare.h; sourceTree = "<group>"; };
+		52BD574415C7BB7300E34134 /* DrawSquare.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DrawSquare.m; sourceTree = "<group>"; };
+		52BD574615C7F86C00E34134 /* Circle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Circle.h; sourceTree = "<group>"; };
+		52BD574715C7F86C00E34134 /* Circle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Circle.m; sourceTree = "<group>"; };
+		52BD574815C7F86C00E34134 /* Circle.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Circle.xib; sourceTree = "<group>"; };
+		52BD574B15C7F87C00E34134 /* Triangle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Triangle.h; sourceTree = "<group>"; };
+		52BD574C15C7F87C00E34134 /* Triangle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Triangle.m; sourceTree = "<group>"; };
+		52BD574D15C7F87C00E34134 /* Triangle.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Triangle.xib; sourceTree = "<group>"; };
+		52BD575015C7F88E00E34134 /* DrawCircle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DrawCircle.h; sourceTree = "<group>"; };
+		52BD575115C7F88E00E34134 /* DrawCircle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DrawCircle.m; sourceTree = "<group>"; };
+		52BD575315C7F8A200E34134 /* DrawTriangle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DrawTriangle.h; sourceTree = "<group>"; };
+		52BD575415C7F8A200E34134 /* DrawTriangle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DrawTriangle.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		52BD56EA15C79E4300E34134 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52BD56F215C79E4300E34134 /* UIKit.framework in Frameworks */,
+				52BD56F415C79E4300E34134 /* Foundation.framework in Frameworks */,
+				52BD56F615C79E4300E34134 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		52BD56E215C79E4300E34134 = {
+			isa = PBXGroup;
+			children = (
+				52BD56F715C79E4300E34134 /* GraphicsStructures */,
+				52BD56F015C79E4300E34134 /* Frameworks */,
+				52BD56EE15C79E4300E34134 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		52BD56EE15C79E4300E34134 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				52BD56ED15C79E4300E34134 /* GraphicsStructures.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		52BD56F015C79E4300E34134 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				52BD56F115C79E4300E34134 /* UIKit.framework */,
+				52BD56F315C79E4300E34134 /* Foundation.framework */,
+				52BD56F515C79E4300E34134 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		52BD56F715C79E4300E34134 /* GraphicsStructures */ = {
+			isa = PBXGroup;
+			children = (
+				52BD570015C79E4300E34134 /* GSAppDelegate.h */,
+				52BD570115C79E4300E34134 /* GSAppDelegate.m */,
+				52BD570315C79E4300E34134 /* GSViewController.h */,
+				52BD573E15C7BB2B00E34134 /* Square.h */,
+				52BD573F15C7BB2B00E34134 /* Square.m */,
+				52BD574015C7BB2B00E34134 /* Square.xib */,
+				52BD571615C79F1F00E34134 /* Rectangle.h */,
+				52BD574315C7BB7300E34134 /* DrawSquare.h */,
+				52BD574415C7BB7300E34134 /* DrawSquare.m */,
+				52BD571715C79F1F00E34134 /* Rectangle.m */,
+				52BD571F15C7A1EA00E34134 /* DrawRectangle.h */,
+				52BD572015C7A1EA00E34134 /* DrawRectangle.m */,
+				52BD571815C79F1F00E34134 /* Rectangle.xib */,
+				52BD570415C79E4300E34134 /* GSViewController.m */,
+				52BD570615C79E4300E34134 /* GSViewController.xib */,
+				52BD574615C7F86C00E34134 /* Circle.h */,
+				52BD574B15C7F87C00E34134 /* Triangle.h */,
+				52BD575015C7F88E00E34134 /* DrawCircle.h */,
+				52BD575315C7F8A200E34134 /* DrawTriangle.h */,
+				52BD575415C7F8A200E34134 /* DrawTriangle.m */,
+				52BD575115C7F88E00E34134 /* DrawCircle.m */,
+				52BD574C15C7F87C00E34134 /* Triangle.m */,
+				52BD574D15C7F87C00E34134 /* Triangle.xib */,
+				52BD574715C7F86C00E34134 /* Circle.m */,
+				52BD574815C7F86C00E34134 /* Circle.xib */,
+				52BD56F815C79E4300E34134 /* Supporting Files */,
+			);
+			path = GraphicsStructures;
+			sourceTree = "<group>";
+		};
+		52BD56F815C79E4300E34134 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				52BD56F915C79E4300E34134 /* GraphicsStructures-Info.plist */,
+				52BD56FA15C79E4300E34134 /* InfoPlist.strings */,
+				52BD56FD15C79E4300E34134 /* main.m */,
+				52BD56FF15C79E4300E34134 /* GraphicsStructures-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		52BD56EC15C79E4300E34134 /* GraphicsStructures */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 52BD570B15C79E4300E34134 /* Build configuration list for PBXNativeTarget "GraphicsStructures" */;
+			buildPhases = (
+				52BD56E915C79E4300E34134 /* Sources */,
+				52BD56EA15C79E4300E34134 /* Frameworks */,
+				52BD56EB15C79E4300E34134 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = GraphicsStructures;
+			productName = GraphicsStructures;
+			productReference = 52BD56ED15C79E4300E34134 /* GraphicsStructures.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		52BD56E415C79E4300E34134 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 52BD56E715C79E4300E34134 /* Build configuration list for PBXProject "GraphicsStructures" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 52BD56E215C79E4300E34134;
+			productRefGroup = 52BD56EE15C79E4300E34134 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				52BD56EC15C79E4300E34134 /* GraphicsStructures */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		52BD56EB15C79E4300E34134 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52BD56FC15C79E4300E34134 /* InfoPlist.strings in Resources */,
+				52BD570815C79E4300E34134 /* GSViewController.xib in Resources */,
+				52BD571A15C79F1F00E34134 /* Rectangle.xib in Resources */,
+				52BD574215C7BB2C00E34134 /* Square.xib in Resources */,
+				52BD574A15C7F86D00E34134 /* Circle.xib in Resources */,
+				52BD574F15C7F87D00E34134 /* Triangle.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		52BD56E915C79E4300E34134 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52BD56FE15C79E4300E34134 /* main.m in Sources */,
+				52BD570215C79E4300E34134 /* GSAppDelegate.m in Sources */,
+				52BD570515C79E4300E34134 /* GSViewController.m in Sources */,
+				52BD571915C79F1F00E34134 /* Rectangle.m in Sources */,
+				52BD572115C7A1EA00E34134 /* DrawRectangle.m in Sources */,
+				52BD574115C7BB2C00E34134 /* Square.m in Sources */,
+				52BD574515C7BB7300E34134 /* DrawSquare.m in Sources */,
+				52BD574915C7F86D00E34134 /* Circle.m in Sources */,
+				52BD574E15C7F87D00E34134 /* Triangle.m in Sources */,
+				52BD575215C7F88F00E34134 /* DrawCircle.m in Sources */,
+				52BD575515C7F8A200E34134 /* DrawTriangle.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		52BD56FA15C79E4300E34134 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52BD56FB15C79E4300E34134 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		52BD570615C79E4300E34134 /* GSViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52BD570715C79E4300E34134 /* en */,
+			);
+			name = GSViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		52BD570915C79E4300E34134 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		52BD570A15C79E4300E34134 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		52BD570C15C79E4300E34134 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "GraphicsStructures/GraphicsStructures-Prefix.pch";
+				INFOPLIST_FILE = "GraphicsStructures/GraphicsStructures-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		52BD570D15C79E4300E34134 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "GraphicsStructures/GraphicsStructures-Prefix.pch";
+				INFOPLIST_FILE = "GraphicsStructures/GraphicsStructures-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		52BD56E715C79E4300E34134 /* Build configuration list for PBXProject "GraphicsStructures" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52BD570915C79E4300E34134 /* Debug */,
+				52BD570A15C79E4300E34134 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		52BD570B15C79E4300E34134 /* Build configuration list for PBXNativeTarget "GraphicsStructures" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52BD570C15C79E4300E34134 /* Debug */,
+				52BD570D15C79E4300E34134 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 52BD56E415C79E4300E34134 /* Project object */;
+}

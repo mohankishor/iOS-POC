@@ -1,0 +1,281 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		52BD576A15C8040500E34134 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52BD576915C8040500E34134 /* UIKit.framework */; };
+		52BD576C15C8040500E34134 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52BD576B15C8040500E34134 /* Foundation.framework */; };
+		52BD576E15C8040500E34134 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52BD576D15C8040500E34134 /* CoreGraphics.framework */; };
+		52BD577415C8040500E34134 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 52BD577215C8040500E34134 /* InfoPlist.strings */; };
+		52BD577615C8040500E34134 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 52BD577515C8040500E34134 /* main.m */; };
+		52BD577A15C8040500E34134 /* NCAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 52BD577915C8040500E34134 /* NCAppDelegate.m */; };
+		52BD577D15C8040500E34134 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52BD577B15C8040500E34134 /* MainStoryboard.storyboard */; };
+		52BD578015C8040500E34134 /* NCViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 52BD577F15C8040500E34134 /* NCViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		52BD576515C8040500E34134 /* NavControllerusingStoryBoard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NavControllerusingStoryBoard.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		52BD576915C8040500E34134 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		52BD576B15C8040500E34134 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		52BD576D15C8040500E34134 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		52BD577115C8040500E34134 /* NavControllerusingStoryBoard-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "NavControllerusingStoryBoard-Info.plist"; sourceTree = "<group>"; };
+		52BD577315C8040500E34134 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		52BD577515C8040500E34134 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		52BD577715C8040500E34134 /* NavControllerusingStoryBoard-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NavControllerusingStoryBoard-Prefix.pch"; sourceTree = "<group>"; };
+		52BD577815C8040500E34134 /* NCAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NCAppDelegate.h; sourceTree = "<group>"; };
+		52BD577915C8040500E34134 /* NCAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NCAppDelegate.m; sourceTree = "<group>"; };
+		52BD577C15C8040500E34134 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		52BD577E15C8040500E34134 /* NCViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NCViewController.h; sourceTree = "<group>"; };
+		52BD577F15C8040500E34134 /* NCViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NCViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		52BD576215C8040500E34134 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52BD576A15C8040500E34134 /* UIKit.framework in Frameworks */,
+				52BD576C15C8040500E34134 /* Foundation.framework in Frameworks */,
+				52BD576E15C8040500E34134 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		52BD575A15C8040500E34134 = {
+			isa = PBXGroup;
+			children = (
+				52BD576F15C8040500E34134 /* NavControllerusingStoryBoard */,
+				52BD576815C8040500E34134 /* Frameworks */,
+				52BD576615C8040500E34134 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		52BD576615C8040500E34134 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				52BD576515C8040500E34134 /* NavControllerusingStoryBoard.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		52BD576815C8040500E34134 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				52BD576915C8040500E34134 /* UIKit.framework */,
+				52BD576B15C8040500E34134 /* Foundation.framework */,
+				52BD576D15C8040500E34134 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		52BD576F15C8040500E34134 /* NavControllerusingStoryBoard */ = {
+			isa = PBXGroup;
+			children = (
+				52BD577815C8040500E34134 /* NCAppDelegate.h */,
+				52BD577915C8040500E34134 /* NCAppDelegate.m */,
+				52BD577B15C8040500E34134 /* MainStoryboard.storyboard */,
+				52BD577E15C8040500E34134 /* NCViewController.h */,
+				52BD577F15C8040500E34134 /* NCViewController.m */,
+				52BD577015C8040500E34134 /* Supporting Files */,
+			);
+			path = NavControllerusingStoryBoard;
+			sourceTree = "<group>";
+		};
+		52BD577015C8040500E34134 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				52BD577115C8040500E34134 /* NavControllerusingStoryBoard-Info.plist */,
+				52BD577215C8040500E34134 /* InfoPlist.strings */,
+				52BD577515C8040500E34134 /* main.m */,
+				52BD577715C8040500E34134 /* NavControllerusingStoryBoard-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		52BD576415C8040500E34134 /* NavControllerusingStoryBoard */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 52BD578315C8040500E34134 /* Build configuration list for PBXNativeTarget "NavControllerusingStoryBoard" */;
+			buildPhases = (
+				52BD576115C8040500E34134 /* Sources */,
+				52BD576215C8040500E34134 /* Frameworks */,
+				52BD576315C8040500E34134 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = NavControllerusingStoryBoard;
+			productName = NavControllerusingStoryBoard;
+			productReference = 52BD576515C8040500E34134 /* NavControllerusingStoryBoard.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		52BD575C15C8040500E34134 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 52BD575F15C8040500E34134 /* Build configuration list for PBXProject "NavControllerusingStoryBoard" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 52BD575A15C8040500E34134;
+			productRefGroup = 52BD576615C8040500E34134 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				52BD576415C8040500E34134 /* NavControllerusingStoryBoard */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		52BD576315C8040500E34134 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52BD577415C8040500E34134 /* InfoPlist.strings in Resources */,
+				52BD577D15C8040500E34134 /* MainStoryboard.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		52BD576115C8040500E34134 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52BD577615C8040500E34134 /* main.m in Sources */,
+				52BD577A15C8040500E34134 /* NCAppDelegate.m in Sources */,
+				52BD578015C8040500E34134 /* NCViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		52BD577215C8040500E34134 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52BD577315C8040500E34134 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		52BD577B15C8040500E34134 /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52BD577C15C8040500E34134 /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		52BD578115C8040500E34134 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		52BD578215C8040500E34134 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		52BD578415C8040500E34134 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "NavControllerusingStoryBoard/NavControllerusingStoryBoard-Prefix.pch";
+				INFOPLIST_FILE = "NavControllerusingStoryBoard/NavControllerusingStoryBoard-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		52BD578515C8040500E34134 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "NavControllerusingStoryBoard/NavControllerusingStoryBoard-Prefix.pch";
+				INFOPLIST_FILE = "NavControllerusingStoryBoard/NavControllerusingStoryBoard-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		52BD575F15C8040500E34134 /* Build configuration list for PBXProject "NavControllerusingStoryBoard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52BD578115C8040500E34134 /* Debug */,
+				52BD578215C8040500E34134 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		52BD578315C8040500E34134 /* Build configuration list for PBXNativeTarget "NavControllerusingStoryBoard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52BD578415C8040500E34134 /* Debug */,
+				52BD578515C8040500E34134 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 52BD575C15C8040500E34134 /* Project object */;
+}

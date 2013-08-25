@@ -1,0 +1,287 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5249FECF15CBD74400B21E02 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5249FECE15CBD74400B21E02 /* UIKit.framework */; };
+		5249FED115CBD74400B21E02 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5249FED015CBD74400B21E02 /* Foundation.framework */; };
+		5249FED315CBD74400B21E02 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5249FED215CBD74400B21E02 /* CoreGraphics.framework */; };
+		5249FED915CBD74400B21E02 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5249FED715CBD74400B21E02 /* InfoPlist.strings */; };
+		5249FEDB15CBD74400B21E02 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5249FEDA15CBD74400B21E02 /* main.m */; };
+		5249FEDF15CBD74400B21E02 /* TVAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5249FEDE15CBD74400B21E02 /* TVAppDelegate.m */; };
+		5249FEE215CBD74400B21E02 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5249FEE015CBD74400B21E02 /* MainStoryboard.storyboard */; };
+		5249FEE515CBD74400B21E02 /* TVViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5249FEE415CBD74400B21E02 /* TVViewController.m */; };
+		5249FEF115CBD78800B21E02 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5249FEF015CBD78800B21E02 /* DetailViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		5249FECA15CBD74400B21E02 /* TableViewTry.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TableViewTry.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5249FECE15CBD74400B21E02 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		5249FED015CBD74400B21E02 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		5249FED215CBD74400B21E02 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		5249FED615CBD74400B21E02 /* TableViewTry-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TableViewTry-Info.plist"; sourceTree = "<group>"; };
+		5249FED815CBD74400B21E02 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		5249FEDA15CBD74400B21E02 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		5249FEDC15CBD74400B21E02 /* TableViewTry-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TableViewTry-Prefix.pch"; sourceTree = "<group>"; };
+		5249FEDD15CBD74400B21E02 /* TVAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TVAppDelegate.h; sourceTree = "<group>"; };
+		5249FEDE15CBD74400B21E02 /* TVAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TVAppDelegate.m; sourceTree = "<group>"; };
+		5249FEE115CBD74400B21E02 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		5249FEE315CBD74400B21E02 /* TVViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TVViewController.h; sourceTree = "<group>"; };
+		5249FEE415CBD74400B21E02 /* TVViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TVViewController.m; sourceTree = "<group>"; };
+		5249FEEF15CBD78800B21E02 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		5249FEF015CBD78800B21E02 /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5249FEC715CBD74400B21E02 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5249FECF15CBD74400B21E02 /* UIKit.framework in Frameworks */,
+				5249FED115CBD74400B21E02 /* Foundation.framework in Frameworks */,
+				5249FED315CBD74400B21E02 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5249FEBF15CBD74400B21E02 = {
+			isa = PBXGroup;
+			children = (
+				5249FED415CBD74400B21E02 /* TableViewTry */,
+				5249FECD15CBD74400B21E02 /* Frameworks */,
+				5249FECB15CBD74400B21E02 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5249FECB15CBD74400B21E02 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5249FECA15CBD74400B21E02 /* TableViewTry.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5249FECD15CBD74400B21E02 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5249FECE15CBD74400B21E02 /* UIKit.framework */,
+				5249FED015CBD74400B21E02 /* Foundation.framework */,
+				5249FED215CBD74400B21E02 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		5249FED415CBD74400B21E02 /* TableViewTry */ = {
+			isa = PBXGroup;
+			children = (
+				5249FEDD15CBD74400B21E02 /* TVAppDelegate.h */,
+				5249FEDE15CBD74400B21E02 /* TVAppDelegate.m */,
+				5249FEE015CBD74400B21E02 /* MainStoryboard.storyboard */,
+				5249FEE315CBD74400B21E02 /* TVViewController.h */,
+				5249FEEF15CBD78800B21E02 /* DetailViewController.h */,
+				5249FEF015CBD78800B21E02 /* DetailViewController.m */,
+				5249FEE415CBD74400B21E02 /* TVViewController.m */,
+				5249FED515CBD74400B21E02 /* Supporting Files */,
+			);
+			path = TableViewTry;
+			sourceTree = "<group>";
+		};
+		5249FED515CBD74400B21E02 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				5249FED615CBD74400B21E02 /* TableViewTry-Info.plist */,
+				5249FED715CBD74400B21E02 /* InfoPlist.strings */,
+				5249FEDA15CBD74400B21E02 /* main.m */,
+				5249FEDC15CBD74400B21E02 /* TableViewTry-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5249FEC915CBD74400B21E02 /* TableViewTry */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5249FEE815CBD74400B21E02 /* Build configuration list for PBXNativeTarget "TableViewTry" */;
+			buildPhases = (
+				5249FEC615CBD74400B21E02 /* Sources */,
+				5249FEC715CBD74400B21E02 /* Frameworks */,
+				5249FEC815CBD74400B21E02 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TableViewTry;
+			productName = TableViewTry;
+			productReference = 5249FECA15CBD74400B21E02 /* TableViewTry.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5249FEC115CBD74400B21E02 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 5249FEC415CBD74400B21E02 /* Build configuration list for PBXProject "TableViewTry" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 5249FEBF15CBD74400B21E02;
+			productRefGroup = 5249FECB15CBD74400B21E02 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5249FEC915CBD74400B21E02 /* TableViewTry */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5249FEC815CBD74400B21E02 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5249FED915CBD74400B21E02 /* InfoPlist.strings in Resources */,
+				5249FEE215CBD74400B21E02 /* MainStoryboard.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5249FEC615CBD74400B21E02 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5249FEDB15CBD74400B21E02 /* main.m in Sources */,
+				5249FEDF15CBD74400B21E02 /* TVAppDelegate.m in Sources */,
+				5249FEE515CBD74400B21E02 /* TVViewController.m in Sources */,
+				5249FEF115CBD78800B21E02 /* DetailViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		5249FED715CBD74400B21E02 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5249FED815CBD74400B21E02 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		5249FEE015CBD74400B21E02 /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5249FEE115CBD74400B21E02 /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		5249FEE615CBD74400B21E02 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		5249FEE715CBD74400B21E02 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5249FEE915CBD74400B21E02 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TableViewTry/TableViewTry-Prefix.pch";
+				INFOPLIST_FILE = "TableViewTry/TableViewTry-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		5249FEEA15CBD74400B21E02 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TableViewTry/TableViewTry-Prefix.pch";
+				INFOPLIST_FILE = "TableViewTry/TableViewTry-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5249FEC415CBD74400B21E02 /* Build configuration list for PBXProject "TableViewTry" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5249FEE615CBD74400B21E02 /* Debug */,
+				5249FEE715CBD74400B21E02 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5249FEE815CBD74400B21E02 /* Build configuration list for PBXNativeTarget "TableViewTry" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5249FEE915CBD74400B21E02 /* Debug */,
+				5249FEEA15CBD74400B21E02 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5249FEC115CBD74400B21E02 /* Project object */;
+}
